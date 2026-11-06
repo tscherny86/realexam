@@ -19,11 +19,11 @@ tags: [episode, season-6]
 | **Duration** | 19:18 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn) · [MP3](https://www.buzzsprout.com/1107956/episodes/19195278-s06-5-luck.mp3) |
 | **Transcript** | [[Transcript s06e05]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Travel, Holidays & Tourism]], [[Health & Wellbeing]], [[Work & Careers]], [[Family & Relationships]], [[Money & Finance]], [[Learning, School & Education]], [[Parenting & Children]], [[Luck & Chance]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Emphasis & Auxiliaries]] |
+| **Topics** | [[Work & Careers]], [[Family & Relationships]], [[Parenting & Children]], [[Luck & Chance]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Reported Speech]], [[Emphasis & Auxiliaries]] |
 | **Exams** | – |
 | **Accents** | – |
-| **Briefly mentioned** | [[Food & Cooking]], [[Sport & Exercise]], [[Technology & the Internet]], [[Books & Reading]], [[Celebrations & Festivals]], [[City & Country Life]], [[Shopping & Consumerism]], [[Friends & Friendship]], [[Communication]], [[Humour & Comedy]], [[Anger & Emotions]], [[Animals & Pets]], [[Fame & Celebrity]], [[Culture & Traditions]], [[Change & Life Changes]], [[Happiness]], [[Crime & Law]], [[Languages & Language Learning]], [[Home & Housing]], [[Weather & Seasons]], [[Art & Creativity]], [[Transport & Traffic]], [[History & the Past]], [[The Future & Predictions]], [[Space & Science]], [[Relaxing & Stress]], [[News & Media]], [[Extremes & Adventure]], [[Motivation & Goals]], [[Help & Kindness]], [[Conditionals]], [[Inversion]], [[Past Perfect & Narrative Tenses]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]], [[Reported Speech]], [[Pronunciation]], [[Organising Your Answer]], [[Verbs with Many Meanings (get, do, make, take)]], [[Australia]] |
+| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Shopping & Consumerism]], [[Health & Wellbeing]], [[Friends & Friendship]], [[Money & Finance]], [[Learning, School & Education]], [[Change & Life Changes]], [[Languages & Language Learning]], [[Home & Housing]], [[Help & Kindness]], [[Conditionals]] |
 
 ## Show notes
 

@@ -19,9 +19,9 @@ noticeably.
 
 ## Said in the podcast
 
-> … deal, but in the US, Canada, Ireland and a few parts of Scotland and England they use gotten. She also said that kids today are taught to be opinionated and then she kind of …
+> … and…since being young and in my early 20s, I was living in Edinburgh and in Scotland and I went to Leicester numerous occasions. Certainly not, probably not enough has changed. You know that hometown …
 >
-> — [[s06e09 Children|S6 E9]], [Minute 18:08](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1088) · [[Transcript s06e09#Minute 18|in the transcript]]
+> — [[s05e07 Hometown|S5 E7]], [Minute 14:04](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=844) · [[Transcript s05e07#Minute 14|in the transcript]]
 
 ## In these episodes (4)
 
@@ -32,7 +32,7 @@ noticeably.
 
 ## Briefly mentioned (1)
 
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [18:08](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1088)
+- [[s05e07 Hometown|S5 E7 – Hometown]] (2025-05-15) — Minute [14:04](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=844)
 
 ---
 ← [[Accents]] · [[Real Exam English Wiki|Home]]

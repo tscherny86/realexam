@@ -7,7 +7,7 @@ number: 3
 year: 2021
 date: 2021-10-19
 duration: "14:54"
-spotify: "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW"
+spotify: "https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr"
 transcript: false
 tags: [episode, season-3]
 ---
@@ -17,7 +17,7 @@ tags: [episode, season-3]
 |---|---|
 | **Date** | 2021-10-19 |
 | **Duration** | 14:54 |
-| **Listen** | [Spotify](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW) · [MP3](https://www.buzzsprout.com/1107956/episodes/9393943-s03-3-photos.mp3) |
+| **Listen** | [Spotify](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr) · [MP3](https://www.buzzsprout.com/1107956/episodes/9393943-s03-3-photos.mp3) |
 | **Transcript** | not transcribed yet – see [[How to Transcribe]] |
 | **Topics** | [[Music]], [[Photography & Photos]] |
 | **Language** | [[Phrasal Verbs]], [[Collocations]], [[Adjectives & Compound Adjectives]] |

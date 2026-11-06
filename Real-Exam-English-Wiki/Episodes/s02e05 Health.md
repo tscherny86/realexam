@@ -7,7 +7,7 @@ number: 5
 year: 2021
 date: 2021-02-26
 duration: "17:37"
-spotify: "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW"
+spotify: "https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA"
 transcript: false
 tags: [episode, season-2]
 ---
@@ -17,7 +17,7 @@ tags: [episode, season-2]
 |---|---|
 | **Date** | 2021-02-26 |
 | **Duration** | 17:37 |
-| **Listen** | [Spotify](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW) · [MP3](https://www.buzzsprout.com/1107956/episodes/8033956-s02-5-health.mp3) |
+| **Listen** | [Spotify](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA) · [MP3](https://www.buzzsprout.com/1107956/episodes/8033956-s02-5-health.mp3) |
 | **Transcript** | not transcribed yet – see [[How to Transcribe]] |
 | **Topics** | [[Music]], [[Health & Wellbeing]], [[Languages & Language Learning]], [[Manners & Politeness]] |
 | **Language** | [[Idioms & Expressions]] |

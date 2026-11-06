@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 2
+episodes: 1
 tags: [topics]
 ---
 # Complaining & Customer Service
@@ -42,9 +42,12 @@ B2 First and C1 Advanced writing question.
 >
 > — [[s06e04 Motivation|S6 E4]], [Minute 16:27](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=987) · [[Transcript s06e04#Minute 16|in the transcript]]
 
-## In these episodes (2)
+## In these episodes (1)
 
 - [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Show notes · Minute [0:13](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=13), [1:52](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=112), [3:25](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=205), [6:50](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=410)
+
+## Briefly mentioned (1)
+
 - [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [16:27](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=987)
 
 ---

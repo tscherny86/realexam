@@ -18,10 +18,19 @@ _TOEFL, Trinity, Aptis, Linguaskill and the Spanish Escuela Oficial de Idiomas._
 > The background above is general knowledge. What is said **in the podcast** about it follows below,
 > each passage linked to the exact minute.
 
+## Said in the podcast
+
+> … do a monologue, sometimes you can choose the topic yourself, like in Trinity exams, other times they give you a card and you just have to start speaking, like in a Cambridge C2 exam …
+>
+> — [[x2024-05-01 Monologue - Marijuana|Bonus]], [Minute 0:18](https://open.spotify.com/episode/78k4YxQJ89E66sFTzzqLlz?t=18) · [[Transcript x2024-05-01#Minute 0|in the transcript]]
 
 ## In these episodes (0)
 
 _no episode yet where this was a main topic_
+
+## Briefly mentioned (1)
+
+- [[x2024-05-01 Monologue - Marijuana|Bonus – Monologue - Marijuana]] (2024-05-01) — Minute [0:18](https://open.spotify.com/episode/78k4YxQJ89E66sFTzzqLlz?t=18)
 
 ---
 ← [[Exams]] · [[Real Exam English Wiki|Home]]

@@ -7,7 +7,7 @@ number: 6
 year: 2022
 date: 2022-01-07
 duration: "15:18"
-spotify: "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW"
+spotify: "https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU"
 transcript: false
 tags: [episode, season-3]
 ---
@@ -17,7 +17,7 @@ tags: [episode, season-3]
 |---|---|
 | **Date** | 2022-01-07 |
 | **Duration** | 15:18 |
-| **Listen** | [Spotify](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW) · [MP3](https://www.buzzsprout.com/1107956/episodes/9845366-s03-6-fashion.mp3) |
+| **Listen** | [Spotify](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU) · [MP3](https://www.buzzsprout.com/1107956/episodes/9845366-s03-6-fashion.mp3) |
 | **Transcript** | not transcribed yet – see [[How to Transcribe]] |
 | **Topics** | [[Music]], [[Photography & Photos]], [[Fashion & Clothes]], [[Languages & Language Learning]] |
 | **Language** | – |

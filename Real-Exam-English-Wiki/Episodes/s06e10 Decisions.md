@@ -19,11 +19,11 @@ tags: [episode, season-6]
 | **Duration** | 16:29 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET) · [MP3](https://www.buzzsprout.com/1107956/episodes/19990601-s06-10-decisions.mp3) |
 | **Transcript** | [[Transcript s06e10]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Health & Wellbeing]], [[Family & Relationships]], [[Learning, School & Education]], [[Home & Housing]], [[Priorities & Decisions]] |
-| **Language** | [[Idioms & Expressions]], [[Collocations]], [[Passive Voice]], [[Past Perfect & Narrative Tenses]], [[Slang & Informal English]] |
+| **Topics** | [[Learning, School & Education]], [[Home & Housing]], [[Priorities & Decisions]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Collocations]], [[Passive Voice]], [[Organising Your Answer]], [[Slang & Informal English]] |
 | **Exams** | – |
 | **Accents** | [[USA]], [[Australia]] |
-| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Food & Cooking]], [[TV, Film & Entertainment]], [[Shopping & Consumerism]], [[Friends & Friendship]], [[Work & Careers]], [[Anger & Emotions]], [[Photography & Photos]], [[Animals & Pets]], [[Change & Life Changes]], [[Happiness]], [[Crime & Law]], [[Languages & Language Learning]], [[Weather & Seasons]], [[Transport & Traffic]], [[Parenting & Children]], [[History & the Past]], [[Advertising & Marketing]], [[Hometown & Places]], [[News & Media]], [[Extremes & Adventure]], [[Motivation & Goals]], [[Phrasal Verbs]], [[Conditionals]], [[Connectors & Linking Words]], [[Reported Speech]], [[Prepositions]], [[Emphasis & Auxiliaries]], [[Common Mistakes]], [[Binomial Pairs]], [[Organising Your Answer]], [[Verbs with Many Meanings (get, do, make, take)]], [[Writing Exam]], [[Listening & Reading]], [[Ireland]] |
+| **Briefly mentioned** | [[TV, Film & Entertainment]], [[Shopping & Consumerism]], [[Health & Wellbeing]], [[Family & Relationships]], [[Anger & Emotions]], [[Conditionals]], [[Prepositions]], [[Emphasis & Auxiliaries]], [[Binomial Pairs]], [[Writing Exam]] |
 
 ## Show notes
 

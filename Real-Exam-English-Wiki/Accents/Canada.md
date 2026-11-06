@@ -1,6 +1,6 @@
 ---
 type: accents
-episodes: 4
+episodes: 2
 tags: [accents]
 ---
 # Canada
@@ -18,20 +18,34 @@ centre*) and vocabulary (*washroom, toque, loonie*). *Canadian raising* makes *a
 
 ## Said in the podcast
 
-> … say he may have got a short deal, but in the US, Canada, Ireland and a few parts of Scotland and England they use gotten. She also said that kids today are taught to …
+> … Australian English, yes we have some Australians this season, and also a Canadian too actually for the first time, and some Welsh people, so a few next accents for you to contend with. So …
 >
-> — [[s06e09 Children|S6 E9]], [Minute 18:06](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1086) · [[Transcript s06e09#Minute 18|in the transcript]]
+> — [[s05e01 Relaxing|S5 E1]], [Minute 0:44](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=44) · [[Transcript s05e01#Minute 0|in the transcript]]
 
-## In these episodes (4)
+> … way to relax is to travel, or just being in nature. Being Canadian, being in nature is something I need. Actually, I need I need it so when I need to really relax I …
+>
+> — [[s05e01 Relaxing|S5 E1]], [Minute 13:19](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=799) · [[Transcript s05e01#Minute 13|in the transcript]]
 
-- [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Show notes
-- [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Show notes
-- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Show notes
-- [[s05e10 Weekend|S5 E10 – Weekend]] (2025-08-18) — Show notes
+> … reading and it wins a lot of times. Great answers there from Canada. He said that reading settles the mind. This means that it helps his mind to relax and not be so active. …
+>
+> — [[s05e01 Relaxing|S5 E1]], [Minute 15:03](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=903) · [[Transcript s05e01#Minute 15|in the transcript]]
 
-## Briefly mentioned (1)
+> … too, as you’re gonna hear today. We have speakers from England, Wales, Canada, Australia, Ireland and South Africa so you are gonna get a good impression of what manners are expected in English-speaking countries. …
+>
+> — [[s05e02 Manners|S5 E2]], [Minute 0:29](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=29) · [[Transcript s05e02#Minute 0|in the transcript]]
 
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [18:06](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1086)
+> … way. How important are good manners where you live? Extremely important in Canada, good manners are. And kind of like British, you know, it's very similar to Irish and British, it's. It's it's it's…..you …
+>
+> — [[s05e02 Manners|S5 E2]], [Minute 19:43](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1183) · [[Transcript s05e02#Minute 19|in the transcript]]
+
+> … or a report when you want to make a general statement. Like Canada is believed to be one of the friendliest countries, or it is often said that Americans are less polite. Secondly, this …
+>
+> — [[s05e02 Manners|S5 E2]], [Minute 21:16](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1276) · [[Transcript s05e02#Minute 21|in the transcript]]
+
+## In these episodes (2)
+
+- [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Minute [0:44](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=44), [13:19](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=799), [15:03](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=903)
+- [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Show notes · Minute [0:29](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=29), [19:43](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1183), [21:16](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1276)
 
 ---
 ← [[Accents]] · [[Real Exam English Wiki|Home]]

@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 1
+episodes: 2
 tags: [topics]
 ---
 # Fame & Celebrity
@@ -19,35 +19,38 @@ A C1 classic: *Do celebrities deserve their privacy?*, *Would you like to be fam
 
 ## Said in the podcast
 
-> … we're not even going to try that because it's only got two stars. Let's go somewhere that's got five stars. Ok, here is a classic example of what the previous speaker was talking about …
+> … Absolutely. I love astronomy. Anything to do with the night sky and stars I'm a big fan of, absolutely. We've lost touch with it, you know, like societies have lost touch with it. Our …
 >
-> — [[s06e03 Complaining|S6 E3]], [Minute 7:51](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=471) · [[Transcript s06e03#Minute 7|in the transcript]]
+> — [[s05e03 Space|S5 E3]], [Minute 1:12](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=72) · [[Transcript s05e03#Minute 1|in the transcript]]
 
-> … say to the person face-to-face. An example sentence would be, being a celebrity, she has to put up with a lot of nonsense from keyboard warriors. We had another way to talk about complaining …
+> … there. We had some useful space vocabulary with the night sky and stars and how they are affected by light pollution, which is the brightening of the night sky with manmade lights, like streetlights …
 >
-> — [[s06e03 Complaining|S6 E3]], [Minute 12:53](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=773) · [[Transcript s06e03#Minute 12|in the transcript]]
+> — [[s05e03 Space|S5 E3]], [Minute 2:53](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=173) · [[Transcript s05e03#Minute 2|in the transcript]]
 
-> … intentions or they totally disappear. Other examples are when you have kids, privacy goes out the window, or when I’m on holidays, my healthy diet goes out the window. Then he said that the …
+> … But I do like certain music. So for example, I like the Star Wars music, but I don't really watch Star Wars. And I like Star Trek, but I don't like watching Star Trek. …
 >
-> — [[s06e05 Luck|S6 E5]], [Minute 5:50](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=350) · [[Transcript s06e05#Minute 5|in the transcript]]
+> — [[s05e03 Space|S5 E3]], [Minute 7:47](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=467) · [[Transcript s05e03#Minute 7|in the transcript]]
 
-> … at doing it, essentially, or very skilled. Another example would be the celebrity is very adept at dealing with the media. Or she is adept at solving financial crimes. Then we had a phrasal …
+> … you think more people are likely to buy a product if a celebrity recommends it? Generally, society, yes. Me no, I ignore celebrities and I can't stand them, so I avoid anything that is …
 >
-> — [[s06e09 Children|S6 E9]], [Minute 9:59](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=599) · [[Transcript s06e09#Minute 9|in the transcript]]
+> — [[s05e06 Advertising|S5 E6]], [Minute 1:39](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=99) · [[Transcript s05e06#Minute 1|in the transcript]]
 
-> … now people are posting it to create a persona, to become an influencer and whatnot. So I think that really has changed behaviour as well. Wow, what great ideas. She got in education, AI, …
+> … you think more people are likely to buy a product if a celebrity recommends it? Yes. I think they are. But I also think that my definition of celebrity has changed as well, so …
 >
-> — [[s06e09 Children|S6 E9]], [Minute 12:28](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=748) · [[Transcript s06e09#Minute 12|in the transcript]]
+> — [[s05e06 Advertising|S5 E6]], [Minute 6:21](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=381) · [[Transcript s05e06#Minute 6|in the transcript]]
 
-## In these episodes (1)
+> … morning and also I don’t know, I’m really out of touch with celebrities. I just did a training course from Cambridge yesterday and they said that using fillers like this is in exams is …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 8:38](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=518) · [[Transcript s05e06#Minute 8|in the transcript]]
+
+## In these episodes (2)
 
 - [[s03e08 Fame|S3 E8 – Fame]] (2022-04-07) — Show notes
+- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [1:39](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=99), [6:21](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=381), [8:38](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=518)
 
-## Briefly mentioned (3)
+## Briefly mentioned (1)
 
-- [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [7:51](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=471), [12:53](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=773)
-- [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [5:50](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=350)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [9:59](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=599), [12:28](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=748)
+- [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Minute [1:12](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=72), [2:53](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=173), [7:47](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=467)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

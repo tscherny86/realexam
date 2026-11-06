@@ -7,7 +7,7 @@ number: 3
 year: 2021
 date: 2021-02-05
 duration: "18:51"
-spotify: "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW"
+spotify: "https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1"
 transcript: false
 tags: [episode, season-2]
 ---
@@ -17,7 +17,7 @@ tags: [episode, season-2]
 |---|---|
 | **Date** | 2021-02-05 |
 | **Duration** | 18:51 |
-| **Listen** | [Spotify](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW) · [MP3](https://www.buzzsprout.com/1107956/episodes/7690831-s02-3-global-issues.mp3) |
+| **Listen** | [Spotify](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1) · [MP3](https://www.buzzsprout.com/1107956/episodes/7690831-s02-3-global-issues.mp3) |
 | **Transcript** | not transcribed yet – see [[How to Transcribe]] |
 | **Topics** | [[Music]], [[Global Issues]] |
 | **Language** | [[Cleft Sentences]], [[Passive Voice]], [[Connectors & Linking Words]] |

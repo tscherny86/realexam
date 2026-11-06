@@ -20,6 +20,30 @@ and dramatic vocabulary.
 
 ## Said in the podcast
 
+> … by my defeat to my teenage neighbour. Do you find astronomy interesting? Extremely, I studied physics and astronomy for my undergraduate degree. I did some astronomy research during my undergraduate as well in Melbourne …
+>
+> — [[s05e03 Space|S5 E3]], [Minute 4:19](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=259) · [[Transcript s05e03#Minute 4|in the transcript]]
+
+> … language break this time we are going to take a look at extreme adjectives. Ok, so a regular adjective is something like good, then the extreme adjective for good would be great, fantastic, wonderful, …
+>
+> — [[s05e03 Space|S5 E3]], [Minute 10:07](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=607) · [[Transcript s05e03#Minute 10|in the transcript]]
+
+> … No, thank you. It's absolutely absurd. Awe….so good. We spoke earlier about extreme adjectives. Well in the first answer here we had some very extreme language. The extreme adjective for scared is terrified. And …
+>
+> — [[s05e03 Space|S5 E3]], [Minute 16:40](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=1000) · [[Transcript s05e03#Minute 16|in the transcript]]
+
+> … like very nice colleagues. And they were, I mean, they were, like, extremely sweet and like whatever, you know, when I didn't know something, they would say, hey, this means this or, you know. …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 5:59](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=359) · [[Transcript x2025-11-21#Minute 5|in the transcript]]
+
+> … you find it to be able to speak English on your travels? Extremely useful. extremely useful, to be honest. I mean, I know that there are people who travel who don't speak English and…or …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 8:34](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=514) · [[Transcript x2025-11-21#Minute 8|in the transcript]]
+
+> … not, I mean, who are not native speakers tend to be like extremely….very self-conscious, right, about making mistakes and being correct all the time. Yeah, very self-critical, I suppose. Yeah. And I'm very self-critical …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 15:38](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=938) · [[Transcript x2025-11-21#Minute 15|in the transcript]]
+
 > … and welcome to the Real Exam English podcast. This episode is about extremes. This subject came up in C2 level speaking exams last year and it is also covered in different ways at B2 …
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 0:15](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=15) · [[Transcript s06e02#Minute 0|in the transcript]]
@@ -36,59 +60,14 @@ and dramatic vocabulary.
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 7:55](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=475) · [[Transcript s06e02#Minute 7|in the transcript]]
 
-> … often or do you usually stay quiet? I don't think complaining is extremely useful unless you have a solution or a plan to do something about it. So I could have, and also like …
->
-> — [[s06e03 Complaining|S6 E3]], [Minute 13:28](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=808) · [[Transcript s06e03#Minute 13|in the transcript]]
-
-> … their tonality and very good with how they speak and can be extremely motivational because of the cadence of their voice and the commitment to what they are saying can come across as feeling …
->
-> — [[s06e04 Motivation|S6 E4]], [Minute 2:02](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=122) · [[Transcript s06e04#Minute 2|in the transcript]]
-
-> … level your little goals. So for example, if you're training for a marathon, you obviously, well, unless you're in really good shape, but if you're not in really good shape, you need to build …
->
-> — [[s06e04 Motivation|S6 E4]], [Minute 7:17](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=437) · [[Transcript s06e04#Minute 7|in the transcript]]
-
-> … fulfilling, but the other side of it is that it can be extremely exhausting and stressful too. Do you consider yourself a lucky person? No, I don't think I'm lucky. But I am lucky. …
->
-> — [[s06e05 Luck|S6 E5]], [Minute 16:19](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=979) · [[Transcript s06e05#Minute 16|in the transcript]]
-
-> … good to be in a deadline situation when we have the dopamine adrenaline loop that helps us to get things done in a timely manner. But sometimes it can also squash creativity because we …
->
-> — [[s06e06 Creativity|S6 E6]], [Minute 6:57](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=417) · [[Transcript s06e06#Minute 6|in the transcript]]
-
-> … do feel that yes, while the media and advertising industries are still extremely influential, that we are seeing more and more of authenticity nowadays. So we are more inclined to work with, work with …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 4:09](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=249) · [[Transcript s06e08#Minute 4|in the transcript]]
-
-> … inherent part of learning English. Or when it comes to mountain climbing, risk is an inherent factor. Do you think society generally prioritises economic growth over environmental protection? 100%, I would say, without a …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 14:49](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=889) · [[Transcript s06e08#Minute 14|in the transcript]]
-
-> … healthy living has really come to the fore in recent years. Or extreme weather events have come to the fore in the last decade. The other fore phrase was for the foreseeable future, which …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 17:46](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=1066) · [[Transcript s06e08#Minute 17|in the transcript]]
-
-> … win if someone's always mad at you. Not doing that would be extremely helpful. Being there, keeping each other's children safe. and teaching each other's children. I do believe in the village. The village …
->
-> — [[s06e09 Children|S6 E9]], [Minute 17:12](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1032) · [[Transcript s06e09#Minute 17|in the transcript]]
-
-> … could have been multiple complications. There wasn't thankfully, but there's always that risk with surgery. Wow, what a tough situation and thanks to Carla Jayne for sharing that with us. She used this phrasal …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 6:33](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=393) · [[Transcript s06e10#Minute 6|in the transcript]]
-
 ## In these episodes (1)
 
 - [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Show notes · Minute [0:15](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=15), [1:47](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=107), [3:22](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=202), [7:55](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=475)
 
-## Briefly mentioned (7)
+## Briefly mentioned (2)
 
-- [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [13:28](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=808)
-- [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [2:02](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=122), [7:17](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=437)
-- [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [16:19](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=979)
-- [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Minute [6:57](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=417)
-- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [4:09](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=249), [14:49](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=889), [17:46](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=1066)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [17:12](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1032)
-- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [6:33](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=393)
+- [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Minute [4:19](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=259), [10:07](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=607), [16:40](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=1000)
+- [[x2025-11-21 Helena - Barcelona|Bonus – Helena - Barcelona]] (2025-11-21) — Minute [5:59](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=359), [8:34](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=514), [15:38](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=938)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

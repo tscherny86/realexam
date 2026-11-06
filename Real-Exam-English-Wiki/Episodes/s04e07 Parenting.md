@@ -7,7 +7,7 @@ number: 7
 year: 2023
 date: 2023-11-18
 duration: "13:52"
-spotify: "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW"
+spotify: "https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t"
 transcript: false
 tags: [episode, season-4]
 ---
@@ -17,7 +17,7 @@ tags: [episode, season-4]
 |---|---|
 | **Date** | 2023-11-18 |
 | **Duration** | 13:52 |
-| **Listen** | [Spotify](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW) · [MP3](https://www.buzzsprout.com/1107956/episodes/13993992-s04-7-parenting.mp3) |
+| **Listen** | [Spotify](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t) · [MP3](https://www.buzzsprout.com/1107956/episodes/13993992-s04-7-parenting.mp3) |
 | **Transcript** | not transcribed yet – see [[How to Transcribe]] |
 | **Topics** | [[Travel, Holidays & Tourism]], [[Work & Careers]], [[Parenting & Children]] |
 | **Language** | [[Phrasal Verbs]], [[Adverbs]] |

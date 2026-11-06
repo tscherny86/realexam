@@ -22,41 +22,26 @@ examiners to hear cultural comparison.
 
 ## Said in the podcast
 
-> … win it, the first thing you're doing is going on holiday. Totally, party on. Yeah, of course. Yeah. Your good intentions go out the window. Oh, yeah. The road was paved with good intentions. …
+> … couple years ago we flew over to New Zealand for a music festival over a weekend and it was a massive….It was like a… I'm calling it a weekend even though it was actually …
 >
-> — [[s06e05 Luck|S6 E5]], [Minute 4:12](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=252) · [[Transcript s06e05#Minute 4|in the transcript]]
+> — [[s05e10 Weekend|S5 E10]], [Minute 1:34](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=94) · [[Transcript s05e10#Minute 1|in the transcript]]
 
-> … For example, there were people from all walks of life at the festival. Or the singing competition had entrants from all walks of life. He also said that some people miss out of things …
+> … time. Then he used some typically Australian expressions. Firstly, he said the festival was heaps of fun, meaning a lot of fun. In the UK or US you would more commonly here lots of …
 >
-> — [[s06e05 Luck|S6 E5]], [Minute 15:07](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=907) · [[Transcript s06e05#Minute 15|in the transcript]]
+> — [[s05e10 Weekend|S5 E10]], [Minute 3:43](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=223) · [[Transcript s05e10#Minute 3|in the transcript]]
 
-> … doing some sort of like cloud software type thing. And like every Christmas I ask him what it is that he does and like he tries to explain it to me and I'm just …
+> … or date occurs on a specific day of the week. Like my birthday falls on a Thursday this year, or the bank holiday day falls on a Monday so we have a long weekend! …
 >
-> — [[s06e06 Creativity|S6 E6]], [Minute 3:48](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=228) · [[Transcript s06e06#Minute 3|in the transcript]]
-
-> … but they're uncertain about how it will be received by the other party. So, they may not help. Excellent observation, I must say. Well, at the start he said in the more rural setting …
->
-> — [[s06e07 Help|S6 E7]], [Minute 10:01](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=601) · [[Transcript s06e07#Minute 10|in the transcript]]
-
-> … health. I go to the gym. So I used to be a party animal and now I'm a lot more calm and collective. If anything, I'm quite boring nowadays, if I'm going to be …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 6:16](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=376) · [[Transcript s06e08#Minute 6|in the transcript]]
-
-> … say there’s with plural nouns, like there’s loads of people at the party or there’s five taxis waiting. Why does this happen. Well, mainly because it’s just easier to say. There’s five people is …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 11:08](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=668) · [[Transcript s06e08#Minute 11|in the transcript]]
+> — [[s05e10 Weekend|S5 E10]], [Minute 5:44](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=344) · [[Transcript s05e10#Minute 5|in the transcript]]
 
 ## In these episodes (2)
 
 - [[s02e01 Celebrations|S2 E1 – Celebrations]] (2021-01-21) — Show notes
 - [[s04e09 History|S4 E9 – History]] (2024-01-19) — Show notes
 
-## Briefly mentioned (4)
+## Briefly mentioned (1)
 
-- [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [4:12](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=252), [15:07](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=907)
-- [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Minute [3:48](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=228)
-- [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [10:01](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=601)
-- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [6:16](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=376), [11:08](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=668)
+- [[s05e10 Weekend|S5 E10 – Weekend]] (2025-08-18) — Minute [1:34](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=94), [3:43](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=223), [5:44](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=344)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

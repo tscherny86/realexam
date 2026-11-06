@@ -19,11 +19,11 @@ tags: [episode, season-6]
 | **Duration** | 16:59 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X) · [MP3](https://www.buzzsprout.com/1107956/episodes/18879689-s06-3-complaining.mp3) |
 | **Transcript** | [[Transcript s06e03]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Technology & the Internet]], [[Work & Careers]], [[Anger & Emotions]], [[Culture & Traditions]], [[Manners & Politeness]], [[News & Media]], [[Complaining & Customer Service]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Connectors & Linking Words]] |
+| **Topics** | [[Work & Careers]], [[Culture & Traditions]], [[Complaining & Customer Service]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Conditionals]], [[Connectors & Linking Words]] |
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[USA]] |
-| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Food & Cooking]], [[Sport & Exercise]], [[Books & Reading]], [[TV, Film & Entertainment]], [[Shopping & Consumerism]], [[Health & Wellbeing]], [[Friends & Friendship]], [[Communication]], [[Humour & Comedy]], [[Photography & Photos]], [[Money & Finance]], [[Learning, School & Education]], [[Fashion & Clothes]], [[Fame & Celebrity]], [[Change & Life Changes]], [[Happiness]], [[Crime & Law]], [[Languages & Language Learning]], [[Home & Housing]], [[Weather & Seasons]], [[Transport & Traffic]], [[History & the Past]], [[The Future & Predictions]], [[Space & Science]], [[Relaxing & Stress]], [[Extremes & Adventure]], [[Motivation & Goals]], [[Luck & Chance]], [[Priorities & Decisions]], [[Collocations]], [[Conditionals]], [[Past Perfect & Narrative Tenses]], [[Adverbs]], [[Adjectives & Compound Adjectives]], [[Reported Speech]], [[Pronunciation]], [[Prepositions]], [[Confusing Words & Homophones]], [[Organising Your Answer]], [[Verbs with Many Meanings (get, do, make, take)]], [[Speaking Exam]], [[Writing Exam]] |
+| **Briefly mentioned** | [[Technology & the Internet]], [[Communication]], [[Anger & Emotions]], [[Change & Life Changes]], [[Happiness]], [[Manners & Politeness]], [[News & Media]], [[Adjectives & Compound Adjectives]], [[Prepositions]], [[Organising Your Answer]] |
 
 ## Show notes
 

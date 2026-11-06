@@ -7,7 +7,7 @@ number: 9
 year: 2024
 date: 2024-01-19
 duration: "17:19"
-spotify: "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW"
+spotify: "https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN"
 transcript: false
 tags: [episode, season-4]
 ---
@@ -17,7 +17,7 @@ tags: [episode, season-4]
 |---|---|
 | **Date** | 2024-01-19 |
 | **Duration** | 17:19 |
-| **Listen** | [Spotify](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW) · [MP3](https://www.buzzsprout.com/1107956/episodes/14339238-s04-9-history.mp3) |
+| **Listen** | [Spotify](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN) · [MP3](https://www.buzzsprout.com/1107956/episodes/14339238-s04-9-history.mp3) |
 | **Transcript** | not transcribed yet – see [[How to Transcribe]] |
 | **Topics** | [[Travel, Holidays & Tourism]], [[Celebrations & Festivals]], [[Languages & Language Learning]], [[History & the Past]] |
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |

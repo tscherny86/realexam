@@ -7,7 +7,7 @@ number: 6
 year: 2021
 date: 2021-03-06
 duration: "18:50"
-spotify: "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW"
+spotify: "https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP"
 transcript: false
 tags: [episode, season-2]
 ---
@@ -17,7 +17,7 @@ tags: [episode, season-2]
 |---|---|
 | **Date** | 2021-03-06 |
 | **Duration** | 18:50 |
-| **Listen** | [Spotify](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW) · [MP3](https://www.buzzsprout.com/1107956/episodes/8087032-s02-6-friends.mp3) |
+| **Listen** | [Spotify](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP) · [MP3](https://www.buzzsprout.com/1107956/episodes/8087032-s02-6-friends.mp3) |
 | **Transcript** | not transcribed yet – see [[How to Transcribe]] |
 | **Topics** | [[Music]], [[Friends & Friendship]] |
 | **Language** | – |

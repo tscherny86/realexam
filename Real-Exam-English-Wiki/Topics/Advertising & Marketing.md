@@ -20,31 +20,25 @@ Advertising is a C1 Advanced favourite, often linked to children, social media a
 
 ## Said in the podcast
 
-> … longer worry myself about little things. Do you think the media and advertising industries influence what people see as important in life? Absolutely. That's their job and I feel like there has been a …
+> … and welcome to the Real Exam English podcast, this episode is about advertising. One of my students just did a C1 exam this month and had to do a writing about advertising so it’s …
 >
-> — [[s06e08 Priorities|S6 E8]], [Minute 3:31](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=211) · [[Transcript s06e08#Minute 3|in the transcript]]
+> — [[s05e06 Advertising|S5 E6]], [Minute 0:16](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=16) · [[Transcript s05e06#Minute 0|in the transcript]]
 
-> … our onboarding procedure for new clients is much slicker now, or the marketing campaign is much slicker this year. In the second answer she started with I can speak for myself in that my …
+> … nowadays from product endorsements. In your country, which types of products are advertised the most? Why do you think that is? In Australia there's so much gambling ads. Actually, I've noticed this especially recently. …
 >
-> — [[s06e09 Children|S6 E9]], [Minute 3:59](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=239) · [[Transcript s06e09#Minute 3|in the transcript]]
+> — [[s05e06 Advertising|S5 E6]], [Minute 2:28](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=148) · [[Transcript s05e06#Minute 2|in the transcript]]
 
-> … now people are posting it to create a persona, to become an influencer and whatnot. So I think that really has changed behaviour as well. Wow, what great ideas. She got in education, AI, …
+> … Why would there be ads there? So that is my problem with advertising that everywhere. But I don't mind. I'm happy if they're relevant to me rather than completely irrelevant, you know. Alright, interesting …
 >
-> — [[s06e09 Children|S6 E9]], [Minute 12:28](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=748) · [[Transcript s06e09#Minute 12|in the transcript]]
+> — [[s05e06 Advertising|S5 E6]], [Minute 4:00](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=240) · [[Transcript s05e06#Minute 4|in the transcript]]
 
-> … I don't think there's as much choice in where you can really promote yourself. I think that it's difficult to get done what you want to get done. Alright, in the first answer she …
+> … come across. Lastly, he said some people have an issue with targeted ads but I’m like please no, give me ads that are relevant to me. This use of I’m like to state what …
 >
-> — [[s06e10 Decisions|S6 E10]], [Minute 1:32](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=92) · [[Transcript s06e10#Minute 1|in the transcript]]
+> — [[s05e06 Advertising|S5 E6]], [Minute 5:53](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=353) · [[Transcript s05e06#Minute 5|in the transcript]]
 
 ## In these episodes (1)
 
-- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Show notes
-
-## Briefly mentioned (3)
-
-- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [3:31](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=211)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [3:59](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=239), [12:28](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=748)
-- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [1:32](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=92)
+- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Show notes · Minute [0:16](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=16), [2:28](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=148), [4:00](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=240), [5:53](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=353)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

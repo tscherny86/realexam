@@ -7,7 +7,7 @@ number: 2
 year: 2023
 date: 2023-04-29
 duration: "18:56"
-spotify: "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW"
+spotify: "https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr"
 transcript: false
 tags: [episode, season-4]
 ---
@@ -17,7 +17,7 @@ tags: [episode, season-4]
 |---|---|
 | **Date** | 2023-04-29 |
 | **Duration** | 18:56 |
-| **Listen** | [Spotify](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW) · [MP3](https://www.buzzsprout.com/1107956/episodes/12746228-s04-2-languages.mp3) |
+| **Listen** | [Spotify](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr) · [MP3](https://www.buzzsprout.com/1107956/episodes/12746228-s04-2-languages.mp3) |
 | **Transcript** | not transcribed yet – see [[How to Transcribe]] |
 | **Topics** | [[Travel, Holidays & Tourism]], [[Learning, School & Education]], [[Languages & Language Learning]] |
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |

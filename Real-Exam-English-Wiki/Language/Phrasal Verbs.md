@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 34
+episodes: 31
 tags: [language]
 ---
 # Phrasal Verbs
@@ -23,9 +23,105 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 
 ## Said in the podcast
 
-> … be praised. One other thing to pick up on actually, was the phrasal verb to fit in. This means to feel accepted by a group of people. Like, I changed school as I didn’t …
+> … skills will be useful for the future, we have some nice adverbs, phrasal verbs and some top-class vocabulary too, including some super-useful idioms. If you have difficulties following any of the speakers, or me …
 >
-> — [[s06e02 Extremes|S6 E2]], [Minute 9:08](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=548) · [[Transcript s06e02#Minute 9|in the transcript]]
+> — [[s04e10 Future|S4 E10]], [Minute 0:40](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=40) · [[Transcript s04e10#Minute 0|in the transcript]]
+
+> … yeah, we'll probably get in touch and see him. Wow, so many phrasal verbs here, look around the market, my son’s just moved back from Northampton, we’ll get in touch and hang out. Nice. …
+>
+> — [[s04e10 Future|S4 E10]], [Minute 10:35](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=635) · [[Transcript s04e10#Minute 10|in the transcript]]
+
+> … different ways to talk about relaxing. There’s also a bunch of new phrasal verbs, there’s some stuff about comparatives, the differences between British and Australian English, yes we have some Australians this season, and …
+>
+> — [[s05e01 Relaxing|S5 E1]], [Minute 0:33](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=33) · [[Transcript s05e01#Minute 0|in the transcript]]
+
+> … replaced the time he used to spend reading. You will hear this phrasal verb a lot in business, when someone takes over a company, or in an election a person takes over control of …
+>
+> — [[s05e01 Relaxing|S5 E1]], [Minute 15:17](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=917) · [[Transcript s05e01#Minute 15|in the transcript]]
+
+> … speaking today. So there’s plenty of space vocabulary, lots of adjectives, some phrasal verbs and a wide variety of accents, including quite a funny conversation between two Welsh ladies that is sure to test …
+>
+> — [[s05e03 Space|S5 E3]], [Minute 0:36](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=36) · [[Transcript s05e03#Minute 0|in the transcript]]
+
+> … up for going out tonight, I feel tired. She then had another phrasal verb with up, I can just about put up with the ferry, meaning she can tolerate it or accept it, just! …
+>
+> — [[s05e03 Space|S5 E3]], [Minute 8:55](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=535) · [[Transcript s05e03#Minute 8|in the transcript]]
+
+> … which are always in need of some practice! We have some nice phrasal verbs too and quite a few idioms. Remember for the transcript for this, and all episodes, you can go to the …
+>
+> — [[s05e04 School|S5 E4]], [Minute 0:42](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=42) · [[Transcript s05e04#Minute 0|in the transcript]]
+
+> … example. So yeah, music. Another music fan there. She used some nice phrasal verbs. In the first answer she said she came out of uni thinking she was a failure. Ok so uni is …
+>
+> — [[s05e04 School|S5 E4]], [Minute 5:07](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=307) · [[Transcript s05e04#Minute 5|in the transcript]]
+
+> … and welcome to the Real Exam English podcast. Today’s episode is about phrasal verbs. We did actually have a phrasal verbs episode way back in season 1 but it is such a rich area …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 0:16](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=16) · [[Transcript s05e05#Minute 0|in the transcript]]
+
+> … idiom. That means he falls asleep straight away, or to use the phrasal verb from the question he drops off straight away. Other alternatives would be to nod off or to doze off. Like …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 5:44](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=344) · [[Transcript s05e05#Minute 5|in the transcript]]
+
+> … in the sticks she misses out on the city stuff sometimes, this phrasal verb to miss out on meaning not getting the chance to do something good. Like, I missed out on the Massive …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 9:02](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=542) · [[Transcript s05e05#Minute 9|in the transcript]]
+
+> … used get to know each other and get together, which is another phrasal verb, meaning to gather socially or to cooperate. Like hey let’s get together for a drink at the weekend, or a …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 13:08](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=788) · [[Transcript s05e05#Minute 13|in the transcript]]
+
+> … too, particularly with pronunciation. On top of that, we have some lovely phrasal verbs, some ways to add emphasis and we have a quiz about binomial pairs. As usual, you can get the transcript …
+>
+> — [[s05e08 Internet|S5 E8]], [Minute 0:40](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=40) · [[Transcript s05e08#Minute 0|in the transcript]]
+
+> … you could say I was browsing Pinterest or whatever. We had this phrasal verb to take up a lot of time, meaning it uses or occupies a lot of time. And I had to …
+>
+> — [[s05e08 Internet|S5 E8]], [Minute 2:12](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=132) · [[Transcript s05e08#Minute 2|in the transcript]]
+
+> … So today, you’re gonna hear lots of top climate change vocabulary and phrasal verbs. Also, we have some advanced grammar in the form of mixed conditionals and cleft sentences. The speakers are from Canada, …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 0:29](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=29) · [[Transcript s05e09#Minute 0|in the transcript]]
+
+> … pump out millions of people’s worth of carbon dioxide every day. This phrasal verb, to pump out, means to produce a large quantity or volume of something. Like, the youtuber pumps out 1000 videos …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 2:25](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=145) · [[Transcript s05e09#Minute 2|in the transcript]]
+
+> … he said, they are harping on and on about these problems. Great phrasal verb, to harp on, meaning to keep on talking or complaining about something, to the point that it becomes annoying. Like …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 5:40](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=340) · [[Transcript s05e09#Minute 5|in the transcript]]
+
+> … actual fact he is Irish, much better! She had a couple of phrasal verbs too. The media don’t want to get into it and they don’t want to piss off the big companies. If …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 14:58](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=898) · [[Transcript s05e09#Minute 14|in the transcript]]
+
+> … idioms so you’re gonna hear a bunch of those, there’s plenty of phrasal verbs too, some compound adjectives and lots of nice organization to admire. Remember you can get the transcript for this and …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 0:25](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=25) · [[Transcript x2025-11-21#Minute 0|in the transcript]]
+
+> … things that, like a lot of, I remember like a lot of phrasal verbs that I didn't know back then. And all the phrasal verbs that I knew, they weren't using them. Hahaha And …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 5:03](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=303) · [[Transcript x2025-11-21#Minute 5|in the transcript]]
+
+> … the shop to buy some milk. She also says he just uses phrasal verbs when they come to mind, similar meaning really, just when they occur to you. I love the organization in the …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 6:34](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=394) · [[Transcript x2025-11-21#Minute 6|in the transcript]]
+
+> … big challenges or what's the biggest challenge with learning English? You mentioned phrasal verbs in Ireland earlier. Any other big challenges? Oh, I… to be honest, I don't know. I'm trying…..on the top of …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 10:22](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=622) · [[Transcript x2025-11-21#Minute 10|in the transcript]]
+
+> … you speak different languages, which is super-interesting. There are plenty of idioms, phrasal verbs and a special focus on different uses of the verb get. Remember you can get the transcripts for this and …
+>
+> — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 0:26](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=26) · [[Transcript x2025-12-16#Minute 0|in the transcript]]
+
+> … pay it off. Really nice, I didn’t know that one! A lovely phrasal verb came up at the end of our chat there, I said, you have to tone your language down when travelling …
+>
+> — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 14:42](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=882) · [[Transcript x2025-12-16#Minute 14|in the transcript]]
+
+> … English. As she said, English brings out the extrovert in her. This phrasal verb to bring out, in this context, means to draw out or to produce a certain quality. Like, teaching teenagers brings …
+>
+> — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 24:17](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=1457) · [[Transcript x2025-12-16#Minute 24|in the transcript]]
 
 > … and Chester, in England. As usual we have plenty of top vocabulary, phrasal verbs and idioms. So let’s kick off with the first question: What's something people often complain about these days? Higher prices …
 >
@@ -119,7 +215,7 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s06e10 Decisions|S6 E10]], [Minute 12:15](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=735) · [[Transcript s06e10#Minute 12|in the transcript]]
 
-## In these episodes (34)
+## In these episodes (31)
 
 - [[s01e04 Sport and exercise|S1 E4 – Sport and exercise]] (2020-08-30) — Show notes
 - [[s01e05 Phrasal Verbs|S1 E5 – Phrasal Verbs]] (2020-09-04) — Show notes
@@ -138,29 +234,26 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 - [[s04e07 Parenting|S4 E7 – Parenting]] (2023-11-18) — Show notes
 - [[s04e08 Holidays|S4 E8 – Holidays]] (2023-12-21) — Show notes
 - [[s04e09 History|S4 E9 – History]] (2024-01-19) — Show notes
-- [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Show notes
-- [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Show notes
-- [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Show notes
-- [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Show notes
-- [[s05e04 School|S5 E4 – School]] (2025-02-07) — Show notes
-- [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Show notes
-- [[s05e08 Internet|S5 E8 – Internet]] (2025-06-17) — Show notes
-- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Show notes
-- [[x2025-11-21 Helena - Barcelona|Bonus – Helena - Barcelona]] (2025-11-21) — Show notes
-- [[x2025-12-16 Xing - Tokyo|Bonus – Xing - Tokyo]] (2025-12-16) — Show notes
-- [[s06e01 News|S6 E1 – News]] (2026-01-24) — Show notes
+- [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Show notes · Minute [0:40](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=40), [10:35](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=635)
+- [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Show notes · Minute [0:33](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=33), [15:17](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=917)
+- [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Show notes · Minute [0:36](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=36), [8:55](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=535)
+- [[s05e04 School|S5 E4 – School]] (2025-02-07) — Show notes · Minute [0:42](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=42), [5:07](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=307)
+- [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Show notes · Minute [0:16](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=16), [5:44](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=344), [9:02](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=542), [13:08](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=788)
+- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Show notes · Minute [0:29](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=29), [2:25](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=145), [5:40](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=340), [14:58](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=898)
+- [[x2025-11-21 Helena - Barcelona|Bonus – Helena - Barcelona]] (2025-11-21) — Show notes · Minute [0:25](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=25), [5:03](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=303), [6:34](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=394), [10:22](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=622)
+- [[x2025-12-16 Xing - Tokyo|Bonus – Xing - Tokyo]] (2025-12-16) — Show notes · Minute [0:26](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=26), [14:42](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=882), [24:17](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=1457)
 - [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Show notes · Minute [0:50](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=50), [4:24](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=264), [8:05](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=485), [9:36](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=576)
 - [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Show notes · Minute [0:32](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=32), [3:42](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=222), [11:31](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=691)
 - [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Show notes · Minute [0:30](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=30), [4:41](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=281), [15:17](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=917)
 - [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Show notes · Minute [0:29](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=29), [2:07](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=127), [15:52](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=952)
 - [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Show notes · Minute [0:34](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=34), [4:13](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=253), [6:42](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=402), [10:15](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=615)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Show notes · Minute [10:06](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=606), [13:54](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=834)
+- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [6:41](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=401), [12:15](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=735)
 
 ## Briefly mentioned (3)
 
-- [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [9:08](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=548)
+- [[s05e08 Internet|S5 E8 – Internet]] (2025-06-17) — Minute [0:40](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=40), [2:12](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=132)
 - [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [6:32](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=392), [8:21](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=501)
-- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [6:41](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=401), [12:15](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=735)
+- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [10:06](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=606), [13:54](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=834)
 
 ---
 ← [[Language]] · [[Real Exam English Wiki|Home]]

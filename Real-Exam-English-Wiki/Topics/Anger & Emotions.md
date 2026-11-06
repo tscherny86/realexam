@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 2
+episodes: 1
 tags: [topics]
 ---
 # Anger & Emotions
@@ -22,13 +22,45 @@ Emotion vocabulary separates a B2 candidate (*angry*, *sad*, *happy*) from a C1 
 
 ## Said in the podcast
 
-> … is an adjective but it is not used to describe a person’s feelings, it’s used to describe the thing that causes you to be averse to something. A good example is aversive treatment, where …
+> … bother it kind of has a negative or hostile meaning, like you’re annoyed with the other person. For instance, I was sick and you couldn’t be bothered to call me even once! Or you …
 >
-> — [[s06e02 Extremes|S6 E2]], [Minute 3:53](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=233) · [[Transcript s06e02#Minute 3|in the transcript]]
+> — [[s05e04 School|S5 E4]], [Minute 2:56](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=176) · [[Transcript s05e04#Minute 2|in the transcript]]
 
-> … like they have just won a race so I imagine they are feeling elated. And if you are happy that someone else did something positive, you can use preposition for, as in, oh you …
+> … she finished. Another example would be I came out of the exam feeling confident I had passed. Curiously, she then used the same phrasal verb in the second answer, but with a completely different …
 >
-> — [[s06e02 Extremes|S6 E2]], [Minute 18:44](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=1124) · [[Transcript s06e02#Minute 18|in the transcript]]
+> — [[s05e04 School|S5 E4]], [Minute 5:24](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=324) · [[Transcript s05e04#Minute 5|in the transcript]]
+
+> … I have to give today’s class a miss I’m afraid, I’m not feeling great. Again, in these answers we are some use of Do to offer a contrast. She said I don’t think religion …
+>
+> — [[s05e04 School|S5 E4]], [Minute 10:25](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=625) · [[Transcript s05e04#Minute 10|in the transcript]]
+
+> … think someone may not understand what you say or they might get upset by it. For instance, if you said to your friend that the dinner they cooked was spicy and you thought they …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 8:30](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=510) · [[Transcript s05e05#Minute 8|in the transcript]]
+
+> … other a bit better. Yeah. I also think eating together helps you lose it more with your children. But, yeah, I think it allows you to get together and get to know each other …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 11:39](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=699) · [[Transcript s05e05#Minute 11|in the transcript]]
+
+> … which is to build a close relationship with them and then to lose it which is to lose control of your emotions or your temper. An example would be my neighbour loses it when …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 13:40](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=820) · [[Transcript s05e05#Minute 13|in the transcript]]
+
+> … but it can affect your mental health. And that….sort of how you're feeling on a day-to-day, all the terrible things happening. And nowadays, I effectively almost never read it. I read a lot of …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 17:25](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1045) · [[Transcript s05e05#Minute 17|in the transcript]]
+
+> … very similar in meaning, the difference is that ashamed is more about feeling guilty because you did something morally wrong, like lying, or cheating, whereas embarrassed is more about feeling awkward or self-conscious, like …
+>
+> — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 5:45](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=345) · [[Transcript x2025-12-16#Minute 5|in the transcript]]
+
+> … So the context was when we were talking about non-native English teachers feeling this extra burden, and she said it was an albatross. So, I have learned that an albatross, as well as its …
+>
+> — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 14:12](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=852) · [[Transcript x2025-12-16#Minute 14|in the transcript]]
+
+> … Like, teaching teenagers brings out the worst in her, she gets so frustrated. Or, adversity often brings out the best in people. When she was telling her anecdote about the sushi restaurant she said …
+>
+> — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 24:26](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=1466) · [[Transcript x2025-12-16#Minute 24|in the transcript]]
 
 > … complained about. I can't really remember. Disgruntled about, I love that, meaning angry about, or dissatisfied or unhappy. When you make a note of new vocabulary like this, guys, make sure to write it …
 >
@@ -38,30 +70,6 @@ Emotion vocabulary separates a B2 candidate (*angry*, *sad*, *happy*) from a C1 
 >
 > — [[s06e03 Complaining|S6 E3]], [Minute 15:31](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=931) · [[Transcript s06e03#Minute 15|in the transcript]]
 
-> … and the commitment to what they are saying can come across as feeling very, like you feel seen, you feel very, very seen compared to not feeling seen around certain others. So other people …
->
-> — [[s06e04 Motivation|S6 E4]], [Minute 2:12](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=132) · [[Transcript s06e04#Minute 2|in the transcript]]
-
-> … I always have this, I always have this... I always have this feeling that I'm going to be lucky with certain things. Like if we're in a competition or something's happening or like a …
->
-> — [[s06e05 Luck|S6 E5]], [Minute 2:35](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=155) · [[Transcript s06e05#Minute 2|in the transcript]]
-
-> … it makes them feel superior it bugs her. This means it really annoys her. Another example is it really bugs me when people eat with their mouth open. If you want to emphasize this …
->
-> — [[s06e07 Help|S6 E7]], [Minute 8:11](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=491) · [[Transcript s06e07#Minute 8|in the transcript]]
-
-> … some speaking or writing in English, remember you gotta use it or lose it! Alright, till next time, take care, Trevor
->
-> — [[s06e07 Help|S6 E7]], [Minute 22:09](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1329) · [[Transcript s06e07#Minute 22|in the transcript]]
-
-> … said. To berate means to criticize or speak to someone in an angry manner. Like, the football manager was berated by the supporters for losing the match. Or the teacher berated the students for …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 12:12](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=732) · [[Transcript s06e08#Minute 12|in the transcript]]
-
-> … my cuties, are very adept at finding a website, but get very frustrated when their block tower tips over. And so it's, yes, they grow up quickly, but they're not ready for it. Interesting …
->
-> — [[s06e09 Children|S6 E9]], [Minute 9:12](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=552) · [[Transcript s06e09#Minute 9|in the transcript]]
-
 > … in this context at least, means your intuition, making decision based on emotions rather than logic. Very often you’ll hear people say go with your gut, or trust your gut instincts. In the second …
 >
 > — [[s06e10 Decisions|S6 E10]], [Minute 2:22](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=142) · [[Transcript s06e10#Minute 2|in the transcript]]
@@ -70,19 +78,16 @@ Emotion vocabulary separates a B2 candidate (*angry*, *sad*, *happy*) from a C1 
 >
 > — [[s06e10 Decisions|S6 E10]], [Minute 4:53](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=293) · [[Transcript s06e10#Minute 4|in the transcript]]
 
-## In these episodes (2)
+## In these episodes (1)
 
 - [[s03e02 Anger|S3 E2 – Anger]] (2021-09-16) — Show notes
+
+## Briefly mentioned (5)
+
+- [[s05e04 School|S5 E4 – School]] (2025-02-07) — Minute [2:56](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=176), [5:24](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=324), [10:25](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=625)
+- [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Minute [8:30](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=510), [11:39](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=699), [13:40](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=820), [17:25](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1045)
+- [[x2025-12-16 Xing - Tokyo|Bonus – Xing - Tokyo]] (2025-12-16) — Minute [5:45](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=345), [14:12](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=852), [24:26](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=1466)
 - [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [3:53](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=233), [15:31](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=931)
-
-## Briefly mentioned (7)
-
-- [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [3:53](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=233), [18:44](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=1124)
-- [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [2:12](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=132)
-- [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [2:35](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=155)
-- [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [8:11](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=491), [22:09](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1329)
-- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [12:12](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=732)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [9:12](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=552)
 - [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [2:22](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=142), [4:53](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=293)
 
 ---

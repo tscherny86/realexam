@@ -7,7 +7,7 @@ number: 1
 year: 2021
 date: 2021-01-21
 duration: "17:03"
-spotify: "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW"
+spotify: "https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU"
 transcript: false
 tags: [episode, season-2]
 ---
@@ -17,7 +17,7 @@ tags: [episode, season-2]
 |---|---|
 | **Date** | 2021-01-21 |
 | **Duration** | 17:03 |
-| **Listen** | [Spotify](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW) · [MP3](https://www.buzzsprout.com/1107956/episodes/7409350-s02-1-celebrations.mp3) |
+| **Listen** | [Spotify](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU) · [MP3](https://www.buzzsprout.com/1107956/episodes/7409350-s02-1-celebrations.mp3) |
 | **Transcript** | not transcribed yet – see [[How to Transcribe]] |
 | **Topics** | [[Music]], [[Celebrations & Festivals]], [[Languages & Language Learning]] |
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |

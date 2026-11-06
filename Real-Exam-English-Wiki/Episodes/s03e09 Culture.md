@@ -7,7 +7,7 @@ number: 9
 year: 2022
 date: 2022-05-27
 duration: "17:57"
-spotify: "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW"
+spotify: "https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e"
 transcript: false
 tags: [episode, season-3]
 ---
@@ -17,7 +17,7 @@ tags: [episode, season-3]
 |---|---|
 | **Date** | 2022-05-27 |
 | **Duration** | 17:57 |
-| **Listen** | [Spotify](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW) · [MP3](https://www.buzzsprout.com/1107956/episodes/10691423-s03-9-culture.mp3) |
+| **Listen** | [Spotify](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e) · [MP3](https://www.buzzsprout.com/1107956/episodes/10691423-s03-9-culture.mp3) |
 | **Transcript** | not transcribed yet – see [[How to Transcribe]] |
 | **Topics** | [[Music]], [[Photography & Photos]], [[Culture & Traditions]] |
 | **Language** | [[Idioms & Expressions]], [[Adverbs]] |

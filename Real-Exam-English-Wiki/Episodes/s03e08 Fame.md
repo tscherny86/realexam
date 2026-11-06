@@ -7,7 +7,7 @@ number: 8
 year: 2022
 date: 2022-04-07
 duration: "13:41"
-spotify: "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW"
+spotify: "https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5"
 transcript: false
 tags: [episode, season-3]
 ---
@@ -17,7 +17,7 @@ tags: [episode, season-3]
 |---|---|
 | **Date** | 2022-04-07 |
 | **Duration** | 13:41 |
-| **Listen** | [Spotify](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW) · [MP3](https://www.buzzsprout.com/1107956/episodes/10399151-s03-8-fame.mp3) |
+| **Listen** | [Spotify](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5) · [MP3](https://www.buzzsprout.com/1107956/episodes/10399151-s03-8-fame.mp3) |
 | **Transcript** | not transcribed yet – see [[How to Transcribe]] |
 | **Topics** | [[Music]], [[Fame & Celebrity]] |
 | **Language** | [[Phrasal Verbs]] |

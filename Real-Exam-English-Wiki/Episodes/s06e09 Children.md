@@ -19,11 +19,11 @@ tags: [episode, season-6]
 | **Duration** | 20:27 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS) · [MP3](https://www.buzzsprout.com/1107956/episodes/19784213-s06-9-children.mp3) |
 | **Transcript** | [[Transcript s06e09]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Technology & the Internet]], [[Books & Reading]], [[City & Country Life]], [[Free Time & Hobbies]], [[Family & Relationships]], [[Learning, School & Education]], [[Change & Life Changes]], [[Home & Housing]], [[Parenting & Children]], [[Hometown & Places]], [[Help & Kindness]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Cleft Sentences]] |
+| **Topics** | [[Technology & the Internet]], [[Free Time & Hobbies]], [[Family & Relationships]], [[Learning, School & Education]], [[Change & Life Changes]], [[Home & Housing]], [[Parenting & Children]], [[Help & Kindness]] |
+| **Language** | [[Idioms & Expressions]], [[Cleft Sentences]], [[Emphasis & Auxiliaries]] |
 | **Exams** | – |
-| **Accents** | [[Ireland]], [[England]], [[USA]] |
-| **Briefly mentioned** | [[Food & Cooking]], [[Sport & Exercise]], [[Shopping & Consumerism]], [[Friends & Friendship]], [[Work & Careers]], [[Communication]], [[Anger & Emotions]], [[Photography & Photos]], [[Money & Finance]], [[Fashion & Clothes]], [[Fame & Celebrity]], [[Happiness]], [[Crime & Law]], [[Languages & Language Learning]], [[Art & Creativity]], [[Transport & Traffic]], [[History & the Past]], [[Manners & Politeness]], [[Advertising & Marketing]], [[News & Media]], [[Extremes & Adventure]], [[Collocations]], [[Passive Voice]], [[Past Perfect & Narrative Tenses]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]], [[Reported Speech]], [[Prepositions]], [[Emphasis & Auxiliaries]], [[Common Mistakes]], [[Organising Your Answer]], [[Slang & Informal English]], [[Verbs with Many Meanings (get, do, make, take)]], [[Cambridge C1 Advanced (CAE)]], [[Speaking Exam]], [[Writing Exam]], [[Scotland]], [[Canada]] |
+| **Accents** | [[England]], [[USA]] |
+| **Briefly mentioned** | [[Food & Cooking]], [[Books & Reading]], [[City & Country Life]], [[Money & Finance]], [[Crime & Law]], [[Hometown & Places]], [[Phrasal Verbs]], [[Collocations]], [[Adjectives & Compound Adjectives]], [[Prepositions]], [[Speaking Exam]], [[Writing Exam]], [[Ireland]] |
 
 ## Show notes
 

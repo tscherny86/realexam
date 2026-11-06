@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 2
+episodes: 1
 tags: [topics]
 ---
 # Transport & Traffic
@@ -20,6 +20,30 @@ Transport questions are common at B2 and C1 (*Should cars be banned from city ce
 
 ## Said in the podcast
 
+> … of thing, Saying thank you if you let them through when you're driving, that kind of thing. Who should be responsible for teaching manners to children? The parents. I try my best. My kid’s …
+>
+> — [[s05e02 Manners|S5 E2]], [Minute 11:52](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=712) · [[Transcript s05e02#Minute 11|in the transcript]]
+
+> … me here. Not probably because it's just not a thing when you're driving around on your scooter or the car. A car will just drive right in front of you and then stop, and …
+>
+> — [[s05e02 Manners|S5 E2]], [Minute 18:04](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1084) · [[Transcript s05e02#Minute 18|in the transcript]]
+
+> … warming, I think it's corporations if you look at it. Like me driving my car to work is not going to have as much effect as the big company that pumps out millions of …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 1:43](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=103) · [[Transcript s05e09#Minute 1|in the transcript]]
+
+> … long as we just turn the lights off afterwards. Exactly! And we're recycling what we can and we're not leaving everything on. Exactly! And I think the super-rich need to be held accountable. Yeah! …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 8:18](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=498) · [[Transcript s05e09#Minute 8|in the transcript]]
+
+> … can do about it, except I don't know. We cannot drive a car, which is unrealistic. You know, I think it's government and industry that have to change. Once they decide to change It …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 17:53](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=1073) · [[Transcript s05e09#Minute 17|in the transcript]]
+
+> … you live and learn. Like I knew I shouldn’t have bought a car off that guy, oh well, you live and learn. The next one was a blessing in disguise. This is where something …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 18:11](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=1091) · [[Transcript x2025-11-21#Minute 18|in the transcript]]
+
 > … of a snowbank and then peer down to the top of the car was really, really wild. And so that's, I think, the most extreme weather that I've been in. Why are some people …
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 1:26](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=86) · [[Transcript s06e02#Minute 1|in the transcript]]
@@ -32,68 +56,16 @@ Transport questions are common at B2 and C1 (*Should cars be banned from city ce
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 10:06](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=606) · [[Transcript s06e02#Minute 10|in the transcript]]
 
-> … your phone, or your computer, like I’m trying to pull up my flight details on my laptop, or pull up the spreadsheet and we can look at it together. These are good examples of …
->
-> — [[s06e03 Complaining|S6 E3]], [Minute 9:09](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=549) · [[Transcript s06e03#Minute 9|in the transcript]]
-
-> … knew it, I had it all done. Or I started the 4-hour train journey and was totally captivated by the amazing landscapes, and before I knew it, we were pulling into the final station. …
->
-> — [[s06e04 Motivation|S6 E4]], [Minute 6:50](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=410) · [[Transcript s06e04#Minute 6|in the transcript]]
-
-> … fortunate. Like, we were blessed to get the last seats on the train. Her parents nurtured interests, she said. Meaning they encouraged the development of their interests. Also, her parents fostered a lot of …
->
-> — [[s06e05 Luck|S6 E5]], [Minute 9:53](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=593) · [[Transcript s06e05#Minute 9|in the transcript]]
-
-> … for. Or do you happen to have a travel card for the bus, I lost mine? Lastly, when contrasting the bad luck with the good luck he said, but the other side of it …
->
-> — [[s06e05 Luck|S6 E5]], [Minute 15:40](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=940) · [[Transcript s06e05#Minute 15|in the transcript]]
-
-> … that is a silver lining. Or when you are stuck in a traffic jam but you get to listen to a whole episode of the Real Exam English podcast, hurrah, silver lining! Ok guys, …
->
-> — [[s06e05 Luck|S6 E5]], [Minute 18:34](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=1114) · [[Transcript s06e05#Minute 18|in the transcript]]
-
-> … phone plugged into the wall and then I went to board the plane. and went back, my phone wasn't there, but a lovely flight attendant had picked it up and would not let any …
->
-> — [[s06e07 Help|S6 E7]], [Minute 14:59](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=899) · [[Transcript s06e07#Minute 14|in the transcript]]
-
-> … there until I left it. I didn't know you didn't have to commute an hour and a half to work every day into the city. until I moved to Phoenix and I drove 10 …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 9:53](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=593) · [[Transcript s06e08#Minute 9|in the transcript]]
-
-> … sure that at 7 in the morning before they get on the bus, they have everything they need until 8 o'clock at night. So organization and prioritization go hand in hand. And when it …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 13:03](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=783) · [[Transcript s06e08#Minute 13|in the transcript]]
-
-> … myself in that my sister was very, very good at trying to train me to be her. So depending on the age gap, if there is one or not, you generally tend to be …
->
-> — [[s06e09 Children|S6 E9]], [Minute 1:58](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=118) · [[Transcript s06e09#Minute 1|in the transcript]]
-
-> … medication doesn’t help all that much, or with differ, like the new car doesn’t differ all the much from the old one. When talking about computer games she said that nowadays they are slicker. …
->
-> — [[s06e09 Children|S6 E9]], [Minute 3:36](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=216) · [[Transcript s06e09#Minute 3|in the transcript]]
-
-> … rely on something or someone. A good example is, I got my driving licence recently so that I wouldn’t be reliant on my parents to give me lifts everywhere. Or I am reliant on …
->
-> — [[s06e09 Children|S6 E9]], [Minute 7:48](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=468) · [[Transcript s06e09#Minute 7|in the transcript]]
-
-> … for you, like I had my nails painted or I got my car repaired. Again, the agent is not important. The important thing is that your car is repaired, not who does the repairing. …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 8:17](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=497) · [[Transcript s06e10#Minute 8|in the transcript]]
-
-## In these episodes (2)
+## In these episodes (1)
 
 - [[s04e06 Transport|S4 E6 – Transport]] (2023-10-19) — Show notes
+
+## Briefly mentioned (4)
+
+- [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Minute [11:52](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=712), [18:04](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1084)
+- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Minute [1:43](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=103), [8:18](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=498), [17:53](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=1073)
+- [[x2025-11-21 Helena - Barcelona|Bonus – Helena - Barcelona]] (2025-11-21) — Minute [18:11](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=1091)
 - [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [1:26](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=86), [4:47](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=287), [10:06](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=606)
-
-## Briefly mentioned (7)
-
-- [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [9:09](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=549)
-- [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [6:50](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=410)
-- [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [9:53](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=593), [15:40](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=940), [18:34](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=1114)
-- [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [14:59](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=899)
-- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [9:53](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=593), [13:03](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=783)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [1:58](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=118), [3:36](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=216), [7:48](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=468)
-- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [8:17](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=497)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

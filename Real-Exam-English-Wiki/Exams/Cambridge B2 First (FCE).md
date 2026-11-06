@@ -1,6 +1,6 @@
 ---
 type: exams
-episodes: 2
+episodes: 0
 tags: [exams]
 ---
 # Cambridge B2 First (FCE)
@@ -22,6 +22,14 @@ English (75 min), Writing (80 min: essay + one of article, email/letter, report,
 
 ## Said in the podcast
 
+> … exams, especially if you are a teenager and are doing exams like First for Schools for instance. So we talk about useful school subjects, school trips, positive learning environments and a bunch of other …
+>
+> — [[s05e04 School|S5 E4]], [Minute 0:23](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=23) · [[Transcript s05e04#Minute 0|in the transcript]]
+
+> … English just for the sake of it, I want to pass my B2 exam”. Another handy expression was I’d give a miss; religion is the only subject I’d give a miss, meaning I wouldn’t …
+>
+> — [[s05e04 School|S5 E4]], [Minute 10:01](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=601) · [[Transcript s05e04#Minute 10|in the transcript]]
+
 > … exams last year and it is also covered in different ways at B2 and C1 levels. So you’re gonna hear lots of useful vocabulary for talking about doing extreme things, plus some lovely idioms. …
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 0:23](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=23) · [[Transcript s06e02#Minute 0|in the transcript]]
@@ -30,13 +38,13 @@ English (75 min), Writing (80 min: essay + one of article, email/letter, report,
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 5:12](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=312) · [[Transcript s06e02#Minute 5|in the transcript]]
 
-## In these episodes (2)
+## In these episodes (0)
 
-- [[s05e04 School|S5 E4 – School]] (2025-02-07) — Show notes
-- [[x2025-11-18 News - I made an app!|Bonus – News - I made an app!]] (2025-11-18) — Show notes
+_no episode yet where this was a main topic_
 
-## Briefly mentioned (1)
+## Briefly mentioned (2)
 
+- [[s05e04 School|S5 E4 – School]] (2025-02-07) — Minute [0:23](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=23), [10:01](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=601)
 - [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [0:23](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=23), [5:12](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=312)
 
 ---

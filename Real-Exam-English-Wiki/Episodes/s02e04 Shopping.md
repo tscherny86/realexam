@@ -7,7 +7,7 @@ number: 4
 year: 2021
 date: 2021-02-12
 duration: "22:46"
-spotify: "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW"
+spotify: "https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y"
 transcript: false
 tags: [episode, season-2]
 ---
@@ -17,7 +17,7 @@ tags: [episode, season-2]
 |---|---|
 | **Date** | 2021-02-12 |
 | **Duration** | 22:46 |
-| **Listen** | [Spotify](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW) · [MP3](https://www.buzzsprout.com/1107956/episodes/7823197-s02-4-shopping.mp3) |
+| **Listen** | [Spotify](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y) · [MP3](https://www.buzzsprout.com/1107956/episodes/7823197-s02-4-shopping.mp3) |
 | **Transcript** | not transcribed yet – see [[How to Transcribe]] |
 | **Topics** | [[Music]], [[Shopping & Consumerism]] |
 | **Language** | [[Idioms & Expressions]] |

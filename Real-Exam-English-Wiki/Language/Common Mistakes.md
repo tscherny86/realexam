@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 4
+episodes: 7
 tags: [language]
 ---
 # Common Mistakes
@@ -22,13 +22,69 @@ Typical mistakes at B2–C2:
 
 ## Said in the podcast
 
-> … who watch TV or any content from the US they often use incorrect English, like this. I liked the way she used as in to give an example, she said I’m pretty active, as …
+> … you will hear she speaks really well. She has the occasional little error but she’s an excellent communicator and her pronunciation is fantastic. Being from Poland, she has a bit of an accent when …
 >
-> — [[s06e02 Extremes|S6 E2]], [Minute 17:19](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=1039) · [[Transcript s06e02#Minute 17|in the transcript]]
+> — [[x2024-04-16 Martyna from Poland|Bonus]], [Minute 0:39](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=39) · [[Transcript x2024-04-16#Minute 0|in the transcript]]
 
-> … an adverse situation we all had to overcome. How do failure and mistakes affect a person's motivation? It can be very disheartening. And I'm also prone to, I will beat myself up a little …
+> … with English on a daily basis. You might have picked up an error or two in these answers. One that Martyna made a few times here is to be used to doing something, so …
 >
-> — [[s06e04 Motivation|S6 E4]], [Minute 14:34](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=874) · [[Transcript s06e04#Minute 14|in the transcript]]
+> — [[x2024-04-16 Martyna from Poland|Bonus]], [Minute 15:26](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=926) · [[Transcript x2024-04-16#Minute 15|in the transcript]]
+
+> … nice one to use. She did, however, have a couple of little errors here and there with her articles. Like, she said in THE reality and that’s difficult question. Polish speakers often have errors …
+>
+> — [[x2024-04-16 Martyna from Poland|Bonus]], [Minute 22:40](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1360) · [[Transcript x2024-04-16#Minute 22|in the transcript]]
+
+> … and minutes too and any unit of measurement and it´s quite a common error. If it´s one hour, or one kilometre, or whatever then it´s ok to say an hour and a half or …
+>
+> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 5:50](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=350) · [[Transcript x2024-08-02#Minute 5|in the transcript]]
+
+> … I'll just have the, I have the impression that I'll always make mistakes. Yeah, I suppose there's very few rules with prepositions, right? Like so they're a hard thing to remember always, that's a …
+>
+> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 19:03](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1143) · [[Transcript x2024-08-02#Minute 19|in the transcript]]
+
+> … rather than I improved more my English. Again it´s only a small error, and doesn’t affect communication at all, but worth pointing out as a lot of people make mistakes putting adverbs in the …
+>
+> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 22:54](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1374) · [[Transcript x2024-08-02#Minute 22|in the transcript]]
+
+> … you say do, do the dishes. Alright 10 words coming up. A mistake make, make a mistake A speech make, make a speech Research do, do research A joke make, make a joke Business …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 8:30](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=510) · [[Transcript s05e10#Minute 8|in the transcript]]
+
+> … much more than meets the eye to do in Alicante, definitely because people often say Alicante is so boring, there's no cultural things to do, and this is because they don't look, they don't …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 10:37](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=637) · [[Transcript s05e10#Minute 10|in the transcript]]
+
+> … up during the testing phase so the launch was cancelled. One little mistakes came up, actually, in these answers. She said on the top of my head. Ok, the correct version is off the …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 13:29](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=809) · [[Transcript x2025-11-21#Minute 13|in the transcript]]
+
+> … too. Awesome, and lastly can I ask about your attitude to making mistakes with English. It's a trial and error thing and making mistakes and learning from them and, being more relaxed about making …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 15:20](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=920) · [[Transcript x2025-11-21#Minute 15|in the transcript]]
+
+> … up not saying things just because of….y´know… of being afraid of making mistakes. Yeah, your self-esteem is so low. You're like, yeah, you don't want to chance things. You enter in this kind of …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 16:59](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=1019) · [[Transcript x2025-11-21#Minute 16|in the transcript]]
+
+> … address the elephant in the room, I was drunk and made a mistake last night. Maybe you woke that morning, you said dammit, and you were very self-critical. Ok, these two words came up …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 19:22](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=1162) · [[Transcript x2025-11-21#Minute 19|in the transcript]]
+
+> … other hand I have to say Japanese people are afraid of making mistakes because of their, you know, their culture they don't want to, yeah, bring trouble to other people when, so they're kind …
+>
+> — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 2:27](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=147) · [[Transcript x2025-12-16#Minute 2|in the transcript]]
+
+> … think people are really brave. They don't, like, we don't mind making mistakes. Like my dad, when he, you know, when he travels abroad, even with, you know, gestures, you know, he can express …
+>
+> — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 4:39](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=279) · [[Transcript x2025-12-16#Minute 4|in the transcript]]
+
+> … fearlessly, lovely adverb, meaning, of course, without fear, not afraid to make mistakes. I, kind of tongue in cheek, suggested that Chinese people are shameless and Xing quickly dismissed that, she said I wouldn’t …
+>
+> — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 7:01](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=421) · [[Transcript x2025-12-16#Minute 7|in the transcript]]
+
+> … when you're having that mindset, it's really hard to allow yourself make mistakes. And I try to be a role model for my students because you only learn after making mistakes. But being a …
+>
+> — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 10:24](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=624) · [[Transcript x2025-12-16#Minute 10|in the transcript]]
 
 > … on to the next question. Similarly, if you realise you made a mistake with something you said don’t sit there thinking about the mistake. Focus on the next question. This is something we see …
 >
@@ -46,27 +102,15 @@ Typical mistakes at B2–C2:
 >
 > — [[s06e08 Priorities|S6 E8]], [Minute 14:44](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=884) · [[Transcript s06e08#Minute 14|in the transcript]]
 
-> … glass of water could tip over when you bump against it by mistake. Speaking of children, I’ve had a bunch of students send their teenage children to me to prepare for English exams, which …
->
-> — [[s06e09 Children|S6 E9]], [Minute 10:20](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=620) · [[Transcript s06e09#Minute 10|in the transcript]]
+## In these episodes (7)
 
-> … suppose it’s a good example of how we all sometimes make grammatical errors, even in our mother tongue, and especially when speaking, it’s really common and something as an English teacher you notice a …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 4:37](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=277) · [[Transcript s06e10#Minute 4|in the transcript]]
-
-## In these episodes (4)
-
-- [[x2024-04-16 Martyna from Poland|Bonus – Martyna from Poland]] (2024-04-16) — Show notes
-- [[s05e08 Internet|S5 E8 – Internet]] (2025-06-17) — Show notes
+- [[x2024-04-16 Martyna from Poland|Bonus – Martyna from Poland]] (2024-04-16) — Show notes · Minute [0:39](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=39), [15:26](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=926), [22:40](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1360)
+- [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Minute [5:50](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=350), [19:03](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1143), [22:54](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1374)
+- [[s05e10 Weekend|S5 E10 – Weekend]] (2025-08-18) — Minute [8:30](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=510), [10:37](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=637)
+- [[x2025-11-21 Helena - Barcelona|Bonus – Helena - Barcelona]] (2025-11-21) — Minute [13:29](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=809), [15:20](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=920), [16:59](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=1019), [19:22](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=1162)
+- [[x2025-12-16 Xing - Tokyo|Bonus – Xing - Tokyo]] (2025-12-16) — Minute [2:27](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=147), [4:39](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=279), [7:01](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=421), [10:24](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=624)
 - [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus – Bonus - Speaking Exam Advice]] (2026-06-24) — Minute [1:46](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=106)
 - [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Show notes · Minute [0:25](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=25), [10:34](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=634), [14:44](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=884)
-
-## Briefly mentioned (4)
-
-- [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [17:19](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=1039)
-- [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [14:34](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=874)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [10:20](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=620)
-- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [4:37](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=277)
 
 ---
 ← [[Language]] · [[Real Exam English Wiki|Home]]

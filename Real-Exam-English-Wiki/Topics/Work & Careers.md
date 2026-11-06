@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 11
+episodes: 13
 tags: [topics]
 ---
 # Work & Careers
@@ -21,6 +21,142 @@ one?*, *How important is job satisfaction?*, *Should people retire later?*
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … plans or goals, or about predictions for the future, regarding things like jobs, Artificial Intelligence or maybe the environment. So in this episode we’ll hear some great ways to express what you would like …
+>
+> — [[s04e10 Future|S4 E10]], [Minute 0:27](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=27) · [[Transcript s04e10#Minute 0|in the transcript]]
+
+> … will be essential in the future to be able to find a job in the coming years? Ooh so for me I think an essential part of everyone's job is good communication skills and …
+>
+> — [[s04e10 Future|S4 E10]], [Minute 4:22](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=262) · [[Transcript s04e10#Minute 4|in the transcript]]
+
+> … and well organized too, with in order to be to able to work in any industry, whether you are an engineer or a doctor, so I think this will always be required. Excellent. Which …
+>
+> — [[s04e10 Future|S4 E10]], [Minute 6:28](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=388) · [[Transcript s04e10#Minute 6|in the transcript]]
+
+> … use a mobile phone! We had some nice adverb usage too, some jobs are going to change drastically, which kind of means significantly, but more negative. Like we drastically need to cut down our …
+>
+> — [[s04e10 Future|S4 E10]], [Minute 8:31](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=511) · [[Transcript s04e10#Minute 8|in the transcript]]
+
+> … basis so we hear about the challenges of using English in her workplace, we talk about the benefit of watching TV in English and we hear about her tips for preparing for the C1 …
+>
+> — [[x2024-04-16 Martyna from Poland|Bonus]], [Minute 1:07](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=67) · [[Transcript x2024-04-16#Minute 1|in the transcript]]
+
+> … a translator like or is it just you or your and your colleagues? Not. Not really, not really. We are…we work in teams. Uh. So sometimes when I don't, when I don't understand, I …
+>
+> — [[x2024-04-16 Martyna from Poland|Bonus]], [Minute 3:29](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=209) · [[Transcript x2024-04-16#Minute 3|in the transcript]]
+
+> … and to find some simple words, some simple sentences so that my colleagues from other departments understand what it is about why this is a problem, why I see the risk here and I …
+>
+> — [[x2024-04-16 Martyna from Poland|Bonus]], [Minute 6:32](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=392) · [[Transcript x2024-04-16#Minute 6|in the transcript]]
+
+> … are. Perks. What do you mean? Like benefits that come with the job? Yes, yes. So this is basically a little bit confidential, but on the other hand, everyone working for airlines know knows …
+>
+> — [[x2024-04-16 Martyna from Poland|Bonus]], [Minute 8:44](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=524) · [[Transcript x2024-04-16#Minute 8|in the transcript]]
+
+> … exam here I feel like it's because of business. It's because they work. It's because they want a better job. There's more of a, let's say, more of a tangible goal ahead. So are …
+>
+> — [[x2024-06-29 Vietnam and IELTS|Bonus]], [Minute 2:23](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=143) · [[Transcript x2024-06-29#Minute 2|in the transcript]]
+
+> … to discuss trends correctly, it's very good even if you want to work in English, just what goes up, what goes down, where the points cross, what are the most significant things you're looking …
+>
+> — [[x2024-06-29 Vietnam and IELTS|Bonus]], [Minute 8:27](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=507) · [[Transcript x2024-06-29#Minute 8|in the transcript]]
+
+> … multiple courses there. The the biggest one. And the one that I work the most on is this IELTS writing. Of course it has three main components. It has essay evolution, which is the …
+>
+> — [[x2024-06-29 Vietnam and IELTS|Bonus]], [Minute 17:44](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=1064) · [[Transcript x2024-06-29#Minute 17|in the transcript]]
+
+> … thought that I would really need it when I graduated in my professional life. So then I decided to learn and I think that's the, that's a big thing to have in mind when …
+>
+> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 2:13](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=133) · [[Transcript x2024-08-02#Minute 2|in the transcript]]
+
+> … my vacations, like law school vacation. I would go there. It's called work experience. And then I think I did maybe three job interviews over the phone and I could do it. So that's …
+>
+> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 3:50](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=230) · [[Transcript x2024-08-02#Minute 3|in the transcript]]
+
+> … cursing your mother’s life! Alright, so next I ask Melina about her job in international law and whether she uses English in it. Yeah. Yes, I do. Actually. Uh. Originally I'm an international law …
+>
+> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 7:04](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=424) · [[Transcript x2024-08-02#Minute 7|in the transcript]]
+
+> … the international field, arena, you're gonna need English. And then now I work for an NGO as a consultant and every time, because it's from East Timor, so like half of the jobs are …
+>
+> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 8:41](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=521) · [[Transcript x2024-08-02#Minute 8|in the transcript]]
+
+> … feel most relaxed when I'm at home after a long day of work, usually getting home and sitting on the couch and just relaxing and doing nothing for a little bit is probably when …
+>
+> — [[s05e01 Relaxing|S5 E1]], [Minute 4:22](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=262) · [[Transcript s05e01#Minute 4|in the transcript]]
+
+> … would say it's vital for me because of the nature of my job. I'm working all hours of the day and night so my brain goes on overload and I have to find time …
+>
+> — [[s05e01 Relaxing|S5 E1]], [Minute 11:11](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=671) · [[Transcript s05e01#Minute 11|in the transcript]]
+
+> … relax, unwind a little, put your feet up and disconnect. Alright, great work! See you next time! Trevor
+>
+> — [[s05e01 Relaxing|S5 E1]], [Minute 16:41](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=1001) · [[Transcript s05e01#Minute 16|in the transcript]]
+
+> … everywhere there's good everywhere as there are in all generations. Absolutely. I work with a lot of the youth and actually they speak different to us but yet they they're quite fun. Yeah. And …
+>
+> — [[s05e02 Manners|S5 E2]], [Minute 5:37](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=337) · [[Transcript s05e02#Minute 5|in the transcript]]
+
+> … of things, whereas manners and being a good person shouldn't be the job of a teacher at school, it should be job of the parents. And unfortunately, now with people working too many hours …
+>
+> — [[s05e02 Manners|S5 E2]], [Minute 14:24](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=864) · [[Transcript s05e02#Minute 14|in the transcript]]
+
+> … stream everything. So that's what, that's what I use it for, and work. Some people say that you shouldn't trust what you read on the Internet, do you agree? I do agree. I agree …
+>
+> — [[s05e08 Internet|S5 E8]], [Minute 5:31](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=331) · [[Transcript s05e08#Minute 5|in the transcript]]
+
+> … and sweet. Keep your meeting short and sweet. Peace and quiet. After work I need some peace and quiet. Law and order. The mayor promised to restore law and order. Neat and tidy. She …
+>
+> — [[s05e08 Internet|S5 E8]], [Minute 9:04](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=544) · [[Transcript s05e08#Minute 9|in the transcript]]
+
+> … really use social media. What do I visit the most? That's not work. Let me….give me a second. I use the the….what is it called? Can’t even remember the name of it. There's one …
+>
+> — [[s05e08 Internet|S5 E8]], [Minute 11:53](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=713) · [[Transcript s05e08#Minute 11|in the transcript]]
+
+> … do actually on my laptop, maybe it's not a good thing, is work based. So when he says maybe it’s not a good thing he lowers the tone and he says this as a …
+>
+> — [[s05e08 Internet|S5 E8]], [Minute 16:49](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=1009) · [[Transcript s05e08#Minute 16|in the transcript]]
+
+> … Sunday night feeling is. Is that like when you're dreading going to work? If that's what it is I deal with it by just? I guess I don't really deal with it, I just …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 1:01](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=61) · [[Transcript s05e10#Minute 1|in the transcript]]
+
+> … ask a follow-on question, like is that when you’re dreading going to work? Dreading doing something by the way is when you are very apprehensive or scared about having to do something. Like I’m …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 2:51](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=171) · [[Transcript s05e10#Minute 2|in the transcript]]
+
+> … have never been like a typical weekend. I've really commonly always done work that falls on the weekend anyway, so I'm quite used to having days off during the week and not necessarily on …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 4:24](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=264) · [[Transcript s05e10#Minute 4|in the transcript]]
+
+> … 50 by the end of the year. And then. Sunday, I usually work on my own podcast because my kid goes swimming, so Sundays more sort of a chill day, but I take the …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 6:06](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=366) · [[Transcript s05e10#Minute 6|in the transcript]]
+
+> … That's pretty standard, I think, at the start, really. And what about work? Can you tell us what you do and if you use English at work? I work in a law firm. And …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 1:30](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=90) · [[Transcript x2025-11-21#Minute 1|in the transcript]]
+
+> … never, I had never been in such situation before. like here at work, for instance, I have a video call in English. Then I go back to Spanish or I go back and go …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 3:39](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=219) · [[Transcript x2025-11-21#Minute 3|in the transcript]]
+
+> … weird. And yeah, but thank God that I had like very nice colleagues. And they were, I mean, they were, like, extremely sweet and like whatever, you know, when I didn't know something, they …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 5:54](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=354) · [[Transcript x2025-11-21#Minute 5|in the transcript]]
+
+> … pronunciation issue to pick up on, and that is with the word colleagues. So the stress is on the first syllable, coll, colleagues. The reason I highlight it is cause it just came up …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 7:59](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=479) · [[Transcript x2025-11-21#Minute 7|in the transcript]]
+
+> … because of it. What impact do you think citizen journalism has on professional journalism? I feel that Professional journalists will have a non-biased viewpoint around the news that they're covering. That is what they're …
+>
+> — [[s06e01 News|S6 E1]], [Minute 2:05](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=125) · [[Transcript s06e01#Minute 2|in the transcript]]
+
+> … you enter the app you tell it what areas you want to work on, what your level is, what your objectives are and it designs an app just for you. And as it runs …
+>
+> — [[s06e01 News|S6 E1]], [Minute 11:02](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=662) · [[Transcript s06e01#Minute 11|in the transcript]]
 
 > … ground to a halt and everyone, everyone who would normally be in work was outside shoveling snow and all the dads and, it was, the kids were off school. It was a, it was …
 >
@@ -102,10 +238,6 @@ one?*, *How important is job satisfaction?*, *Should people retire later?*
 >
 > — [[s06e06 Creativity|S6 E6]], [Minute 13:05](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=785) · [[Transcript s06e06#Minute 13|in the transcript]]
 
-> … right. So, pick and choose when you use these set expressions and work on making them sound as natural as possible. The same thing applies if they ask you where you are from. There’s …
->
-> — [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus]], [Minute 4:50](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=290) · [[Transcript x2026-06-24#Minute 4|in the transcript]]
-
 > … my husband when it's help at home, things that we need to work on together. If it's in my business, I usually turn to my daughter because she and I have an entrepreneurial spirit …
 >
 > — [[s06e07 Help|S6 E7]], [Minute 1:25](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=85) · [[Transcript s06e07#Minute 1|in the transcript]]
@@ -138,41 +270,31 @@ one?*, *How important is job satisfaction?*, *Should people retire later?*
 >
 > — [[s06e08 Priorities|S6 E8]], [Minute 18:02](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=1082) · [[Transcript s06e08#Minute 18|in the transcript]]
 
-> … home. The first was life isn’t a free ride, so you gotta work to get stuff in life, basically. And the second was that kids have to pay their way almost. If you pay …
->
-> — [[s06e09 Children|S6 E9]], [Minute 8:05](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=485) · [[Transcript s06e09#Minute 8|in the transcript]]
-
-> … example of a short deal would be, I swapped shifts with my colleague at work and I ended up being crazy busy whereas she had a nice quiet shift, seems like I got the …
->
-> — [[s06e09 Children|S6 E9]], [Minute 17:49](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1069) · [[Transcript s06e09#Minute 17|in the transcript]]
-
-> … talking about decision making. For instance, there were 50 candidates for the job, but we’ve whittled it down to 5. Or when buying a new phone you could look at many different options and …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 12:26](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=746) · [[Transcript s06e10#Minute 12|in the transcript]]
-
-> … the person is self-satisfied about something, like I got me a new job, or I’m gonna buy me a new truck. Alright, you are not going to come across this in any English exams …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 14:04](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=844) · [[Transcript s06e10#Minute 14|in the transcript]]
-
-## In these episodes (11)
+## In these episodes (13)
 
 - [[s02e02 City and Country|S2 E2 – City and Country]] (2021-01-29) — Show notes
 - [[s02e08 Work|S2 E8 – Work]] (2021-03-19) — Show notes
 - [[s04e07 Parenting|S4 E7 – Parenting]] (2023-11-18) — Show notes
-- [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Show notes
-- [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [4:30](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=270), [7:30](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=450), [10:16](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=616), [11:57](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=717)
+- [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Show notes · Minute [0:27](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=27), [4:22](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=262), [6:28](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=388), [8:31](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=511)
+- [[x2024-04-16 Martyna from Poland|Bonus – Martyna from Poland]] (2024-04-16) — Minute [1:07](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=67), [3:29](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=209), [6:32](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=392), [8:44](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=524)
+- [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Minute [2:13](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=133), [3:50](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=230), [7:04](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=424), [8:41](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=521)
+- [[s05e10 Weekend|S5 E10 – Weekend]] (2025-08-18) — Minute [1:01](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=61), [2:51](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=171), [4:24](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=264), [6:06](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=366)
+- [[x2025-11-21 Helena - Barcelona|Bonus – Helena - Barcelona]] (2025-11-21) — Minute [1:30](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=90), [3:39](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=219), [5:54](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=354), [7:59](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=479)
 - [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [1:05](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=65), [2:47](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=167), [4:27](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=267), [6:18](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=378)
 - [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [0:19](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=19), [6:26](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=386), [11:05](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=665), [15:04](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=904)
 - [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [1:23](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=83), [4:25](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=265), [8:56](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=536), [10:28](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=628)
 - [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Show notes · Minute [0:22](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=22), [7:51](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=471), [10:52](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=652), [13:05](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=785)
 - [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [1:25](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=85), [4:48](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=288), [6:25](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=385), [10:33](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=633)
+
+## Briefly mentioned (7)
+
+- [[x2024-06-29 Vietnam and IELTS|Bonus – Vietnam and IELTS]] (2024-06-29) — Minute [2:23](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=143), [8:27](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=507), [17:44](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=1064)
+- [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Minute [4:22](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=262), [11:11](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=671), [16:41](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=1001)
+- [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Minute [5:37](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=337), [14:24](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=864)
+- [[s05e08 Internet|S5 E8 – Internet]] (2025-06-17) — Minute [5:31](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=331), [9:04](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=544), [11:53](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=713), [16:49](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=1009)
+- [[s06e01 News|S6 E1 – News]] (2026-01-24) — Minute [2:05](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=125), [11:02](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=662)
+- [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [4:30](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=270), [7:30](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=450), [10:16](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=616), [11:57](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=717)
 - [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [3:36](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=216), [5:31](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=331), [9:55](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=595), [18:02](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=1082)
-
-## Briefly mentioned (3)
-
-- [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus – Bonus - Speaking Exam Advice]] (2026-06-24) — Minute [4:50](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=290)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [8:05](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=485), [17:49](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1069)
-- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [12:26](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=746), [14:04](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=844)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

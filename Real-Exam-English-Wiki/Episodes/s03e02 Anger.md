@@ -7,7 +7,7 @@ number: 2
 year: 2021
 date: 2021-09-16
 duration: "12:57"
-spotify: "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW"
+spotify: "https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG"
 transcript: false
 tags: [episode, season-3]
 ---
@@ -17,7 +17,7 @@ tags: [episode, season-3]
 |---|---|
 | **Date** | 2021-09-16 |
 | **Duration** | 12:57 |
-| **Listen** | [Spotify](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW) · [MP3](https://www.buzzsprout.com/1107956/episodes/9205977-s03-2-anger.mp3) |
+| **Listen** | [Spotify](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG) · [MP3](https://www.buzzsprout.com/1107956/episodes/9205977-s03-2-anger.mp3) |
 | **Transcript** | not transcribed yet – see [[How to Transcribe]] |
 | **Topics** | [[Music]], [[Anger & Emotions]] |
 | **Language** | [[Idioms & Expressions]], [[Connectors & Linking Words]] |

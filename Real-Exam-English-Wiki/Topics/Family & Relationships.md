@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 5
+episodes: 4
 tags: [topics]
 ---
 # Family & Relationships
@@ -21,6 +21,38 @@ than in the past?*).
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … know, the older I can get, would be great to enjoy the family and the grandkids and things, but I want to be healthy doing it. I don't want to be ill, so I'm …
+>
+> — [[s04e10 Future|S4 E10]], [Minute 9:23](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=563) · [[Transcript s04e10#Minute 9|in the transcript]]
+
+> … something we just said, it means that doesn´t mean. For example, a parent might say to their teenager “I will allow you go out tonight, but that’s not to say that you can come …
+>
+> — [[s04e10 Future|S4 E10]], [Minute 15:01](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=901) · [[Transcript s04e10#Minute 15|in the transcript]]
+
+> … of thing. Who should be responsible for teaching manners to children? The parents. I try my best. My kid’s a bit autistic, so he doesn't quite understand what he's been told half the time, …
+>
+> — [[s05e02 Manners|S5 E2]], [Minute 11:57](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=717) · [[Transcript s05e02#Minute 11|in the transcript]]
+
+> … be responsible for teaching manners to children? I think this is the parents. Uh, unfortunately nowadays this isn't happening in many cases. But in my humble opinion, I think that these types of things …
+>
+> — [[s05e02 Manners|S5 E2]], [Minute 13:53](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=833) · [[Transcript s05e02#Minute 13|in the transcript]]
+
+> … the first question: Who do you get on best with in your family? I have a massive family, so I actually get on with all of them. We're all very, very similar. We're all …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 1:01](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=61) · [[Transcript s05e05#Minute 1|in the transcript]]
+
+> … he actually gets on with all of them but he and his brother get on like a house on fire. This is a great idiom, but it sometimes confuses people. So to get on …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 2:33](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=153) · [[Transcript s05e05#Minute 2|in the transcript]]
+
+> … 6 days and at the weekend I have to look after my grandparents, so I guess I’m really busy now that I think about it. Other similar expressions would be come to think of …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 4:39](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=279) · [[Transcript s05e05#Minute 4|in the transcript]]
+
+> … of grammatical variety. Who do you get on best with in your family? Hopefully my husband. Well, aside from my husband, who's technically my best friend, I'm quite close to my brother. My brother's …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 6:48](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=408) · [[Transcript s05e05#Minute 6|in the transcript]]
 
 > … any cradle. And I was blessed to be born with two wonderful parents who nurtured interests and fostered a lot of friends and family along the way. I have. I come from a family …
 >
@@ -58,10 +90,6 @@ than in the past?*).
 >
 > — [[s06e07 Help|S6 E7]], [Minute 13:47](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=827) · [[Transcript s06e07#Minute 13|in the transcript]]
 
-> … a kid who's not allowed out of the house except with their parent doesn't realize that he could go out of, Timmy can't go out of the house without his mom or dad because …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 9:02](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=542) · [[Transcript s06e08#Minute 9|in the transcript]]
-
 > … like it or not! So, we have questions about hobbies, chores, technology, siblings and how childhood today compares to the past. As usual we will pick out all the good bits and look into …
 >
 > — [[s06e09 Children|S6 E9]], [Minute 0:31](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=31) · [[Transcript s06e09#Minute 0|in the transcript]]
@@ -90,18 +118,20 @@ than in the past?*).
 >
 > — [[s06e10 Decisions|S6 E10]], [Minute 14:21](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=861) · [[Transcript s06e10#Minute 14|in the transcript]]
 
-## In these episodes (5)
+## In these episodes (4)
 
 - [[s02e10 Family|S2 E10 – Family]] (2021-04-07) — Show notes
+- [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Minute [1:01](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=61), [2:33](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=153), [4:39](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=279), [6:48](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=408)
 - [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [8:24](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=504), [10:01](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=601), [14:07](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=847)
-- [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Minute [3:40](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=220), [5:47](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=347), [11:33](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=693)
 - [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Show notes · Minute [0:31](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=31), [2:33](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=153), [4:06](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=246), [7:51](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=471)
-- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [6:52](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=412), [8:58](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=538), [14:21](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=861)
 
-## Briefly mentioned (2)
+## Briefly mentioned (5)
 
+- [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Minute [9:23](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=563), [15:01](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=901)
+- [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Minute [11:57](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=717), [13:53](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=833)
+- [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Minute [3:40](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=220), [5:47](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=347), [11:33](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=693)
 - [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [2:30](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=150), [10:19](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=619), [13:47](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=827)
-- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [9:02](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=542)
+- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [6:52](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=412), [8:58](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=538), [14:21](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=861)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 4
+episodes: 5
 tags: [topics]
 ---
 # Communication
@@ -22,6 +22,102 @@ something has been lost.
 
 ## Said in the podcast
 
+> … for me I think an essential part of everyone's job is good communication skills and good personal skills and in order to be able to work in any industry and in any role, and …
+>
+> — [[s04e10 Future|S4 E10]], [Minute 4:29](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=269) · [[Transcript s04e10#Minute 4|in the transcript]]
+
+> … of different ways she said more or less the same thing, good communication skills, good personal skills, strong communication skills to be able to verbalize and articulate what you want to explain to people, …
+>
+> — [[s04e10 Future|S4 E10]], [Minute 6:04](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=364) · [[Transcript s04e10#Minute 6|in the transcript]]
+
+> … much technology advances and you know, as there are many things like chat GPT and various other AI tools, you know there are becoming increasing concerns you know that are being sort of played …
+>
+> — [[s04e10 Future|S4 E10]], [Minute 12:59](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=779) · [[Transcript s04e10#Minute 12|in the transcript]]
+
+> … with people who have passed their C1 and C2 exams, we’re gonna chat with some examiners, we might have some debates, some monologues, plenty of advice as usual. So watch this space, keep an …
+>
+> — [[s04e10 Future|S4 E10]], [Minute 16:07](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=967) · [[Transcript s04e10#Minute 16|in the transcript]]
+
+> … really well. She has the occasional little error but she’s an excellent communicator and her pronunciation is fantastic. Being from Poland, she has a bit of an accent when she speaks but that’s absolutely …
+>
+> — [[x2024-04-16 Martyna from Poland|Bonus]], [Minute 0:41](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=41) · [[Transcript x2024-04-16#Minute 0|in the transcript]]
+
+> … you really need to know what the other people are trying to communicate. Yeah, it's essential that you get it right, right. And do you sometimes have a translator like or is it just …
+>
+> — [[x2024-04-16 Martyna from Poland|Bonus]], [Minute 3:20](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=200) · [[Transcript x2024-04-16#Minute 3|in the transcript]]
+
+> … guys, that´s all we have time for today. Hopefully, you enjoyed that chat and found Martyna’s story and her tips relatable and useful. As this is the first one of these interviews I’d really …
+>
+> — [[x2024-04-16 Martyna from Poland|Bonus]], [Minute 24:20](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1460) · [[Transcript x2024-04-16#Minute 24|in the transcript]]
+
+> … and welcome to the Real Exam English podcast. Today we have a chat with an English teacher in Vietnam. Firstly, we talk about Vietnam and the state of English there. Then we speak about …
+>
+> — [[x2024-06-29 Vietnam and IELTS|Bonus]], [Minute 0:05](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=5) · [[Transcript x2024-06-29#Minute 0|in the transcript]]
+
+> … to English as exams and academic purposes. And as a result, their communication is far better than someone in again Korea or Japan because whereas they're just studying to get an exam to get …
+>
+> — [[x2024-06-29 Vietnam and IELTS|Bonus]], [Minute 2:13](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=133) · [[Transcript x2024-06-29#Minute 2|in the transcript]]
+
+> … is in Part 1, whereas in the general you must write a letter in the academic you need to analyse the graphs of some sort. OK. Cool. Yeah. That first part of the writing, …
+>
+> — [[x2024-06-29 Vietnam and IELTS|Bonus]], [Minute 6:27](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=387) · [[Transcript x2024-06-29#Minute 6|in the transcript]]
+
+> … it makes it really confusing for the reader and it affects your communication marks as the reader is struggling to get the meaning of the whole sentence. Very often I´ll see full paragraphs, 5 …
+>
+> — [[x2024-06-29 Vietnam and IELTS|Bonus]], [Minute 13:56](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=836) · [[Transcript x2024-06-29#Minute 13|in the transcript]]
+
+> … Real Exam English podcast. In this episode I have a super interesting chat with a Brazilian lady, Melina, who is an international law professor and researcher and has an excellent level of English. We …
+>
+> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 0:08](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=8) · [[Transcript x2024-08-02#Minute 0|in the transcript]]
+
+> … more my English. Again it´s only a small error, and doesn’t affect communication at all, but worth pointing out as a lot of people make mistakes putting adverbs in the right place. A nice …
+>
+> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 22:56](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1376) · [[Transcript x2024-08-02#Minute 22|in the transcript]]
+
+> … Melina used, she really has mastered the language and is a superb communicator so thanks to Melina for taking the time to talk, and thank you all very much for listening. Remember you can …
+>
+> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 25:46](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1546) · [[Transcript x2024-08-02#Minute 25|in the transcript]]
+
+> … I'd say badly. I'm terrible at keeping in touch, but obviously using WhatsApp and…has helped a lot. So mobile phones, social media helps me to stay in contact with friends and family who are …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 12:06](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=726) · [[Transcript s05e05#Minute 12|in the transcript]]
+
+> … referee gives a bad decision against his team. There was plenty of communications vocabulary in the second answer, mobiles, emails, video calls, random posts on social media, even handwritten letters. But as she said …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 13:55](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=835) · [[Transcript s05e05#Minute 13|in the transcript]]
+
+> … and also it helps to keep this show going. Ok then, enough chat, time for the questions, first one: What would you do to improve your local town or city? I live in a …
+>
+> — [[s05e07 Hometown|S5 E7]], [Minute 0:54](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=54) · [[Transcript s05e07#Minute 0|in the transcript]]
+
+> … might think there would be a Welsh language barrier, which is the communication barrier between speakers of different languages. In Wales about one in five people speak Welsh, something to bear in mind if …
+>
+> — [[s05e07 Hometown|S5 E7]], [Minute 8:19](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=499) · [[Transcript s05e07#Minute 8|in the transcript]]
+
+> … comes from French and even has that little hook symbol beneath the letter c, the cedilla. It’s a really good example of how English borrows words from other languages, and I guess any Spanish …
+>
+> — [[s05e07 Hometown|S5 E7]], [Minute 16:16](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=976) · [[Transcript s05e07#Minute 16|in the transcript]]
+
+> … this means that I can talk to them in English or write emails, write reports, or have video calls in English And I know that you went to Ireland on a sojourn, like for …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 2:01](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=121) · [[Transcript x2025-11-21#Minute 2|in the transcript]]
+
+> … such situation before. like here at work, for instance, I have a video call in English. Then I go back to Spanish or I go back and go back to Catalan. So my brain …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 3:42](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=222) · [[Transcript x2025-11-21#Minute 3|in the transcript]]
+
+> … an English teacher from China, who lives in Tokyo. We have a chat about the differences between English learning in different countries and also about how you can feel different when you speak different …
+>
+> — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 0:14](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=14) · [[Transcript x2025-12-16#Minute 0|in the transcript]]
+
+> … that, which is something we talk about a bit later in our chat, understanding humour in different languages, so well done Xing. Just one little error to pick up on, and it’s quite a …
+>
+> — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 7:33](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=453) · [[Transcript x2025-12-16#Minute 7|in the transcript]]
+
+> … one! A lovely phrasal verb came up at the end of our chat there, I said, you have to tone your language down when travelling or speaking to people with lower levels of English. …
+>
+> — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 14:43](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=883) · [[Transcript x2025-12-16#Minute 14|in the transcript]]
+
 > … complaining. On top of that, some exams ask you to do a letter of complaint, and it may appear in the reading or listening too. So definitely a good one to cover. Today we …
 >
 > — [[s06e03 Complaining|S6 E3]], [Minute 0:28](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=28) · [[Transcript s06e03#Minute 0|in the transcript]]
@@ -38,49 +134,21 @@ something has been lost.
 >
 > — [[s06e03 Complaining|S6 E3]], [Minute 12:50](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=770) · [[Transcript s06e03#Minute 12|in the transcript]]
 
-> … I stayed late at work last night for the sake of one email, or about effort, she started cooking the dinner from scratch again, for the sake of one burned clove of garlic. Then …
->
-> — [[s06e05 Luck|S6 E5]], [Minute 5:27](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=327) · [[Transcript s06e05#Minute 5|in the transcript]]
-
-> … can't believe that I tripped over this person or I made that phone call or I stepped into that particular center that day and dropped off my CV. I can't believe, you know, that …
->
-> — [[s06e05 Luck|S6 E5]], [Minute 9:15](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=555) · [[Transcript s06e05#Minute 9|in the transcript]]
-
-> … as quickly as possible. This would be great to include in an email to someone in a formal environment. Like when someone responds to you quickly or sorts out a problem for you, you …
->
-> — [[s06e06 Creativity|S6 E6]], [Minute 7:34](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=454) · [[Transcript s06e06#Minute 7|in the transcript]]
-
-> … and respond in a natural way, as if they were having a chat, and building their answer on to what their partner has just said. Conversely, what examiners don’t like is rehearsed responses that …
->
-> — [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus]], [Minute 3:21](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=201) · [[Transcript x2026-06-24#Minute 3|in the transcript]]
-
-> … if you have any questions or comments you can send me an email to realexamenglish at gmail.com or add a comment on spotify, or a message on Instagram or facebook. And of course, if …
->
-> — [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus]], [Minute 6:06](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=366) · [[Transcript x2026-06-24#Minute 6|in the transcript]]
-
-> … all of the messages you send on social media, Spotify, or by email, they are greatly appreciated, thanks very much and keep them coming! All the best till next time, Trevor
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 18:14](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=1094) · [[Transcript s06e08#Minute 18|in the transcript]]
-
-> … suitable to you. You can send me a message on Instagram, by email, whatsapp, or via the website, realexamenglish.com How do you think technology affects children's behaviour? I think it affects it in two …
->
-> — [[s06e09 Children|S6 E9]], [Minute 10:50](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=650) · [[Transcript s06e09#Minute 10|in the transcript]]
-
-## In these episodes (4)
+## In these episodes (5)
 
 - [[s02e09 Communications|S2 E9 – Communications]] (2021-03-26) — Show notes
-- [[x2024-06-29 Vietnam and IELTS|Bonus – Vietnam and IELTS]] (2024-06-29) — Show notes
-- [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Show notes
-- [[x2025-12-16 Xing - Tokyo|Bonus – Xing - Tokyo]] (2025-12-16) — Show notes
+- [[x2024-06-29 Vietnam and IELTS|Bonus – Vietnam and IELTS]] (2024-06-29) — Show notes · Minute [0:05](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=5), [2:13](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=133), [6:27](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=387), [13:56](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=836)
+- [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Show notes · Minute [0:08](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=8), [22:56](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1376), [25:46](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1546)
+- [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Minute [12:06](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=726), [13:55](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=835)
+- [[x2025-12-16 Xing - Tokyo|Bonus – Xing - Tokyo]] (2025-12-16) — Show notes · Minute [0:14](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=14), [7:33](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=453), [14:43](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=883)
 
-## Briefly mentioned (6)
+## Briefly mentioned (5)
 
+- [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Minute [4:29](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=269), [6:04](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=364), [12:59](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=779), [16:07](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=967)
+- [[x2024-04-16 Martyna from Poland|Bonus – Martyna from Poland]] (2024-04-16) — Minute [0:41](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=41), [3:20](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=200), [24:20](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1460)
+- [[s05e07 Hometown|S5 E7 – Hometown]] (2025-05-15) — Minute [0:54](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=54), [8:19](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=499), [16:16](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=976)
+- [[x2025-11-21 Helena - Barcelona|Bonus – Helena - Barcelona]] (2025-11-21) — Minute [2:01](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=121), [3:42](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=222)
 - [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [0:28](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=28), [2:25](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=145), [6:16](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=376), [12:50](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=770)
-- [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [5:27](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=327), [9:15](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=555)
-- [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Minute [7:34](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=454)
-- [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus – Bonus - Speaking Exam Advice]] (2026-06-24) — Minute [3:21](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=201), [6:06](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=366)
-- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [18:14](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=1094)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [10:50](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=650)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

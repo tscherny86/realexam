@@ -21,9 +21,21 @@ _What I love about English is… – sentences that put emphasis on one part._
 
 ## Said in the podcast
 
-> … enjoyable. You get the idea. In the second answer she had a cleft sentence, the thing that was probably the most extreme was a dance marathon. Ok starting with “the thing” creates some emphasis …
+> … to add into their speaking and writing as much as possible is cleft sentences, using it or what. So the first question was What creates a positive learning environment would you say? And he …
 >
-> — [[s06e02 Extremes|S6 E2]], [Minute 14:52](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=892) · [[Transcript s06e02#Minute 14|in the transcript]]
+> — [[s05e04 School|S5 E4]], [Minute 16:24](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=984) · [[Transcript s05e04#Minute 16|in the transcript]]
+
+> … second picture what jumps out is how crazy the kids seem, another cleft sentence there. He also had a nice way to present his opinions, he said I would argue that’s one of the …
+>
+> — [[s05e04 School|S5 E4]], [Minute 18:44](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=1124) · [[Transcript s05e04#Minute 18|in the transcript]]
+
+> … we have some advanced grammar in the form of mixed conditionals and cleft sentences. The speakers are from Canada, Australia, South Africa, England and Wales, so lots of different accents for you, and me …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 0:35](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=35) · [[Transcript s05e09#Minute 0|in the transcript]]
+
+> … government and industry that have to change. Ok, this is called a cleft sentence and we use this structure in order to emphasise. So compare these two sentences. I think the government has to …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 18:12](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=1092) · [[Transcript s05e09#Minute 18|in the transcript]]
 
 > … and they really trusted each other. Then later she had this lovely cleft sentence. “It was only when I was older that they showed a bit more interest.” Ok, so this follows the classic …
 >
@@ -33,12 +45,12 @@ _What I love about English is… – sentences that put emphasis on one part._
 
 - [[s01e06 Technology|S1 E6 – Technology]] (2020-09-11) — Show notes
 - [[s02e03 Global Issues|S2 E3 – Global Issues]] (2021-02-05) — Show notes
-- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Show notes
+- [[s05e04 School|S5 E4 – School]] (2025-02-07) — Minute [16:24](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=984), [18:44](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=1124)
 - [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Show notes · Minute [4:38](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=278)
 
 ## Briefly mentioned (1)
 
-- [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [14:52](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=892)
+- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Minute [0:35](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=35), [18:12](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=1092)
 
 ---
 ← [[Language]] · [[Real Exam English Wiki|Home]]

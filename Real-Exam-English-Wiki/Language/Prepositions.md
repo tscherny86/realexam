@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 3
+episodes: 6
 tags: [language]
 ---
 # Prepositions
@@ -20,6 +20,54 @@ Prepositions are a constant source of errors, and **dependent prepositions** (*d
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … the challenges and one challenge I think I'll have forever is with prepositions. All that I mean, of course, I know the basic ones, but every now and then I oh, my God, what …
+>
+> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 18:37](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1117) · [[Transcript x2024-08-02#Minute 18|in the transcript]]
+
+> … mistakes putting adverbs in the right place. A nice idiom popped up at the end there when she mentioned she had difficulties pronouncing some words, I said “spill the beans”, meaning tell me your …
+>
+> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 23:03](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1383) · [[Transcript x2024-08-02#Minute 23|in the transcript]]
+
+> … could of course start with a statement, give an explanation and then at the end give the counterpoint. Whatever works best. It´s also the ideal way to structure a paragraph too if you are …
+>
+> — [[s05e01 Relaxing|S5 E1]], [Minute 4:00](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=240) · [[Transcript s05e01#Minute 4|in the transcript]]
+
+> … grammar test in the middle of each episode. So today it is dependent prepositions, so each adjective has a particular preposition that usually follows it, and they can be hard to remember so, let’s …
+>
+> — [[s05e01 Relaxing|S5 E1]], [Minute 9:19](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=559) · [[Transcript s05e01#Minute 9|in the transcript]]
+
+> … tend not to be big on films, means musicians are not really interested in films. Another example would be, I’m not big on coffee, I prefer tea. Alrighty, so for our language break this …
+>
+> — [[s05e03 Space|S5 E3]], [Minute 9:53](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=593) · [[Transcript s05e03#Minute 9|in the transcript]]
+
+> … Scared terrified, petrified Funny hilarious, priceless Expensive exorbitant, extortionate Tough one there at the end. Ok, there are more answers than those possible as well. Let me know how you did on Spotify or …
+>
+> — [[s05e03 Space|S5 E3]], [Minute 12:03](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=723) · [[Transcript s05e03#Minute 12|in the transcript]]
+
+> … wonder I nearly failed, I didn't actually fail, I got a 2.1 in the end, but it was not…..It was an anxious experience all the way through. So don’t be anxious. Easier said than …
+>
+> — [[s05e04 School|S5 E4]], [Minute 4:13](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=253) · [[Transcript s05e04#Minute 4|in the transcript]]
+
+> … learning environment? I would say the enthusiasm of the teacher, if he's interested in what he's teaching and you can feel the energy and positive environment that he's trying to create. Then it encourages …
+>
+> — [[s05e04 School|S5 E4]], [Minute 14:27](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=867) · [[Transcript s05e04#Minute 14|in the transcript]]
+
+> … in in high school or something like that. But if you get interested in science and you go down the pathway of science. I think it gives you that ability to question whatever you …
+>
+> — [[s05e04 School|S5 E4]], [Minute 17:56](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=1076) · [[Transcript s05e04#Minute 17|in the transcript]]
+
+> … well for some additional information, remembering that as well is usually use at the end of a clause, so it useful when you remember something extra to say at the end of your sentence. …
+>
+> — [[s05e04 School|S5 E4]], [Minute 20:19](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=1219) · [[Transcript s05e04#Minute 20|in the transcript]]
+
+> … are. Just a nice piece of grammar to pick up on here. At the end he says I think it’s government and industry that have to change. Ok, this is called a cleft sentence …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 18:06](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=1086) · [[Transcript s05e09#Minute 18|in the transcript]]
+
+> … nice, I didn’t know that one! A lovely phrasal verb came up at the end of our chat there, I said, you have to tone your language down when travelling or speaking to people …
+>
+> — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 14:43](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=883) · [[Transcript x2025-12-16#Minute 14|in the transcript]]
 
 > … to knuckle down if we are going to get this project finished on time. To crack on with work has a similar meaning really, to get started or continue doing something. For example, let’s …
 >
@@ -61,10 +109,6 @@ Prepositions are a constant source of errors, and **dependent prepositions** (*d
 >
 > — [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus]], [Minute 5:18](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=318) · [[Transcript x2026-06-24#Minute 5|in the transcript]]
 
-> … stuff. Another example would be, I need to work on my English prepositions, or I need to work on my phrasal verbs. This one is sometimes used as a noun too, like after listening …
->
-> — [[s06e07 Help|S6 E7]], [Minute 4:56](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=296) · [[Transcript s06e07#Minute 4|in the transcript]]
-
 > … and sisters. were much, much older than me, so they weren't really interested in me when I was a child. It was only when I was older that they showed a bit more interest. …
 >
 > — [[s06e09 Children|S6 E9]], [Minute 2:50](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=170) · [[Transcript s06e09#Minute 2|in the transcript]]
@@ -77,18 +121,23 @@ Prepositions are a constant source of errors, and **dependent prepositions** (*d
 >
 > — [[s06e10 Decisions|S6 E10]], [Minute 2:49](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=169) · [[Transcript s06e10#Minute 2|in the transcript]]
 
-## In these episodes (3)
+## In these episodes (6)
 
 - [[s02e08 Work|S2 E8 – Work]] (2021-03-19) — Show notes
+- [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Minute [18:37](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1117), [23:03](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1383)
+- [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Minute [4:00](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=240), [9:19](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=559)
+- [[s05e04 School|S5 E4 – School]] (2025-02-07) — Minute [4:13](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=253), [14:27](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=867), [17:56](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=1076), [20:19](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=1219)
 - [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [1:30](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=90), [4:26](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=266), [6:07](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=367)
 - [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Minute [8:13](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=493), [16:08](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=968)
 
-## Briefly mentioned (6)
+## Briefly mentioned (8)
 
+- [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Minute [9:53](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=593), [12:03](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=723)
+- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Minute [18:06](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=1086)
+- [[x2025-12-16 Xing - Tokyo|Bonus – Xing - Tokyo]] (2025-12-16) — Minute [14:43](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=883)
 - [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [11:55](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=715), [18:49](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=1129)
 - [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [4:00](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=240)
 - [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus – Bonus - Speaking Exam Advice]] (2026-06-24) — Minute [3:17](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=197), [5:18](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=318)
-- [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [4:56](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=296)
 - [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [2:50](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=170), [13:25](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=805)
 - [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [2:49](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=169)
 

@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 1
+episodes: 3
 tags: [topics]
 ---
 # Food & Cooking
@@ -24,45 +24,73 @@ how far your vocabulary stretches beyond *delicious* and *tasty*.
 
 ## Said in the podcast
 
-> … I used to think, people are always talking about going on a diet or working… being praised for working overtime or for having expensive things. I think those dieting, working too much and spending …
+> … we should probably reduce the amount of meat we eat. And also food waste, you know that food waste if food waste was a country, it would be the third largest emitter, CO2 emitter …
 >
-> — [[s06e02 Extremes|S6 E2]], [Minute 8:11](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=491) · [[Transcript s06e02#Minute 8|in the transcript]]
+> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 11:19](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=679) · [[Transcript x2024-08-02#Minute 11|in the transcript]]
 
-> … to clarify or specify what you mean. For example, I love American food, as in hamburgers and hotdogs. Or I hate apple, as in the flavour, not the company. In the second answer we …
+> … public transportation. That would help too. But when we think about the food system, it's maybe where we can do the most. Because, yeah, what we eat, just it's not sustainable and also food …
 >
-> — [[s06e02 Extremes|S6 E2]], [Minute 17:38](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=1058) · [[Transcript s06e02#Minute 17|in the transcript]]
+> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 13:18](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=798) · [[Transcript x2024-08-02#Minute 13|in the transcript]]
 
-> … And like she speaks her mind. So for example, we're at a restaurant, I don't like the food. I'm going to complain now and it's going to come across as rude. But she won't …
+> … are found in the Americas. She talked about meat, animal source foods, food waste, sustainability, loads and loads of super useful language, for a super hot topic. Ok so next I ask Melina if …
 >
-> — [[s06e03 Complaining|S6 E3]], [Minute 6:47](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=407) · [[Transcript s06e03#Minute 6|in the transcript]]
+> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 15:22](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=922) · [[Transcript x2024-08-02#Minute 15|in the transcript]]
 
-> … questions. How do you motivate yourself to do tasks you don't enjoy? Food. Food helps. Resting and I generally tend to use the…what's called the carrot method instead of the stick method. So, I …
+> … big enough that we have events on, we've got clubs, we've got restaurants and things like that, but it's not so massive that I'm waiting in rush hour traffic for hours every time I …
 >
-> — [[s06e04 Motivation|S6 E4]], [Minute 0:54](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=54) · [[Transcript s06e04#Minute 0|in the transcript]]
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 1:42](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=102) · [[Transcript s05e05#Minute 1|in the transcript]]
 
-> … night for the sake of one email, or about effort, she started cooking the dinner from scratch again, for the sake of one burned clove of garlic. Then we were then chatting about our …
+> … is much more important, I would say. Awesome. Cool. I imagine the food is great there, right in Vietnam. Ah, I mean, I think like, I feel like Mexican food and Vietnamese food, everybody …
 >
-> — [[s06e05 Luck|S6 E5]], [Minute 5:30](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=330) · [[Transcript s06e05#Minute 5|in the transcript]]
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 16:27](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=987) · [[Transcript s05e05#Minute 16|in the transcript]]
 
-> … the verb form is to converse. For instance, the noise in Spanish restaurants often makes it difficult to converse, so everybody just ends up shouting at each other, isn’t that right Spanish listeners! Just …
+> … In order to create some emphasis, he used some repetition, about Vietnamese food he said it’s so good, it’s great, like it’s amazing, it’s affordable, it’s accessible. He said in some places good food …
 >
-> — [[s06e06 Creativity|S6 E6]], [Minute 13:42](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=822) · [[Transcript s06e06#Minute 13|in the transcript]]
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 18:13](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1093) · [[Transcript s05e05#Minute 18|in the transcript]]
 
-> … we see a lot of in exams goes something like this. In restaurants, the service is very important. I couldn’t agree more, I think the price is also important because blablabla. Ok, as an …
+> … in Australia too. For instance, my wife started complaining about the dirty dishes, and I’m like here we go again. Or the boss suggested we invest in a new cryptocurrency, and I’m like this …
 >
-> — [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus]], [Minute 3:37](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=217) · [[Transcript x2026-06-24#Minute 3|in the transcript]]
+> — [[s05e06 Advertising|S5 E6]], [Minute 6:07](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=367) · [[Transcript s05e06#Minute 6|in the transcript]]
 
-> … doing too much of something. Like, if you overcook the meat, you cook it too long, if you oversleep you stay in bed longer than intended, if you overeat you eat more than is …
+> … advertised most and why do you think that is? Well, nowadays fast food. Again, it's going back to flogging a dead horse, here. But it's just fast food, fast food, fast food. And it's …
 >
-> — [[s06e07 Help|S6 E7]], [Minute 8:42](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=522) · [[Transcript s06e07#Minute 8|in the transcript]]
+> — [[s05e06 Advertising|S5 E6]], [Minute 12:10](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=730) · [[Transcript s05e06#Minute 12|in the transcript]]
 
-> … using yet this way is the service is quite bad in that restaurant. Yet, I keep going back, their burgers are just so good. The burgers are really expensive, yet I still buy two …
+> … first answer. The first was inundated. If you are inundated with fast food advertising then you get lots and lots of it. This word inundated can also be used for an area flooding with …
 >
-> — [[s06e08 Priorities|S6 E8]], [Minute 2:44](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=164) · [[Transcript s06e08#Minute 2|in the transcript]]
+> — [[s05e06 Advertising|S5 E6]], [Minute 14:33](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=873) · [[Transcript s05e06#Minute 14|in the transcript]]
 
-> … be, we paid 100 euros each for dinner last night, but the food was cold when it came out and they forgot to give us our dessert, it was a complete farce. He also …
+> … are advertised most and why do you think that is? I think food, technology, phones, things like that. We have a lot of gambling as well. We do have a lot of gambling. We …
 >
-> — [[s06e08 Priorities|S6 E8]], [Minute 16:36](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=996) · [[Transcript s06e08#Minute 16|in the transcript]]
+> — [[s05e06 Advertising|S5 E6]], [Minute 18:40](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=1120) · [[Transcript s05e06#Minute 18|in the transcript]]
+
+> … Meaning and all that kind of stuff. Another example would be: the restaurant has hamburgers, hot dogs, chicken wings and all that jazz. So, the reason they need to put money into culture is …
+>
+> — [[s05e07 Hometown|S5 E7]], [Minute 6:17](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=377) · [[Transcript s05e07#Minute 6|in the transcript]]
+
+> … time. One thing opens and it closes within a few months. New restaurants are mushrooming. There….I walked last…last night I walked down to the centre and I saw about 5 restaurants that I hadn't …
+>
+> — [[s05e07 Hometown|S5 E7]], [Minute 11:16](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=676) · [[Transcript s05e07#Minute 11|in the transcript]]
+
+> … worth of battery left, or the dog ate a week’s worth of food in one go. One useful collocation to point out is being more conscious about what we use. Pretty much any time …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 3:04](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=184) · [[Transcript s05e09#Minute 3|in the transcript]]
+
+> … would be, when we go camping, I usually do my bit by cooking all the food. Or if you want to live in this house for free then you need to do your bit …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 9:32](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=572) · [[Transcript s05e09#Minute 9|in the transcript]]
+
+> … the verb make or do with it. For example, I’ll say the dishes and you say do, do the dishes. Alright 10 words coming up. A mistake make, make a mistake A speech make, …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 8:23](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=503) · [[Transcript s05e10#Minute 8|in the transcript]]
+
+> … a crisp is to be completely burnt. You can use this for food too, like I tried to cook a steak yesterday but burnt it to a crisp. I didn’t overcook it to a …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 15:51](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=951) · [[Transcript s05e10#Minute 15|in the transcript]]
+
+> … my boat, I prefer eating at home. Or I don’t like Chinese food but Japanese food floats my boat. Another way this is commonly used is saying whatever floats your boat, like whatever you …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 18:07](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=1087) · [[Transcript s05e10#Minute 18|in the transcript]]
 
 > … out with setting the table, putting things in the bin, clearing away food after lunch, easy things like that. And as they get older, I think the chores should become more important, I suppose, …
 >
@@ -76,26 +104,19 @@ how far your vocabulary stretches beyond *delicious* and *tasty*.
 >
 > — [[s06e09 Children|S6 E9]], [Minute 14:15](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=855) · [[Transcript s06e09#Minute 14|in the transcript]]
 
-> … going to love this one. You can be outside and there's three restaurants, right? And there's two on one side of the street and one on the other side of the street. And none …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 9:06](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=546) · [[Transcript s06e10#Minute 9|in the transcript]]
-
-## In these episodes (1)
+## In these episodes (3)
 
 - [[s01e03 Food|S1 E3 – Food]] (2020-08-30) — Show notes
+- [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Minute [11:19](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=679), [13:18](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=798), [15:22](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=922)
+- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [6:07](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=367), [12:10](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=730), [14:33](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=873), [18:40](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=1120)
 
-## Briefly mentioned (10)
+## Briefly mentioned (5)
 
-- [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [8:11](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=491), [17:38](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=1058)
-- [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [6:47](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=407)
-- [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [0:54](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=54)
-- [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [5:30](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=330)
-- [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Minute [13:42](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=822)
-- [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus – Bonus - Speaking Exam Advice]] (2026-06-24) — Minute [3:37](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=217)
-- [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [8:42](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=522)
-- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [2:44](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=164), [16:36](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=996)
+- [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Minute [1:42](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=102), [16:27](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=987), [18:13](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1093)
+- [[s05e07 Hometown|S5 E7 – Hometown]] (2025-05-15) — Minute [6:17](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=377), [11:16](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=676)
+- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Minute [3:04](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=184), [9:32](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=572)
+- [[s05e10 Weekend|S5 E10 – Weekend]] (2025-08-18) — Minute [8:23](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=503), [15:51](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=951), [18:07](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=1087)
 - [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [6:41](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=401), [8:15](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=495), [14:15](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=855)
-- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [9:06](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=546)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

@@ -13,28 +13,28 @@
 | [[s06e04 Motivation\|S6 E4 – Motivation]] | 2026-04-20 | 18:44 | ✅ |
 | [[s06e03 Complaining\|S6 E3 – Complaining]] | 2026-03-20 | 16:59 | ✅ |
 | [[s06e02 Extremes\|S6 E2 – Extremes]] | 2026-02-18 | 19:30 | ✅ |
-| [[s06e01 News\|S6 E1 – News]] | 2026-01-24 | 21:01 | – |
+| [[s06e01 News\|S6 E1 – News]] | 2026-01-24 | 21:01 | ✅ |
 
 ## Season 5
 
 | Episode | Date | Duration | Transcript |
 |---|---|---|---|
-| [[s05e10 Weekend\|S5 E10 – Weekend]] | 2025-08-18 | 19:49 | – |
-| [[s05e09 Climate Change\|S5 E9 – Climate Change]] | 2025-07-14 | 19:59 | – |
-| [[s05e08 Internet\|S5 E8 – Internet]] | 2025-06-17 | 18:52 | – |
-| [[s05e07 Hometown\|S5 E7 – Hometown]] | 2025-05-15 | 17:09 | – |
-| [[s05e06 Advertising\|S5 E6 – Advertising]] | 2025-04-17 | 21:33 | – |
-| [[s05e05 Phrasal Verbs\|S5 E5 – Phrasal Verbs]] | 2025-03-11 | 20:27 | – |
-| [[s05e04 School\|S5 E4 – School]] | 2025-02-07 | 21:28 | – |
-| [[s05e03 Space\|S5 E3 – Space]] | 2025-01-18 | 18:50 | – |
-| [[s05e02 Manners\|S5 E2 – Manners]] | 2024-12-12 | 22:41 | – |
-| [[s05e01 Relaxing\|S5 E1 – Relaxing]] | 2024-11-07 | 17:00 | – |
+| [[s05e10 Weekend\|S5 E10 – Weekend]] | 2025-08-18 | 19:49 | ✅ |
+| [[s05e09 Climate Change\|S5 E9 – Climate Change]] | 2025-07-14 | 19:59 | ✅ |
+| [[s05e08 Internet\|S5 E8 – Internet]] | 2025-06-17 | 18:52 | ✅ |
+| [[s05e07 Hometown\|S5 E7 – Hometown]] | 2025-05-15 | 17:09 | ✅ |
+| [[s05e06 Advertising\|S5 E6 – Advertising]] | 2025-04-17 | 21:33 | ✅ |
+| [[s05e05 Phrasal Verbs\|S5 E5 – Phrasal Verbs]] | 2025-03-11 | 20:27 | ✅ |
+| [[s05e04 School\|S5 E4 – School]] | 2025-02-07 | 21:28 | ✅ |
+| [[s05e03 Space\|S5 E3 – Space]] | 2025-01-18 | 18:50 | ✅ |
+| [[s05e02 Manners\|S5 E2 – Manners]] | 2024-12-12 | 22:41 | ✅ |
+| [[s05e01 Relaxing\|S5 E1 – Relaxing]] | 2024-11-07 | 17:00 | ✅ |
 
 ## Season 4
 
 | Episode | Date | Duration | Transcript |
 |---|---|---|---|
-| [[s04e10 Future\|S4 E10 – Future]] | 2024-03-05 | 16:54 | – |
+| [[s04e10 Future\|S4 E10 – Future]] | 2024-03-05 | 16:54 | ✅ |
 | [[s04e09 History\|S4 E9 – History]] | 2024-01-19 | 17:19 | – |
 | [[s04e08 Holidays\|S4 E8 – Holidays]] | 2023-12-21 | 13:38 | – |
 | [[s04e07 Parenting\|S4 E7 – Parenting]] | 2023-11-18 | 13:52 | – |
@@ -95,14 +95,14 @@
 | Episode | Date | Duration | Transcript |
 |---|---|---|---|
 | [[x2026-06-24 Bonus - Speaking Exam Advice\|Bonus – Bonus - Speaking Exam Advice]] | 2026-06-24 | 6:52 | ✅ |
-| [[x2025-12-16 Xing - Tokyo\|Bonus – Xing - Tokyo]] | 2025-12-16 | 27:28 | – |
-| [[x2025-11-21 Helena - Barcelona\|Bonus – Helena - Barcelona]] | 2025-11-21 | 21:12 | – |
-| [[x2025-11-18 News - I made an app!\|Bonus – News - I made an app!]] | 2025-11-18 | 3:29 | – |
-| [[x2025-09-22 Monologue - Tourism\|Bonus – Monologue - Tourism]] | 2025-09-22 | 6:35 | – |
-| [[x2024-08-02 Melina from Brazil\|Bonus – Melina from Brazil]] | 2024-08-02 | 26:26 | – |
-| [[x2024-06-29 Vietnam and IELTS\|Bonus – Vietnam and IELTS]] | 2024-06-29 | 20:27 | – |
-| [[x2024-05-01 Monologue - Marijuana\|Bonus – Monologue - Marijuana]] | 2024-05-01 | 5:55 | – |
-| [[x2024-04-16 Martyna from Poland\|Bonus – Martyna from Poland]] | 2024-04-16 | 24:59 | – |
+| [[x2025-12-16 Xing - Tokyo\|Bonus – Xing - Tokyo]] | 2025-12-16 | 27:28 | ✅ |
+| [[x2025-11-21 Helena - Barcelona\|Bonus – Helena - Barcelona]] | 2025-11-21 | 21:12 | ✅ |
+| [[x2025-11-18 News - I made an app!\|Bonus – News - I made an app!]] | 2025-11-18 | 3:29 | ✅ |
+| [[x2025-09-22 Monologue - Tourism\|Bonus – Monologue - Tourism]] | 2025-09-22 | 6:35 | ✅ |
+| [[x2024-08-02 Melina from Brazil\|Bonus – Melina from Brazil]] | 2024-08-02 | 26:26 | ✅ |
+| [[x2024-06-29 Vietnam and IELTS\|Bonus – Vietnam and IELTS]] | 2024-06-29 | 20:27 | ✅ |
+| [[x2024-05-01 Monologue - Marijuana\|Bonus – Monologue - Marijuana]] | 2024-05-01 | 5:55 | ✅ |
+| [[x2024-04-16 Martyna from Poland\|Bonus – Martyna from Poland]] | 2024-04-16 | 24:59 | ✅ |
 | [[x2023-01-27 Short and Sweet - Camping\|Bonus – Short and Sweet - Camping]] | 2023-01-27 | 5:59 | – |
 | [[x2022-10-14 Happiness\|Bonus – Happiness]] | 2022-10-14 | 11:54 | – |
 | [[x2022-07-16 Short and sweet - Music\|Bonus – Short and sweet - Music]] | 2022-07-16 | 4:58 | – |

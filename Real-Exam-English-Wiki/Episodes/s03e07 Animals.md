@@ -7,7 +7,7 @@ number: 7
 year: 2022
 date: 2022-02-15
 duration: "15:27"
-spotify: "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW"
+spotify: "https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J"
 transcript: false
 tags: [episode, season-3]
 ---
@@ -17,7 +17,7 @@ tags: [episode, season-3]
 |---|---|
 | **Date** | 2022-02-15 |
 | **Duration** | 15:27 |
-| **Listen** | [Spotify](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW) · [MP3](https://www.buzzsprout.com/1107956/episodes/10082055-s03-7-animals.mp3) |
+| **Listen** | [Spotify](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J) · [MP3](https://www.buzzsprout.com/1107956/episodes/10082055-s03-7-animals.mp3) |
 | **Transcript** | not transcribed yet – see [[How to Transcribe]] |
 | **Topics** | [[Music]], [[Photography & Photos]], [[Animals & Pets]] |
 | **Language** | [[Idioms & Expressions]] |

@@ -19,10 +19,27 @@ Task 2 essay) and a one-to-one Speaking interview (11–14 min, three parts).
 > The background above is general knowledge. What is said **in the podcast** about it follows below,
 > each passage linked to the exact minute.
 
+## Said in the podcast
+
+> … Vietnam and the state of English there. Then we speak about the IELTS English exam, specifically the writing part. The tips given here are quite universal and can be applied to most other English …
+>
+> — [[x2024-06-29 Vietnam and IELTS|Bonus]], [Minute 0:13](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=13) · [[Transcript x2024-06-29#Minute 0|in the transcript]]
+
+> … Real Exam English podcast! Ok, so next I ask Konner about the IELTS English exam, which has two types Academic and General and here he talks about some of the differences. The academic and …
+>
+> — [[x2024-06-29 Vietnam and IELTS|Bonus]], [Minute 5:57](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=357) · [[Transcript x2024-06-29#Minute 5|in the transcript]]
+
+> … China, Korea and Japan with a lot of pressure to pass the IELTS. This idea that you need this amazing special vocabulary that you've only seen as Shakespeare play or a Dickens novel. And …
+>
+> — [[x2024-06-29 Vietnam and IELTS|Bonus]], [Minute 8:04](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=484) · [[Transcript x2024-06-29#Minute 8|in the transcript]]
+
+> … language too. At the start of his first answer he said the IELTS Academic and General were similar, the difference being part 1. This is a great structure to use, the difference being. It …
+>
+> — [[x2024-06-29 Vietnam and IELTS|Bonus]], [Minute 11:47](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=707) · [[Transcript x2024-06-29#Minute 11|in the transcript]]
 
 ## In these episodes (1)
 
-- [[x2024-06-29 Vietnam and IELTS|Bonus – Vietnam and IELTS]] (2024-06-29) — Show notes
+- [[x2024-06-29 Vietnam and IELTS|Bonus – Vietnam and IELTS]] (2024-06-29) — Show notes · Minute [0:13](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=13), [5:57](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=357), [8:04](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=484), [11:47](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=707)
 
 ---
 ← [[Exams]] · [[Real Exam English Wiki|Home]]

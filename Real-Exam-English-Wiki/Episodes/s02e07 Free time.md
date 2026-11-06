@@ -7,7 +7,7 @@ number: 7
 year: 2021
 date: 2021-03-12
 duration: "16:41"
-spotify: "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW"
+spotify: "https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi"
 transcript: false
 tags: [episode, season-2]
 ---
@@ -17,7 +17,7 @@ tags: [episode, season-2]
 |---|---|
 | **Date** | 2021-03-12 |
 | **Duration** | 16:41 |
-| **Listen** | [Spotify](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW) · [MP3](https://www.buzzsprout.com/1107956/episodes/8127593-s02-7-free-time.mp3) |
+| **Listen** | [Spotify](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi) · [MP3](https://www.buzzsprout.com/1107956/episodes/8127593-s02-7-free-time.mp3) |
 | **Transcript** | not transcribed yet – see [[How to Transcribe]] |
 | **Topics** | [[Music]], [[Free Time & Hobbies]], [[Culture & Traditions]] |
 | **Language** | [[Idioms & Expressions]] |

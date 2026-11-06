@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 4
+episodes: 5
 tags: [topics]
 ---
 # News & Media
@@ -20,9 +20,89 @@ News and media are frequent C1/C2 topics, including the reliability of social me
 
 ## Said in the podcast
 
-> … I do. I think that we see people…..we see people on social media. I used to think, people are always talking about going on a diet or working… being praised for working overtime or …
+> … at the moment and the developments, especially in my industry, in the media industry with a…I think you know with a lot of editing tasks and things are going to, you know, podcasters such …
 >
-> — [[s06e02 Extremes|S6 E2]], [Minute 8:06](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=486) · [[Transcript s06e02#Minute 8|in the transcript]]
+> — [[s04e10 Future|S4 E10]], [Minute 6:49](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=409) · [[Transcript s04e10#Minute 6|in the transcript]]
+
+> … concerns you know that are being sort of played out, in the media at any rate, about traditional…..certain types of traditional jobs no longer being, you know, or becoming defunct, so no longer being …
+>
+> — [[s04e10 Future|S4 E10]], [Minute 13:06](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=786) · [[Transcript s04e10#Minute 13|in the transcript]]
+
+> … any rate. She said these concerns are being played out, in the media at any rate. Meaning in the media at least, or in the media to be more exact. Another example would be, …
+>
+> — [[s04e10 Future|S4 E10]], [Minute 15:28](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=928) · [[Transcript s04e10#Minute 15|in the transcript]]
+
+> … is you like I read on my phone. But. I read the news and I find that I have to force myself to read a book now before reading a book was just natural …
+>
+> — [[s05e01 Relaxing|S5 E1]], [Minute 14:10](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=850) · [[Transcript s05e01#Minute 14|in the transcript]]
+
+> … those stories, using another fishing or hunting expression. Similarly he said the news sucks his time away, meaning it takes away too much of his free time. Something could also suck away your energy …
+>
+> — [[s05e01 Relaxing|S5 E1]], [Minute 15:50](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=950) · [[Transcript s05e01#Minute 15|in the transcript]]
+
+> … but obviously using WhatsApp and…has helped a lot. So mobile phones, social media helps me to stay in contact with friends and family who are abroad. I occasionally write letters. I tried to go …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 12:12](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=732) · [[Transcript s05e05#Minute 12|in the transcript]]
+
+> … in the second answer, mobiles, emails, video calls, random posts on social media, even handwritten letters. But as she said the communication often breaks down as she doesn’t send the letters. If something breaks …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 14:03](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=843) · [[Transcript s05e05#Minute 14|in the transcript]]
+
+> … to come here, yeah. Well, do you enjoy keeping up with the news? Good question, I used to almost be like addicted to the news. I would say I had this thing in my …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 17:03](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1023) · [[Transcript s05e05#Minute 17|in the transcript]]
+
+> … door every day. Another phrasal verb came up too, which was the news pops up on the internet someplace. Ok I think everyone is familiar with pop-ups on the internet unfortunately. So things can …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 18:49](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1129) · [[Transcript s05e05#Minute 18|in the transcript]]
+
+> … to what my CEO said about trying to be authentic or the news channel really latched on to the idea of using tiktok to spread the news. But as this speaker said you should …
+>
+> — [[s05e08 Internet|S5 E8]], [Minute 7:37](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=457) · [[Transcript s05e08#Minute 7|in the transcript]]
+
+> … the internet! Do you think it's a good idea to get your news through social media? Ohh, I think if you like to be entertained and you have no interest whatsoever in the truth, …
+>
+> — [[s05e08 Internet|S5 E8]], [Minute 10:07](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=607) · [[Transcript s05e08#Minute 10|in the transcript]]
+
+> … a news channel receives donations from an oil company and then spreads news about climate change not being so bad, there is a hidden agenda. Tell us about a website you like to visit. …
+>
+> — [[s05e08 Internet|S5 E8]], [Minute 11:39](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=699) · [[Transcript s05e08#Minute 11|in the transcript]]
+
+> … Totally. Alright. Do you think it's a good idea to get your news through social media? No, I don't. Not at all. I think it's a terrible idea. I think. I mean, I think …
+>
+> — [[s05e08 Internet|S5 E8]], [Minute 13:55](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=835) · [[Transcript s05e08#Minute 13|in the transcript]]
+
+> … so it’ll is how you say it! What is your opinion on news coverage of climate change? For me, as we've spoken about before, uh, I know climate change is a problem. I'm…I'm not …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 4:11](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=251) · [[Transcript s05e09#Minute 4|in the transcript]]
+
+> … more opinions on climate change coming up. What is your opinion on news coverage of climate change? What's my opinion on news coverage? I think we…the news picks and chooses what they want us …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 13:02](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=782) · [[Transcript s05e09#Minute 13|in the transcript]]
+
+> … Irish, much better! She had a couple of phrasal verbs too. The media don’t want to get into it and they don’t want to piss off the big companies. If they don’t want to …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 15:00](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=900) · [[Transcript s05e09#Minute 15|in the transcript]]
+
+> … most common topics that you encounter when using English, like health, technology, news, environment, and so on. It's also got all of the main grammar areas that you need, from past simple and modal …
+>
+> — [[x2025-11-18 News - I made an app!|Bonus]], [Minute 1:52](https://open.spotify.com/episode/4ny6w4TrSiKpWsvdbSBMJp?t=112) · [[Transcript x2025-11-18#Minute 1|in the transcript]]
+
+> … welcome to the Real Exam English podcast, this episode is about the news. This is a great topic to cover as we are living in an age where we are bombarded with so much …
+>
+> — [[s06e01 News|S6 E1]], [Minute 0:16](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=16) · [[Transcript s06e01#Minute 0|in the transcript]]
+
+> … myself on edge because of it. What impact do you think citizen journalism has on professional journalism? I feel that Professional journalists will have a non-biased viewpoint around the news that they're covering. That …
+>
+> — [[s06e01 News|S6 E1]], [Minute 2:04](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=124) · [[Transcript s06e01#Minute 2|in the transcript]]
+
+> … really upsets you and worries you. Like, I was shaken by the news that my company was closing down. Similarly, she said after the twin towers she felt on edge, meaning tense and nervous. …
+>
+> — [[s06e01 News|S6 E1]], [Minute 3:36](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=216) · [[Transcript s06e01#Minute 3|in the transcript]]
+
+> … mostly for and probably trust that most. In what ways should the media be regulated? Yeah, regulation is an interesting word because where does it stop being regulation and where does it start becoming …
+>
+> — [[s06e01 News|S6 E1]], [Minute 5:12](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=312) · [[Transcript s06e01#Minute 5|in the transcript]]
 
 > … something, you know, either a complaint or delivering, perhaps less than good news. Setting the record straight, pointing out something that is a mismatch or something that's not aligned, where other cultures need to …
 >
@@ -40,58 +120,20 @@ News and media are frequent C1/C2 topics, including the reliability of social me
 >
 > — [[s06e03 Complaining|S6 E3]], [Minute 12:14](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=734) · [[Transcript s06e03#Minute 12|in the transcript]]
 
-> … get plenty of reading practice, from a variety of sources, be it news articles, film reviews, short stories, travel blogs, whatever. But the more you do, the easier it will be. Do you enjoy …
->
-> — [[s06e04 Motivation|S6 E4]], [Minute 12:59](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=779) · [[Transcript s06e04#Minute 12|in the transcript]]
-
-> … will give rise to better educated children. Or the growth of social media has given rise to an increase in misinformation. Super handy that one and it sounds great. Alright guys, that’s all we …
->
-> — [[s06e04 Motivation|S6 E4]], [Minute 18:02](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=1082) · [[Transcript s06e04#Minute 18|in the transcript]]
-
-> … stop checking my phone every two minutes or I’m focussing on positive news in an attempt to rewire my brain to be more optimistic. If you would like to rewire your brain to improve …
->
-> — [[s06e05 Luck|S6 E5]], [Minute 7:42](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=462) · [[Transcript s06e05#Minute 7|in the transcript]]
-
-> … a lot more riskier. I don't know whether that's because of social media or whatever it may be. The roots might still be the same, but like a whole perspective on it is that …
->
-> — [[s06e07 Help|S6 E7]], [Minute 18:06](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1086) · [[Transcript s06e07#Minute 18|in the transcript]]
-
-> … I no longer worry myself about little things. Do you think the media and advertising industries influence what people see as important in life? Absolutely. That's their job and I feel like there has …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 3:30](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=210) · [[Transcript s06e08#Minute 3|in the transcript]]
-
-> … for listening and for all of the messages you send on social media, Spotify, or by email, they are greatly appreciated, thanks very much and keep them coming! All the best till next time, …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 18:12](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=1092) · [[Transcript s06e08#Minute 18|in the transcript]]
-
-> … how special my hometown was. Or it was only when the social media were given huge fines that they changed their behaviour. It was only when I started using cleft sentences that I started …
->
-> — [[s06e09 Children|S6 E9]], [Minute 5:09](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=309) · [[Transcript s06e09#Minute 5|in the transcript]]
-
-> … example would be the celebrity is very adept at dealing with the media. Or she is adept at solving financial crimes. Then we had a phrasal verb, to tip over. She said the children’s …
->
-> — [[s06e09 Children|S6 E9]], [Minute 10:01](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=601) · [[Transcript s06e09#Minute 10|in the transcript]]
-
-> … a lot of choice on what you can consume, that being just media, foods, but I don't think there's as much choice in where you can really promote yourself. I think that it's difficult …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 1:22](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=82) · [[Transcript s06e10#Minute 1|in the transcript]]
-
-## In these episodes (4)
+## In these episodes (5)
 
 - [[x2020-12-07 Season 2 is coming!|Trailer – Season 2 is coming!]] (2020-12-07) — Show notes
-- [[x2025-11-18 News - I made an app!|Bonus – News - I made an app!]] (2025-11-18) — Show notes
-- [[s06e01 News|S6 E1 – News]] (2026-01-24) — Show notes
+- [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Minute [12:12](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=732), [14:03](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=843), [17:03](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1023), [18:49](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1129)
+- [[s05e08 Internet|S5 E8 – Internet]] (2025-06-17) — Minute [7:37](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=457), [10:07](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=607), [11:39](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=699), [13:55](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=835)
+- [[x2025-11-18 News - I made an app!|Bonus – News - I made an app!]] (2025-11-18) — Show notes · Minute [1:52](https://open.spotify.com/episode/4ny6w4TrSiKpWsvdbSBMJp?t=112)
+- [[s06e01 News|S6 E1 – News]] (2026-01-24) — Show notes · Minute [0:16](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=16), [2:04](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=124), [3:36](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=216), [5:12](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=312)
+
+## Briefly mentioned (4)
+
+- [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Minute [6:49](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=409), [13:06](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=786), [15:28](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=928)
+- [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Minute [14:10](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=850), [15:50](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=950)
+- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Minute [4:11](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=251), [13:02](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=782), [15:00](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=900)
 - [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [3:04](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=184), [7:16](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=436), [10:21](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=621), [12:14](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=734)
-
-## Briefly mentioned (7)
-
-- [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [8:06](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=486)
-- [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [12:59](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=779), [18:02](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=1082)
-- [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [7:42](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=462)
-- [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [18:06](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1086)
-- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [3:30](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=210), [18:12](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=1092)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [5:09](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=309), [10:01](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=601)
-- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [1:22](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=82)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

@@ -19,11 +19,11 @@ tags: [episode, season-6]
 | **Duration** | 22:31 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj) · [MP3](https://www.buzzsprout.com/1107956/episodes/19518211-s06-7-help.mp3) |
 | **Transcript** | [[Transcript s06e07]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[City & Country Life]], [[Work & Careers]], [[Money & Finance]], [[Home & Housing]], [[Parenting & Children]], [[History & the Past]], [[Help & Kindness]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |
+| **Topics** | [[City & Country Life]], [[Work & Careers]], [[Home & Housing]], [[Parenting & Children]], [[Help & Kindness]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Past Perfect & Narrative Tenses]] |
 | **Exams** | – |
-| **Accents** | [[Ireland]], [[USA]], [[Non-Native Speakers]] |
-| **Briefly mentioned** | [[Food & Cooking]], [[Sport & Exercise]], [[Technology & the Internet]], [[Books & Reading]], [[TV, Film & Entertainment]], [[Celebrations & Festivals]], [[Global Issues]], [[Shopping & Consumerism]], [[Health & Wellbeing]], [[Friends & Friendship]], [[Family & Relationships]], [[Humour & Comedy]], [[Anger & Emotions]], [[Learning, School & Education]], [[Animals & Pets]], [[Change & Life Changes]], [[Crime & Law]], [[Transport & Traffic]], [[Space & Science]], [[Manners & Politeness]], [[Hometown & Places]], [[News & Media]], [[Luck & Chance]], [[Priorities & Decisions]], [[Collocations]], [[Passive Voice]], [[Past Perfect & Narrative Tenses]], [[Reported Speech]], [[Word Formation]], [[Prepositions]], [[Emphasis & Auxiliaries]], [[Slang & Informal English]], [[Verbs with Many Meanings (get, do, make, take)]], [[Cambridge C1 Advanced (CAE)]], [[Writing Exam]], [[Exam Tips & Preparation]], [[England]], [[Australia]] |
+| **Accents** | – |
+| **Briefly mentioned** | [[Family & Relationships]], [[Money & Finance]], [[Learning, School & Education]], [[Change & Life Changes]], [[Crime & Law]], [[History & the Past]], [[Slang & Informal English]], [[Writing Exam]], [[Ireland]], [[USA]], [[Non-Native Speakers]] |
 
 ## Show notes
 

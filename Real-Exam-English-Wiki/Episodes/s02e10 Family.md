@@ -7,7 +7,7 @@ number: 10
 year: 2021
 date: 2021-04-07
 duration: "18:21"
-spotify: "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW"
+spotify: "https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB"
 transcript: false
 tags: [episode, season-2]
 ---
@@ -17,7 +17,7 @@ tags: [episode, season-2]
 |---|---|
 | **Date** | 2021-04-07 |
 | **Duration** | 18:21 |
-| **Listen** | [Spotify](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW) · [MP3](https://www.buzzsprout.com/1107956/episodes/8289920-s02-10-family.mp3) |
+| **Listen** | [Spotify](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB) · [MP3](https://www.buzzsprout.com/1107956/episodes/8289920-s02-10-family.mp3) |
 | **Transcript** | not transcribed yet – see [[How to Transcribe]] |
 | **Topics** | [[Music]], [[Family & Relationships]], [[Languages & Language Learning]] |
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |

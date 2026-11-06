@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 4
+episodes: 6
 tags: [language]
 ---
 # Conditionals
@@ -20,6 +20,46 @@ _Zero, first, second, third and mixed conditionals, plus inverted forms for C1/C
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … haven't been to. That would be nice, if I could do that, if I had enough money, I would like to do that. Have a nice long trip somewhere for a month or two. …
+>
+> — [[s04e10 Future|S4 E10]], [Minute 1:42](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=102) · [[Transcript s04e10#Minute 1|in the transcript]]
+
+> … to take them around the touristy sites. Really nice, we have a conditional, if they do come, combined with a cleft sentence, what we´re going to do is…and a correct piece of vocabulary in …
+>
+> — [[s04e10 Future|S4 E10]], [Minute 3:43](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=223) · [[Transcript s04e10#Minute 3|in the transcript]]
+
+> … something, so used to here should be following by ING. Martyna’s ones were I was used to speak, and older generations are rather used to have a voice over. Ok so, these should be …
+>
+> — [[x2024-04-16 Martyna from Poland|Bonus]], [Minute 15:38](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=938) · [[Transcript x2024-04-16#Minute 15|in the transcript]]
+
+> … errors at all, and these wouldn´t really affect marks in an exam, unless there were a lot more examples of them. You just make sure your good language outweighs your bad language. One last …
+>
+> — [[x2024-04-16 Martyna from Poland|Bonus]], [Minute 23:10](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1390) · [[Transcript x2024-04-16#Minute 23|in the transcript]]
+
+> … some fascinating stuff there. In the first answer we heard a mixed conditional, I would have never got a job there if I didn't speak English. So the first part of this relates to …
+>
+> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 13:45](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=825) · [[Transcript x2024-08-02#Minute 13|in the transcript]]
+
+> … see one or two just walking around because they're usually they don't unless they because they've got the phones and stuff to socialize, so they don't go out. You just see one or two …
+>
+> — [[s05e02 Manners|S5 E2]], [Minute 5:13](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=313) · [[Transcript s05e02#Minute 5|in the transcript]]
+
+> … the….I like a medium-sized city like Canberra. I'd also go to Newcastle. If I had to move, I'd go to Newcastle cause Newcastle is a bit like Canberra, a bit more cityish, has a …
+>
+> — [[s05e07 Hometown|S5 E7]], [Minute 4:17](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=257) · [[Transcript s05e07#Minute 4|in the transcript]]
+
+> … social media I think is the last place you should be looking, unless you want it for purely entertainment purposes. So true, as he said unless you have no interest whatsoever in the truth, …
+>
+> — [[s05e08 Internet|S5 E8]], [Minute 10:46](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=646) · [[Transcript s05e08#Minute 10|in the transcript]]
+
+> … verbs. Also, we have some advanced grammar in the form of mixed conditionals and cleft sentences. The speakers are from Canada, Australia, South Africa, England and Wales, so lots of different accents for you, …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 0:34](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=34) · [[Transcript s05e09#Minute 0|in the transcript]]
+
+> … And lastly, we had a lovely bit of grammar, an inverted mixed conditional, ooo fancy. He said we have so many more important things that we could change in the short term, had we …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 6:25](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=385) · [[Transcript s05e09#Minute 6|in the transcript]]
 
 > … things, plus some lovely idioms. In terms of grammar, we have inverted conditionals and we also look at how to use either and neither. There’s input from quite a diverse bunch of speakers today, …
 >
@@ -45,10 +85,6 @@ _Zero, first, second, third and mixed conditionals, plus inverted forms for C1/C
 >
 > — [[s06e03 Complaining|S6 E3]], [Minute 13:29](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=809) · [[Transcript s06e03#Minute 13|in the transcript]]
 
-> … So for example, if you're training for a marathon, you obviously, well, unless you're in really good shape, but if you're not in really good shape, you need to build up. And so having …
->
-> — [[s06e04 Motivation|S6 E4]], [Minute 7:20](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=440) · [[Transcript s06e04#Minute 7|in the transcript]]
-
 > … was paved with good intentions, kind of meaning good intentions are useless unless you act on them, it’s not enough just to promise to be good, you have to put in the effort too. …
 >
 > — [[s06e05 Luck|S6 E5]], [Minute 6:07](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=367) · [[Transcript s06e05#Minute 6|in the transcript]]
@@ -56,10 +92,6 @@ _Zero, first, second, third and mixed conditionals, plus inverted forms for C1/C
 > … relationships too actually. As in, you’ll be single all of your life unless you put yourself out there. She had this expression, what are the odds? We use this when you are surprised that …
 >
 > — [[s06e05 Luck|S6 E5]], [Minute 11:11](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=671) · [[Transcript s06e05#Minute 11|in the transcript]]
-
-> … sound a bit weird coming from the mouth of a non-native speaker, unless you are living somewhere in the UK where they use this expression commonly. Another useful phrase was when he was talking …
->
-> — [[s06e06 Creativity|S6 E6]], [Minute 5:40](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=340) · [[Transcript s06e06#Minute 5|in the transcript]]
 
 > … mad. It's like, you lost. You can't fight that, right? Yeah, well, unless you go for like best of five or something. Okay, best of six. Yeah, no, no, it's best of three. We're …
 >
@@ -69,19 +101,23 @@ _Zero, first, second, third and mixed conditionals, plus inverted forms for C1/C
 >
 > — [[s06e10 Decisions|S6 E10]], [Minute 14:47](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=887) · [[Transcript s06e10#Minute 14|in the transcript]]
 
-## In these episodes (4)
+## In these episodes (6)
 
 - [[s03e04 Money|S3 E4 – Money]] (2021-11-15) — Show notes
 - [[x2023-01-27 Short and Sweet - Camping|Bonus – Short and Sweet - Camping]] (2023-01-27) — Show notes
-- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Show notes
+- [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Minute [13:45](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=825)
+- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Show notes · Minute [0:34](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=34), [6:25](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=385)
 - [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Show notes · Minute [0:35](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=35), [12:46](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=766), [14:17](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=857)
-
-## Briefly mentioned (5)
-
 - [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [1:13](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=73), [7:26](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=446), [13:29](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=809)
-- [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [7:20](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=440)
+
+## Briefly mentioned (7)
+
+- [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Minute [1:42](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=102), [3:43](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=223)
+- [[x2024-04-16 Martyna from Poland|Bonus – Martyna from Poland]] (2024-04-16) — Minute [15:38](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=938), [23:10](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1390)
+- [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Minute [5:13](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=313)
+- [[s05e07 Hometown|S5 E7 – Hometown]] (2025-05-15) — Minute [4:17](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=257)
+- [[s05e08 Internet|S5 E8 – Internet]] (2025-06-17) — Minute [10:46](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=646)
 - [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [6:07](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=367), [11:11](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=671)
-- [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Minute [5:40](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=340)
 - [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [9:47](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=587), [14:47](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=887)
 
 ---

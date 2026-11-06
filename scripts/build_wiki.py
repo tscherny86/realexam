@@ -42,9 +42,15 @@ FOLDERS = ["Topics", "Language", "Exams", "Accents"]
 # entries that are in nearly every episode -> episode level only, no quotes
 NO_QUOTES: set[str] = set()
 MAX_QUOTES_PER_EPISODE = 4
-# topic -> episode: main topic only from 5 mentions or a show-notes/title hit, otherwise "briefly mentioned"
-# (the speakers wander through many subjects in one answer, so 3 mentions were too few – checked 07.11.2026)
-MIN_MENTIONS = 5
+# topic -> episode (calibrated on the first 23 transcripts, 07.11.2026): the real subject of an episode is named
+# 30–70 times, genuine side subjects 10–25 times, noise up to about 8. Language points, exams and accents are
+# named explicitly by Trevor, so a few mentions are enough there.
+#   main topic:        title hit, show-notes hit with at least MIN_NOTES mentions, or at least FOLDER_MIN mentions
+#   briefly mentioned: at least FOLDER_MINOR mentions
+# A topic entry may raise its own threshold with "min".
+FOLDER_MIN = {"Topics": 10, "Language": 3, "Exams": 3, "Accents": 3}
+FOLDER_MINOR = {"Topics": 4, "Language": 2, "Exams": 2, "Accents": 2}
+MIN_NOTES = 3
 
 CORRECTIONS: dict = {}  # episode -> Counter of applied correction rules
 ALIGNMENT: dict = {}  # episode -> stats of the official-transcript alignment
@@ -243,10 +249,12 @@ def build() -> None:
     ep_mentions: dict[str, list[str]] = {e["id"]: [] for e in episodes}
     for topic in TOPICS:
         rx = re.compile("|".join(f"(?:{p})" for p in topic["patterns"]), re.IGNORECASE)
-        min_mentions = topic.get("min", MIN_MENTIONS)
+        min_mentions = max(topic.get("min", 0), FOLDER_MIN[topic["folder"]])
+        min_minor = FOLDER_MINOR[topic["folder"]]
         hits = []
         for ep in episodes:
-            in_notes = bool(rx.search(re.sub(r"https?://\S+|www\.\S+", " ", ep["title"] + "\n" + ep["description"])))
+            in_title = bool(rx.search(ep["title"]))
+            in_notes = in_title or bool(rx.search(re.sub(r"https?://\S+|www\.\S+", " ", ep["description"])))
             quotes = []
             words = transcripts[ep["id"]]
             if words and topic["name"] not in NO_QUOTES:
@@ -254,9 +262,11 @@ def build() -> None:
             raw = len(rx.findall(" ".join(w["text"] for w in words))) if words else 0
             if (topic["name"], ep["id"]) in EXCLUDE:
                 continue
-            if in_notes or quotes:
-                main = in_notes or raw >= min_mentions or topic["name"] in NO_QUOTES
-                hits.append({"ep": ep, "in_notes": in_notes, "quotes": quotes, "main": main, "raw": raw})
+            # a show-notes hit counts only if the transcript backs it up (or there is no transcript yet)
+            notes_ok = in_title or (in_notes and (not words or raw >= MIN_NOTES))
+            if notes_ok or raw >= min_minor:
+                main = notes_ok or raw >= min_mentions or topic["name"] in NO_QUOTES
+                hits.append({"ep": ep, "in_notes": notes_ok, "quotes": quotes, "main": main, "raw": raw})
                 if topic["name"] not in NO_QUOTES:
                     if main:
                         ep_topics[ep["id"]][topic["folder"]].append(topic["name"])

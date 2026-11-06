@@ -19,11 +19,11 @@ tags: [episode, season-6]
 | **Duration** | 18:39 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K) · [MP3](https://www.buzzsprout.com/1107956/episodes/19688738-s06-8-priorities.mp3) |
 | **Transcript** | [[Transcript s06e08]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[The Environment & Climate Change]], [[Work & Careers]], [[Money & Finance]], [[Learning, School & Education]], [[Home & Housing]], [[Parenting & Children]], [[Priorities & Decisions]] |
-| **Language** | [[Idioms & Expressions]], [[Collocations]], [[Adverbs]], [[Connectors & Linking Words]], [[Pronunciation]], [[Common Mistakes]], [[Spelling]] |
+| **Topics** | [[The Environment & Climate Change]], [[Parenting & Children]], [[Priorities & Decisions]] |
+| **Language** | [[Idioms & Expressions]], [[Collocations]], [[Pronunciation]], [[Common Mistakes]], [[Organising Your Answer]], [[Spelling]] |
 | **Exams** | – |
 | **Accents** | [[USA]] |
-| **Briefly mentioned** | [[Food & Cooking]], [[Sport & Exercise]], [[Technology & the Internet]], [[Celebrations & Festivals]], [[Global Issues]], [[Shopping & Consumerism]], [[Health & Wellbeing]], [[Friends & Friendship]], [[Communication]], [[Family & Relationships]], [[Anger & Emotions]], [[Animals & Pets]], [[Culture & Traditions]], [[Change & Life Changes]], [[Crime & Law]], [[Languages & Language Learning]], [[Weather & Seasons]], [[Transport & Traffic]], [[History & the Past]], [[The Future & Predictions]], [[Manners & Politeness]], [[Relaxing & Stress]], [[Advertising & Marketing]], [[News & Media]], [[Extremes & Adventure]], [[Help & Kindness]], [[Phrasal Verbs]], [[Passive Voice]], [[Past Perfect & Narrative Tenses]], [[Reported Speech]], [[Emphasis & Auxiliaries]], [[Organising Your Answer]], [[Verbs with Many Meanings (get, do, make, take)]], [[Cambridge C2 Proficiency (CPE)]], [[Speaking Exam]], [[Writing Exam]], [[Ireland]], [[England]] |
+| **Briefly mentioned** | [[Shopping & Consumerism]], [[Work & Careers]], [[Money & Finance]], [[Learning, School & Education]], [[Change & Life Changes]], [[Crime & Law]], [[Languages & Language Learning]], [[Home & Housing]], [[The Future & Predictions]], [[Phrasal Verbs]], [[Adverbs]], [[Emphasis & Auxiliaries]], [[Speaking Exam]], [[Writing Exam]] |
 
 ## Show notes
 

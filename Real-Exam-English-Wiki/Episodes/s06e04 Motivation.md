@@ -19,11 +19,11 @@ tags: [episode, season-6]
 | **Duration** | 18:44 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa) · [MP3](https://www.buzzsprout.com/1107956/episodes/19044420-s06-4-motivation.mp3) |
 | **Transcript** | [[Transcript s06e04]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Sport & Exercise]], [[Books & Reading]], [[Work & Careers]], [[Learning, School & Education]], [[Languages & Language Learning]], [[Complaining & Customer Service]], [[Motivation & Goals]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Prepositions]], [[Slang & Informal English]] |
+| **Topics** | [[Books & Reading]], [[Work & Careers]], [[Languages & Language Learning]], [[Motivation & Goals]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Reported Speech]], [[Prepositions]] |
 | **Exams** | – |
 | **Accents** | – |
-| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Food & Cooking]], [[Technology & the Internet]], [[TV, Film & Entertainment]], [[Friends & Friendship]], [[Anger & Emotions]], [[Money & Finance]], [[Change & Life Changes]], [[Happiness]], [[Crime & Law]], [[Home & Housing]], [[Weather & Seasons]], [[Transport & Traffic]], [[Parenting & Children]], [[History & the Past]], [[Hometown & Places]], [[News & Media]], [[Extremes & Adventure]], [[Help & Kindness]], [[Priorities & Decisions]], [[Conditionals]], [[Question Tags]], [[Comparatives & Superlatives]], [[Adverbs]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]], [[Reported Speech]], [[Emphasis & Auxiliaries]], [[Common Mistakes]], [[Organising Your Answer]], [[Speaking Exam]], [[Writing Exam]], [[Listening & Reading]] |
+| **Briefly mentioned** | [[Sport & Exercise]], [[Learning, School & Education]], [[Complaining & Customer Service]], [[Question Tags]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]], [[Emphasis & Auxiliaries]], [[Organising Your Answer]], [[Writing Exam]], [[Listening & Reading]] |
 
 ## Show notes
 

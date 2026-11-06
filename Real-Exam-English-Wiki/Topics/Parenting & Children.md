@@ -20,6 +20,70 @@ Parenting is a C1/C2 topic; childhood memories are a B2 long-turn favourite.
 
 ## Said in the podcast
 
+> … I don't think, I think you know, things like coding that the kids are gonna learn, I think that the kids are learning at the moment. I think any job like that is going …
+>
+> — [[s04e10 Future|S4 E10]], [Minute 7:17](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=437) · [[Transcript s04e10#Minute 7|in the transcript]]
+
+> … we’ll have to buy a new car. Or I´d like to have children at some point in the future. On the other hand, in her first answer she said I think for the immediate …
+>
+> — [[s04e10 Future|S4 E10]], [Minute 13:50](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=830) · [[Transcript s04e10#Minute 13|in the transcript]]
+
+> … as they used to be. I think as when I was a child, please and thank you saying hello to people in the street when you pass them by was considered the norm and …
+>
+> — [[s05e02 Manners|S5 E2]], [Minute 1:08](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=68) · [[Transcript s05e02#Minute 1|in the transcript]]
+
+> … out the little bit of the worst in each other because they're kids, kids be kids. And I think that's the only or sort of, I suppose the only interaction that, these older people …
+>
+> — [[s05e02 Manners|S5 E2]], [Minute 5:23](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=323) · [[Transcript s05e02#Minute 5|in the transcript]]
+
+> … groups of people, the youth, youngsters, the elderly. They said that the kids bring out the worst in each other, meaning they influence each other in a negative way. This is a set phrase …
+>
+> — [[s05e02 Manners|S5 E2]], [Minute 7:09](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=429) · [[Transcript s05e02#Minute 7|in the transcript]]
+
+> … that kind of thing. Who should be responsible for teaching manners to children? The parents. I try my best. My kid’s a bit autistic, so he doesn't quite understand what he's been told half …
+>
+> — [[s05e02 Manners|S5 E2]], [Minute 11:57](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=717) · [[Transcript s05e02#Minute 11|in the transcript]]
+
+> … the most common topics in English exams, especially if you are a teenager and are doing exams like First for Schools for instance. So we talk about useful school subjects, school trips, positive learning …
+>
+> — [[s05e04 School|S5 E4]], [Minute 0:21](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=21) · [[Transcript s05e04#Minute 0|in the transcript]]
+
+> … once! Or you might hear a mum ironically saying to her teenage child, oh don’t bother making the bed, I’ll do it. He used this great word to describe the kids in his school, …
+>
+> — [[s05e04 School|S5 E4]], [Minute 3:06](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=186) · [[Transcript s05e04#Minute 3|in the transcript]]
+
+> … pass my C1 exam, easier than done. Or can you get the kids to tidy their bedrooms? Uff, that’s easier said than done. Is it a good idea for schools to take the students …
+>
+> — [[s05e04 School|S5 E4]], [Minute 7:04](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=424) · [[Transcript s05e04#Minute 7|in the transcript]]
+
+> … ones or the easy ones, do have an importance and they allow children to express their creativity and to think in a different way. As does PE, PE helps them to relax and stay …
+>
+> — [[s05e04 School|S5 E4]], [Minute 9:01](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=541) · [[Transcript s05e04#Minute 9|in the transcript]]
+
+> … want. I don't wanna be advertised like nappies. I don't have a baby. I wanna be advertised an Xbox game because I like to play Xbox. So yeah, I do think it's a bit …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 3:41](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=221) · [[Transcript s05e06#Minute 3|in the transcript]]
+
+> … that, you want it too. Should firms be allowed to advertise to children? I'm going to say no. It’s…..it gets you into a very sticky situation, doesn't it? As a parent, when you're, when …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 7:16](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=436) · [[Transcript s05e06#Minute 7|in the transcript]]
+
+> … nice use of do was in her question tags, you disappoint the kids, don’t you and it gets you into a sticky situation, doesn’t it. Alright, we focused on question tags a few episodes …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 9:04](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=544) · [[Transcript s05e06#Minute 9|in the transcript]]
+
+> … And then. Sunday, I usually work on my own podcast because my kid goes swimming, so Sundays more sort of a chill day, but I take the opportunity to work on the things that …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 6:08](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=368) · [[Transcript s05e10#Minute 6|in the transcript]]
+
+> … my goodness is a safer option, something you could say around your kids or your granny or your examiner. She also said because she and her family are so white they burn to a …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 15:37](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=937) · [[Transcript s05e10#Minute 15|in the transcript]]
+
+> … then said her little one was there, her little one is her child and then when talking about their friends they used mates, mates, mates. Ok, this is quite British and Australian, in the …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 18:47](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=1127) · [[Transcript s05e10#Minute 18|in the transcript]]
+
 > … was outside shoveling snow and all the dads and, it was, the kids were off school. It was a, it was a fun time. But I remember like there was a woman on in …
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 4:35](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=275) · [[Transcript s06e02#Minute 4|in the transcript]]
@@ -27,14 +91,6 @@ Parenting is a C1/C2 topic; childhood memories are a B2 long-turn favourite.
 > … covid our factory ground to a halt or when I had my baby, my English studies ground to a halt. Speaking of babies, he told this story of a lady who was due a …
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 6:12](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=372) · [[Transcript s06e02#Minute 6|in the transcript]]
-
-> … demotivated. Also, you have motivational, like a motivational speaker. Unmotivated, like the teenager seemed unmotivated. For nouns, someone or something which motivates is a motivator, you can have two motivators and the opposite is …
->
-> — [[s06e04 Motivation|S6 E4]], [Minute 10:06](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=606) · [[Transcript s06e04#Minute 10|in the transcript]]
-
-> … off each other during interactive debates, true story that! Or when the kids are pretending to be pirates, they really spark off each and have great fun. Lastly, he said that people sparking off …
->
-> — [[s06e04 Motivation|S6 E4]], [Minute 17:28](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=1048) · [[Transcript s06e04#Minute 17|in the transcript]]
 
 > … good intentions or they totally disappear. Other examples are when you have kids, privacy goes out the window, or when I’m on holidays, my healthy diet goes out the window. Then he said that …
 >
@@ -51,10 +107,6 @@ Parenting is a C1/C2 topic; childhood memories are a B2 long-turn favourite.
 > … know? I've had my hard times, you know? I only have one child 'cause I wasn't supposed to survive the childbirth of my daughter, nor was she supposed to survive, yeah. We were medically …
 >
 > — [[s06e05 Luck|S6 E5]], [Minute 16:46](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=1006) · [[Transcript s06e05#Minute 16|in the transcript]]
-
-> … topic to cover as it touches so many other topics like art, childhood, work, psychology, loads. We have lots of top-notch collocations, a bunch of phrasal verbs, some super-useful verbs and a lovely homophone. …
->
-> — [[s06e06 Creativity|S6 E6]], [Minute 0:21](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=21) · [[Transcript s06e06#Minute 0|in the transcript]]
 
 > … on what the help is with. Usually, even though I have adult kids now, I still turn to my dad when I have things that I can't figure out or things that I need …
 >
@@ -104,29 +156,22 @@ Parenting is a C1/C2 topic; childhood memories are a B2 long-turn favourite.
 >
 > — [[s06e09 Children|S6 E9]], [Minute 6:58](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=418) · [[Transcript s06e09#Minute 6|in the transcript]]
 
-> … ways. The other major way is paper, rock, scissors. Who's changing that baby's diaper today? I don't know. Paper, rock, scissors. And there's no one mad. No one's mad. It's like, you lost. You …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 9:37](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=577) · [[Transcript s06e10#Minute 9|in the transcript]]
-
-> … to fight your case and when to leave it off. As in, parents of teenage children have to know when to pick their battles as there’s no point arguing about every little thing. As …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 15:31](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=931) · [[Transcript s06e10#Minute 15|in the transcript]]
-
 ## In these episodes (8)
 
 - [[s04e07 Parenting|S4 E7 – Parenting]] (2023-11-18) — Show notes
-- [[s05e04 School|S5 E4 – School]] (2025-02-07) — Show notes
-- [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [4:35](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=275), [6:12](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=372)
+- [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Minute [1:08](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=68), [5:23](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=323), [7:09](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=429), [11:57](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=717)
+- [[s05e04 School|S5 E4 – School]] (2025-02-07) — Show notes · Minute [0:21](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=21), [3:06](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=186), [7:04](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=424), [9:01](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=541)
+- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [3:41](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=221), [7:16](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=436), [9:04](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=544)
 - [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [5:49](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=349), [8:24](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=504), [10:01](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=601), [16:46](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=1006)
-- [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Show notes · Minute [0:21](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=21)
 - [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [1:02](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=62), [2:38](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=158), [5:26](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=326), [11:27](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=687)
 - [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [6:04](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=364), [9:00](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=540), [11:47](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=707), [15:01](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=901)
 - [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Show notes · Minute [0:16](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=16), [1:52](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=112), [5:19](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=319), [6:58](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=418)
 
-## Briefly mentioned (2)
+## Briefly mentioned (3)
 
-- [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [10:06](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=606), [17:28](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=1048)
-- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [9:37](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=577), [15:31](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=931)
+- [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Minute [7:17](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=437), [13:50](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=830)
+- [[s05e10 Weekend|S5 E10 – Weekend]] (2025-08-18) — Minute [6:08](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=368), [15:37](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=937), [18:47](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=1127)
+- [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [4:35](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=275), [6:12](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=372)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

@@ -19,11 +19,11 @@ tags: [episode, season-6]
 | **Duration** | 19:30 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l) · [MP3](https://www.buzzsprout.com/1107956/episodes/18698305-s06-2-extremes.mp3) |
 | **Transcript** | [[Transcript s06e02]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[TV, Film & Entertainment]], [[Work & Careers]], [[Learning, School & Education]], [[Weather & Seasons]], [[Transport & Traffic]], [[Parenting & Children]], [[Extremes & Adventure]], [[Help & Kindness]] |
-| **Language** | [[Idioms & Expressions]], [[Conditionals]], [[Inversion]], [[Past Perfect & Narrative Tenses]], [[Confusing Words & Homophones]] |
-| **Exams** | [[Listening & Reading]] |
+| **Topics** | [[Learning, School & Education]], [[Weather & Seasons]], [[Extremes & Adventure]], [[Help & Kindness]] |
+| **Language** | [[Idioms & Expressions]], [[Conditionals]], [[Inversion]], [[Past Perfect & Narrative Tenses]], [[Emphasis & Auxiliaries]] |
+| **Exams** | [[Cambridge C1 Advanced (CAE)]], [[Writing Exam]] |
 | **Accents** | [[Ireland]], [[USA]] |
-| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Food & Cooking]], [[Sport & Exercise]], [[Technology & the Internet]], [[Health & Wellbeing]], [[Free Time & Hobbies]], [[Humour & Comedy]], [[Anger & Emotions]], [[Photography & Photos]], [[Money & Finance]], [[Culture & Traditions]], [[Change & Life Changes]], [[Happiness]], [[Languages & Language Learning]], [[Home & Housing]], [[History & the Past]], [[Relaxing & Stress]], [[Hometown & Places]], [[News & Media]], [[Luck & Chance]], [[Phrasal Verbs]], [[Collocations]], [[Cleft Sentences]], [[Passive Voice]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]], [[Prepositions]], [[Emphasis & Auxiliaries]], [[Common Mistakes]], [[Slang & Informal English]], [[Verbs with Many Meanings (get, do, make, take)]], [[Cambridge B2 First (FCE)]], [[Cambridge C1 Advanced (CAE)]], [[Cambridge C2 Proficiency (CPE)]], [[Speaking Exam]], [[Writing Exam]], [[England]] |
+| **Briefly mentioned** | [[TV, Film & Entertainment]], [[Work & Careers]], [[Money & Finance]], [[Happiness]], [[Languages & Language Learning]], [[Home & Housing]], [[Transport & Traffic]], [[Parenting & Children]], [[Collocations]], [[Passive Voice]], [[Prepositions]], [[Slang & Informal English]], [[Cambridge B2 First (FCE)]], [[Cambridge C2 Proficiency (CPE)]] |
 
 ## Show notes
 

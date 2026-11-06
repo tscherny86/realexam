@@ -20,13 +20,101 @@ tenses and reflective language.
 
 ## Said in the podcast
 
-> … This means to feel accepted by a group of people. Like, I changed school as I didn’t really fit in in my old one, or I fit in with my new yoga group straight …
+> … But I think with AI a lot of jobs are going to change drastically very soon. I don't necessarily think for some people it's going to be brilliant. For me, not so much. Alright, …
 >
-> — [[s06e02 Extremes|S6 E2]], [Minute 9:14](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=554) · [[Transcript s06e02#Minute 9|in the transcript]]
+> — [[s04e10 Future|S4 E10]], [Minute 7:54](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=474) · [[Transcript s04e10#Minute 7|in the transcript]]
 
-> … saying if I had not been a fan of extreme weather, she changes it to had I not been. Ok we invert the subject and the verb, instead of I had, it’s now had …
+> … of technology and energy. So skills that focus on, sort of, climate change adaptation. So I think those will be very helpful. And then also technology skills because we are becoming more and more …
 >
-> — [[s06e02 Extremes|S6 E2]], [Minute 14:19](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=859) · [[Transcript s06e02#Minute 14|in the transcript]]
+> — [[s04e10 Future|S4 E10]], [Minute 11:57](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=717) · [[Transcript s04e10#Minute 11|in the transcript]]
+
+> … So speaking of the future, in the next episodes I’m going to change the formula, a little bit at any rate. We’re gonna have some interviews with people who have passed their C1 and …
+>
+> — [[s04e10 Future|S4 E10]], [Minute 15:59](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=959) · [[Transcript s04e10#Minute 15|in the transcript]]
+
+> … that's the challenge. Always as a native speaker, right. How do you change your language a little bit so that you can be understood by everybody? Yes. And it's sometimes it's quite a good …
+>
+> — [[x2024-04-16 Martyna from Poland|Bonus]], [Minute 4:22](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=262) · [[Transcript x2024-04-16#Minute 4|in the transcript]]
+
+> … or other or using other streaming tools then it is possible to change, to select between voice over and subtitles. And especially older generations are rather used to have a voiceover. Yeah, I suppose …
+>
+> — [[x2024-04-16 Martyna from Poland|Bonus]], [Minute 11:25](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=685) · [[Transcript x2024-04-16#Minute 11|in the transcript]]
+
+> … a big difficulty for me before the pandemic, but now it has changed a lot because most of people use online tools and not everyone likes to switch on the camera. Uh. In fact, …
+>
+> — [[x2024-04-16 Martyna from Poland|Bonus]], [Minute 20:47](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1247) · [[Transcript x2024-04-16#Minute 20|in the transcript]]
+
+> … to people when they said hello to them. And I think that's changing a little bit, people are not as open and I do think it's rude if you see your neighbor every day …
+>
+> — [[s05e02 Manners|S5 E2]], [Minute 1:26](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=86) · [[Transcript s05e02#Minute 1|in the transcript]]
+
+> … or a proposal. Like the onus is on the government to implement changes. Or the onus is on the public to take measures to combat climate changes. To shift onto then means to move …
+>
+> — [[s05e02 Manners|S5 E2]], [Minute 16:05](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=965) · [[Transcript s05e02#Minute 16|in the transcript]]
+
+> … they are. But I also think that my definition of celebrity has changed as well, so I'd consider, I think nowadays people would buy from an influencer more than that than just the celebrity …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 6:32](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=392) · [[Transcript s05e06#Minute 6|in the transcript]]
+
+> … so this is where you report what somebody said, and you gotta change things like verb tenses, time references and pronouns. So I’ll give you a phrase like I am happy and you gotta …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 10:10](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=610) · [[Transcript s05e06#Minute 10|in the transcript]]
+
+> … I mean, this is another thing going back to how Spain has changed. When I came to Spain, you did not see fat people, especially youngsters, you never saw fat young people and the …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 12:33](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=753) · [[Transcript s05e06#Minute 12|in the transcript]]
+
+> … matter how much you talk about it the situation isn’t going to change. There were two other really useful words in this first answer. The first was inundated. If you are inundated with fast …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 14:25](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=865) · [[Transcript s05e06#Minute 14|in the transcript]]
+
+> … long. And then I had children and settled down and your perspective changes, doesn't it? You decided other things are more important than just living in lots of different places, your family, your social …
+>
+> — [[s05e07 Hometown|S5 E7]], [Minute 2:21](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=141) · [[Transcript s05e07#Minute 2|in the transcript]]
+
+> … those. Ok, back to the questions. How has your hometown or city changed over the last few years? Recent changes, I notice a lot of small businesses are changing hands all the time. One …
+>
+> — [[s05e07 Hometown|S5 E7]], [Minute 11:01](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=661) · [[Transcript s05e07#Minute 11|in the transcript]]
+
+> … is usually just used for properties or businesses. Like, the local bar changes hands every few years. He also said that new restaurants were mushrooming, meaning they are popping up, like mushrooms, or more …
+>
+> — [[s05e07 Hometown|S5 E7]], [Minute 12:39](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=759) · [[Transcript s05e07#Minute 12|in the transcript]]
+
+> … I went to Leicester numerous occasions. Certainly not, probably not enough has changed. You know that hometown thing where you think it's going to be different and you go back and not a whole …
+>
+> — [[s05e07 Hometown|S5 E7]], [Minute 14:13](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=853) · [[Transcript s05e07#Minute 14|in the transcript]]
+
+> … in touch with your friends and neighbours. Having said that, this is changing a little bit in Ireland and many of the younger generations prefer to meet up in coffee shops rather than the …
+>
+> — [[s05e08 Internet|S5 E8]], [Minute 2:38](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=158) · [[Transcript s05e08#Minute 2|in the transcript]]
+
+> … also use “joking aside” or “joking apart” in the same way, to change the tone to a more serious one. He said that news on social media is biased, meaning it favours one side …
+>
+> — [[s05e08 Internet|S5 E8]], [Minute 11:16](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=676) · [[Transcript s05e08#Minute 11|in the transcript]]
+
+> … welcome to the Real Exam English podcast. This episode is about climate change, which is a really hot topic, forgive the pun. If you are preparing for an exam you definitely gotta study this …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 0:16](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=16) · [[Transcript s05e09#Minute 0|in the transcript]]
+
+> … every day, you know. Ok, let’s see. We had some nice climate change related vocabulary here. He said it’s not the everyday person who’s causing global warming. Ok global warming you should all know …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 1:54](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=114) · [[Transcript s05e09#Minute 1|in the transcript]]
+
+> … you say it! What is your opinion on news coverage of climate change? For me, as we've spoken about before, uh, I know climate change is a problem. I'm…I'm not one of these people …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 4:13](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=253) · [[Transcript s05e09#Minute 4|in the transcript]]
+
+> … harping on about the importance of doing homework. Also, he said climate change is not the be all and end all of life. Many people would argue that it is exactly that, the end …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 6:00](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=360) · [[Transcript s05e09#Minute 6|in the transcript]]
+
+> … and lots of Australians use it too! How have your weekend activities changed over time? My weekends have never been like a typical weekend. I've really commonly always done work that falls on the …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 4:18](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=258) · [[Transcript s05e10#Minute 4|in the transcript]]
+
+> … for those of you who listened to the previous episode about climate change. Ok, hopefully you did ok there and didn’t make a mess of those. Back to the questions now: Tell us about …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 9:27](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=567) · [[Transcript s05e10#Minute 9|in the transcript]]
 
 > … your mode of operating, so to speak. For example, the bank robbers changed their modus operandi when they realised the police were investigating them. Then we had these three different phrases with the word …
 >
@@ -39,10 +127,6 @@ tenses and reflective language.
 > … wider audience. But I actually don't think the amount of complaining has changed. I think that different generations complained about different things. And some of those complaints really effected positive change, such as women …
 >
 > — [[s06e03 Complaining|S6 E3]], [Minute 10:30](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=630) · [[Transcript s06e03#Minute 10|in the transcript]]
-
-> … tags we use the auxiliary verb from the first sentence and then change from a positive to a negative. So discipline is better than motivation any day of the week, isn’t it really. And …
->
-> — [[s06e04 Motivation|S6 E4]], [Minute 5:39](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=339) · [[Transcript s06e04#Minute 5|in the transcript]]
 
 > … in it to win it thing, isn't it? It's the opportunity of changing your life. My granddad puts the lottery on every single week. He has the same numbers. I think now it's got …
 >
@@ -59,18 +143,6 @@ tenses and reflective language.
 > … our life to, have that dream, to have that moment of potentially life-changing win or, even if it's just a bet on a football match. At the same time it mightn’t be life-changing but …
 >
 > — [[s06e05 Luck|S6 E5]], [Minute 14:32](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=872) · [[Transcript s06e05#Minute 14|in the transcript]]
-
-> … who really defined creativity in two different ways. So the creativity of changing the world, where something happens and you can never go back to the way it was before, such as the internet, …
->
-> — [[s06e06 Creativity|S6 E6]], [Minute 10:33](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=633) · [[Transcript s06e06#Minute 10|in the transcript]]
-
-> … who, or which or whatever. She continued with So the creativity of changing the world, where something happens and you can never go back to the way it was before, such as the internet. …
->
-> — [[s06e06 Creativity|S6 E6]], [Minute 12:15](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=735) · [[Transcript s06e06#Minute 12|in the transcript]]
-
-> … vague or weak. Like, politicians make wishy-washy promises about how they will change the country. Or if you give wishy-washy answers in a job interview, the hiring manager may think you don’t know what …
->
-> — [[s06e06 Creativity|S6 E6]], [Minute 16:37](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=997) · [[Transcript s06e06#Minute 16|in the transcript]]
 
 > … the financial means or social means to help their kids. That really changed my mind about who needs to help people. My first response to her when she said, well, if the government doesn't …
 >
@@ -108,28 +180,26 @@ tenses and reflective language.
 >
 > — [[s06e09 Children|S6 E9]], [Minute 8:47](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=527) · [[Transcript s06e09#Minute 8|in the transcript]]
 
-> … the major ways. The other major way is paper, rock, scissors. Who's changing that baby's diaper today? I don't know. Paper, rock, scissors. And there's no one mad. No one's mad. It's like, you …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 9:37](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=577) · [[Transcript s06e10#Minute 9|in the transcript]]
-
 ## In these episodes (5)
 
 - [[s02e09 Communications|S2 E9 – Communications]] (2021-03-26) — Show notes
 - [[s03e10 Change|S3 E10 – Change]] (2022-06-09) — Show notes
-- [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Show notes
-- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Show notes
+- [[s05e07 Hometown|S5 E7 – Hometown]] (2025-05-15) — Minute [2:21](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=141), [11:01](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=661), [12:39](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=759), [14:13](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=853)
+- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Show notes · Minute [0:16](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=16), [1:54](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=114), [4:13](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=253), [6:00](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=360)
 - [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [0:55](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=55), [3:14](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=194), [5:04](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=304), [8:47](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=527)
 
-## Briefly mentioned (8)
+## Briefly mentioned (10)
 
-- [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [9:14](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=554), [14:19](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=859)
+- [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Minute [7:54](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=474), [11:57](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=717), [15:59](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=959)
+- [[x2024-04-16 Martyna from Poland|Bonus – Martyna from Poland]] (2024-04-16) — Minute [4:22](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=262), [11:25](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=685), [20:47](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1247)
+- [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Minute [1:26](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=86), [16:05](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=965)
+- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [6:32](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=392), [10:10](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=610), [12:33](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=753), [14:25](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=865)
+- [[s05e08 Internet|S5 E8 – Internet]] (2025-06-17) — Minute [2:38](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=158), [11:16](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=676)
+- [[s05e10 Weekend|S5 E10 – Weekend]] (2025-08-18) — Minute [4:18](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=258), [9:27](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=567)
 - [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [5:27](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=327), [7:17](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=437), [10:30](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=630)
-- [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [5:39](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=339)
 - [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [3:22](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=202), [5:03](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=303), [7:29](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=449), [14:32](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=872)
-- [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Minute [10:33](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=633), [12:15](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=735), [16:37](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=997)
 - [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [2:40](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=160), [16:56](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1016)
 - [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [2:55](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=175), [5:44](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=344), [16:24](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=984)
-- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [9:37](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=577)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

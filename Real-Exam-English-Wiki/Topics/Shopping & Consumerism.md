@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 1
+episodes: 3
 tags: [topics]
 ---
 # Shopping & Consumerism
@@ -22,13 +22,33 @@ advertising.
 
 ## Said in the podcast
 
-> … very, I get her to like even taking things back to the shops. Like refunds at the shops and stuff like that. I won't go in. I can't deal with that. Like you go …
+> … you would like to read exactly what the speakers say then you purchase the transcripts over on the podcast section of webpage, realexamenglish.com Ok, question time, let’s go: Is it more enjoyable to watch …
 >
-> — [[s06e03 Complaining|S6 E3]], [Minute 7:08](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=428) · [[Transcript s06e03#Minute 7|in the transcript]]
+> — [[s05e06 Advertising|S5 E6]], [Minute 1:08](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=68) · [[Transcript s05e06#Minute 1|in the transcript]]
 
-> … not being able to have a credit card, not being able to buy a house on her own, to me not even thinking about buying a house on my own. And so those complaints …
+> … thing that's advertised the most. Some people say advertising encourages us to buy things we don't really need. What do you think? I think that's the whole point of advertising. But I kind of …
 >
-> — [[s06e03 Complaining|S6 E3]], [Minute 10:53](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=653) · [[Transcript s06e03#Minute 10|in the transcript]]
+> — [[s05e06 Advertising|S5 E6]], [Minute 3:18](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=198) · [[Transcript s05e06#Minute 3|in the transcript]]
+
+> … is gonna end badly. Do you think more people are likely to buy a product if a celebrity recommends it? Yes. I think they are. But I also think that my definition of celebrity …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 6:20](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=380) · [[Transcript s05e06#Minute 6|in the transcript]]
+
+> … are toys and then you just disappoint your kids when you don't buy them all these things, don't you? You sure do; I feel her pain! I like her use of do. She used …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 8:11](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=491) · [[Transcript s05e06#Minute 8|in the transcript]]
+
+> … and just general neglect. I think I would improve that and the shopping, it's atrocious. All the shops are closing down, but I think that's happening all around the world. Physical shops are closing …
+>
+> — [[s05e07 Hometown|S5 E7]], [Minute 1:47](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=107) · [[Transcript s05e07#Minute 1|in the transcript]]
+
+> … city, the university city across the Menai Straits and half of the shops have shut down. There's only really charity shops and sort of odd coffee shops and pubs left. There's no like real …
+>
+> — [[s05e07 Hometown|S5 E7]], [Minute 7:44](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=464) · [[Transcript s05e07#Minute 7|in the transcript]]
+
+> … something that grows or expands very quickly. Like, the number of vape shops mushroomed in the town or the use of AI in schools has mushroomed recently. One other thing to point out in …
+>
+> — [[s05e07 Hometown|S5 E7]], [Minute 12:54](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=774) · [[Transcript s05e07#Minute 12|in the transcript]]
 
 > … would like to study that language in more detail then you can purchase the transcripts for this and all episodes over on the Real Exam English website, realexamenglish.com Let’s crack on with the questions: …
 >
@@ -38,18 +58,6 @@ advertising.
 >
 > — [[s06e05 Luck|S6 E5]], [Minute 4:00](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=240) · [[Transcript s06e05#Minute 4|in the transcript]]
 
-> … Another place to be careful using rehearsed answers is with expressions to buy time. Last Saturday I was examining and the first 10 students I examined all said That’s a tricky question, they must’ve …
->
-> — [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus]], [Minute 4:22](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=262) · [[Transcript x2026-06-24#Minute 4|in the transcript]]
-
-> … very quickly, like the horse in her example, or also something like sales of a product or popularity of a TV series, or even about your career. For instance, when the footballer started playing …
->
-> — [[s06e07 Help|S6 E7]], [Minute 15:37](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=937) · [[Transcript s06e07#Minute 15|in the transcript]]
-
-> … or, it's just like, keep moving, keep moving. They just want to buy liquor. That's what they told you back in the day. And it's now it's just like, do you know what the …
->
-> — [[s06e07 Help|S6 E7]], [Minute 20:07](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1207) · [[Transcript s06e07#Minute 20|in the transcript]]
-
 > … footprint, all of those things, do things sustainable. Yet, we continue to buy things on Amazon or I buy things so I can have it instantaneously. And that is more economic growth than environmental …
 >
 > — [[s06e08 Priorities|S6 E8]], [Minute 1:09](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=69) · [[Transcript s06e08#Minute 1|in the transcript]]
@@ -57,10 +65,6 @@ advertising.
 > … are just so good. The burgers are really expensive, yet I still buy two every time I go there. How have your personal priorities changed over the last five years? I have found that …
 >
 > — [[s06e08 Priorities|S6 E8]], [Minute 2:51](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=171) · [[Transcript s06e08#Minute 2|in the transcript]]
-
-> … detail. For transcripts for the episode go to realexamenglish.com and you can purchase the transcripts there, which is an excellent way to get the most out of these episodes. Alright then, let’s go with …
->
-> — [[s06e09 Children|S6 E9]], [Minute 0:44](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=44) · [[Transcript s06e09#Minute 0|in the transcript]]
 
 > … group decisions, such as choosing a place to go or something to buy? You're going to love this one. You can be outside and there's three restaurants, right? And there's two on one side …
 >
@@ -70,18 +74,16 @@ advertising.
 >
 > — [[s06e10 Decisions|S6 E10]], [Minute 14:06](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=846) · [[Transcript s06e10#Minute 14|in the transcript]]
 
-## In these episodes (1)
+## In these episodes (3)
 
 - [[s02e04 Shopping|S2 E4 – Shopping]] (2021-02-12) — Show notes
+- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [1:08](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=68), [3:18](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=198), [6:20](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=380), [8:11](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=491)
+- [[s05e07 Hometown|S5 E7 – Hometown]] (2025-05-15) — Minute [1:47](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=107), [7:44](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=464), [12:54](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=774)
 
-## Briefly mentioned (7)
+## Briefly mentioned (3)
 
-- [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [7:08](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=428), [10:53](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=653)
 - [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [0:36](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=36), [4:00](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=240)
-- [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus – Bonus - Speaking Exam Advice]] (2026-06-24) — Minute [4:22](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=262)
-- [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [15:37](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=937), [20:07](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1207)
 - [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [1:09](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=69), [2:51](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=171)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [0:44](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=44)
 - [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [9:01](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=541), [14:06](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=846)
 
 ---

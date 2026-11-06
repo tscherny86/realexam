@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 1
+episodes: 2
 tags: [topics]
 ---
 # Friends & Friendship
@@ -21,13 +21,61 @@ A gentle B2/C1 topic that is often used to test the vocabulary of personality an
 
 ## Said in the podcast
 
-> … order to contrast with how people complain now he used our old friend whereas, whereas now you have some old lad posting on X. Super important connector that one, for contrasting things. Do you …
+> … are you going to do this weekend? This weekend I've got some friends coming over from the UK. If they manage to get here because there are strikes, aren't there? And they're flying with …
 >
-> — [[s06e03 Complaining|S6 E3]], [Minute 13:14](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=794) · [[Transcript s06e03#Minute 13|in the transcript]]
+> — [[s04e10 Future|S4 E10]], [Minute 1:53](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=113) · [[Transcript s04e10#Minute 1|in the transcript]]
 
-> … through something means you had to endure something, something difficult. Like, my friends are going through a divorce right now. In fact, often when we use through in phrasal verbs, it means enduring something …
+> … family? Hopefully my husband. Well, aside from my husband, who's technically my best friend, I'm quite close to my brother. My brother's four years younger and he lives in England and he visits once …
 >
-> — [[s06e04 Motivation|S6 E4]], [Minute 11:56](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=716) · [[Transcript s06e04#Minute 11|in the transcript]]
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 6:55](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=415) · [[Transcript s05e05#Minute 6|in the transcript]]
+
+> … might get upset by it. For instance, if you said to your friend that the dinner they cooked was spicy and you thought they might get offended you could say, don’t get me wrong, …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 8:33](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=513) · [[Transcript s05e05#Minute 8|in the transcript]]
+
+> … So mobile phones, social media helps me to stay in contact with friends and family who are abroad. I occasionally write letters. I tried to go back to the handwritten postcard letters and then …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 12:15](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=735) · [[Transcript s05e05#Minute 12|in the transcript]]
+
+> … actually working today and I'm going out later to meet with a friend. We'll go somewhere a little bit special in Australia where the cost of living is insane and I am a student …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 16:08](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=968) · [[Transcript s05e05#Minute 16|in the transcript]]
+
+> … don't socialize. They don't go to the bar, they don't meet their friends, they don't do sports. So yes, the Internet, I think has very many negative impacts on our free time. Alright, a …
+>
+> — [[s05e08 Internet|S5 E8]], [Minute 1:33](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=93) · [[Transcript s05e08#Minute 1|in the transcript]]
+
+> … And that means that you know you do see your people, your friends less and talk to them a bit less, I guess back in the 80s, it would have been, oh, I'm bored, …
+>
+> — [[s05e08 Internet|S5 E8]], [Minute 3:39](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=219) · [[Transcript s05e08#Minute 3|in the transcript]]
+
+> … to latch on to means to grab and hold something, like my friend latched on to my arm during the horror movie, but in this case, it’s used figuratively, like people grab hold of …
+>
+> — [[s05e08 Internet|S5 E8]], [Minute 7:20](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=440) · [[Transcript s05e08#Minute 7|in the transcript]]
+
+> … yeah, you know, he he's talking about his boring life, and his friend comes who has this amazing life in London. And he thinks that he should be better and he should be a …
+>
+> — [[s05e08 Internet|S5 E8]], [Minute 13:13](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=793) · [[Transcript s05e08#Minute 13|in the transcript]]
+
+> … weekend was in there and we basically spent a night with a friend and then spent four nights at this big drum and bass festival. It was heaps of fun, got very drunk the …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 1:45](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=105) · [[Transcript s05e10#Minute 1|in the transcript]]
+
+> … was when I had a real weekend. I would relax with some friends and stuff, but it really hasn't altered in all of my 20s and and now I'm 32 and it's been about …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 4:52](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=292) · [[Transcript s05e10#Minute 4|in the transcript]]
+
+> … since. So any, any road trip where I'm meeting people that are friends that I don't usually get to meet is my favorite kind of trip. Sounds great. One cultural observation to point out. …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 6:44](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=404) · [[Transcript s05e10#Minute 6|in the transcript]]
+
+> … my element; or he’s in his element talking about football with his mates, or she’s in her element rearranging her wardrobe. He also mentioned he liked being away from the hustle and bustle of …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 11:55](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=715) · [[Transcript s05e10#Minute 11|in the transcript]]
+
+> … people who live in the countries that I have been visiting, make friends. So I do have a lot of friends who are not from Spain and those people live like, for instance, in …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 9:06](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=546) · [[Transcript x2025-11-21#Minute 9|in the transcript]]
 
 > … role. Out of the blue meaning unexpectedly or without warning. Like my friend called me out of the blue to say he was coming to visit. Do you carry any lucky objects or have …
 >
@@ -41,48 +89,18 @@ A gentle B2/C1 topic that is often used to test the vocabulary of personality an
 >
 > — [[s06e05 Luck|S6 E5]], [Minute 10:03](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=603) · [[Transcript s06e05#Minute 10|in the transcript]]
 
-> … This means it’s too complicated for him to understand. Like, when my friends started talking about the rules of rugby, it went right over my head. Then we had some essential vocabulary for talking …
->
-> — [[s06e06 Creativity|S6 E6]], [Minute 5:58](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=358) · [[Transcript s06e06#Minute 5|in the transcript]]
-
-> … was reluctant to go out last night as very few of my friends were going out, but I ended up having a great time. Or I was reluctant to speak about politics on my …
->
-> — [[s06e07 Help|S6 E7]], [Minute 11:06](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=666) · [[Transcript s06e07#Minute 11|in the transcript]]
-
-> … use that in exams, use it in English class, use it with friends, use it wherever. How have your personal priorities changed over the last five years? Massively. I'm 32 now, so my priorities …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 5:40](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=340) · [[Transcript s06e08#Minute 5|in the transcript]]
-
-> … compared to when you were younger? I can only talk about my friends and family's younger children. I don't have children myself, but there is a lot more digital, a lot more digital. So …
->
-> — [[s06e09 Children|S6 E9]], [Minute 0:59](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=59) · [[Transcript s06e09#Minute 0|in the transcript]]
-
-> … supportive community who help the parents to raise a child, that’s family, friends, neighbours, teachers and anyone else who helps out. It’s a lovely proverb and a good one for any of you listeners …
->
-> — [[s06e09 Children|S6 E9]], [Minute 19:33](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1173) · [[Transcript s06e09#Minute 19|in the transcript]]
-
-> … a group, you decide. Check out realexamenglish.com! How do you and your friends or family make group decisions, such as choosing a place to go or something to buy? You're going to love this …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 8:57](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=537) · [[Transcript s06e10#Minute 8|in the transcript]]
-
-> … yourself, it would probably sound quite unnatural. How do you and your friends or family make group decisions such as choosing a place to go or something to buy? Well, I'm outnumbered. Three girls …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 14:21](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=861) · [[Transcript s06e10#Minute 14|in the transcript]]
-
-## In these episodes (1)
+## In these episodes (2)
 
 - [[s02e06 Friends|S2 E6 – Friends]] (2021-03-06) — Show notes
+- [[s05e10 Weekend|S5 E10 – Weekend]] (2025-08-18) — Minute [1:45](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=105), [4:52](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=292), [6:44](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=404), [11:55](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=715)
 
-## Briefly mentioned (8)
+## Briefly mentioned (5)
 
-- [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [13:14](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=794)
-- [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [11:56](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=716)
+- [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Minute [1:53](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=113)
+- [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Minute [6:55](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=415), [8:33](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=513), [12:15](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=735), [16:08](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=968)
+- [[s05e08 Internet|S5 E8 – Internet]] (2025-06-17) — Minute [1:33](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=93), [3:39](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=219), [7:20](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=440), [13:13](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=793)
+- [[x2025-11-21 Helena - Barcelona|Bonus – Helena - Barcelona]] (2025-11-21) — Minute [9:06](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=546)
 - [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [2:15](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=135), [8:31](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=511), [10:03](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=603)
-- [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Minute [5:58](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=358)
-- [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [11:06](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=666)
-- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [5:40](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=340)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [0:59](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=59), [19:33](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1173)
-- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [8:57](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=537), [14:21](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=861)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

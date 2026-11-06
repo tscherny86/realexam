@@ -21,29 +21,17 @@ perfect (*If I had known…*).
 
 ## Said in the podcast
 
-> … popped into my head at the funeral but reading the room, I decided it wasn’t the best moment to tell it. Or as a teacher you need to read the room and decide which …
+> … aimed at them and be a bit more discerning with what we choose. So I do think that companies shouldn't advertise directly to children. You know when, when at, I don't know, 9:00 in …
 >
-> — [[s06e03 Complaining|S6 E3]], [Minute 5:05](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=305) · [[Transcript s06e03#Minute 5|in the transcript]]
+> — [[s05e06 Advertising|S5 E6]], [Minute 7:48](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=468) · [[Transcript s05e06#Minute 7|in the transcript]]
 
-> … that point was of use maybe. So if you can pick and choose, you know, but as a rule, I think, They keep people in jobs to tell you what you already know. A …
+> … with: you have to be a bit more discerning with what you choose, meaning you are more careful about deciding what to choose. This is very often used when talking about buying something, like …
 >
-> — [[s06e04 Motivation|S6 E4]], [Minute 11:23](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=683) · [[Transcript s06e04#Minute 11|in the transcript]]
+> — [[s05e06 Advertising|S5 E6]], [Minute 9:33](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=573) · [[Transcript s05e06#Minute 9|in the transcript]]
 
-> … or clients. She also mentioned that deadlines can squash creativity, nice verb choice, meaning to kill creativity, or make it disappear. You could also squash a rumour, for example, or the leader of the …
+> … when keep on talking about something that has already been discussed or decided and no matter how much you talk about it the situation isn’t going to change. There were two other really useful …
 >
-> — [[s06e06 Creativity|S6 E6]], [Minute 7:58](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=478) · [[Transcript s06e06#Minute 7|in the transcript]]
-
-> … that’s a tricky question, it’s kind of ridiculous right. So, pick and choose when you use these set expressions and work on making them sound as natural as possible. The same thing applies if …
->
-> — [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus]], [Minute 4:47](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=287) · [[Transcript x2026-06-24#Minute 4|in the transcript]]
-
-> … if you over-give it implies you give so much that it is prioritizing other people’s needs over you own. Do you think communities today are more or less helpful than in the past? That's …
->
-> — [[s06e07 Help|S6 E7]], [Minute 8:55](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=535) · [[Transcript s06e07#Minute 8|in the transcript]]
-
-> … street? Luck. It's just chance circumstances. You don't know what your next decision or not even your decision, something that could happen to you that has nothing to do with anything that you've done. …
->
-> — [[s06e07 Help|S6 E7]], [Minute 20:18](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1218) · [[Transcript s06e07#Minute 20|in the transcript]]
+> — [[s05e06 Advertising|S5 E6]], [Minute 14:21](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=861) · [[Transcript s05e06#Minute 14|in the transcript]]
 
 > … and welcome to the Real Exam English podcast. This episode is about priorities and has a fantastic mix of adverbs, spelling, idioms, pronunciation, collocations, common mistakes, connectors and a fancy grammatical structure that we …
 >
@@ -82,13 +70,9 @@ perfect (*If I had known…*).
 - [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Show notes · Minute [0:16](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=16), [2:54](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=174), [5:43](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=343), [7:44](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=464)
 - [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Show notes · Minute [0:15](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=15), [2:06](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=126), [5:02](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=302), [7:24](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=444)
 
-## Briefly mentioned (5)
+## Briefly mentioned (1)
 
-- [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [5:05](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=305)
-- [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [11:23](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=683)
-- [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Minute [7:58](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=478)
-- [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus – Bonus - Speaking Exam Advice]] (2026-06-24) — Minute [4:47](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=287)
-- [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [8:55](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=535), [20:18](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1218)
+- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [7:48](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=468), [9:33](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=573), [14:21](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=861)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

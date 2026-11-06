@@ -22,6 +22,30 @@ report, review), Listening (40 min), Speaking (15 min).
 
 ## Said in the podcast
 
+> … it easy. Or I think I´m getting the hang of the Cambridge C1 grammar, but that´s not the say I think I´ll pass the exam. We had another useful phrase for clarifying what you …
+>
+> — [[s04e10 Future|S4 E10]], [Minute 15:15](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=915) · [[Transcript s04e10#Minute 15|in the transcript]]
+
+> … Martyna, is actually a student of mine, and last year passed her C1 exam. Well, she passed her C1 exam but in the speaking part she got a C2, which is the highest mark …
+>
+> — [[x2024-04-16 Martyna from Poland|Bonus]], [Minute 0:26](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=26) · [[Transcript x2024-04-16#Minute 0|in the transcript]]
+
+> … like this it’s important to organise it well. And you did your C1 exam last year, right? And passed it. Congratulations. Yes, exactly. Thank you. That was in. Yeah, in November. That's true. Uh. …
+>
+> — [[x2024-04-16 Martyna from Poland|Bonus]], [Minute 16:46](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1006) · [[Transcript x2024-04-16#Minute 16|in the transcript]]
+
+> … this episode is about advertising. One of my students just did a C1 exam this month and had to do a writing about advertising so it’s definitely a hot topic to cover. Before we …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 0:19](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=19) · [[Transcript s05e06#Minute 0|in the transcript]]
+
+> … answers there to start off, maybe a little too short for a C1 or C2 exam, you could make them a bit longer to show off what English you know. She did have one …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 1:54](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=114) · [[Transcript s05e06#Minute 1|in the transcript]]
+
+> … also essential in writing. If you look at how they mark a C1 Cambridge writing for example, in order to get a maximum 5 marks for organization you need to use, and I quote …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 17:52](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=1072) · [[Transcript s05e06#Minute 17|in the transcript]]
+
 > … year and it is also covered in different ways at B2 and C1 levels. So you’re gonna hear lots of useful vocabulary for talking about doing extreme things, plus some lovely idioms. In terms …
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 0:24](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=24) · [[Transcript s06e02#Minute 0|in the transcript]]
@@ -34,30 +58,15 @@ report, review), Listening (40 min), Speaking (15 min).
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 14:31](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=871) · [[Transcript s06e02#Minute 14|in the transcript]]
 
-> … converse with somebody. I was giving a word formation exercise in a C1 class recently and this word came up and caused people problems. So, you all know conversation I’m sure, so the verb …
->
-> — [[s06e06 Creativity|S6 E6]], [Minute 13:30](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=810) · [[Transcript s06e06#Minute 13|in the transcript]]
-
-> … of how to use it are: I am reluctant to take the C1 exam because my writing isn’t good enough. Or I was reluctant to go out last night as very few of my …
->
-> — [[s06e07 Help|S6 E7]], [Minute 11:00](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=660) · [[Transcript s06e07#Minute 11|in the transcript]]
-
-> … fantastic dystopian novel Brave New World, by Aldous Huxley. One of my C1 students is actually reading it at the moment, shout out to Robert, and said it is quite readable for someone of …
->
-> — [[s06e09 Children|S6 E9]], [Minute 13:01](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=781) · [[Transcript s06e09#Minute 13|in the transcript]]
-
 ## In these episodes (3)
 
-- [[x2024-04-16 Martyna from Poland|Bonus – Martyna from Poland]] (2024-04-16) — Show notes
-- [[s05e04 School|S5 E4 – School]] (2025-02-07) — Show notes
-- [[x2025-11-18 News - I made an app!|Bonus – News - I made an app!]] (2025-11-18) — Show notes
-
-## Briefly mentioned (4)
-
+- [[x2024-04-16 Martyna from Poland|Bonus – Martyna from Poland]] (2024-04-16) — Show notes · Minute [0:26](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=26), [16:46](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1006)
+- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [0:19](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=19), [1:54](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=114), [17:52](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=1072)
 - [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [0:24](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=24), [5:13](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=313), [14:31](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=871)
-- [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Minute [13:30](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=810)
-- [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [11:00](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=660)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [13:01](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=781)
+
+## Briefly mentioned (1)
+
+- [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Minute [15:15](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=915)
 
 ---
 ← [[Exams]] · [[Real Exam English Wiki|Home]]

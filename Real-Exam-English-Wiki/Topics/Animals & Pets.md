@@ -21,36 +21,38 @@ From *Do you have a pet?* to C2 debates on animal testing and zoos – animals c
 
 ## Said in the podcast
 
-> … can use nor and invert the subject and the auxiliary verb. My dog can’t swim, nor can my cat. She doesn’t like inversions, nor does he. Lastly, she said you can find that silver …
+> … system, it's really not sustainable. So when we think about livestock, meat, animal source foods and food waste. So we really I think we're going to have to rethink that really quickly if we …
 >
-> — [[s06e05 Luck|S6 E5]], [Minute 18:05](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=1085) · [[Transcript s06e05#Minute 18|in the transcript]]
+> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 11:41](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=701) · [[Transcript x2024-08-02#Minute 11|in the transcript]]
 
-> … I come home from work, I spend some time loving on my cats. So she explained these kids were afraid and had people delving into their lives. To delve into means to try really …
+> … and meat, she also used the word livestock which refers to all animals and birds that are kept on farms, including sheep and chickens too. She used the word herd, H.E.R.D, which is the …
 >
-> — [[s06e07 Help|S6 E7]], [Minute 6:01](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=361) · [[Transcript s06e07#Minute 6|in the transcript]]
+> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 14:56](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=896) · [[Transcript x2024-08-02#Minute 14|in the transcript]]
 
-> … August, it’s way too hot. Or I wouldn’t dream of getting a dog, they are too much responsibility. Lastly, he said nowadays you can’t just float about here, there and everywhere. Float about implies …
+> … moment that will be underwater a bit later. They'll be, you know, animals will be dying. You know, eventually the plants will die. It'll, it'll affect people massively negatively and…..I suppose if we do …
 >
-> — [[s06e07 Help|S6 E7]], [Minute 19:03](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1143) · [[Transcript s06e07#Minute 19|in the transcript]]
+> — [[s05e09 Climate Change|S5 E9]], [Minute 1:20](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=80) · [[Transcript s05e09#Minute 1|in the transcript]]
 
-> … I go to the gym. So I used to be a party animal and now I'm a lot more calm and collective. If anything, I'm quite boring nowadays, if I'm going to be honest …
+> … my phone only has 5 minutes’ worth of battery left, or the dog ate a week’s worth of food in one go. One useful collocation to point out is being more conscious about what …
 >
-> — [[s06e08 Priorities|S6 E8]], [Minute 6:16](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=376) · [[Transcript s06e08#Minute 6|in the transcript]]
+> — [[s05e09 Climate Change|S5 E9]], [Minute 3:03](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=183) · [[Transcript s05e09#Minute 3|in the transcript]]
 
-> … a greater quantity of one thing than another. Like in my neighbourhood dogs outnumber cats or the pros of this decision greatly outnumber the cons. Then later on he said you have to pick …
+> … have a good education, or it’s not on me to walk the dog, it’s your pet! The businessmen, they said, were going left, right and centre in jets. Going left, right and centre means …
 >
-> — [[s06e10 Decisions|S6 E10]], [Minute 15:19](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=919) · [[Transcript s06e10#Minute 15|in the transcript]]
+> — [[s05e09 Climate Change|S5 E9]], [Minute 10:27](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=627) · [[Transcript s05e09#Minute 10|in the transcript]]
+
+> … concerned about are, I think about more like biodiversity collapse, all these animals that can no longer live, and because those animals can't live the plants that they sustain off or sustain from can …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 16:01](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=961) · [[Transcript s05e09#Minute 16|in the transcript]]
 
 ## In these episodes (1)
 
 - [[s03e07 Animals|S3 E7 – Animals]] (2022-02-15) — Show notes
 
-## Briefly mentioned (4)
+## Briefly mentioned (2)
 
-- [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [18:05](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=1085)
-- [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [6:01](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=361), [19:03](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1143)
-- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [6:16](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=376)
-- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [15:19](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=919)
+- [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Minute [11:41](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=701), [14:56](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=896)
+- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Minute [1:20](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=80), [3:03](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=183), [10:27](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=627), [16:01](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=961)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

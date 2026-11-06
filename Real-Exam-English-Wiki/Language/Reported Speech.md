@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 0
+episodes: 3
 tags: [language]
 ---
 # Reported Speech
@@ -19,9 +19,25 @@ _Reporting what people said, with tense backshift and reporting verbs._
 
 ## Said in the podcast
 
-> … speaker was talking about with two different cultures with different modi operandi. He said that his wife can come across as rude to British people. We’ve had this phrasal verb before, to come across …
+> … from, we would say couch, and the US is couch country too. He said that he can put his legs up on the couch. This reminds me of another idiom meaning to relax, which …
 >
-> — [[s06e03 Complaining|S6 E3]], [Minute 8:00](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=480) · [[Transcript s06e03#Minute 8|in the transcript]]
+> — [[s05e01 Relaxing|S5 E1]], [Minute 5:50](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=350) · [[Transcript s05e01#Minute 5|in the transcript]]
+
+> … of the conversation turned aggressive once they started discussing politics. Ok so he said that he works all hours of the day and the night. You can actually shorten this expression too, and just …
+>
+> — [[s05e01 Relaxing|S5 E1]], [Minute 12:30](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=750) · [[Transcript s05e01#Minute 12|in the transcript]]
+
+> … and it wins a lot of times. Great answers there from Canada. He said that reading settles the mind. This means that it helps his mind to relax and not be so active. Phones, …
+>
+> — [[s05e01 Relaxing|S5 E1]], [Minute 15:04](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=904) · [[Transcript s05e01#Minute 15|in the transcript]]
+
+> … expression before, the first thing that springs to mind, really handy expression. He said that government should put money into culture, meaning they should invest in it. Well, he said into culture and arts …
+>
+> — [[s05e07 Hometown|S5 E7]], [Minute 6:00](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=360) · [[Transcript s05e07#Minute 6|in the transcript]]
+
+> … to start studying English again after a one-month hiatus. Love that. Also, he said that some of the buildings have different façades, meaning different fronts of the buildings. This word, façade, comes from French …
+>
+> — [[s05e07 Hometown|S5 E7]], [Minute 16:06](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=966) · [[Transcript s05e07#Minute 16|in the transcript]]
 
 > … In the second answer, he was talking about his college work and he said that he was procrastinating, and before he knew it, the deadline was the next day. This expression, before I knew …
 >
@@ -43,35 +59,15 @@ _Reporting what people said, with tense backshift and reporting verbs._
 >
 > — [[s06e05 Luck|S6 E5]], [Minute 14:50](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=890) · [[Transcript s06e05#Minute 14|in the transcript]]
 
-> … each other getting a house, a job, etc. On the other hand, he said that people in cities are more reluctant to step in. This word reluctant is super useful and I hear very …
->
-> — [[s06e07 Help|S6 E7]], [Minute 10:35](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=635) · [[Transcript s06e07#Minute 10|in the transcript]]
+## In these episodes (3)
 
-> … without a doubt. Very emphatic, and much nicer than just I agree. He said that the Climate Change Conference COP25 was a complete farce, meaning it was a load of rubbish or a sham …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 16:23](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=983) · [[Transcript s06e08#Minute 16|in the transcript]]
-
-> … they have to understand that. Some top vocabulary in the first answer. He said that technology is ingrained in their lives, meaning it is firmly fixed or rooted in their lives. You could also …
->
-> — [[s06e09 Children|S6 E9]], [Minute 7:20](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=440) · [[Transcript s06e09#Minute 7|in the transcript]]
-
-> … And it was actually a tough question so it was appropriate that he said that. He followed that with a lovely expression for giving your point of view and that was I’m a firm …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 4:08](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=248) · [[Transcript s06e10#Minute 4|in the transcript]]
-
-## In these episodes (0)
-
-_no episode yet where this was a main topic_
-
-## Briefly mentioned (7)
-
-- [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [8:00](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=480)
+- [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Minute [5:50](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=350), [12:30](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=750), [15:04](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=904)
 - [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [6:27](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=387), [12:23](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=743), [17:10](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=1030)
 - [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [4:32](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=272), [14:50](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=890)
-- [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [10:35](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=635)
-- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [16:23](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=983)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [7:20](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=440)
-- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [4:08](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=248)
+
+## Briefly mentioned (1)
+
+- [[s05e07 Hometown|S5 E7 – Hometown]] (2025-05-15) — Minute [6:00](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=360), [16:06](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=966)
 
 ---
 ← [[Language]] · [[Real Exam English Wiki|Home]]

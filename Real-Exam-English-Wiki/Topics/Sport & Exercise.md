@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 2
+episodes: 1
 tags: [topics]
 ---
 # Sport & Exercise
@@ -25,17 +25,41 @@ exercise more.
 
 ## Said in the podcast
 
-> … for details about classes, you’ll fit right in! Do you enjoy extreme sports or activities? Yes, massively. I'm super activity friendly. Like whenever I go on holiday with us, I always want to do …
+> … are you going to do this weekend? Well, Saturday morning, we'll be running at the track, as normal, with our triathlon club and then we go for breakfast, so that'll be that. Then we'll …
 >
-> — [[s06e02 Extremes|S6 E2]], [Minute 9:56](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=596) · [[Transcript s06e02#Minute 9|in the transcript]]
+> — [[s04e10 Future|S4 E10]], [Minute 9:53](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=593) · [[Transcript s04e10#Minute 9|in the transcript]]
 
-> … days as extreme weather becomes ever more common. Do you enjoy extreme sports or activities? Not so much anymore. I'm older. I don't want to break nothing. I'm pretty active, as in like, I'll …
+> … more literal meaning of the word track, he said he is going running at the track with his triathlon club, the track being the circuit that athletes run around. So, he is going running …
 >
-> — [[s06e02 Extremes|S6 E2]], [Minute 15:43](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=943) · [[Transcript s06e02#Minute 15|in the transcript]]
+> — [[s04e10 Future|S4 E10]], [Minute 11:24](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=684) · [[Transcript s04e10#Minute 11|in the transcript]]
 
-> … would typically be disgruntled are employees, customers and maybe supporters of a sports team. As an example, my job involves dealing with disgruntled clients all day. The first answer, then, was loaded with top-notch …
+> … the media to be more exact. Another example would be, this grammar exercise is really hard, for me at any rate. Or that painting must be priceless, or worth a few million at any …
 >
-> — [[s06e03 Complaining|S6 E3]], [Minute 4:14](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=254) · [[Transcript s06e03#Minute 4|in the transcript]]
+> — [[s04e10 Future|S4 E10]], [Minute 15:35](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=935) · [[Transcript s04e10#Minute 15|in the transcript]]
+
+> … definitely music. How important do you think it is to include physical exercise at school? Super important. Kids should be getting 30 to 60 minutes a day minimum, and there are so many teachers …
+>
+> — [[s05e04 School|S5 E4]], [Minute 1:27](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=87) · [[Transcript s05e04#Minute 1|in the transcript]]
+
+> … pumping so they can actually concentrate better after having done some physical exercise and focus on their important math lesson. So I think they're all important. Really, I would, I would take religion out …
+>
+> — [[s05e04 School|S5 E4]], [Minute 9:18](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=558) · [[Transcript s05e04#Minute 9|in the transcript]]
+
+> … attitude and enthusiasm would be the most important. How important is physical exercise at school? I think it is of utmost importance. Because you have, especially when you're into your teenage years, you're getting …
+>
+> — [[s05e04 School|S5 E4]], [Minute 14:48](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=888) · [[Transcript s05e04#Minute 14|in the transcript]]
+
+> … building? OK. Probably so in the UK I remember very large concrete football pitches, which is very UK. I would say that's probably my biggest memory that jumps out and then complete contrast to …
+>
+> — [[s05e04 School|S5 E4]], [Minute 17:17](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=1037) · [[Transcript s05e04#Minute 17|in the transcript]]
+
+> … gambling there, which is when you bet money on something, usually a sport or horse racing. He also mentioned Australians love a punt, again which means they love gambling. However, because of problems with …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 4:17](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=257) · [[Transcript s05e06#Minute 4|in the transcript]]
+
+> … allowed to do it. I think it's promoting binge drinking, isn't it? Sports. Yeah. Sports, gambling and fast foods mainly. I think the main three big ones, I would agree. And I suppose is …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 19:02](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=1142) · [[Transcript s05e06#Minute 19|in the transcript]]
 
 > … cover as it is connected to so many other topics, work, study, sport, learning English even. So we have 7 different speakers today, with different accents, talking about how they stay motivated. So you’re …
 >
@@ -53,56 +77,16 @@ exercise more.
 >
 > — [[s06e04 Motivation|S6 E4]], [Minute 10:43](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=643) · [[Transcript s06e04#Minute 10|in the transcript]]
 
-> … see, and that you have potential. Like nobody wanted to sign the footballer for their team but the manager saw something in him and he turned out to be a great player. We also …
->
-> — [[s06e05 Luck|S6 E5]], [Minute 1:59](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=119) · [[Transcript s06e05#Minute 1|in the transcript]]
-
-> … potentially life-changing win or, even if it's just a bet on a football match. At the same time it mightn’t be life-changing but it keeps you interested, it adds a little bit of something …
->
-> — [[s06e05 Luck|S6 E5]], [Minute 14:40](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=880) · [[Transcript s06e05#Minute 14|in the transcript]]
-
-> … V Ronaldo example, which is perfect, for those of you who follow football. Messi, as he said, is naturally gifted whereas Ronaldo is taught gifted. He said nature v nurture is what it all …
->
-> — [[s06e06 Creativity|S6 E6]], [Minute 6:20](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=380) · [[Transcript s06e06#Minute 6|in the transcript]]
-
-> … this verb to converse with somebody. I was giving a word formation exercise in a C1 class recently and this word came up and caused people problems. So, you all know conversation I’m sure, …
->
-> — [[s06e06 Creativity|S6 E6]], [Minute 13:29](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=809) · [[Transcript s06e06#Minute 13|in the transcript]]
-
-> … would be when my boss retired, his son stepped up and started running the company. Actually, the speaker had some top vocabulary relating to business, which was that she had an entrepreneurial spirit. An …
->
-> — [[s06e07 Help|S6 E7]], [Minute 6:55](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=415) · [[Transcript s06e07#Minute 6|in the transcript]]
-
-> … a TV series, or even about your career. For instance, when the footballer started playing for Barcelona his career really took off. Curiously, in the first question about who she would turn to when …
->
-> — [[s06e07 Help|S6 E7]], [Minute 15:44](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=944) · [[Transcript s06e07#Minute 15|in the transcript]]
-
-> … So my priorities have massively changed my health. I go to the gym. So I used to be a party animal and now I'm a lot more calm and collective. If anything, I'm quite …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 6:14](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=374) · [[Transcript s06e08#Minute 6|in the transcript]]
-
-> … to criticize or speak to someone in an angry manner. Like, the football manager was berated by the supporters for losing the match. Or the teacher berated the students for their poor behaviour. Are …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 12:13](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=733) · [[Transcript s06e08#Minute 12|in the transcript]]
-
-> … I think it gives kids an idea of what's involved in in running a house and then in living because things don't happen by magic and they have to understand that. Some top vocabulary …
->
-> — [[s06e09 Children|S6 E9]], [Minute 7:11](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=431) · [[Transcript s06e09#Minute 7|in the transcript]]
-
-## In these episodes (2)
+## In these episodes (1)
 
 - [[s01e04 Sport and exercise|S1 E4 – Sport and exercise]] (2020-08-30) — Show notes
+
+## Briefly mentioned (4)
+
+- [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Minute [9:53](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=593), [11:24](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=684), [15:35](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=935)
+- [[s05e04 School|S5 E4 – School]] (2025-02-07) — Minute [1:27](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=87), [9:18](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=558), [14:48](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=888), [17:17](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=1037)
+- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [4:17](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=257), [19:02](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=1142)
 - [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [0:21](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=21), [4:15](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=255), [7:49](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=469), [10:43](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=643)
-
-## Briefly mentioned (7)
-
-- [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [9:56](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=596), [15:43](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=943)
-- [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [4:14](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=254)
-- [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [1:59](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=119), [14:40](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=880)
-- [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Minute [6:20](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=380), [13:29](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=809)
-- [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [6:55](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=415), [15:44](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=944)
-- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [6:14](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=374), [12:13](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=733)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [7:11](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=431)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

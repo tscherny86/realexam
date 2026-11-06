@@ -7,7 +7,7 @@ number: 0
 year: 2022
 date: 2022-07-16
 duration: "4:58"
-spotify: "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW"
+spotify: "https://open.spotify.com/episode/0bpjtRvhYcRAOnDCFmrBJE"
 transcript: false
 tags: [episode, season-0]
 ---
@@ -17,7 +17,7 @@ tags: [episode, season-0]
 |---|---|
 | **Date** | 2022-07-16 |
 | **Duration** | 4:58 |
-| **Listen** | [Spotify](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW) · [MP3](https://www.buzzsprout.com/1107956/episodes/10970230-short-and-sweet-music.mp3) |
+| **Listen** | [Spotify](https://open.spotify.com/episode/0bpjtRvhYcRAOnDCFmrBJE) · [MP3](https://www.buzzsprout.com/1107956/episodes/10970230-short-and-sweet-music.mp3) |
 | **Transcript** | not transcribed yet – see [[How to Transcribe]] |
 | **Topics** | [[Music]] |
 | **Language** | [[Connectors & Linking Words]] |

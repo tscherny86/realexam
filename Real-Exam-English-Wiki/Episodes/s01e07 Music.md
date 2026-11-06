@@ -7,7 +7,7 @@ number: 7
 year: 2020
 date: 2020-09-17
 duration: "12:25"
-spotify: "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW"
+spotify: "https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf"
 transcript: false
 tags: [episode, season-1]
 ---
@@ -17,7 +17,7 @@ tags: [episode, season-1]
 |---|---|
 | **Date** | 2020-09-17 |
 | **Duration** | 12:25 |
-| **Listen** | [Spotify](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW) · [MP3](https://www.buzzsprout.com/1107956/episodes/5488792-s01-7-music.mp3) |
+| **Listen** | [Spotify](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf) · [MP3](https://www.buzzsprout.com/1107956/episodes/5488792-s01-7-music.mp3) |
 | **Transcript** | not transcribed yet – see [[How to Transcribe]] |
 | **Topics** | [[Music]], [[Help & Kindness]] |
 | **Language** | [[Phrasal Verbs]], [[Connectors & Linking Words]] |

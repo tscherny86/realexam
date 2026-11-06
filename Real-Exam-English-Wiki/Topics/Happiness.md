@@ -19,6 +19,14 @@ Happiness is a reflective C1/C2 topic that invites abstract nouns and hedging la
 
 ## Said in the podcast
 
+> … buy things that we don't need, but that's, you know, that's the joy of life, doing the things you don't need or owning the things you don't need. Some people have an issue with …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 3:28](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=208) · [[Transcript s05e06#Minute 3|in the transcript]]
+
+> … references and pronouns. So I’ll give you a phrase like I am happy and you gotta change it to Trevor said he was happy. Ok, I’ll give you 10 phrases that you have to …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 10:17](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=617) · [[Transcript s05e06#Minute 10|in the transcript]]
+
 > … anything but as any of you know who watch TV or any content from the US they often use incorrect English, like this. I liked the way she used as in to give an …
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 17:17](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=1037) · [[Transcript s06e02#Minute 17|in the transcript]]
@@ -31,38 +39,15 @@ Happiness is a reflective C1/C2 topic that invites abstract nouns and hedging la
 >
 > — [[s06e03 Complaining|S6 E3]], [Minute 6:26](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=386) · [[Transcript s06e03#Minute 6|in the transcript]]
 
-> … and adverbs you can think of. For example, if the word was happy, you could say happier, unhappy, happiness, and so on. Ok so for motivation, think of as many as you can. You …
->
-> — [[s06e04 Motivation|S6 E4]], [Minute 9:10](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=550) · [[Transcript s06e04#Minute 9|in the transcript]]
-
-> … give you an example, being a mum can be very rewarding and fulfilling, but the other side of it is that it can be extremely exhausting and stressful too. Do you consider yourself a …
->
-> — [[s06e05 Luck|S6 E5]], [Minute 16:16](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=976) · [[Transcript s06e05#Minute 16|in the transcript]]
-
-> … display and the gratification, where you feel good when someone likes your content. She also mentioned creating a persona, which is the version of you that you show to the world, but may be …
->
-> — [[s06e09 Children|S6 E9]], [Minute 12:43](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=763) · [[Transcript s06e09#Minute 12|in the transcript]]
-
-> … in an ironic way too. It’s often used when the person is self-satisfied about something, like I got me a new job, or I’m gonna buy me a new truck. Alright, you are not …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 14:01](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=841) · [[Transcript s06e10#Minute 14|in the transcript]]
-
-> … resistance. Another example is, I don’t mind what movie we watch, I’m happy to go with the flow. And go with the flow is what we are going to do as this is the …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 15:49](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=949) · [[Transcript s06e10#Minute 15|in the transcript]]
-
 ## In these episodes (1)
 
 - [[x2022-10-14 Happiness|Bonus – Happiness]] (2022-10-14) — Show notes
 
-## Briefly mentioned (6)
+## Briefly mentioned (3)
 
+- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [3:28](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=208), [10:17](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=617)
 - [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [17:17](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=1037)
 - [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [3:19](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=199), [6:26](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=386)
-- [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [9:10](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=550)
-- [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [16:16](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=976)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [12:43](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=763)
-- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [14:01](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=841), [15:49](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=949)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

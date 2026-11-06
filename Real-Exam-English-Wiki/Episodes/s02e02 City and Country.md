@@ -7,7 +7,7 @@ number: 2
 year: 2021
 date: 2021-01-29
 duration: "18:54"
-spotify: "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW"
+spotify: "https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD"
 transcript: false
 tags: [episode, season-2]
 ---
@@ -17,7 +17,7 @@ tags: [episode, season-2]
 |---|---|
 | **Date** | 2021-01-29 |
 | **Duration** | 18:54 |
-| **Listen** | [Spotify](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW) · [MP3](https://www.buzzsprout.com/1107956/episodes/7551790-s02-2-city-and-country.mp3) |
+| **Listen** | [Spotify](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD) · [MP3](https://www.buzzsprout.com/1107956/episodes/7551790-s02-2-city-and-country.mp3) |
 | **Transcript** | not transcribed yet – see [[How to Transcribe]] |
 | **Topics** | [[Music]], [[City & Country Life]], [[Work & Careers]], [[Languages & Language Learning]] |
 | **Language** | [[Idioms & Expressions]], [[Past Perfect & Narrative Tenses]] |

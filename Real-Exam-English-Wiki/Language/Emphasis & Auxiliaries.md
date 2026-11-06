@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 3
+episodes: 5
 tags: [language]
 ---
 # Emphasis & Auxiliaries
@@ -21,6 +21,62 @@ Ways to **add emphasis**:
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … environments and a bunch of other schooly things. We focus on using auxiliary verbs for emphasis and on question tags, which are always in need of some practice! We have some nice phrasal verbs …
+>
+> — [[s05e04 School|S5 E4]], [Minute 0:35](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=35) · [[Transcript s05e04#Minute 0|in the transcript]]
+
+> … what he said was I’m not that outgoing in real life but I do like to get up on stage. He uses do here to contrast a negative point with a positive one. Another …
+>
+> — [[s05e04 School|S5 E4]], [Minute 2:25](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=145) · [[Transcript s05e04#Minute 2|in the transcript]]
+
+> … think that should be a personal subject to teach at home. But I do think that other school subjects such as art and music, which are….tend…they tend to be regarded as not the important …
+>
+> — [[s05e04 School|S5 E4]], [Minute 8:48](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=528) · [[Transcript s05e04#Minute 8|in the transcript]]
+
+> … She said I don’t think religion should be part of school but I do think that other school subjects like art and music have an importance. Then she followed it up with as does …
+>
+> — [[s05e04 School|S5 E4]], [Minute 10:32](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=632) · [[Transcript s05e04#Minute 10|in the transcript]]
+
+> … most. Some people say advertising encourages us to buy things we don't really need. What do you think? I think that's the whole point of advertising. But I kind of like it. I think …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 3:19](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=199) · [[Transcript s05e06#Minute 3|in the transcript]]
+
+> … She used it a few times to add emphasis, I suppose they do have an impact, it really does annoy me, I do think companies shouldn’t advertise to children. Secondly, she used this filler …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 8:22](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=502) · [[Transcript s05e06#Minute 8|in the transcript]]
+
+> … to repeat the whole thing, you can often just stop at the auxiliary verb. Like I can’t play guitar but if I could, I would join a band. Next, he says I prefer creative …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 17:13](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=1033) · [[Transcript s05e06#Minute 17|in the transcript]]
+
+> … things like that. We have a lot of gambling as well. We do have a lot of gambling. We used to have a lot of alcohol as well, but now it's gone to like …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 18:50](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=1130) · [[Transcript s05e06#Minute 18|in the transcript]]
+
+> … of that, we have some lovely phrasal verbs, some ways to add emphasis and we have a quiz about binomial pairs. As usual, you can get the transcript for this podcast on the real …
+>
+> — [[s05e08 Internet|S5 E8]], [Minute 0:42](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=42) · [[Transcript s05e08#Minute 0|in the transcript]]
+
+> … friend and talk to them on the phone but now it's not really that. It's like, ohh, I saw this funny meme, I might press to share with my friend, and that's going to …
+>
+> — [[s05e08 Internet|S5 E8]], [Minute 3:46](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=226) · [[Transcript s05e08#Minute 3|in the transcript]]
+
+> … we do all that, but I think just doing your bit. But I do think it's on the companies as well, the majority, they're the ones spewing out all the stuff as, us as …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 8:00](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=480) · [[Transcript s05e09#Minute 8|in the transcript]]
+
+> … called a cleft sentence and we use this structure in order to emphasise. So compare these two sentences. I think the government has to change or I think it’s the government has to change. …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 18:16](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=1096) · [[Transcript s05e09#Minute 18|in the transcript]]
+
+> … on the project that I'm working on, to be honest, because I do have a lot of international clients. So this means that I can talk to them in English or write emails, write …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 1:52](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=112) · [[Transcript x2025-11-21#Minute 1|in the transcript]]
+
+> … in the countries that I have been visiting, make friends. So I do have a lot of friends who are not from Spain and those people live like, for instance, in India or in …
+>
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 9:08](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=548) · [[Transcript x2025-11-21#Minute 9|in the transcript]]
 
 > … snowbank and then peer down to the top of the car was really, really wild. And so that's, I think, the most extreme weather that I've been in. Why are some people drawn to …
 >
@@ -50,10 +106,6 @@ Ways to **add emphasis**:
 >
 > — [[s06e05 Luck|S6 E5]], [Minute 18:03](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=1083) · [[Transcript s06e05#Minute 18|in the transcript]]
 
-> … me when people eat with their mouth open. If you want to emphasize this even more, using slang, you can say it bugs the shit out me, like when people jump the queue in …
->
-> — [[s06e07 Help|S6 E7]], [Minute 8:17](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=497) · [[Transcript s06e07#Minute 8|in the transcript]]
-
 > … keep going back, their burgers are just so good. The burgers are really expensive, yet I still buy two every time I go there. How have your personal priorities changed over the last five …
 >
 > — [[s06e08 Priorities|S6 E8]], [Minute 2:49](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=169) · [[Transcript s06e08#Minute 2|in the transcript]]
@@ -82,19 +134,21 @@ Ways to **add emphasis**:
 >
 > — [[s06e10 Decisions|S6 E10]], [Minute 12:49](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=769) · [[Transcript s06e10#Minute 12|in the transcript]]
 
-## In these episodes (3)
+## In these episodes (5)
 
-- [[s05e04 School|S5 E4 – School]] (2025-02-07) — Show notes
-- [[s05e08 Internet|S5 E8 – Internet]] (2025-06-17) — Show notes
+- [[s05e04 School|S5 E4 – School]] (2025-02-07) — Show notes · Minute [0:35](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=35), [2:25](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=145), [8:48](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=528), [10:32](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=632)
+- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [3:19](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=199), [8:22](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=502), [17:13](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=1033), [18:50](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=1130)
+- [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [1:26](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=86), [15:06](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=906), [17:59](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=1079)
 - [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [6:40](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=400), [9:06](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=546), [18:03](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=1083)
+- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [4:52](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=292), [17:19](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1039), [18:50](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1130)
 
 ## Briefly mentioned (6)
 
-- [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [1:26](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=86), [15:06](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=906), [17:59](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=1079)
+- [[s05e08 Internet|S5 E8 – Internet]] (2025-06-17) — Minute [0:42](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=42), [3:46](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=226)
+- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Minute [8:00](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=480), [18:16](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=1096)
+- [[x2025-11-21 Helena - Barcelona|Bonus – Helena - Barcelona]] (2025-11-21) — Minute [1:52](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=112), [9:08](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=548)
 - [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [5:17](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=317)
-- [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [8:17](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=497)
 - [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [2:49](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=169), [16:19](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=979)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [4:52](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=292), [17:19](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1039), [18:50](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1130)
 - [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [3:08](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=188), [12:49](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=769)
 
 ---

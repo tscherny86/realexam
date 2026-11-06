@@ -19,50 +19,46 @@ A gentle B2/C1 topic with plenty of phrasal verbs.
 
 ## Said in the podcast
 
-> … successful at something. Like, other people might thrive on attention, or on stress. We then got a little psychology lesson about the wiring of the brain and risk aversion and risk attraction. So if …
+> … here we go. In this episode we are going to talk about relaxation. It’s a great topic to cover as we all love to relax, or should I say, need to relax. So you’re …
 >
-> — [[s06e02 Extremes|S6 E2]], [Minute 3:16](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=196) · [[Transcript s06e02#Minute 3|in the transcript]]
+> — [[s05e01 Relaxing|S5 E1]], [Minute 0:21](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=21) · [[Transcript s05e01#Minute 0|in the transcript]]
 
-> … in in my old one, or I fit in with my new yoga group straight away, they made me feel right at home. If you would like to fit in with some like-minded students, …
+> … to be healthy mentally. Do you find reading a good way to relax? Definitely, 100%. Yes, I really enjoy reading. However, it can be quite difficult to relax depending on the type of book …
 >
-> — [[s06e02 Extremes|S6 E2]], [Minute 9:19](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=559) · [[Transcript s06e02#Minute 9|in the transcript]]
+> — [[s05e01 Relaxing|S5 E1]], [Minute 2:01](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=121) · [[Transcript s05e01#Minute 2|in the transcript]]
 
-> … theirs. Like, hey it’s on me to sort this problem out, you relax. Similarly, you could say lunch is on me. Meaning, I’ll pay for lunch. Speaking of lunch, she said sometimes she has …
+> … she followed up with some contrast, However, it can be difficult to relax depending on the type of book. Then she explained in sore more detail, For example, if the book is very exciting, …
 >
-> — [[s06e03 Complaining|S6 E3]], [Minute 14:55](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=895) · [[Transcript s06e03#Minute 14|in the transcript]]
+> — [[s05e01 Relaxing|S5 E1]], [Minute 3:36](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=216) · [[Transcript s05e01#Minute 3|in the transcript]]
 
-> … rituals as a way to highlight the contrast. Remember, when speaking, to stress the do, I don’t like apples, but I do love bananas. This expression to rewire my brain is nice actually, isn’t …
+> … up on the couch. This reminds me of another idiom meaning to relax, which is to be put your feet up. Like, on Friday evenings I like to just go home and put my …
 >
-> — [[s06e05 Luck|S6 E5]], [Minute 7:20](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=440) · [[Transcript s06e05#Minute 7|in the transcript]]
+> — [[s05e01 Relaxing|S5 E1]], [Minute 5:55](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=355) · [[Transcript s05e01#Minute 5|in the transcript]]
 
-> … other side of it is that it can be extremely exhausting and stressful too. Do you consider yourself a lucky person? No, I don't think I'm lucky. But I am lucky. Like, I've never …
+> … back and go back to Catalan. So my brain has time to relax, you know, whereas there I was working in the office and I was doing, I had to do everything in English, …
 >
-> — [[s06e05 Luck|S6 E5]], [Minute 16:20](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=980) · [[Transcript s06e05#Minute 16|in the transcript]]
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 3:51](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=231) · [[Transcript x2025-11-21#Minute 3|in the transcript]]
 
-> … she said they can freak her out. Meaning they can cause her stress, maybe she gets a bit panicked by them. Then, at the end she said that without deadlines she might push something …
+> … pick up on, and that is with the word colleagues. So the stress is on the first syllable, coll, colleagues. The reason I highlight it is cause it just came up in one of …
 >
-> — [[s06e06 Creativity|S6 E6]], [Minute 16:04](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=964) · [[Transcript s06e06#Minute 16|in the transcript]]
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 8:01](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=481) · [[Transcript x2025-11-21#Minute 8|in the transcript]]
 
-> … something we see a lot of, people answer their question and then switch off and you can see them thinking about their errors in their head. One reason not to do that is that …
+> … error thing and making mistakes and learning from them and, being more relaxed about making mistakes because people who are not, I mean, who are not native speakers tend to be like extremely….very self-conscious, …
 >
-> — [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus]], [Minute 1:55](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=115) · [[Transcript x2026-06-24#Minute 1|in the transcript]]
+> — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 15:28](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=928) · [[Transcript x2025-11-21#Minute 15|in the transcript]]
 
-> … used to be a party animal and now I'm a lot more calm and collective. If anything, I'm quite boring nowadays, if I'm going to be honest with you. Alright we had another great …
+> … is at work she goes with the flow. This means she is relaxed and accepts whatever happens and deals with it, without getting too worried about it. You could use this when talking about …
 >
-> — [[s06e08 Priorities|S6 E8]], [Minute 6:17](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=377) · [[Transcript s06e08#Minute 6|in the transcript]]
+> — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 15:55](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=955) · [[Transcript x2025-12-16#Minute 15|in the transcript]]
 
 ## In these episodes (1)
 
-- [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Show notes
+- [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Show notes · Minute [0:21](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=21), [2:01](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=121), [3:36](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=216), [5:55](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=355)
 
-## Briefly mentioned (6)
+## Briefly mentioned (2)
 
-- [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [3:16](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=196), [9:19](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=559)
-- [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [14:55](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=895)
-- [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [7:20](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=440), [16:20](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=980)
-- [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Minute [16:04](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=964)
-- [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus – Bonus - Speaking Exam Advice]] (2026-06-24) — Minute [1:55](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=115)
-- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [6:17](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=377)
+- [[x2025-11-21 Helena - Barcelona|Bonus – Helena - Barcelona]] (2025-11-21) — Minute [3:51](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=231), [8:01](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=481), [15:28](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=928)
+- [[x2025-12-16 Xing - Tokyo|Bonus – Xing - Tokyo]] (2025-12-16) — Minute [15:55](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=955)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

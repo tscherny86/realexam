@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 1
+episodes: 2
 tags: [language]
 ---
 # Spelling
@@ -32,13 +32,10 @@ _British vs. American spelling and the words everyone misspells._
 >
 > — [[s06e08 Priorities|S6 E8]], [Minute 14:09](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=849) · [[Transcript s06e08#Minute 14|in the transcript]]
 
-## In these episodes (1)
-
-- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Show notes · Minute [0:21](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=21), [14:09](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=849)
-
-## Briefly mentioned (1)
+## In these episodes (2)
 
 - [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Minute [2:57](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=177)
+- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Show notes · Minute [0:21](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=21), [14:09](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=849)
 
 ---
 ← [[Language]] · [[Real Exam English Wiki|Home]]

@@ -21,6 +21,26 @@ Weather is small-talk material in English-speaking countries and a reliable Part
 
 ## Said in the podcast
 
+> … know, in Britain that how that was developed towards, you know, the winter and the summer solstice. And there's at the same time the Aztecs had the same thing. You know what I mean? …
+>
+> — [[s05e03 Space|S5 E3]], [Minute 2:11](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=131) · [[Transcript s05e03#Minute 2|in the transcript]]
+
+> … it difficult to put up with the heat in Spain in the summer, it’s just too hot. Lastly, she said as a thing, musicians don’t tend to be big on films. When she says …
+>
+> — [[s05e03 Space|S5 E3]], [Minute 9:17](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=557) · [[Transcript s05e03#Minute 9|in the transcript]]
+
+> … to collapse or the collateral damage that comes from the changes of temperatures and even here a couple of weeks ago there was a huge heat wave, mostly fish that died in the lakes …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 16:22](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=982) · [[Transcript s05e09#Minute 16|in the transcript]]
+
+> … hey hippy, get off your ass and get a job. How do weather and seasons influence your weekend plans? Yeah. They influence it a lot since I work a very seasonal season. Ohh I …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 13:39](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=819) · [[Transcript s05e10#Minute 13|in the transcript]]
+
+> … her family are so white they burn to a crisp in the summer. To burn to a crisp is to be completely burnt. You can use this for food too, like I tried to …
+>
+> — [[s05e10 Weekend|S5 E10]], [Minute 15:45](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=945) · [[Transcript s05e10#Minute 15|in the transcript]]
+
 > … neither. There’s input from quite a diverse bunch of speakers today, from snowstorms in Boston, to helping pregnant woman in Ireland to doing a dance marathon in New York. As usual if you would …
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 0:45](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=45) · [[Transcript s06e02#Minute 0|in the transcript]]
@@ -37,38 +57,16 @@ Weather is small-talk material in English-speaking countries and a reliable Part
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 12:07](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=727) · [[Transcript s06e02#Minute 12|in the transcript]]
 
-> … would be, we were able to effect a rescue despite the bad weather, or the global superpower was hoping to effect a smooth transition of power in the smaller country. The verb affect, with …
->
-> — [[s06e03 Complaining|S6 E3]], [Minute 11:27](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=687) · [[Transcript s06e03#Minute 11|in the transcript]]
-
-> … use overcome with difficulties or challenges, like we had to overcome terrible weather conditions while climbing the mountain. This is an example of an adverse situation, as she mentioned she finds people telling stories …
->
-> — [[s06e04 Motivation|S6 E4]], [Minute 14:15](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=855) · [[Transcript s06e04#Minute 14|in the transcript]]
-
-> … has something positive come out of it also. Like when it starts raining and you can’t have a barbecue but at least you don’t have to water the plants in the garden, that is …
->
-> — [[s06e05 Luck|S6 E5]], [Minute 18:26](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=1106) · [[Transcript s06e05#Minute 18|in the transcript]]
-
-> … living has really come to the fore in recent years. Or extreme weather events have come to the fore in the last decade. The other fore phrase was for the foreseeable future, which is …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 17:46](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=1066) · [[Transcript s06e08#Minute 17|in the transcript]]
-
-> … being prepared is obviously essential but then again, the timing of your summer holidays also comes into play. What was the last difficult decision that you had to make? My last difficult decision was …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 5:38](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=338) · [[Transcript s06e10#Minute 5|in the transcript]]
-
 ## In these episodes (2)
 
 - [[s04e04 Weather|S4 E4 – Weather]] (2023-07-12) — Show notes
 - [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Show notes · Minute [0:45](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=45), [2:16](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=136), [4:12](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=252), [12:07](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=727)
 
-## Briefly mentioned (5)
+## Briefly mentioned (3)
 
-- [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [11:27](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=687)
-- [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [14:15](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=855)
-- [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [18:26](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=1106)
-- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [17:46](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=1066)
-- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [5:38](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=338)
+- [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Minute [2:11](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=131), [9:17](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=557)
+- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Minute [16:22](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=982)
+- [[s05e10 Weekend|S5 E10 – Weekend]] (2025-08-18) — Minute [13:39](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=819), [15:45](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=945)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

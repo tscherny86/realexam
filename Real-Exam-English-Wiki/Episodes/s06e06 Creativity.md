@@ -19,11 +19,11 @@ tags: [episode, season-6]
 | **Duration** | 17:24 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY) · [MP3](https://www.buzzsprout.com/1107956/episodes/19319293-s06-6-creativity.mp3) |
 | **Transcript** | [[Transcript s06e06]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Work & Careers]], [[Family & Relationships]], [[Art & Creativity]], [[Parenting & Children]] |
-| **Language** | [[Phrasal Verbs]], [[Collocations]], [[Relative Clauses]], [[Prepositions]], [[Confusing Words & Homophones]] |
+| **Topics** | [[Work & Careers]], [[Art & Creativity]] |
+| **Language** | [[Phrasal Verbs]], [[Collocations]], [[Relative Clauses]], [[Pronunciation]], [[Prepositions]], [[Organising Your Answer]], [[Spelling]] |
 | **Exams** | – |
-| **Accents** | [[England]], [[Non-Native Speakers]] |
-| **Briefly mentioned** | [[Food & Cooking]], [[Sport & Exercise]], [[Technology & the Internet]], [[The Environment & Climate Change]], [[Celebrations & Festivals]], [[Health & Wellbeing]], [[Friends & Friendship]], [[Free Time & Hobbies]], [[Communication]], [[Humour & Comedy]], [[Learning, School & Education]], [[Fashion & Clothes]], [[Culture & Traditions]], [[Change & Life Changes]], [[Languages & Language Learning]], [[Home & Housing]], [[History & the Past]], [[Manners & Politeness]], [[Relaxing & Stress]], [[Extremes & Adventure]], [[Motivation & Goals]], [[Help & Kindness]], [[Priorities & Decisions]], [[Idioms & Expressions]], [[Conditionals]], [[Passive Voice]], [[Past Perfect & Narrative Tenses]], [[Adverbs]], [[Connectors & Linking Words]], [[Modal Verbs]], [[Pronunciation]], [[Word Formation]], [[Organising Your Answer]], [[Slang & Informal English]], [[Spelling]], [[Verbs with Many Meanings (get, do, make, take)]], [[Cambridge C1 Advanced (CAE)]], [[Speaking Exam]], [[USA]] |
+| **Accents** | [[Non-Native Speakers]] |
+| **Briefly mentioned** | [[Technology & the Internet]], [[Family & Relationships]], [[Learning, School & Education]], [[Help & Kindness]], [[Idioms & Expressions]], [[Past Perfect & Narrative Tenses]], [[Confusing Words & Homophones]], [[England]] |
 
 ## Show notes
 

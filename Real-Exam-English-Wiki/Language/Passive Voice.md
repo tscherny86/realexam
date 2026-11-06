@@ -23,6 +23,30 @@ week.* It is common in formal writing, reports and news.
 
 ## Said in the podcast
 
+> … are also aware of this problem is the consonants. Right? The consonants get removed from. Basically all sentences and there's a lot of actual English nouns that are used in with Vietnamese people speaking …
+>
+> — [[x2024-06-29 Vietnam and IELTS|Bonus]], [Minute 2:54](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=174) · [[Transcript x2024-06-29#Minute 2|in the transcript]]
+
+> … be overkill. Firstly, it’s a good example of how to use the passive voice to make a general statement about something. It is considered to be overkill. This kind of passive is really useful …
+>
+> — [[s05e02 Manners|S5 E2]], [Minute 21:02](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1262) · [[Transcript s05e02#Minute 21|in the transcript]]
+
+> … that the dinner they cooked was spicy and you thought they might get offended you could say, don’t get me wrong, it’s delicious, just a little spicy for me. Or in my English classes …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 8:37](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=517) · [[Transcript s05e05#Minute 8|in the transcript]]
+
+> … have great food, but it's hard to find or it's hard to get involved with. Here it's like every corner you can just take a little seat, spend a couple of dollars and have …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 16:49](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1009) · [[Transcript s05e05#Minute 16|in the transcript]]
+
+> … gamble, myself included. It is also a pretty big issue because people get addicted, people lose their livelihoods will would not lose their livelihoods, but lose all their money, lose their houses, lose their …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 2:57](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=177) · [[Transcript s05e06#Minute 2|in the transcript]]
+
+> … all the boys had them. So you know, you do, you do get influenced if someone famous has that, you want it too. Should firms be allowed to advertise to children? I'm going to …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 7:09](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=429) · [[Transcript s05e06#Minute 7|in the transcript]]
+
 > … can give praise, receive praise or it is often used in a passive way, to be praised. One other thing to pick up on actually, was the phrasal verb to fit in. This means …
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 9:04](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=544) · [[Transcript s06e02#Minute 9|in the transcript]]
@@ -30,26 +54,6 @@ week.* It is common in formal writing, reports and news.
 > … time. To crack on with work has a similar meaning really, to get started or continue doing something. For example, let’s crack on with the homework, we need to finish today. What is the …
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 12:00](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=720) · [[Transcript s06e02#Minute 12|in the transcript]]
-
-> … but once the deadline is there, it's like, oh, I'm going to get started. So that'll speed me up, but it can also freak me out. Like if it's really, really like, I'll be, …
->
-> — [[s06e06 Creativity|S6 E6]], [Minute 15:06](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=906) · [[Transcript s06e06#Minute 15|in the transcript]]
-
-> … if you feel like you speak well, it still makes sense to get used to the format of the exam, in terms of timings and the different parts of the exam. And like anything …
->
-> — [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus]], [Minute 0:42](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=42) · [[Transcript x2026-06-24#Minute 0|in the transcript]]
-
-> … are reluctant to step in. To step in means to intervene or get involved in a situation. Like, I normally let my kids argue but if it turns violent, I step in immediately. Just …
->
-> — [[s06e07 Help|S6 E7]], [Minute 11:23](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=683) · [[Transcript s06e07#Minute 11|in the transcript]]
-
-> … things, not there are so many things. This is something that I get asked about every now and again in class. It’s very common for English speakers to say there’s with plural nouns, like …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 11:00](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=660) · [[Transcript s06e08#Minute 11|in the transcript]]
-
-> … that age, back in the 70s, right, that You grew up to get married and be good to a husband, and the man rules the house, which is why my husband married me. No, …
->
-> — [[s06e09 Children|S6 E9]], [Minute 15:44](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=944) · [[Transcript s06e09#Minute 15|in the transcript]]
 
 > … about making decisions, we take a look at different uses of the passive voice and some useful decision-making idioms too. There’s speakers from different parts of the USA and the UK, also from Ireland. …
 >
@@ -68,14 +72,13 @@ week.* It is common in formal writing, reports and news.
 - [[s02e03 Global Issues|S2 E3 – Global Issues]] (2021-02-05) — Show notes
 - [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Show notes · Minute [0:23](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=23), [2:57](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=177), [6:58](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=418)
 
-## Briefly mentioned (6)
+## Briefly mentioned (5)
 
+- [[x2024-06-29 Vietnam and IELTS|Bonus – Vietnam and IELTS]] (2024-06-29) — Minute [2:54](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=174)
+- [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Minute [21:02](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1262)
+- [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Minute [8:37](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=517), [16:49](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1009)
+- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [2:57](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=177), [7:09](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=429)
 - [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [9:04](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=544), [12:00](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=720)
-- [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Minute [15:06](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=906)
-- [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus – Bonus - Speaking Exam Advice]] (2026-06-24) — Minute [0:42](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=42)
-- [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [11:23](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=683)
-- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [11:00](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=660)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [15:44](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=944)
 
 ---
 ← [[Language]] · [[Real Exam English Wiki|Home]]
