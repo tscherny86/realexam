@@ -1,0 +1,663 @@
+<title>Real Exam English Fanwiki</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2064%22%3E%3Crect%20width%3D%2264%22%20height%3D%2264%22%20rx%3D%2214%22%20fill%3D%22%231f8a4c%22/%3E%3Ccircle%20cx%3D%2232%22%20cy%3D%2232%22%20r%3D%2224%22%20fill%3D%22%23111%22/%3E%3Ctext%20x%3D%2232%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20font-family%3D%22%27Arial%20Narrow%27%2C%27Roboto%20Condensed%27%2CArial%2Csans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2217%22%20fill%3D%22%23fff%22%3EREAL%3C/text%3E%3Ctext%20x%3D%2232%22%20y%3D%2245%22%20text-anchor%3D%22middle%22%20font-family%3D%22%27Arial%20Narrow%27%2C%27Roboto%20Condensed%27%2CArial%2Csans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2217%22%20fill%3D%22%23fff%22%3EEXAM%3C/text%3E%3C/svg%3E">
+<meta name="theme-color" content="#0e3b24">
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Barlow:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@1,8..60,400&family=JetBrains+Mono:wght@500;600&display=swap">
+<style>
+/* Layout: green hero with search → tiles (topics, language) → reading column; minute chips play in the fixed player at the bottom.
+   Colours follow the podcast artwork: deep green, black disc logo, white condensed type. */
+:root{
+  --bg:#eef3ef; --surface:#ffffff; --sunk:#e1e9e3; --ink:#10201a; --muted:#4f6459; --line:#cfdad3;
+  --accent:#1f8a4c; --accent-ink:#156a39; --accent-soft:#dcf3e4;
+  --hero-bg:#0e3b24; --hero-bg2:#1d8a4b; --hero-ink:#f2f7f3; --hero-muted:#a9c7b4; --hero-line:#1d5a38;
+  --disc:#111111; --disc-ink:#ffffff;
+  --display:"Barlow Condensed","Arial Narrow","Roboto Condensed",sans-serif;
+  --ui:"Barlow","Segoe UI",system-ui,-apple-system,sans-serif;
+  --quote:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --mono:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;
+  --r:10px;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0b1511; --surface:#122019; --sunk:#182b22; --ink:#e6efe9; --muted:#93ab9d; --line:#23392d;
+  --accent:#3fcf7a; --accent-ink:#6fe0a0; --accent-soft:#163a27;
+  --hero-bg:#0c2819; --hero-bg2:#176b3b; --hero-ink:#f2f7f3; --hero-muted:#93ab9d; --hero-line:#1d4a30; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0b1511; --surface:#122019; --sunk:#182b22; --ink:#e6efe9; --muted:#93ab9d; --line:#23392d;
+  --accent:#3fcf7a; --accent-ink:#6fe0a0; --accent-soft:#163a27;
+  --hero-bg:#0c2819; --hero-bg2:#176b3b; --hero-ink:#f2f7f3; --hero-muted:#93ab9d; --hero-line:#1d4a30; color-scheme:dark}
+
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{margin:0}
+html{scroll-padding-top:120px}
+body{background:var(--bg);color:var(--ink);font-family:var(--ui);font-size:1rem;line-height:1.55;-webkit-font-smoothing:antialiased}
+body.playing{padding-bottom:calc(84px + env(safe-area-inset-bottom,0px))}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:40;background:var(--hero-bg)}
+a{color:inherit}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+.wrap{max-width:76rem;margin-inline:auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+
+/* ---------- top bar ---------- */
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:30;background:var(--hero-bg);color:var(--hero-ink);border-bottom:1px solid var(--hero-line)}
+.bar .wrap{display:flex;align-items:center;gap:20px;min-height:60px}
+.logo{display:flex;align-items:center;gap:10px;text-decoration:none;white-space:nowrap}
+.disc{display:grid;place-items:center;width:38px;height:38px;border-radius:50%;background:var(--disc);color:var(--disc-ink);border:2px solid var(--hero-bg2);
+  font:800 .62rem/1 var(--display);text-align:center;letter-spacing:.02em;flex:none}
+.logo .t{display:flex;flex-direction:column;gap:3px;line-height:1;font-family:var(--display);font-weight:800;font-size:1.35rem;letter-spacing:.02em;text-transform:uppercase}
+.logo em{font-style:normal;color:var(--hero-bg2);filter:brightness(1.5)}
+.logo small{font:600 .62rem var(--ui);letter-spacing:.2em;color:var(--hero-muted);padding-left:1px}
+.nav{display:flex;gap:2px;overflow-x:auto;scrollbar-width:none;flex:1;min-width:0}
+.nav::-webkit-scrollbar{display:none}
+.nav a{font-weight:600;font-size:.93rem;text-decoration:none;color:var(--hero-muted);padding:8px 12px;border-radius:999px;white-space:nowrap;transition:color .15s,background .15s}
+.nav a:hover{color:var(--hero-ink)}
+.nav a.on{color:var(--hero-ink);background:var(--hero-line)}
+.find{display:flex;align-items:center;gap:10px;background:transparent;border:1px solid var(--hero-line);color:var(--hero-muted);border-radius:999px;padding:7px 10px 7px 14px;cursor:pointer;font-size:.9rem;white-space:nowrap}
+.find:hover{color:var(--hero-ink);border-color:var(--hero-muted)}
+.find kbd{font:600 .7rem var(--mono);border:1px solid var(--hero-line);border-radius:5px;padding:1px 6px}
+.find svg{width:16px;height:16px}
+
+/* ---------- hero ---------- */
+.hero{background:linear-gradient(135deg,var(--hero-bg2) 0%,var(--hero-bg) 55%);color:var(--hero-ink);position:relative;overflow:hidden}
+.hero::after{content:"";position:absolute;left:0;right:0;bottom:0;height:6px;background:linear-gradient(90deg,var(--hero-bg2),#3fcf7a 50%,var(--hero-bg2))}
+.hero .wrap{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);gap:48px;align-items:center;padding-block:56px 70px}
+.eyebrow{font:600 .78rem var(--ui);letter-spacing:.16em;text-transform:uppercase;color:#7fe3a9}
+.hero h1{font-family:var(--display);font-weight:800;text-transform:uppercase;font-size:clamp(3rem,8vw,6.2rem);line-height:.88;letter-spacing:-.005em;margin:14px 0 18px;text-wrap:balance}
+.hero h1 em{font-style:normal;color:#7fe3a9}
+.hero p.lede{font-size:1.15rem;color:var(--hero-muted);max-width:34rem;margin:0 0 26px}
+.hero p.lede b{color:var(--hero-ink);font-weight:600}
+.levels{display:inline-flex;gap:6px;margin:0 0 18px}
+.levels span{font:700 .78rem var(--display);letter-spacing:.08em;border:1.5px solid #7fe3a9;color:#7fe3a9;border-radius:6px;padding:3px 8px}
+.bigsearch{display:flex;align-items:center;gap:12px;width:100%;max-width:34rem;background:var(--hero-ink);color:#4f6459;border:0;border-radius:14px;padding:16px 18px;font-size:1.05rem;cursor:text;text-align:left}
+.bigsearch svg{width:20px;height:20px;flex:none;color:var(--accent)}
+.bigsearch span{flex:1}
+.stats{display:flex;flex-wrap:wrap;gap:10px 32px;margin-top:30px;font-variant-numeric:tabular-nums}
+.stats div{display:flex;flex-direction:column}
+.stats b{font-family:var(--display);font-size:2rem;font-weight:700;line-height:1}
+.stats span{font-size:.8rem;color:var(--hero-muted);letter-spacing:.04em}
+.latest{align-self:center;background:rgba(0,0,0,.28);border:1px solid var(--hero-line);border-radius:16px;padding:22px;display:grid;gap:14px;backdrop-filter:blur(4px)}
+.latest .eyebrow{color:var(--hero-muted)}
+.latest h2{font-family:var(--display);font-size:2rem;line-height:1;margin:0;text-transform:uppercase;text-wrap:balance}
+.latest h2 a{text-decoration:none}
+.latest h2 a:hover{color:#7fe3a9}
+.latest .meta{color:var(--hero-muted);font-size:.9rem}
+.latest .tags{display:flex;flex-wrap:wrap;gap:6px}
+.latest .tags a{font-size:.8rem;text-decoration:none;color:var(--hero-ink);border:1px solid var(--hero-muted);border-radius:999px;padding:2px 10px;opacity:.85}
+.latest .tags a:hover{border-color:#7fe3a9;color:#7fe3a9}
+
+/* ---------- episode badge (season · episode) ---------- */
+.badge{display:inline-flex;align-items:center;justify-content:center;flex:none;background:var(--disc);color:var(--disc-ink);border:2px solid var(--accent);border-radius:999px;
+  font:700 .82rem/1 var(--display);letter-spacing:.08em;padding:6px 11px 5px;font-variant-numeric:tabular-nums;white-space:nowrap;text-transform:uppercase}
+.badge.lg{font-size:1.15rem;padding:9px 16px 8px;border-width:2.5px}
+
+/* ---------- pages ---------- */
+main{padding-block:40px 80px}
+.sec{margin-top:56px}
+.sec:first-child{margin-top:0}
+.sec-h{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin-bottom:18px;border-bottom:2px solid var(--ink);padding-bottom:8px}
+.sec-h h2{font-family:var(--display);font-weight:700;font-size:1.7rem;text-transform:uppercase;letter-spacing:.02em;margin:0;line-height:1}
+.sec-h a{font-weight:600;font-size:.9rem;color:var(--accent-ink);text-decoration:none;white-space:nowrap}
+.sec-h a:hover{text-decoration:underline}
+.pagehead{margin-bottom:30px}
+.pagehead h1{font-family:var(--display);font-weight:800;text-transform:uppercase;font-size:clamp(2.4rem,5.5vw,4rem);line-height:.92;margin:10px 0 12px;text-wrap:balance}
+.pagehead .lead{font-size:1.2rem;color:var(--muted);max-width:44rem;margin:0}
+
+/* tiles */
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(15.5rem,1fr));gap:12px}
+.tile{display:flex;flex-direction:column;gap:6px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px 16px 14px;text-decoration:none;transition:border-color .15s,transform .15s}
+.tile:hover{border-color:var(--accent);transform:translateY(-2px)}
+.tile b{font-family:var(--display);font-size:1.3rem;font-weight:700;line-height:1.05;text-transform:uppercase;letter-spacing:.01em}
+.tile span{font-size:.9rem;color:var(--muted);line-height:1.4;flex:1}
+.gauge{display:flex;align-items:center;gap:10px;margin-top:6px;font:600 .75rem var(--mono);color:var(--muted);font-variant-numeric:tabular-nums}
+.gauge s{flex:1;height:4px;border-radius:2px;background:var(--sunk);position:relative;overflow:hidden;text-decoration:none}
+.gauge s::after{content:"";position:absolute;inset:0 auto 0 0;width:var(--w);background:var(--accent);border-radius:2px}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{display:inline-flex;align-items:center;gap:8px;text-decoration:none;background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:6px 14px;font-weight:600;font-size:.92rem}
+.chip:hover{border-color:var(--accent);color:var(--accent-ink)}
+.chip small{font:500 .72rem var(--mono);color:var(--muted)}
+
+/* episode list */
+.filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:18px}
+.seg{display:inline-flex;flex-wrap:wrap;background:var(--sunk);border-radius:999px;padding:3px}
+.seg button{border:0;background:transparent;padding:6px 14px;border-radius:999px;font-weight:600;font-size:.9rem;cursor:pointer;color:var(--muted)}
+.seg button.on{background:var(--surface);color:var(--ink);box-shadow:0 1px 2px #0002}
+.filters input{flex:1;min-width:12rem;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:8px 16px;font:inherit;color:var(--ink)}
+.eplist{display:grid;gap:0;border-top:1px solid var(--line)}
+.ep{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:16px;align-items:center;padding:14px 4px;border-bottom:1px solid var(--line)}
+.ep .t1{font-weight:600;font-size:1.06rem;text-decoration:none;line-height:1.3;display:block}
+.ep .t1:hover{color:var(--accent-ink)}
+.ep .m{font-size:.84rem;color:var(--muted);display:flex;gap:6px 14px;flex-wrap:wrap;margin-top:3px;font-variant-numeric:tabular-nums}
+.ep .m .tx{color:var(--accent-ink);font-weight:600}
+.play{display:inline-grid;place-items:center;width:42px;height:42px;border-radius:50%;border:0;background:var(--ink);color:var(--bg);cursor:pointer;flex:none;transition:background .15s,transform .15s}
+.play:hover{background:var(--accent);transform:scale(1.06)}
+.play svg{width:16px;height:16px}
+.play.lg{width:56px;height:56px}
+.play.lg svg{width:20px;height:20px}
+.hero .play{background:var(--accent);color:#fff}
+.hero .play:hover{background:var(--hero-ink);color:var(--hero-bg)}
+
+/* minute chip */
+.t{display:inline-flex;align-items:center;gap:5px;border:1px solid var(--accent);background:var(--accent-soft);color:var(--accent-ink);border-radius:999px;padding:2px 10px 2px 8px;
+  font:600 .8rem/1.5 var(--mono);cursor:pointer;white-space:nowrap;font-variant-numeric:tabular-nums;transition:background .15s,color .15s}
+.t::before{content:"";width:0;height:0;border-left:7px solid currentColor;border-top:4.5px solid transparent;border-bottom:4.5px solid transparent}
+.t:hover{background:var(--accent);color:#fff}
+.t.now{background:var(--accent);color:#fff}
+
+/* reading column */
+.article{display:grid;grid-template-columns:minmax(0,1fr) 18rem;gap:56px;align-items:start}
+.prose{max-width:44rem;font-size:1.08rem;line-height:1.7}
+.prose p{margin:0 0 1em}
+.prose ul{padding-left:1.2em;margin:0 0 1em}
+.prose li{margin:.35em 0}
+.prose li::marker{color:var(--accent)}
+.prose a{color:var(--accent-ink);text-decoration-thickness:1px;text-underline-offset:3px}
+.prose strong{font-weight:700}
+.prose em{font-style:italic}
+.prose blockquote{margin:1em 0;padding:12px 16px;background:var(--sunk);border-radius:var(--r);font-size:.98rem;color:var(--muted)}
+.prose blockquote p{margin:0}
+.side{position:sticky;top:96px;display:grid;gap:16px}
+.box{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px}
+.box h3{font:600 .75rem var(--ui);letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+.kv{display:grid;grid-template-columns:auto 1fr;gap:6px 14px;font-size:.92rem;margin:0}
+.kv dt{color:var(--muted)}
+.kv dd{margin:0;font-weight:600;font-variant-numeric:tabular-nums}
+.btns{display:grid;gap:8px}
+.btn{display:flex;align-items:center;justify-content:center;gap:8px;border-radius:999px;padding:10px 16px;font-weight:600;font-size:.95rem;text-decoration:none;border:1px solid var(--line);background:var(--surface);cursor:pointer}
+.btn:hover{border-color:var(--ink)}
+.btn.pri{background:var(--accent);border-color:var(--accent);color:#fff}
+.btn.pri:hover{filter:brightness(1.08)}
+.btn svg{width:16px;height:16px}
+.note{font-size:.84rem;color:var(--muted);line-height:1.45}
+
+/* quotes */
+.quotes{display:grid;gap:14px}
+.q{margin:0;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:20px 22px 16px}
+.q blockquote{margin:0 0 14px;font-family:var(--quote);font-style:italic;font-size:1.13rem;line-height:1.6;text-wrap:pretty}
+.q blockquote::before{content:"“";color:var(--accent);font-size:1.4em;line-height:0;margin-right:2px}
+.q blockquote::after{content:"”";color:var(--accent)}
+.q figcaption{display:flex;flex-wrap:wrap;align-items:center;gap:8px 14px;font-size:.88rem;color:var(--muted)}
+.q figcaption a{color:var(--ink);font-weight:600;text-decoration:none}
+.q figcaption a:hover{color:var(--accent-ink)}
+.q figcaption a.sub{color:var(--muted);font-weight:500;text-decoration:underline;text-underline-offset:3px}
+.more{margin-top:14px}
+
+/* episodes of an entry */
+.hits{display:grid;border-top:1px solid var(--line)}
+.hit{display:grid;grid-template-columns:auto minmax(0,1fr);gap:14px;align-items:start;padding:14px 0;border-bottom:1px solid var(--line)}
+.hit .t1{font-weight:600;text-decoration:none}
+.hit .t1:hover{color:var(--accent-ink)}
+.hit .d{font-size:.84rem;color:var(--muted)}
+.hit .row{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px;align-items:center}
+.tag{font-size:.75rem;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);background:var(--sunk);border-radius:4px;padding:2px 7px}
+
+/* chapters & transcript */
+.marks{display:grid;border-top:1px solid var(--line)}
+.mark{display:grid;grid-template-columns:5.5rem minmax(0,1fr);gap:14px;padding:12px 0;border-bottom:1px solid var(--line);align-items:baseline}
+.mark p{margin:0;color:var(--muted)}
+.mark a{font-size:.85rem;color:var(--accent-ink);white-space:nowrap}
+.tx .mark{grid-template-columns:5.5rem minmax(0,1fr);padding:16px 0}
+.tx .mark p{color:var(--ink);font-size:1.03rem;line-height:1.7;max-width:44rem}
+.tx .mark.hl{background:linear-gradient(90deg,var(--accent-soft),transparent 70%);margin-inline:-12px;padding-inline:12px;border-radius:8px}
+.topics{display:flex;flex-wrap:wrap;gap:6px}
+.topics a{font-size:.85rem;text-decoration:none;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:3px 11px;font-weight:500}
+.topics a:hover{border-color:var(--accent);color:var(--accent-ink)}
+.topics a.k-language{background:var(--sunk)}
+.topics a.k-exam{border-style:dashed}
+.topics a.k-accent{border-color:var(--accent)}
+.minor{margin:14px 0 0;font-size:.88rem;color:var(--muted);line-height:1.7}.minor span{font-weight:600;margin-right:4px}.minor a{color:inherit}
+.minorhits .hit{opacity:.85}
+.crumbs{font-size:.88rem;color:var(--muted);display:flex;gap:8px;flex-wrap:wrap}
+.crumbs a{color:var(--muted);text-decoration:none;font-weight:600}
+.crumbs a:hover{color:var(--accent-ink)}
+
+/* ---------- search ---------- */
+.overlay{position:fixed;inset:0;z-index:60;background:color-mix(in srgb,var(--hero-bg) 55%,transparent);backdrop-filter:blur(6px);display:flex;justify-content:center;align-items:flex-start;
+  padding:calc(8vh + env(safe-area-inset-top,0px)) max(16px,env(safe-area-inset-right,0px)) 16px max(16px,env(safe-area-inset-left,0px))}
+.panel{width:min(44rem,100%);max-height:80vh;display:flex;flex-direction:column;background:var(--surface);border-radius:16px;box-shadow:0 30px 80px #0006;overflow:hidden}
+.panel .in{display:flex;align-items:center;gap:12px;padding:6px 16px;border-bottom:1px solid var(--line)}
+.panel .in svg{width:20px;height:20px;color:var(--accent);flex:none}
+.panel input{flex:1;border:0;background:transparent;font:500 1.15rem var(--ui);color:var(--ink);padding:14px 0;outline:none;min-width:0}
+.panel .x{border:0;background:var(--sunk);border-radius:6px;padding:4px 8px;font:600 .72rem var(--mono);cursor:pointer;color:var(--muted)}
+.res{overflow:auto;padding:8px 8px 14px}
+.res h4{font:600 .72rem var(--ui);letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:14px 10px 6px}
+.res a.r{display:block;padding:9px 10px;border-radius:8px;text-decoration:none}
+.res a.r:hover,.res a.r.sel{background:var(--sunk)}
+.res a.r b{font-weight:600;display:block}
+.res a.r span{font-size:.87rem;color:var(--muted);display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.res .said{display:grid;grid-template-columns:auto minmax(0,1fr);gap:10px;align-items:start;padding:9px 10px;border-radius:8px}
+.res .said:hover{background:var(--sunk)}
+.res .said p{margin:0;font-size:.92rem;line-height:1.45}
+.res .said p small{display:block;color:var(--muted);font-size:.8rem;margin-top:2px}
+.res .said a{text-decoration:none}
+mark{background:var(--accent-soft);color:var(--accent-ink);border-radius:3px;padding:0 2px}
+.empty{padding:22px 12px;color:var(--muted);font-size:.95rem}
+
+/* ---------- player ---------- */
+.player{position:fixed;left:0;right:0;bottom:0;z-index:50;background:var(--hero-bg);color:var(--hero-ink);border-top:1px solid var(--hero-line);padding-bottom:env(safe-area-inset-bottom,0px)}
+.player .wrap{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:16px;align-items:center;min-height:76px}
+.player .play{background:var(--accent);color:#fff}
+.player .info{min-width:0;display:grid;gap:4px}
+.player .ti{font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-decoration:none}
+.player .ti small{color:var(--hero-muted);font-weight:500;margin-right:8px;font-family:var(--mono);font-size:.78rem}
+.player .tl{display:flex;align-items:center;gap:10px;font:500 .75rem var(--mono);color:var(--hero-muted);font-variant-numeric:tabular-nums}
+.player.fail input[type=range],.player.fail #pDur{display:none}
+.player.fail #pCur{white-space:normal;font-family:var(--ui);font-size:.82rem;color:var(--hero-ink)}
+.player.fail #pSpot{color:#fff;background:var(--accent)}
+.player input[type=range]{flex:1;accent-color:var(--accent);min-width:0;height:18px}
+.player .ctl{display:flex;gap:4px;align-items:center}
+.player .ctl button,.player .ctl a{border:0;background:transparent;color:var(--hero-muted);font:600 .8rem var(--mono);padding:8px;border-radius:8px;cursor:pointer;text-decoration:none;white-space:nowrap}
+.player .ctl button:hover,.player .ctl a:hover{color:var(--hero-ink);background:var(--hero-line)}
+
+footer{border-top:1px solid var(--line);padding-block:28px 40px;color:var(--muted);font-size:.86rem}
+footer .wrap{display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between}
+footer a{color:var(--muted)}
+
+@media (max-width:960px){
+  .hero .wrap{grid-template-columns:1fr;gap:32px;padding-block:40px 64px}
+  .article{grid-template-columns:1fr;gap:28px}
+  .side{position:static;order:-1}
+}
+@media (max-width:720px){
+  .bar .wrap{flex-wrap:wrap;gap:0 12px;padding-top:8px}
+  .logo small{display:none}
+  .logo .t{font-size:1.15rem}
+  .find{margin-left:auto;padding:7px 12px}
+  .find .lbl,.find kbd{display:none}
+  .nav{order:3;flex-basis:100%;margin:4px -8px 6px;justify-content:space-between;gap:0}
+  .nav a{padding:6px 6px;font-size:clamp(.76rem,3.4vw,.9rem)}
+  .ep{grid-template-columns:auto minmax(0,1fr) auto;gap:12px}
+  .ep .play{width:40px;height:40px;flex:none}
+  .mark,.tx .mark{grid-template-columns:1fr;gap:6px}
+  .player .wrap{grid-template-columns:auto minmax(0,1fr);gap:12px;padding-block:8px}
+  .player .ctl{grid-column:1 / -1;justify-content:space-between}
+  body.playing{padding-bottom:calc(130px + env(safe-area-inset-bottom,0px))}
+  .q{padding:16px}
+  .stats{display:grid;grid-template-columns:repeat(2,auto);justify-content:start;gap:14px 40px}
+  .side .box+.box{display:none}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+
+<header class="bar">
+  <div class="wrap">
+    <a class="logo" href="#home" aria-label="Real Exam English Fanwiki, home"><span class="disc">REAL<br>EXAM</span><span class="t"><span>Real Exam <em>English</em> Fanwiki</span><small>B2 · C1 · C2</small></span></a>
+    <nav class="nav" id="nav" aria-label="Sections">
+      <a href="#home" data-s="home">Home</a>
+      <a href="#episodes" data-s="episodes">Episodes</a>
+      <a href="#topics" data-s="topics">Topics</a>
+      <a href="#language" data-s="language">Language</a>
+      <a href="#exams" data-s="exams">Exams</a>
+      <a href="#accents" data-s="accents">Accents</a>
+    </nav>
+    <button class="find" id="openSearch" type="button" aria-label="Search">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <span class="lbl">Search</span><kbd>/</kbd>
+    </button>
+  </div>
+</header>
+
+<div id="view"></div>
+
+<footer>
+  <div class="wrap">
+    <span>Real Exam English Fanwiki, a fan project for Trevor's podcast. Transcripts are generated automatically; hearing errors are possible.</span>
+    <span><a href="https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW" target="_blank" rel="noopener">Podcast on Spotify</a> · <a href="https://realexamenglish.com/" target="_blank" rel="noopener">realexamenglish.com</a> · <a href="https://github.com/tscherny86/realexam/blob/HEAD/CHANGELOG.md" target="_blank" rel="noopener">Version __VERSION__</a></span>
+  </div>
+</footer>
+
+<div class="overlay" id="overlay" hidden>
+  <div class="panel" role="dialog" aria-modal="true" aria-label="Search">
+    <div class="in">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" autocomplete="off" placeholder="Topic, phrasal verb, idiom, episode or quote …" aria-label="Search term">
+      <button class="x" id="closeSearch" type="button">ESC</button>
+    </div>
+    <div class="res" id="res"></div>
+  </div>
+</div>
+
+<div class="player" id="player" hidden>
+  <div class="wrap">
+    <button class="play" id="pp" type="button" aria-label="Play"></button>
+    <div class="info">
+      <a class="ti" id="pTitle" href="#home"></a>
+      <div class="tl"><span id="pCur">0:00</span><input type="range" id="pSeek" min="0" max="100" value="0" step="1" aria-label="Position"><span id="pDur">0:00</span></div>
+    </div>
+    <div class="ctl">
+      <button type="button" id="pBack" aria-label="Back 15 seconds">−15</button>
+      <button type="button" id="pFwd" aria-label="Forward 15 seconds">+15</button>
+      <button type="button" id="pRate" aria-label="Speed">1×</button>
+      <a id="pSpot" href="#" target="_blank" rel="noopener">Spotify ↗</a>
+      <button type="button" id="pClose" aria-label="Close player">✕</button>
+    </div>
+  </div>
+  <audio id="audio" preload="none"></audio>
+</div>
+
+<script>
+const DATA = __DATA__;
+const EPS = DATA.eps, EP = Object.fromEntries(EPS.map(e => [e.id, e]));
+const ENTRIES = DATA.entries, ENTRY = Object.fromEntries(ENTRIES.map(e => [e.r, e]));
+const TX = DATA.tx;
+const SHOW = "https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW";
+const KIND = {topic:["topics","Topic","Topics"], language:["language","Language point","Language"], exam:["exams","Exam","Exams & skills"], accent:["accents","Accent","Accents"]};
+const SECTION = {topics:"topic", language:"language", exams:"exam", accents:"accent"};
+const ICON = {
+  play:'<svg viewBox="0 0 24 24" fill="currentColor"><path d="M7 4.5v15l13-7.5z"/></svg>',
+  pause:'<svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 4h4.5v16H6zM13.5 4H18v16h-4.5z"/></svg>',
+  ext:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>',
+  doc:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 3h9l4 4v14H6z"/><path d="M9 12h7M9 16h7"/></svg>'
+};
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt = s => { s = Math.max(0, Math.floor(s)); const h = Math.floor(s/3600), m = Math.floor(s%3600/60), x = String(s%60).padStart(2,"0"); return h ? `${h}:${String(m).padStart(2,"0")}:${x}` : `${m}:${x}`; };
+const dfmt = new Intl.DateTimeFormat("en-GB", {day:"numeric", month:"long", year:"numeric"});
+const date = d => d ? dfmt.format(new Date(d + "T12:00:00")) : "";
+const mins = d => { const p = d.split(":").map(Number); return (p.length === 3 ? p[0]*60 + p[1] : p[0]) + " min"; };
+const badge = (e, lg) => `<span class="badge${lg?" lg":""}" aria-label="${e.season ? `Season ${e.season}, episode ${e.num}` : e.kind}">${e.season ? `S${e.season} · E${e.num}` : e.kind}</span>`;
+const chip = (id, s) => `<button class="t" type="button" data-ep="${id}" data-s="${s}" aria-label="Play the episode from ${fmt(s)}">${fmt(s)}</button>`;
+const playBtn = (id, lg) => `<button class="play${lg?" lg":""}" type="button" data-ep="${id}" data-s="0" aria-label="Play episode">${ICON.play}</button>`;
+const epTitle = e => (e.season ? `S${e.season} E${e.num} · ` : "") + e.title;
+const txCount = Object.keys(TX).length;
+const byCount = (a, b) => b.count - a.count || a.name.localeCompare(b.name, "en");
+const byName = (a, b) => a.name.localeCompare(b.name, "en", {sensitivity: "base"});
+
+/* ---------- views ---------- */
+function tile(en){
+  const w = Math.round(en.count / EPS.length * 100);
+  return `<a class="tile" href="#${en.r}"><b>${esc(en.name)}</b><span>${esc(en.lead)}</span>
+    <span class="gauge" title="in ${en.count} of ${EPS.length} episodes"><s style="--w:${w}%"></s>${en.count} episode${en.count === 1 ? "" : "s"}</span></a>`;
+}
+function epRow(e){
+  return `<div class="ep">${badge(e)}<div style="min-width:0"><a class="t1" href="#episode-${e.id}">${esc(e.title)}</a>
+    <div class="m"><span>${date(e.date)}</span><span>${mins(e.dur)}</span>${e.tx ? '<span class="tx">Transcript</span>' : ""}</div></div>
+    ${playBtn(e.id)}</div>`;
+}
+const chipList = list => `<div class="chips">${list.map(b => `<a class="chip" href="#${b.r}">${esc(b.name)} <small>${b.count}</small></a>`).join("")}</div>`;
+
+function viewHome(){
+  const latest = EPS[0];
+  const topics = ENTRIES.filter(e => e.kind === "topic").sort(byCount);
+  const lang = ENTRIES.filter(e => e.kind === "language").sort(byCount);
+  const exams = ENTRIES.filter(e => e.kind === "exam").sort(byCount);
+  const accents = ENTRIES.filter(e => e.kind === "accent").sort(byCount);
+  const quotes = ENTRIES.reduce((n, e) => n + e.quotes.length, 0);
+  return `<section class="hero"><div class="wrap">
+    <div>
+      <div class="eyebrow">The fanwiki for the Real Exam English podcast</div>
+      <h1>Real exam questions. <em>Real</em> native answers.</h1>
+      <div class="levels"><span>B2</span><span>C1</span><span>C2</span></div>
+      <p class="lede">Every topic, idiom, phrasal verb and grammar point that <b>Trevor and his native speakers</b> covered, with background notes. Each phrase leads straight <b>to the minute in the episode</b>.</p>
+      <button class="bigsearch" type="button" data-open-search>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <span>What are you looking for? e.g. phrasal verbs, climate change, inversion</span></button>
+      <div class="stats">
+        <div><b>${EPS.length}</b><span>Episodes</span></div>
+        <div><b>${DATA.hours[0]} h</b><span>Audio</span></div>
+        <div><b>${txCount}</b><span>Transcripts</span></div>
+        <div><b>${quotes.toLocaleString("en-GB")}</b><span>Quotes with a minute</span></div>
+      </div>
+    </div>
+    <article class="latest">
+      <div class="eyebrow">Latest episode</div>
+      <div style="display:flex;align-items:center;gap:14px">${badge(latest, true)}<span class="meta">${date(latest.date)} · ${mins(latest.dur)}</span></div>
+      <h2><a href="#episode-${latest.id}">${esc(latest.title)}</a></h2>
+      <div class="tags">${latest.topics.slice(0, 6).map(([r, n]) => `<a href="#${r}">${esc(n)}</a>`).join("")}</div>
+      <div style="display:flex;align-items:center;gap:14px">${playBtn(latest.id, true)}<span class="meta">Listen here</span></div>
+    </article>
+  </div></section>
+  <main class="wrap">
+    <section class="sec"><div class="sec-h"><h2>The big topics</h2><a href="#topics">All ${topics.length} topics →</a></div>
+      <div class="tiles">${topics.slice(0, 12).map(tile).join("")}</div></section>
+    <section class="sec"><div class="sec-h"><h2>Language points</h2><a href="#language">All ${lang.length} →</a></div>${chipList(lang)}</section>
+    <section class="sec"><div class="sec-h"><h2>New episodes</h2><a href="#episodes">All ${EPS.length} episodes →</a></div>
+      <div class="eplist">${EPS.slice(0, 6).map(epRow).join("")}</div></section>
+    <section class="sec"><div class="sec-h"><h2>Exams &amp; skills</h2><a href="#exams">All →</a></div>${chipList(exams)}</section>
+    <section class="sec"><div class="sec-h"><h2>Accents</h2><a href="#accents">All →</a></div>${chipList(accents)}</section>
+  </main>`;
+}
+
+function viewIndex(kind){
+  const [, one, many] = KIND[kind];
+  const list = ENTRIES.filter(e => e.kind === kind).sort(byCount);
+  const lead = {topic:"Background notes on every exam topic, plus every passage in the podcast where native speakers talk about it.",
+                language:"Grammar, vocabulary and pronunciation points that Trevor picks out of the answers, with his examples at the exact minute.",
+                exam:"The Cambridge exams, IELTS and the skills they test, with Trevor's advice from the episodes.",
+                accent:"Where the speakers come from and what their accents sound like, with listening practice at the minute."}[kind];
+  return `<main class="wrap"><div class="pagehead"><div class="eyebrow">${list.length} ${many}</div><h1>${many}</h1><p class="lead">${lead}</p></div>
+    <div class="tiles">${list.map(tile).join("")}</div></main>`;
+}
+
+let epSeason = "all", epFilter = "";
+function viewEpisodes(){
+  const seasons = [...new Set(EPS.map(e => e.season))].sort((a, b) => b - a);
+  const label = s => s === "all" ? "All" : s === 0 ? "Bonus" : "Season " + s;
+  return `<main class="wrap"><div class="pagehead"><div class="eyebrow">${EPS.length} episodes · ${DATA.hours[0]} h ${DATA.hours[1]} min</div><h1>All episodes</h1>
+    <p class="lead">Newest first. Episodes with a transcript can be searched to the minute.</p></div>
+    <div class="filters"><div class="seg" role="group" aria-label="Season">${["all", ...seasons].map(s => `<button type="button" data-season="${s}" class="${String(s) === String(epSeason) ? "on" : ""}">${label(s)}</button>`).join("")}</div>
+    <input id="epq" type="search" placeholder="Filter episodes …" aria-label="Filter episodes" value="${esc(epFilter)}"></div>
+    <div class="eplist" id="eplist"></div></main>`;
+}
+function fillEpisodes(){
+  const f = epFilter.trim().toLowerCase();
+  const list = EPS.filter(e => (epSeason === "all" || String(e.season) === String(epSeason)) &&
+    (!f || (e.title + " " + e.label + " " + e.topics.map(t => t[1]).join(" ")).toLowerCase().includes(f)));
+  document.getElementById("eplist").innerHTML = list.map(epRow).join("") || `<p class="empty">No episode matches “${esc(epFilter)}”.</p>`;
+}
+
+function viewEpisode(id){
+  const e = EP[id];
+  if (!e) return viewMissing();
+  const groups = ["topic", "language", "exam", "accent"].map(k => [k, e.topics.filter(([r]) => r.startsWith(k + "-"))]).filter(g => g[1].length);
+  return `<main class="wrap">
+    <div class="crumbs"><a href="#episodes">Episodes</a><span>/</span><span>${e.season ? "Season " + e.season : "Bonus"}</span></div>
+    <div class="pagehead" style="margin-top:14px"><div style="display:flex;align-items:center;gap:14px;flex-wrap:wrap">${badge(e, true)}<span class="eyebrow">${e.season ? "Season " + e.season + " · Episode " + e.num : e.kind + " episode"}</span></div>
+      <h1>${esc(e.title)}</h1></div>
+    <div class="article">
+      <div style="min-width:0">
+        ${groups.length || e.minor.length ? `<section style="margin-bottom:32px">${groups.length ? `<div class="topics">${groups.map(([k, ts]) => ts.map(([r, n]) => `<a class="k-${k}" href="#${r}">${esc(n)}</a>`).join("")).join("")}</div>` : ""}
+          ${e.minor.length ? `<p class="minor"><span>Briefly mentioned:</span> ${e.minor.map(([r, n]) => `<a href="#${r}">${esc(n)}</a>`).join(", ")}</p>` : ""}</section>` : ""}
+        <section><div class="sec-h"><h2>Show notes</h2></div><div class="prose">${e.notes || "<p>No show notes.</p>"}</div></section>
+        ${e.marks.length ? `<section class="sec"><div class="sec-h"><h2>Chapters</h2>${e.tx ? `<a href="#transcript-${e.id}">Full transcript →</a>` : ""}</div>
+          <div class="marks">${e.marks.map(([s, t]) => `<div class="mark">${chip(e.id, s)}<p>${esc(t)} <a href="#transcript-${e.id}-m${Math.floor(s/60)}">read on</a></p></div>`).join("")}</div></section>`
+          : `<section class="sec"><p class="note">There is no transcript for this episode yet. It is being created and will appear here automatically.</p></section>`}
+      </div>
+      <aside class="side">
+        <div class="box"><h3>Listen</h3>
+          <div style="display:flex;align-items:center;gap:14px;margin-bottom:16px">${playBtn(e.id, true)}<div><b>Play here</b><div class="note">${mins(e.dur)}</div></div></div>
+          <div class="btns">
+            <a class="btn" href="${esc(e.spotify || SHOW)}" target="_blank" rel="noopener">${ICON.ext} ${e.spotify ? "Open on Spotify" : "Podcast on Spotify"}</a>
+            ${e.tx ? `<a class="btn" href="#transcript-${e.id}">${ICON.doc} Read the transcript</a>` : ""}
+          </div></div>
+        <div class="box"><h3>Details</h3><dl class="kv">
+          <dt>Date</dt><dd>${date(e.date)}</dd><dt>Duration</dt><dd>${e.dur}</dd>
+          <dt>Transcript</dt><dd>${e.tx ? "yes, " + esc(e.status || "automatic") : "coming"}</dd><dt>Topics</dt><dd>${e.topics.length}</dd></dl></div>
+      </aside>
+    </div></main>`;
+}
+
+const QUOTES_SHOWN = 8;
+function viewEntry(r){
+  const en = ENTRY[r];
+  if (!en) return viewMissing();
+  const [idx, one, many] = KIND[en.kind];
+  const eps = en.eps.filter(([id]) => EP[id]).sort((a, b) => EP[b[0]].date.localeCompare(EP[a[0]].date));
+  const minor = (en.minor || []).filter(([id]) => EP[id]).sort((a, b) => EP[b[0]].date.localeCompare(EP[a[0]].date));
+  const quote = ([id, s, text]) => { const e = EP[id]; return e ? `<figure class="q"><blockquote>${esc(text)}</blockquote>
+    <figcaption>${chip(id, s)}<a href="#episode-${id}">${esc(epTitle(e))}</a><a class="sub" href="#transcript-${id}-m${Math.floor(s/60)}">in the transcript</a></figcaption></figure>` : ""; };
+  return `<main class="wrap">
+    <div class="crumbs"><a href="#${idx}">${many}</a><span>/</span><span>${esc(en.name)}</span></div>
+    <div class="pagehead" style="margin-top:14px"><div class="eyebrow">${one}</div><h1>${esc(en.name)}</h1>${en.lead ? `<p class="lead">${esc(en.lead)}</p>` : ""}</div>
+    <div class="article">
+      <div style="min-width:0">
+        ${en.expl ? `<section><div class="sec-h"><h2>In short</h2></div><div class="prose">${en.expl}</div>
+          <p class="note">General background knowledge. What the podcast says about it follows below.</p></section>` : ""}
+        ${en.quotes.length ? `<section class="sec"><div class="sec-h"><h2>Said in the podcast</h2><span class="note">${en.quotes.length} passages</span></div>
+          <div class="quotes" id="quotes">${en.quotes.slice(0, QUOTES_SHOWN).map(quote).join("")}</div>
+          ${en.quotes.length > QUOTES_SHOWN ? `<button class="btn more" type="button" id="moreQuotes">Show all ${en.quotes.length} passages</button>` : ""}</section>` : ""}
+        <section class="sec"><div class="sec-h"><h2>In these episodes</h2><span class="note">${eps.length}</span></div>
+          <div class="hits">${eps.map(([id, sn, times]) => { const e = EP[id]; return `<div class="hit">${badge(e)}<div style="min-width:0">
+            <a class="t1" href="#episode-${id}">${esc(e.title)}</a> <span class="d">· ${date(e.date)}</span>
+            <div class="row">${sn ? '<span class="tag">Show notes</span>' : ""}${times.map(s => chip(id, s)).join("")}</div></div></div>`; }).join("") || '<p class="empty">No episode yet where this was a main topic.</p>'}</div></section>
+        ${minor.length ? `<section class="sec"><div class="sec-h"><h2>Briefly mentioned</h2><span class="note">${minor.length}</span></div>
+          <p class="note" style="margin:0 0 12px">Mentioned only a few times, not a main topic of the episode.</p>
+          <div class="hits minorhits">${minor.map(([id, sn, times]) => { const e = EP[id]; return `<div class="hit">${badge(e)}<div style="min-width:0">
+            <a class="t1" href="#episode-${id}">${esc(e.title)}</a> <span class="d">· ${date(e.date)}</span>
+            <div class="row">${times.map(s => chip(id, s)).join("")}</div></div></div>`; }).join("")}</div></section>` : ""}
+      </div>
+      <aside class="side"><div class="box"><h3>At a glance</h3><dl class="kv">
+        <dt>Episodes</dt><dd>${eps.length} of ${EPS.length}</dd>${en.quotes.length ? `<dt>Quotes</dt><dd>${en.quotes.length}</dd>` : ""}
+        <dt>First</dt><dd>${eps.length ? date(EP[eps[eps.length-1][0]].date) : "–"}</dd><dt>Latest</dt><dd>${eps.length ? date(EP[eps[0][0]].date) : "–"}</dd></dl>
+        <p class="note" style="margin:14px 0 0">A click on a minute plays the episode from exactly that point.</p></div></aside>
+    </div></main>`;
+}
+
+function viewTranscript(id, minute){
+  const e = EP[id], rows = TX[id];
+  if (!e || !rows) return viewMissing();
+  return `<main class="wrap">
+    <div class="crumbs"><a href="#episodes">Episodes</a><span>/</span><a href="#episode-${id}">${esc(epTitle(e))}</a><span>/</span><span>Transcript</span></div>
+    <div class="pagehead" style="margin-top:14px"><div style="display:flex;align-items:center;gap:14px">${badge(e, true)}<span class="eyebrow">Transcript</span></div>
+      <h1>${esc(e.title)}</h1><p class="lead">Generated automatically, ${e.status && e.status.startsWith("not") ? "<b>" + esc(e.status) + "</b>" : esc(e.status || "unchecked")}; occasional hearing errors are possible. Click a time to play from there.</p></div>
+    <div class="tx"><div class="marks">${rows.map(([s, t]) => `<div class="mark" id="m${Math.floor(s/60)}">${chip(id, s)}<p>${esc(t)}</p></div>`).join("")}</div></div></main>`;
+}
+const viewMissing = () => `<main class="wrap"><div class="pagehead"><h1>Page not found</h1><p class="lead">This entry does not exist (any more). <a href="#home">Back to the home page</a></p></div></main>`;
+
+/* ---------- router ---------- */
+function route(){
+  const h = location.hash.slice(1) || "home";
+  let html, section = "", after = null, m;
+  if (h === "home" || h === "start") { html = viewHome(); section = "home"; }
+  else if (SECTION[h]) { html = viewIndex(SECTION[h]); section = h; }
+  else if (h === "episodes") { html = viewEpisodes(); section = "episodes"; after = fillEpisodes; }
+  else if ((m = h.match(/^episode-([a-z0-9-]+)$/))) { html = viewEpisode(m[1]); section = "episodes"; }
+  else if ((m = h.match(/^transcript-(.+?)(?:-m(\d+))?$/))) {
+    html = viewTranscript(m[1], m[2]); section = "episodes";
+    if (m[2]) after = () => { const el = document.getElementById("m" + m[2]); if (el) { el.classList.add("hl"); el.scrollIntoView({block:"center"}); } };
+  }
+  else if (ENTRY[h]) { html = viewEntry(h); section = KIND[ENTRY[h].kind][0]; }
+  else html = viewMissing();
+  document.getElementById("view").innerHTML = html;
+  document.querySelectorAll("#nav a").forEach(a => a.classList.toggle("on", a.dataset.s === section));
+  const name = document.querySelector("#view h1");
+  document.title = h === "home" || !name ? "Real Exam English Fanwiki" : name.textContent + " · Real Exam English Fanwiki";
+  window.scrollTo(0, 0);
+  if (after) after();
+  markNow();
+}
+
+/* ---------- player ---------- */
+const audio = document.getElementById("audio"), player = document.getElementById("player");
+const pp = document.getElementById("pp"), seek = document.getElementById("pSeek");
+let cur = null, rates = [1, 1.25, 1.5, 2], ri = 0;
+function play(id, s){
+  const e = EP[id]; if (!e || !e.mp3) return;
+  player.hidden = false; document.body.classList.add("playing"); player.classList.remove("fail");
+  document.getElementById("pSpot").href = e.spotify ? e.spotify + "?t=" + Math.floor(s) : SHOW;
+  if (!cur || cur.id !== id) {
+    cur = e;
+    document.getElementById("pTitle").innerHTML = `<small>${e.season ? "S" + e.season + " E" + e.num : e.kind}</small>${esc(e.title)}`;
+    document.getElementById("pTitle").href = "#episode-" + id;
+    document.getElementById("pDur").textContent = e.dur;
+    audio.src = e.mp3 + (s ? "#t=" + Math.floor(s) : "");   // start point already in the address
+    audio.addEventListener("loadedmetadata", () => { if (Math.abs(audio.currentTime - s) > 2) audio.currentTime = s; }, {once:true});
+  } else {
+    audio.currentTime = s;
+  }
+  // call play() inside the click, otherwise Safari & co. block playback
+  const pr = audio.play();
+  if (pr) pr.catch(err => { if (err.name !== "AbortError") fail(); });
+}
+function fail(){
+  player.classList.add("fail");
+  document.getElementById("pCur").textContent = "Audio cannot be loaded here. Use “Spotify ↗” to listen at the same point.";
+  sync();
+}
+audio.addEventListener("error", () => { if (cur) fail(); });
+function sync(){
+  pp.innerHTML = audio.paused ? ICON.play : ICON.pause;
+  pp.setAttribute("aria-label", audio.paused ? "Play" : "Pause");
+  document.querySelectorAll(".play[data-ep]").forEach(b => { const on = cur && b.dataset.ep === cur.id && !audio.paused; b.innerHTML = on ? ICON.pause : ICON.play; });
+}
+function markNow(){
+  const t = audio.currentTime;
+  document.querySelectorAll(".t").forEach(c => c.classList.remove("now"));
+  if (!cur || audio.paused) return;
+  let best = null;
+  document.querySelectorAll(`.tx .t[data-ep="${cur.id}"]`).forEach(c => { if (+c.dataset.s <= t) best = c; });
+  if (best) best.classList.add("now");
+}
+audio.addEventListener("timeupdate", () => {
+  if (!isFinite(audio.duration)) return;
+  seek.max = Math.floor(audio.duration); seek.value = Math.floor(audio.currentTime);
+  document.getElementById("pCur").textContent = fmt(audio.currentTime);
+  document.getElementById("pDur").textContent = fmt(audio.duration);
+  const sp = document.getElementById("pSpot");
+  sp.href = cur.spotify ? cur.spotify + "?t=" + Math.floor(audio.currentTime) : SHOW;
+  markNow();
+});
+["play", "pause", "ended"].forEach(ev => audio.addEventListener(ev, () => { sync(); markNow(); }));
+pp.addEventListener("click", () => audio.paused ? audio.play().catch(() => {}) : audio.pause());
+seek.addEventListener("input", () => { audio.currentTime = +seek.value; });
+document.getElementById("pBack").addEventListener("click", () => { audio.currentTime = Math.max(0, audio.currentTime - 15); });
+document.getElementById("pFwd").addEventListener("click", () => { audio.currentTime += 15; });
+document.getElementById("pRate").addEventListener("click", e => { ri = (ri + 1) % rates.length; audio.playbackRate = rates[ri]; e.target.textContent = rates[ri] + "×"; });
+document.getElementById("pClose").addEventListener("click", () => { audio.pause(); player.hidden = true; document.body.classList.remove("playing"); });
+
+/* ---------- search ---------- */
+const overlay = document.getElementById("overlay"), q = document.getElementById("q"), res = document.getElementById("res");
+const norm = s => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[’‘]/g, "'");
+const TXIDX = Object.entries(TX).flatMap(([id, rows]) => rows.map(([s, t]) => [id, s, t, norm(t)]));
+function hl(text, term){
+  const n = norm(text), i = n.indexOf(term);
+  if (i < 0) return esc(text);
+  return esc(text.slice(0, i)) + "<mark>" + esc(text.slice(i, i + term.length)) + "</mark>" + esc(text.slice(i + term.length));
+}
+function snippet(text, term){
+  const i = norm(text).indexOf(term), a = Math.max(0, i - 70), b = Math.min(text.length, i + term.length + 110);
+  return (a ? "… " : "") + text.slice(a, b) + (b < text.length ? " …" : "");
+}
+function search(){
+  const term = norm(q.value.trim());
+  if (term.length < 2) { res.innerHTML = `<p class="empty">Type at least two letters. The search covers topics, language points, exams, accents, episodes and all ${txCount} transcripts.</p>`; return; }
+  const ents = ENTRIES.filter(e => norm(e.name + " " + e.lead).includes(term)).sort(byCount).slice(0, 8);
+  const eps = EPS.filter(e => norm(e.title + " " + e.label).includes(term)).slice(0, 8);
+  const said = []; for (const row of TXIDX) { if (row[3].includes(term)) { said.push(row); if (said.length >= 25) break; } }
+  let out = "";
+  if (ents.length) out += `<h4>Knowledge</h4>` + ents.map(e => `<a class="r" href="#${e.r}"><b>${hl(e.name, term)}</b><span>${KIND[e.kind][1]} · ${e.count} episodes · ${esc(e.lead)}</span></a>`).join("");
+  if (eps.length) out += `<h4>Episodes</h4>` + eps.map(e => `<a class="r" href="#episode-${e.id}"><b>${hl(e.title, term)}</b><span>${e.label} · ${date(e.date)}</span></a>`).join("");
+  if (said.length) out += `<h4>Said in the podcast${said.length >= 25 ? " (first 25)" : ""}</h4>` + said.map(([id, s, t]) => { const e = EP[id];
+    return `<div class="said">${chip(id, s)}<p><a href="#transcript-${id}-m${Math.floor(s/60)}">${hl(snippet(t, term), term)}</a><small>${esc(epTitle(e))}</small></p></div>`; }).join("");
+  res.innerHTML = out || `<p class="empty">Nothing found for “${esc(q.value)}”. Try another word, e.g. a topic or an idiom.</p>`;
+}
+function openSearch(){ overlay.hidden = false; q.focus(); q.select(); search(); }
+function closeSearch(){ overlay.hidden = true; }
+let timer; q.addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(search, 120); });
+document.getElementById("openSearch").addEventListener("click", openSearch);
+document.getElementById("closeSearch").addEventListener("click", closeSearch);
+overlay.addEventListener("click", e => { if (e.target === overlay || e.target.closest("a[href^='#']")) closeSearch(); });
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape" && !overlay.hidden) closeSearch();
+  else if ((e.key === "/" || (e.key === "k" && (e.metaKey || e.ctrlKey))) && overlay.hidden && !/input|textarea/i.test(document.activeElement.tagName)) { e.preventDefault(); openSearch(); }
+});
+
+/* ---------- clicks ---------- */
+document.addEventListener("click", e => {
+  const t = e.target.closest("[data-ep]");
+  if (t) { e.preventDefault(); const s = +t.dataset.s;
+    if (cur && cur.id === t.dataset.ep && t.classList.contains("play") && !audio.paused) audio.pause(); else play(t.dataset.ep, s); return; }
+  if (e.target.closest("[data-open-search]")) { openSearch(); return; }
+  const y = e.target.closest("[data-season]");
+  if (y) { epSeason = y.dataset.season; document.querySelectorAll("[data-season]").forEach(b => b.classList.toggle("on", b === y)); fillEpisodes(); return; }
+  if (e.target.id === "moreQuotes") {
+    const en = ENTRY[location.hash.slice(1)];
+    document.getElementById("quotes").insertAdjacentHTML("beforeend", en.quotes.slice(QUOTES_SHOWN).map(([id, s, text]) => { const ep = EP[id]; return ep ? `<figure class="q"><blockquote>${esc(text)}</blockquote>
+      <figcaption>${chip(id, s)}<a href="#episode-${id}">${esc(epTitle(ep))}</a><a class="sub" href="#transcript-${id}-m${Math.floor(s/60)}">in the transcript</a></figcaption></figure>` : ""; }).join(""));
+    e.target.remove();
+  }
+});
+document.addEventListener("input", e => { if (e.target.id === "epq") { epFilter = e.target.value; fillEpisodes(); } });
+window.addEventListener("hashchange", route);
+route(); sync();
+</script>

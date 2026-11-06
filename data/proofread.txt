@@ -1,0 +1,2 @@
+# Episodes whose transcript was fully proofread by hand (date of the check). Episodes with an official
+# Buzzsprout transcript are aligned to it automatically and do not need to be listed here.

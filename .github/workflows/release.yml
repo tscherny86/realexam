@@ -1,0 +1,36 @@
+# Creates the GitHub release vX.Y.Z for every version in CHANGELOG.md that has no release yet.
+# If the heading names a commit (back-dated history), the release points there, otherwise to the current commit.
+name: Release
+
+on:
+  push:
+    branches: [main]
+    paths: [package.json, CHANGELOG.md]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Create missing releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          CUR=$(node -p "require('./package.json').version")
+          for V in $(grep -oP '^## \K[0-9]+\.[0-9]+\.[0-9]+' CHANGELOG.md | tac); do
+            TAG="v$V"
+            if gh release view "$TAG" >/dev/null 2>&1; then continue; fi
+            awk -v v="$V" '/^## / { if (found) exit; if (index($0, "## " v) == 1) { found = 1; next } } found { print }' CHANGELOG.md > notes.md
+            SHA=$(grep -m1 "^## $V " CHANGELOG.md | grep -oP '`\K[0-9a-f]{7,40}(?=`)' | head -1 || true)
+            if [ -n "$SHA" ]; then SHA=$(git rev-parse "$SHA^{commit}"); else SHA="$GITHUB_SHA"; fi
+            LATEST=$([ "$V" = "$CUR" ] && echo true || echo false)
+            gh release create "$TAG" --target "$SHA" --title "Real Exam English Fanwiki $V" --notes-file notes.md --latest=$LATEST \
+              || echo "::warning::Release $TAG could not be created (commit $SHA)."
+          done

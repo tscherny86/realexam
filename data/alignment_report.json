@@ -1,0 +1,72 @@
+{
+ "s06e02": {
+  "ratio": 0.962,
+  "replaced": 84,
+  "inserted": 27,
+  "deleted": 42,
+  "used": true
+ },
+ "s06e03": {
+  "ratio": 0.97,
+  "replaced": 59,
+  "inserted": 44,
+  "deleted": 20,
+  "used": true
+ },
+ "s06e04": {
+  "ratio": 0.973,
+  "replaced": 54,
+  "inserted": 11,
+  "deleted": 22,
+  "used": true
+ },
+ "s06e05": {
+  "ratio": 0.952,
+  "replaced": 91,
+  "inserted": 146,
+  "deleted": 52,
+  "used": true
+ },
+ "s06e06": {
+  "ratio": 0.926,
+  "replaced": 83,
+  "inserted": 54,
+  "deleted": 22,
+  "used": true
+ },
+ "s06e07": {
+  "ratio": 0.97,
+  "replaced": 91,
+  "inserted": 70,
+  "deleted": 18,
+  "used": true
+ },
+ "s06e08": {
+  "ratio": 0.965,
+  "replaced": 65,
+  "inserted": 20,
+  "deleted": 29,
+  "used": true
+ },
+ "s06e09": {
+  "ratio": 0.963,
+  "replaced": 83,
+  "inserted": 16,
+  "deleted": 22,
+  "used": true
+ },
+ "s06e10": {
+  "ratio": 0.963,
+  "replaced": 73,
+  "inserted": 16,
+  "deleted": 19,
+  "used": true
+ },
+ "x2026-06-24": {
+  "ratio": 0.962,
+  "replaced": 48,
+  "inserted": 10,
+  "deleted": 2,
+  "used": true
+ }
+}
