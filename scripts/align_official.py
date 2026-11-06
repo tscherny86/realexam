@@ -18,6 +18,7 @@ from pathlib import Path
 
 OFFICIAL = Path(__file__).resolve().parent.parent / "data" / "official"
 MIN_RATIO = 0.6  # below this the official text is ignored
+LONG_RUN = 25  # runs longer than this are passages the official text lacks or moved, not hearing errors
 
 _NORM = re.compile(r"[^a-z0-9']+")
 
@@ -66,11 +67,16 @@ def apply(words: list[dict], text: str):
             out.extend(_spread(off[j1:j2], words[i1]["start"], words[i2 - 1]["end"]))
             rep += j2 - j1
         elif tag == "insert":
+            if j2 - j1 > LONG_RUN:  # a whole passage the official text has elsewhere: timing unknown, skip
+                continue
             prev_end = out[-1]["end"] if out else (words[i1]["start"] if i1 < len(words) else 0.0)
             next_start = words[i1]["start"] if i1 < len(words) else prev_end + 0.3 * (j2 - j1)
             out.extend(_spread(off[j1:j2], prev_end, max(next_start, prev_end)))
             ins += j2 - j1
         elif tag == "delete":
+            if i2 - i1 > LONG_RUN:  # a whole passage missing from the official text: keep what Whisper heard
+                out.extend(words[i1:i2])
+                continue
             dele += i2 - i1
     ratio = matched / max(1, len(a))
     if ratio < MIN_RATIO:

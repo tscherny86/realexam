@@ -21,7 +21,7 @@ tags: [episode, season-6]
 | **Transcript** | [[Transcript s06e02]] (word-level timestamps, aligned with the official transcript) |
 | **Topics** | [[Learning, School & Education]], [[Weather & Seasons]], [[Extremes & Adventure]], [[Help & Kindness]] |
 | **Language** | [[Idioms & Expressions]], [[Conditionals]], [[Inversion]], [[Past Perfect & Narrative Tenses]], [[Emphasis & Auxiliaries]] |
-| **Exams** | [[Cambridge C1 Advanced (CAE)]], [[Writing Exam]] |
+| **Exams** | [[Cambridge C1 Advanced (CAE)]] |
 | **Accents** | [[Ireland]], [[USA]] |
 | **Briefly mentioned** | [[TV, Film & Entertainment]], [[Work & Careers]], [[Money & Finance]], [[Happiness]], [[Languages & Language Learning]], [[Home & Housing]], [[Transport & Traffic]], [[Parenting & Children]], [[Collocations]], [[Passive Voice]], [[Prepositions]], [[Slang & Informal English]], [[Cambridge B2 First (FCE)]], [[Cambridge C2 Proficiency (CPE)]] |
 

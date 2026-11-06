@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 14
+episodes: 19
 tags: [language]
 ---
 # Organising Your Answer
@@ -21,6 +21,134 @@ a beginning, a middle and an end and whether ideas are linked.
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … exam. And basically there are two types of questions relating to travel. Firstly there are personal experience questions such as where you have been and where you would like to go in the future …
+>
+> — [[s01e02 Travel|S1 E2]], [Minute 0:53](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=53) · [[Transcript s01e02#Minute 0|in the transcript]]
+
+> … really good vocabulary in there to describe the different places in Japan. Firstly, he says there are some real pristine islands and pristine means somewhere that's very, very clean and untouched by people. He …
+>
+> — [[s01e02 Travel|S1 E2]], [Minute 12:32](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=752) · [[Transcript s01e02#Minute 12|in the transcript]]
+
+> … what I really like about this answer. Well, there's two things really. Firstly, it is very well structured with connectors such as so, in fact and but and also there are two really good …
+>
+> — [[s01e02 Travel|S1 E2]], [Minute 14:58](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=898) · [[Transcript s01e02#Minute 14|in the transcript]]
+
+> … locally and there was some really nice vocabulary in this answer. Uh, firstly, she mentioned food that is in season. And if food is in season, then that is the natural time of the …
+>
+> — [[s01e03 Food|S1 E3]], [Minute 12:22](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=742) · [[Transcript s01e03#Minute 12|in the transcript]]
+
+> … in this answer there was some really good vocabulary relating to restaurants. Firstly, there was the service which of course is the people who are serving you the food. Then there was the decor, …
+>
+> — [[s01e03 Food|S1 E3]], [Minute 16:32](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=992) · [[Transcript s01e03#Minute 16|in the transcript]]
+
+> Hello and welcome to real exam English season 2! Firstly, thanks so much to everyone who downloaded and subscribed to the podcast in season and also to everyone who sent me …
+>
+> — [[s02e01 Celebrations|S2 E1]], [Minute 0:12](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=12) · [[Transcript s02e01#Minute 0|in the transcript]]
+
+> … for friends and family and that was really fun. Do you like organizing parties? I do actually. I really like, I like playing host. I get very nervous that No one will turn up. …
+>
+> — [[s02e01 Celebrations|S2 E1]], [Minute 3:32](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=212) · [[Transcript s02e01#Minute 3|in the transcript]]
+
+> … down is a great way to say telling jokes. Do you like organizing parties? Love it, absolutely love it. It´s the event management background in me. Absolutely love it. Love organizing little surprises, even …
+>
+> — [[s02e01 Celebrations|S2 E1]], [Minute 15:29](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=929) · [[Transcript s02e01#Minute 15|in the transcript]]
+
+> … practice some of the vocabulary you learned then why not write a paragraph about why you would prefer to live in the city or the country and what skills you would need to survive …
+>
+> — [[s02e02 City and Country|S2 E2]], [Minute 18:11](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=1091) · [[Transcript s02e02#Minute 18|in the transcript]]
+
+> … B, and also he used as compared to. So in terms of organization this was a great answer, really well structured. For transcripts of the podcast, please go to the Real Exam English website, …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 10:19](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=619) · [[Transcript s02e03#Minute 10|in the transcript]]
+
+> … called compassion fatigue. Which is something people working in NGOs and other organisations from suffer from where you're doing So much activism and you're working on so many difficult issues that sometimes you can …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 15:22](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=922) · [[Transcript s02e03#Minute 15|in the transcript]]
+
+> … asked and plan how you are going to include each one. Ok, secondly you have to make sure you are writing in the correct style and format. That means that if you are writing …
+>
+> — [[x2021-02-19 Bonus Episode - Writing|Bonus]], [Minute 1:44](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=104) · [[Transcript x2021-02-19#Minute 1|in the transcript]]
+
+> … worth taking 5 minutes before you start writing to do a rough paragraph plan and brainstorm all of the nice connectors, expressions, advanced conditionals, etc that you are going to get into your piece. …
+>
+> — [[x2021-02-19 Bonus Episode - Writing|Bonus]], [Minute 4:16](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=256) · [[Transcript x2021-02-19#Minute 4|in the transcript]]
+
+> … these ten words, those 2 phrasal verbs, that conditional, this inversion, 4 paragraphs, this opening sentence, that conclusion, those connectors, and it´s just a matter of piecing your formula together and you´re gonna blow …
+>
+> — [[x2021-02-19 Bonus Episode - Writing|Bonus]], [Minute 6:43](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=403) · [[Transcript x2021-02-19#Minute 6|in the transcript]]
+
+> … in your writings too. Do you think it benefits companies if they organise social activities for the staff? Yes.Yes I do.Uh, because I think it the.I mean, I think that it does allow an …
+>
+> — [[s02e08 Work|S2 E8]], [Minute 2:55](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=175) · [[Transcript s02e08#Minute 2|in the transcript]]
+
+> … on here as we heard it used in lots of different ways. Firstly, we heard depending upon. So, upon has the same core meaning as on but it is sometimes more formal than on …
+>
+> — [[s02e08 Work|S2 E8]], [Minute 4:36](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=276) · [[Transcript s02e08#Minute 4|in the transcript]]
+
+> … them a lot of opportunities to work in in sections of the organization or in different countries that you wouldn't necessarily get if you were in a small organization. But the flip side is …
+>
+> — [[s02e08 Work|S2 E8]], [Minute 6:14](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=374) · [[Transcript s02e08#Minute 6|in the transcript]]
+
+> … the second answer we had two lovely collocations with the word feelings. Firstly, to evoke strong feelings and secondly, to trigger some emotional feelings. These are exactly the kind of high-level collocations that examiners …
+>
+> — [[s03e03 Photos|S3 E3]], [Minute 6:42](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=402) · [[Transcript s03e03#Minute 6|in the transcript]]
+
+> … will hear loads of useful expressions and idioms, some amazing ways to structure your answer, plus some wonderful language for speculating about photographs. As usual you can find the transcripts for this episode on …
+>
+> — [[s03e05 Learning|S3 E5]], [Minute 0:33](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=33) · [[Transcript s03e05#Minute 0|in the transcript]]
+
+> … connectors as the answer is structured excellently. So what did we hear. Firstly, to explain what he was thinking he said And the reason I think that is…then….we might like something because of some …
+>
+> — [[s03e05 Learning|S3 E5]], [Minute 3:05](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=185) · [[Transcript s03e05#Minute 3|in the transcript]]
+
+> … I definitely prefer the group. Some fantastic expressions to focus on here. Firstly, my gut reaction would be no. So your gut reaction is something you feel, without stopping to think about it, like …
+>
+> — [[s03e05 Learning|S3 E5]], [Minute 6:02](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=362) · [[Transcript s03e05#Minute 6|in the transcript]]
+
+> … with that. I think you know.It keeps life interesting for a start. Secondly, I mean, there's been. There's been plenty of medical studies that have proven that it's actually good for your brain to …
+>
+> — [[s03e05 Learning|S3 E5]], [Minute 14:09](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=849) · [[Transcript s03e05#Minute 14|in the transcript]]
+
+> … but I live outside the town.And many people have worked, many neighborhood organization. Grassroots organizations have worked really, really, really hard.For it not to get exploited into a little bit of a shopping center …
+>
+> — [[s03e10 Change|S3 E10]], [Minute 8:20](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=500) · [[Transcript s03e10#Minute 8|in the transcript]]
+
+> … vocabulary this would score way better than the previous answer. It´s also organized in a simple but effective way, sometimes muted colors relax me, but mostly I enjoy when there are bright and saturated …
+>
+> — [[s04e03 Home|S4 E3]], [Minute 4:13](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=253) · [[Transcript s04e03#Minute 4|in the transcript]]
+
+> … the moment you may want to decorate, but it's very expensive and secondly you can't find somebody if you just want to do something small in your home to decorate and you need somebody's …
+>
+> — [[s04e03 Home|S4 E3]], [Minute 11:13](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=673) · [[Transcript s04e03#Minute 11|in the transcript]]
+
+> … ways of expressing likes and dislikes. There's some tips on how to organise an exam answer well. And as usual, you're going to hear loads of different accents to help improve your listening skills. …
+>
+> — [[s04e05 Art|S4 E5]], [Minute 0:25](https://open.spotify.com/episode/0vR11wg4wOSgeAnjtWfWIQ?t=25) · [[Transcript s04e05#Minute 0|in the transcript]]
+
+> … art here. Street art, murals, comic books, and surrealism. In terms of organisation, it's an interesting answer. She uses a couple of relative pronouns, which and who. I live in Belgium, which is home …
+>
+> — [[s04e05 Art|S4 E5]], [Minute 2:30](https://open.spotify.com/episode/0vR11wg4wOSgeAnjtWfWIQ?t=150) · [[Transcript s04e05#Minute 2|in the transcript]]
+
+> … five out of five, then you're going to score well. So for organisation, as well as using linking words to connect your speech, try to get some relative pronouns in there, like which or …
+>
+> — [[s04e05 Art|S4 E5]], [Minute 4:09](https://open.spotify.com/episode/0vR11wg4wOSgeAnjtWfWIQ?t=249) · [[Transcript s04e05#Minute 4|in the transcript]]
+
+> … hear some great transport vocabulary, some nice idioms, tips on pronunciation and organizing your speech, plus a very interesting way of using the word really. As usual you will hear a bunch of different …
+>
+> — [[s04e06 Transport|S4 E6]], [Minute 0:34](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=34) · [[Transcript s04e06#Minute 0|in the transcript]]
+
+> … up. This phrasal verb set up, in this context, means arrange or organise. Like, the classroom was set up for students when they got in in the morning, or it took a lot of …
+>
+> — [[s04e06 Transport|S4 E6]], [Minute 2:58](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=178) · [[Transcript s04e06#Minute 2|in the transcript]]
+
+> … best thing about public transport where I live, Brussels in Belgium, is firstly the sheer amount we have, buses, we have trams, we have trains. Secondly, it's the reliability. Things are normally on time …
+>
+> — [[s04e06 Transport|S4 E6]], [Minute 8:48](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=528) · [[Transcript s04e06#Minute 8|in the transcript]]
+
+> … his money are easily parted. Some nice transport vocabulary here, congestion charges firstly. These are the charges some cities have when you drive the car into the city centre, as a way of discouraging …
+>
+> — [[s04e06 Transport|S4 E6]], [Minute 13:09](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=789) · [[Transcript s04e06#Minute 13|in the transcript]]
 
 > … gerund, and ING verb. Something else to point out is her nice organisation. So to focus on one answer So this is basically a little bit confidential, but on the other hand, everyone working …
 >
@@ -154,11 +282,16 @@ a beginning, a middle and an end and whether ideas are linked.
 >
 > — [[s06e10 Decisions|S6 E10]], [Minute 11:22](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=682) · [[Transcript s06e10#Minute 11|in the transcript]]
 
-## In these episodes (14)
+## In these episodes (19)
 
-- [[s03e05 Learning|S3 E5 – Learning]] (2021-12-11) — Show notes
-- [[s04e05 Art|S4 E5 – Art]] (2023-09-22) — Show notes
-- [[s04e06 Transport|S4 E6 – Transport]] (2023-10-19) — Show notes
+- [[s01e02 Travel|S1 E2 – Travel]] (2020-08-30) — Minute [0:53](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=53), [12:32](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=752), [14:58](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=898)
+- [[s02e01 Celebrations|S2 E1 – Celebrations]] (2021-01-21) — Minute [0:12](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=12), [3:32](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=212), [15:29](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=929)
+- [[x2021-02-19 Bonus Episode - Writing|Bonus – Bonus Episode - Writing]] (2021-02-19) — Minute [1:44](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=104), [4:16](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=256), [6:43](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=403)
+- [[s02e08 Work|S2 E8 – Work]] (2021-03-19) — Minute [2:55](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=175), [4:36](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=276), [6:14](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=374)
+- [[s03e05 Learning|S3 E5 – Learning]] (2021-12-11) — Show notes · Minute [0:33](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=33), [3:05](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=185), [6:02](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=362), [14:09](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=849)
+- [[s03e10 Change|S3 E10 – Change]] (2022-06-09) — Minute [8:20](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=500)
+- [[s04e05 Art|S4 E5 – Art]] (2023-09-22) — Show notes · Minute [0:25](https://open.spotify.com/episode/0vR11wg4wOSgeAnjtWfWIQ?t=25), [2:30](https://open.spotify.com/episode/0vR11wg4wOSgeAnjtWfWIQ?t=150), [4:09](https://open.spotify.com/episode/0vR11wg4wOSgeAnjtWfWIQ?t=249)
+- [[s04e06 Transport|S4 E6 – Transport]] (2023-10-19) — Show notes · Minute [0:34](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=34), [2:58](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=178), [8:48](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=528), [13:09](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=789)
 - [[x2024-04-16 Martyna from Poland|Bonus – Martyna from Poland]] (2024-04-16) — Minute [16:10](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=970), [21:42](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1302)
 - [[x2024-05-01 Monologue - Marijuana|Bonus – Monologue - Marijuana]] (2024-05-01) — Show notes · Minute [0:41](https://open.spotify.com/episode/78k4YxQJ89E66sFTzzqLlz?t=41), [2:13](https://open.spotify.com/episode/78k4YxQJ89E66sFTzzqLlz?t=133)
 - [[x2024-06-29 Vietnam and IELTS|Bonus – Vietnam and IELTS]] (2024-06-29) — Show notes · Minute [0:08](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=8), [9:30](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=570), [14:02](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=842), [16:21](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=981)
@@ -171,8 +304,13 @@ a beginning, a middle and an end and whether ideas are linked.
 - [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [13:07](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=787)
 - [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [7:00](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=420), [11:22](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=682)
 
-## Briefly mentioned (5)
+## Briefly mentioned (10)
 
+- [[s01e03 Food|S1 E3 – Food]] (2020-08-30) — Minute [12:22](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=742), [16:32](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=992)
+- [[s02e02 City and Country|S2 E2 – City and Country]] (2021-01-29) — Minute [18:11](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=1091)
+- [[s02e03 Global Issues|S2 E3 – Global Issues]] (2021-02-05) — Minute [10:19](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=619), [15:22](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=922)
+- [[s03e03 Photos|S3 E3 – Photos]] (2021-10-19) — Minute [6:42](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=402)
+- [[s04e03 Home|S4 E3 – Home]] (2023-06-01) — Minute [4:13](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=253), [11:13](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=673)
 - [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Minute [0:41](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=41), [4:56](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=296)
 - [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Minute [3:26](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=206)
 - [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [4:23](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=263), [8:44](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=524)

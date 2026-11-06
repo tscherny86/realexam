@@ -21,7 +21,7 @@ tags: [episode, season-6]
 | **Transcript** | [[Transcript s06e01]] (word-level timestamps, aligned with the official transcript) |
 | **Topics** | [[Technology & the Internet]], [[News & Media]] |
 | **Language** | [[Idioms & Expressions]], [[Pronunciation]] |
-| **Exams** | [[Writing Exam]] |
+| **Exams** | – |
 | **Accents** | [[Ireland]], [[USA]] |
 | **Briefly mentioned** | [[Books & Reading]], [[TV, Film & Entertainment]], [[Work & Careers]], [[Learning, School & Education]], [[Languages & Language Learning]], [[Motivation & Goals]], [[Collocations]], [[Adjectives & Compound Adjectives]], [[England]] |
 

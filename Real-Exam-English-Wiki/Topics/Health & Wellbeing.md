@@ -21,6 +21,54 @@ the cost of public health care (C1/C2).
 
 ## Said in the podcast
 
+> … like crisp. It would be like potato chips and a lot of junk food, which I've been really cutting down on lately. And lots of eating less meat as well. So I've been cutting …
+>
+> — [[s01e05 Phrasal Verbs|S1 E5]], [Minute 4:07](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=247) · [[Transcript s01e05#Minute 4|in the transcript]]
+
+> … And we also heard the American alternative, which is potato chips. So junk food is food like potato chips or crisps and chocolate and nachos and that kind of food that is bad for …
+>
+> — [[s01e05 Phrasal Verbs|S1 E5]], [Minute 5:41](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=341) · [[Transcript s01e05#Minute 5|in the transcript]]
+
+> … Possibly my intake of the news as well, particularly. But it doesn't stress me out, so maybe I don't need to cut down on it. I don't know. How do you know? We heard …
+>
+> — [[s01e05 Phrasal Verbs|S1 E5]], [Minute 8:04](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=484) · [[Transcript s01e05#Minute 8|in the transcript]]
+
+> Hello and welcome to Real Exam English. Today´s topic is health. If ever there was a trending topic, it was health. We have all been bombarded by news about viruses, immune systems, …
+>
+> — [[s02e05 Health|S2 E5]], [Minute 0:12](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=12) · [[Transcript s02e05#Minute 0|in the transcript]]
+
+> … world, but I´m a bit biased. Do you think our attitudes to healthy living change as we age? I think so. I think Particularly in finding work life balance. There is a shifting ideology …
+>
+> — [[s02e05 Health|S2 E5]], [Minute 1:45](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=105) · [[Transcript s02e05#Minute 1|in the transcript]]
+
+> … worth investing in a new warehouse. Do you think our attitudes to healthy living change as we age? They can do, I think they probably do. I think as we get older we feel …
+>
+> — [[s02e05 Health|S2 E5]], [Minute 4:10](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=250) · [[Transcript s02e05#Minute 4|in the transcript]]
+
+> … if you are looking for a good C1 mark. Do you think healthcare should be free? of course I do. Why shouldn't someone be entitled to free health care? What possible reason could there …
+>
+> — [[s02e05 Health|S2 E5]], [Minute 5:50](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=350) · [[Transcript s02e05#Minute 5|in the transcript]]
+
+> … not think is so cool. Like, don´t judge me but I still sleep with a teddy bear. We had a really useful adjective too which was avid, she is an avid runner, which is …
+>
+> — [[s02e07 Free time|S2 E7]], [Minute 9:04](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=544) · [[Transcript s02e07#Minute 9|in the transcript]]
+
+> … that that the plants and the crops that I've. Sown previously are healthy and then you know sort of propagating them. And I'm really, really quite enjoying that and sort of stepping into the …
+>
+> — [[s02e07 Free time|S2 E7]], [Minute 12:27](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=747) · [[Transcript s02e07#Minute 12|in the transcript]]
+
+> … us that we need to rest. That's one of the reasons we sleep and we don't function so well if we don't sleep. But also our mental health needs that to process things an …
+>
+> — [[s02e07 Free time|S2 E7]], [Minute 14:39](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=879) · [[Transcript s02e07#Minute 14|in the transcript]]
+
+> … knowledge and from what I feel also is that having rich and healthy and abundant wildlife. And means basically the earth is healthy itself and humans whether we like it or not, are animals. …
+>
+> — [[s03e07 Animals|S3 E7]], [Minute 5:10](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=310) · [[Transcript s03e07#Minute 5|in the transcript]]
+
+> … Middle East and I didn't require any luxury at that point. I'd sleep on floors, I would sleep on the deck, I could just take my sleeping bag and put myself anywhere. What activities …
+>
+> — [[s04e08 Holidays|S4 E8]], [Minute 5:24](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=324) · [[Transcript s04e08#Minute 5|in the transcript]]
+
 > … in IT as a developer, whether you are an engineer or a doctor, uhm, it really doesn't matter or a cleaning lady, anybody, to know exactly what people need from you is very important, …
 >
 > — [[s04e10 Future|S4 E10]], [Minute 4:53](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=293) · [[Transcript s04e10#Minute 4|in the transcript]]
@@ -69,10 +117,6 @@ the cost of public health care (C1/C2).
 >
 > — [[s06e05 Luck|S6 E5]], [Minute 5:54](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=354) · [[Transcript s06e05#Minute 5|in the transcript]]
 
-> … will be in the future. Like I have aspirations to be a doctor when I’m older, or to live in a house in the countryside. In the first answer he said that in any …
->
-> — [[s06e05 Luck|S6 E5]], [Minute 14:49](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=889) · [[Transcript s06e05#Minute 14|in the transcript]]
-
 > … other side of it is that it can be extremely exhausting and stressful too. Do you consider yourself a lucky person? No, I don't think I'm lucky. But I am lucky. Like, I've never …
 >
 > — [[s06e05 Luck|S6 E5]], [Minute 16:20](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=980) · [[Transcript s06e05#Minute 16|in the transcript]]
@@ -87,16 +131,20 @@ the cost of public health care (C1/C2).
 
 ## In these episodes (2)
 
-- [[s02e05 Health|S2 E5 – Health]] (2021-02-26) — Show notes
+- [[s02e05 Health|S2 E5 – Health]] (2021-02-26) — Show notes · Minute [0:12](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=12), [1:45](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=105), [4:10](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=250), [5:50](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=350)
 - [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Minute [4:54](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=294), [17:23](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1043), [19:32](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1172)
 
-## Briefly mentioned (6)
+## Briefly mentioned (10)
 
+- [[s01e05 Phrasal Verbs|S1 E5 – Phrasal Verbs]] (2020-09-04) — Minute [4:07](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=247), [5:41](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=341), [8:04](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=484)
+- [[s02e07 Free time|S2 E7 – Free time]] (2021-03-12) — Minute [9:04](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=544), [12:27](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=747), [14:39](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=879)
+- [[s03e07 Animals|S3 E7 – Animals]] (2022-02-15) — Minute [5:10](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=310)
+- [[s04e08 Holidays|S4 E8 – Holidays]] (2023-12-21) — Minute [5:24](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=324)
 - [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Minute [4:53](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=293), [6:31](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=391), [9:12](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=552), [11:15](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=675)
 - [[x2024-05-01 Monologue - Marijuana|Bonus – Monologue - Marijuana]] (2024-05-01) — Minute [2:23](https://open.spotify.com/episode/78k4YxQJ89E66sFTzzqLlz?t=143)
 - [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Minute [1:30](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=90), [13:05](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=785)
 - [[x2025-12-16 Xing - Tokyo|Bonus – Xing - Tokyo]] (2025-12-16) — Minute [16:17](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=977)
-- [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [5:54](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=354), [14:49](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=889), [16:20](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=980)
+- [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [5:54](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=354), [16:20](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=980)
 - [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [5:55](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=355), [7:54](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=474)
 
 ---

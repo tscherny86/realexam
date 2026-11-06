@@ -23,7 +23,7 @@ tags: [episode, season-5]
 | **Language** | [[Phrasal Verbs]], [[Adjectives & Compound Adjectives]] |
 | **Exams** | – |
 | **Accents** | [[USA]], [[Australia]] |
-| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Music]], [[Money & Finance]], [[Fame & Celebrity]], [[Languages & Language Learning]], [[Weather & Seasons]], [[Extremes & Adventure]], [[Prepositions]], [[Slang & Informal English]], [[Writing Exam]], [[Wales]] |
+| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Music]], [[Money & Finance]], [[Fame & Celebrity]], [[Languages & Language Learning]], [[Weather & Seasons]], [[Extremes & Adventure]], [[Prepositions]], [[Slang & Informal English]], [[Wales]] |
 
 ## Show notes
 

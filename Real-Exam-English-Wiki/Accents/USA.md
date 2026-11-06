@@ -1,6 +1,6 @@
 ---
 type: accents
-episodes: 30
+episodes: 28
 tags: [accents]
 ---
 # USA
@@ -18,6 +18,226 @@ drawl of Texas. Spelling: *color, center, organize, traveling*.
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … So Karen is from Michigan, which is in the Midwest of the United States. And that accent is considered to be a very neutral accent and, in fact, is the accent that is used …
+>
+> — [[s01e01 Introductions|S1 E1]], [Minute 2:53](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=173) · [[Transcript s01e01#Minute 2|in the transcript]]
+
+> … then that's great. Where do you live? In Bozeman, Montana, in the United States of America. Okay. And how long have you been living there? I've been living here 14 years. What do you …
+>
+> — [[s01e01 Introductions|S1 E1]], [Minute 9:29](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=569) · [[Transcript s01e01#Minute 9|in the transcript]]
+
+> … have somebody from South Africa and we have 2 speakers from The United States, so you´ve a good mix of accents to listen to. And remember in case you can´t understand everything the speakers …
+>
+> — [[s01e02 Travel|S1 E2]], [Minute 1:20](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=80) · [[Transcript s01e02#Minute 1|in the transcript]]
+
+> … few places I'm dying to go to. For instance, Russia and South America. And that way, OK, you're telling the examiner that you've been to all of these places, but you're putting lots of …
+>
+> — [[s01e02 Travel|S1 E2]], [Minute 3:45](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=225) · [[Transcript s01e02#Minute 3|in the transcript]]
+
+> … Trevor: What place in the world would you most like to visit? Karen(USA): Uhm…Dubai actually. That was on my bucket list. Short and sweet answer there from Karen just to comment on this expression, …
+>
+> — [[s01e02 Travel|S1 E2]], [Minute 7:27](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=447) · [[Transcript s01e02#Minute 7|in the transcript]]
+
+> … and more of an unusual one. Trevor: What is you favourite dessert? Karen(USA): I can just think off the top of my head….oh I know….cake…cake is my favourite dessert, in general. We just had …
+>
+> — [[s01e03 Food|S1 E3]], [Minute 4:26](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=266) · [[Transcript s01e03#Minute 4|in the transcript]]
+
+> … restaurant, which is more important to you, the atmosphere or the food? Mike(USA): Well, in my opinion, I would prefer more of the…….of the…ff….I love food so for me food is going to be …
+>
+> — [[s01e03 Food|S1 E3]], [Minute 7:40](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=460) · [[Transcript s01e03#Minute 7|in the transcript]]
+
+> … to be more worldly and they´ve travelled a lot so they eat American-style food, they eat Japanese, Mexican, Italian, there´s no limits to the variety of food they may eat. A few answers there …
+>
+> — [[s01e03 Food|S1 E3]], [Minute 11:55](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=715) · [[Transcript s01e03#Minute 11|in the transcript]]
+
+> … on Facebook or Instagram. Trevor: Which sports are popular in your country? Keith(USA): In our country…..well…ah…baseball is very popular, American football, basketball…there are so many different sports, I´d say those are probably some of …
+>
+> — [[s01e04 Sport and exercise|S1 E4]], [Minute 1:01](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=61) · [[Transcript s01e04#Minute 1|in the transcript]]
+
+> … have to spend a lot of money to stay fit and healthy? Karen(USA): Uhm…well….haha…that´s funny, I laugh because I actually….I enjoy going to gyms, I feel like if I spend the money it´s more …
+>
+> — [[s01e04 Sport and exercise|S1 E4]], [Minute 4:58](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=298) · [[Transcript s01e04#Minute 4|in the transcript]]
+
+> … But in countries that have another form of football such as the United States or Ireland or Australia perhaps then they call their own football, football and they call soccer soccer. That's it for …
+>
+> — [[s01e04 Sport and exercise|S1 E4]], [Minute 11:57](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=717) · [[Transcript s01e04#Minute 11|in the transcript]]
+
+> … of your writings. Okay, today we have speakers from the UK, the United States and Ireland. So you have a nice variety of accents to practice listening to. And try to listen two times …
+>
+> — [[s01e08 The Environment|S1 E8]], [Minute 1:06](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=66) · [[Transcript s01e08#Minute 1|in the transcript]]
+
+> … writing. And you may have noticed that this speaker is from the United States. He said aluminum cans, which is pronounced aluminium cans in the UK, which is quite different, really. And in most …
+>
+> — [[s01e08 The Environment|S1 E8]], [Minute 2:39](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=159) · [[Transcript s01e08#Minute 2|in the transcript]]
+
+> … lot of fun. So Rodeo is a big deal in small town, Texas. And so you know it's it's a time that everybody gets together and participates. And there's a parade and there's you …
+>
+> — [[s02e01 Celebrations|S2 E1]], [Minute 5:30](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=330) · [[Transcript s02e01#Minute 5|in the transcript]]
+
+> … bit of a let down here in so having grown up in New York and having lived nearby New York City in Times Square. It would have always been tradition to you know, stay …
+>
+> — [[s02e01 Celebrations|S2 E1]], [Minute 9:03](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=543) · [[Transcript s02e01#Minute 9|in the transcript]]
+
+> … we have amenities, or amenities as the speaker pronounced it in his US accent, we had grocery stores, hardware stores, facilities, gyms, swimming pools, parks and so forth. This expression and so forth is …
+>
+> — [[s02e02 City and Country|S2 E2]], [Minute 2:14](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=134) · [[Transcript s02e02#Minute 2|in the transcript]]
+
+> … deterrent or anything like that, unfortunately. Wow, be careful when parking in New York folks! I like the connectors in this last answer, we had I wouldn't say it's a good way of making …
+>
+> — [[s02e02 City and Country|S2 E2]], [Minute 4:06](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=246) · [[Transcript s02e02#Minute 4|in the transcript]]
+
+> … countryside. I grew up on a cattle ranch in the Panhandle of Texas, so it was several 1000 acres with wide open spaces and unfortunately, that was a lifestyle that money just wasn't there …
+>
+> — [[s02e02 City and Country|S2 E2]], [Minute 8:20](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=500) · [[Transcript s02e02#Minute 8|in the transcript]]
+
+> … it'll allow you some different perspectives which For one, being in the United States, we have a very centric view of ourselves where at least this is my opinion We are the world is …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 8:02](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=482) · [[Transcript s02e03#Minute 8|in the transcript]]
+
+> … problems versus global problems. So I think that, for example, in the United States we have Lots of problems with things like crumbling infrastructure and manufacturing issues and economy struggles based on the changing …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 11:41](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=701) · [[Transcript s02e03#Minute 11|in the transcript]]
+
+> … able to keep me connected into what was happening not only in America but all across the world as well What do you think is the best way to bring world issues to people's …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 16:34](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=994) · [[Transcript s02e03#Minute 16|in the transcript]]
+
+> … to express preferences. We will take a look at some differences between US, Australian and British English and we also have speakers from Ireland and South Africa so lots of accent practice for you …
+>
+> — [[s02e04 Shopping|S2 E4]], [Minute 0:31](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=31) · [[Transcript s02e04#Minute 0|in the transcript]]
+
+> … Australia and says shopping mall. We will also hear someone from the United States saying malls later. In British English this is a shopping centre. She also says she goes shopping with a girlfriend …
+>
+> — [[s02e04 Shopping|S2 E4]], [Minute 10:09](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=609) · [[Transcript s02e04#Minute 10|in the transcript]]
+
+> … get everything that they need. Ok so this speaker is from the USA and uses a lot of the word like here. “They have other entertainment like they´ll have like an outdoor ice rink”. …
+>
+> — [[s02e04 Shopping|S2 E4]], [Minute 15:17](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=917) · [[Transcript s02e04#Minute 15|in the transcript]]
+
+> … really thought-provoking answers. We have a lot of super vocabulary today, from American English expressions to figurative language to replacing offensive words in a polite way. So let´s crack on with the questions: When …
+>
+> — [[s02e05 Health|S2 E5]], [Minute 0:35](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=35) · [[Transcript s02e05#Minute 0|in the transcript]]
+
+> … writing. Then we had to play and roughhouse. So to roughhouse is American English and means to fight in a way that isn´t serious, so you could say the two brothers were roughhousing in …
+>
+> — [[s02e05 Health|S2 E5]], [Minute 3:26](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=206) · [[Transcript s02e05#Minute 3|in the transcript]]
+
+> … this new normal that we have. So today we have speakers from Texas, New York, Scotland, the South of England, the midlands of England, the North of England, and London, and myself from Ireland. …
+>
+> — [[s02e07 Free time|S2 E7]], [Minute 0:36](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=36) · [[Transcript s02e07#Minute 0|in the transcript]]
+
+> … outside it's a it's a good day. Wow, that sounds amazing, quintessentially American really, roasting marshmallows on an open fire. He said that they chit chat, which is to talk about things that aren´t …
+>
+> — [[s02e07 Free time|S2 E7]], [Minute 5:31](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=331) · [[Transcript s02e07#Minute 5|in the transcript]]
+
+> … see how native English speakers answer them. We have speakers from the USA, England, Scotland, Australia and Ireland today so it´s super to get these different perspectives from around the globe. Ok then, let´s …
+>
+> — [[s02e09 Communications|S2 E9]], [Minute 0:42](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=42) · [[Transcript s02e09#Minute 0|in the transcript]]
+
+> … preference. So for me, it's CNN, then that kind of gives an American centric version of. A world events. That's how I tend to do it. Wow, a really wide range of media there. …
+>
+> — [[s02e09 Communications|S2 E9]], [Minute 11:47](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=707) · [[Transcript s02e09#Minute 11|in the transcript]]
+
+> … some classic expressions from Scotland. You will hear speakers from England, the USA, Australia, Scotland and Ireland so a wide variety of accents for you, as usual. And not only will listening to this …
+>
+> — [[s02e10 Family|S2 E10]], [Minute 0:58](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=58) · [[Transcript s02e10#Minute 0|in the transcript]]
+
+> … your family? No, not for about 10 years now we went to New York 10 years ago and it was brilliant. It was the first time I'd ever been. It is my favorite city …
+>
+> — [[s02e10 Family|S2 E10]], [Minute 11:42](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=702) · [[Transcript s02e10#Minute 11|in the transcript]]
+
+> … phrasal verbs and really cool expressions. In terms of accents we have US, English, Irish, Australian and New Zealand so superb listening practice for your advanced English exams! Right then, let´s go with the …
+>
+> — [[s03e01 Humour|S3 E1]], [Minute 1:31](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=91) · [[Transcript s03e01#Minute 1|in the transcript]]
+
+> … I am from. What´s funny with this kind of humour is that American’s don’t use it as much and very often don´t understand that you are joking. So if you say “nice shoes” to …
+>
+> — [[s03e01 Humour|S3 E1]], [Minute 3:37](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=217) · [[Transcript s03e01#Minute 3|in the transcript]]
+
+> … a single good comedy. Ok so this speaker, who is from the US by the way, mentioned that if you offend anyone there that you are cancelled. This use of the word has cancelled …
+>
+> — [[s03e01 Humour|S3 E1]], [Minute 5:12](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=312) · [[Transcript s03e01#Minute 5|in the transcript]]
+
+> … not?Maybe that's a little easier, so it's something that it's not.Uhm, it's.The US Americans stay way, way, way, way way clear of anything that is remotely, politically incorrect.And many times humor is about Lining …
+>
+> — [[s03e01 Humour|S3 E1]], [Minute 9:10](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=550) · [[Transcript s03e01#Minute 9|in the transcript]]
+
+> … age generally want to buy? I'm 28 years old here in the US. Over the past year we haven't been able to go out to do that. Many things we've just opened up recently, …
+>
+> — [[s03e04 Money|S3 E4]], [Minute 1:49](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=109) · [[Transcript s03e04#Minute 1|in the transcript]]
+
+> … topic is animals. You are going to hear speakers from the UK, USA, Australia and New Zealand, all answering questions about pets, zoos, wildlife and all things animal, and of course you have me, …
+>
+> — [[s03e07 Animals|S3 E7]], [Minute 0:17](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=17) · [[Transcript s03e07#Minute 0|in the transcript]]
+
+> … the Real Exam English website. So we have one speaker from the USA and one from the UK speculating about what they can see here, pay attention to the expressions they use to speculate, …
+>
+> — [[s03e07 Animals|S3 E7]], [Minute 8:08](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=488) · [[Transcript s03e07#Minute 8|in the transcript]]
+
+> … really interesting answers about what changes are happening around the world, from New York to London to Spain to Australia. We hear some lovely phrasal verbs, we look at a great way to structure …
+>
+> — [[s03e10 Change|S3 E10]], [Minute 0:30](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=30) · [[Transcript s03e10#Minute 0|in the transcript]]
+
+> … I could say.Yes, it seems like things are changing quickly in the US. When I think about the state of affairs, UM.You know, in New York City I I have a father in New …
+>
+> — [[s03e10 Change|S3 E10]], [Minute 5:23](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=323) · [[Transcript s03e10#Minute 5|in the transcript]]
+
+> … funded and I would like to see us stop trying to be America because America is clearly broken. Do that. Let's start treating poor people properly. Let's start, you know. Focusing on practical apprenticeship-based …
+>
+> — [[s03e10 Change|S3 E10]], [Minute 11:51](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=711) · [[Transcript s03e10#Minute 11|in the transcript]]
+
+> … Exam English. This episode is about crime. We have speakers from the US, the UK, Ireland, Australia and from Spain, all answering questions about their countries and what crimes are committed there. It´s amazing …
+>
+> — [[s04e01 Crime|S4 E1]], [Minute 0:18](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=18) · [[Transcript s04e01#Minute 0|in the transcript]]
+
+> … Ok, no prizes for guessing which country this speaker is from, the US of course! I love the adjectives and adverbs in the first answer, absolutely not, ridiculous availability of firearms, it´s sick and …
+>
+> — [[s04e01 Crime|S4 E1]], [Minute 2:07](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=127) · [[Transcript s04e01#Minute 2|in the transcript]]
+
+> … culture and language. Short and sweet answer to start off, from the USA. Just to point out her way of correcting herself when she made a mistake, emerged, sorry, immersed. It´s totally ok if …
+>
+> — [[s04e02 Languages|S4 E2]], [Minute 1:36](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=96) · [[Transcript s04e02#Minute 1|in the transcript]]
+
+> … know, half of the Germans speak English. If you go to South America, anywhere you go, somebody will be able to talk to you in English as and it's the international language of business. …
+>
+> — [[s04e02 Languages|S4 E2]], [Minute 3:43](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=223) · [[Transcript s04e02#Minute 3|in the transcript]]
+
+> … a fantastic way to pick up new words. Also, I’m big into American TV series so in the evenings I like to chill at home on the sofa and binge-watch a few episodes with …
+>
+> — [[s04e02 Languages|S4 E2]], [Minute 17:09](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=1029) · [[Transcript s04e02#Minute 17|in the transcript]]
+
+> … the beach a lot or there wouldn´t have been a lot of American tourists back in those days. In terms of the colours she mentioned she has muted colours, which are colours that are …
+>
+> — [[s04e03 Home|S4 E3]], [Minute 2:20](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=140) · [[Transcript s04e03#Minute 2|in the transcript]]
+
+> … topic, if you pardon the pun. Today we have speakers from the US, Australia, Ireland and three different speakers from the UK. So we have a nice variety of types of weather, you´re gonna …
+>
+> — [[s04e04 Weather|S4 E4]], [Minute 0:54](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=54) · [[Transcript s04e04#Minute 0|in the transcript]]
+
+> … live? I live in the climate that I like, which is Northeastern United States. All Four Seasons, warm in the summer, cool in the winter. I could use a little less warmth in the …
+>
+> — [[s04e04 Weather|S4 E4]], [Minute 4:42](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=282) · [[Transcript s04e04#Minute 4|in the transcript]]
+
+> … that she mentioned the fall as her favourite season, the fall is US English for what is the autumn in the UK. Incidentally, I lived in that part of the US for a year …
+>
+> — [[s04e04 Weather|S4 E4]], [Minute 6:12](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=372) · [[Transcript s04e04#Minute 6|in the transcript]]
+
+> … you would hear this pretty damn frequently in Australia, and in the US too, not so much in the UK. What is also common in Australia is to use this word overseas when you …
+>
+> — [[s04e04 Weather|S4 E4]], [Minute 10:31](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=631) · [[Transcript s04e04#Minute 10|in the transcript]]
+
+> … This last word schedule is one that is pronounced differently in the US and the UK. And actually pronounced differently in different parts of the UK. In general, in the UK they say schedule …
+>
+> — [[s04e06 Transport|S4 E6]], [Minute 7:00](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=420) · [[Transcript s04e06#Minute 7|in the transcript]]
+
+> … it we hear how history is celebrated and learned about in the United States, England, Ireland and Australia. We have a bunch of useful phrasal verbs to speak about archaeology and the past in …
+>
+> — [[s04e09 History|S4 E9]], [Minute 0:22](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=22) · [[Transcript s04e09#Minute 0|in the transcript]]
+
+> … happened, depends on the nature of the event. Nice answers from the USA here. As she mentioned for historical events they have a parade, a BBQ and fireworks. A parade is when people walk …
+>
+> — [[s04e09 History|S4 E9]], [Minute 2:21](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=141) · [[Transcript s04e09#Minute 2|in the transcript]]
 
 > … then it’s not so clearcut. Maybe that’s why a country like the US, which doesn’t have public health care, has no problem legalising marijuana, if you harm yourself then you gotta pay to get …
 >
@@ -139,28 +359,26 @@ drawl of Texas. Spelling: *color, center, organize, traveling*.
 >
 > — [[s06e10 Decisions|S6 E10]], [Minute 13:51](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=831) · [[Transcript s06e10#Minute 13|in the transcript]]
 
-## In these episodes (30)
+## In these episodes (28)
 
-- [[s01e10 TV|S1 E10 – TV]] (2020-10-05) — Show notes
-- [[s02e04 Shopping|S2 E4 – Shopping]] (2021-02-12) — Show notes
-- [[s02e05 Health|S2 E5 – Health]] (2021-02-26) — Show notes
-- [[s02e06 Friends|S2 E6 – Friends]] (2021-03-06) — Show notes
-- [[s02e07 Free time|S2 E7 – Free time]] (2021-03-12) — Show notes
-- [[s02e09 Communications|S2 E9 – Communications]] (2021-03-26) — Show notes
-- [[s02e10 Family|S2 E10 – Family]] (2021-04-07) — Show notes
-- [[s03e01 Humour|S3 E1 – Humour]] (2021-08-23) — Show notes
-- [[s03e02 Anger|S3 E2 – Anger]] (2021-09-16) — Show notes
-- [[s03e03 Photos|S3 E3 – Photos]] (2021-10-19) — Show notes
-- [[s03e05 Learning|S3 E5 – Learning]] (2021-12-11) — Show notes
-- [[s03e07 Animals|S3 E7 – Animals]] (2022-02-15) — Show notes
-- [[s03e08 Fame|S3 E8 – Fame]] (2022-04-07) — Show notes
-- [[s03e10 Change|S3 E10 – Change]] (2022-06-09) — Show notes
-- [[x2022-10-14 Happiness|Bonus – Happiness]] (2022-10-14) — Show notes
-- [[s04e01 Crime|S4 E1 – Crime]] (2023-03-24) — Show notes
-- [[s04e02 Languages|S4 E2 – Languages]] (2023-04-29) — Show notes
-- [[s04e04 Weather|S4 E4 – Weather]] (2023-07-12) — Show notes
-- [[s04e08 Holidays|S4 E8 – Holidays]] (2023-12-21) — Show notes
-- [[s04e09 History|S4 E9 – History]] (2024-01-19) — Show notes
+- [[s01e01 Introductions|S1 E1 – Introductions]] (2020-08-30) — Minute [2:53](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=173), [9:29](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=569)
+- [[s01e02 Travel|S1 E2 – Travel]] (2020-08-30) — Minute [1:20](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=80), [3:45](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=225), [7:27](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=447)
+- [[s01e03 Food|S1 E3 – Food]] (2020-08-30) — Minute [4:26](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=266), [7:40](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=460), [11:55](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=715)
+- [[s01e04 Sport and exercise|S1 E4 – Sport and exercise]] (2020-08-30) — Minute [1:01](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=61), [4:58](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=298), [11:57](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=717)
+- [[s01e08 The Environment|S1 E8 – The Environment]] (2020-09-25) — Minute [1:06](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=66), [2:39](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=159)
+- [[s02e01 Celebrations|S2 E1 – Celebrations]] (2021-01-21) — Minute [5:30](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=330), [9:03](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=543)
+- [[s02e02 City and Country|S2 E2 – City and Country]] (2021-01-29) — Minute [2:14](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=134), [4:06](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=246), [8:20](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=500)
+- [[s02e03 Global Issues|S2 E3 – Global Issues]] (2021-02-05) — Minute [8:02](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=482), [11:41](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=701), [16:34](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=994)
+- [[s02e04 Shopping|S2 E4 – Shopping]] (2021-02-12) — Show notes · Minute [0:31](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=31), [10:09](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=609), [15:17](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=917)
+- [[s02e05 Health|S2 E5 – Health]] (2021-02-26) — Show notes · Minute [0:35](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=35), [3:26](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=206)
+- [[s02e07 Free time|S2 E7 – Free time]] (2021-03-12) — Show notes · Minute [0:36](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=36), [5:31](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=331)
+- [[s03e01 Humour|S3 E1 – Humour]] (2021-08-23) — Show notes · Minute [1:31](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=91), [3:37](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=217), [5:12](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=312), [9:10](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=550)
+- [[s03e10 Change|S3 E10 – Change]] (2022-06-09) — Show notes · Minute [0:30](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=30), [5:23](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=323), [11:51](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=711)
+- [[s04e01 Crime|S4 E1 – Crime]] (2023-03-24) — Show notes · Minute [0:18](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=18), [2:07](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=127)
+- [[s04e02 Languages|S4 E2 – Languages]] (2023-04-29) — Show notes · Minute [1:36](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=96), [3:43](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=223), [17:09](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=1029)
+- [[s04e04 Weather|S4 E4 – Weather]] (2023-07-12) — Show notes · Minute [0:54](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=54), [4:42](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=282), [6:12](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=372), [10:31](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=631)
+- [[s04e06 Transport|S4 E6 – Transport]] (2023-10-19) — Minute [7:00](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=420)
+- [[s04e09 History|S4 E9 – History]] (2024-01-19) — Show notes · Minute [0:22](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=22), [2:21](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=141)
 - [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Minute [2:42](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=162), [4:51](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=291), [15:38](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=938), [17:34](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1054)
 - [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Minute [2:02](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=122), [14:04](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=844)
 - [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Show notes · Minute [0:37](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=37), [19:27](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=1167)
@@ -172,8 +390,13 @@ drawl of Texas. Spelling: *color, center, organize, traveling*.
 - [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [9:21](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=561), [17:31](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1051), [19:09](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1149)
 - [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [0:30](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=30), [13:51](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=831)
 
-## Briefly mentioned (4)
+## Briefly mentioned (9)
 
+- [[s02e09 Communications|S2 E9 – Communications]] (2021-03-26) — Minute [0:42](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=42), [11:47](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=707)
+- [[s02e10 Family|S2 E10 – Family]] (2021-04-07) — Minute [0:58](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=58), [11:42](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=702)
+- [[s03e04 Money|S3 E4 – Money]] (2021-11-15) — Minute [1:49](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=109)
+- [[s03e07 Animals|S3 E7 – Animals]] (2022-02-15) — Minute [0:17](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=17), [8:08](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=488)
+- [[s04e03 Home|S4 E3 – Home]] (2023-06-01) — Minute [2:20](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=140)
 - [[x2024-05-01 Monologue - Marijuana|Bonus – Monologue - Marijuana]] (2024-05-01) — Minute [3:30](https://open.spotify.com/episode/78k4YxQJ89E66sFTzzqLlz?t=210)
 - [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Minute [5:36](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=336)
 - [[s05e10 Weekend|S5 E10 – Weekend]] (2025-08-18) — Minute [3:48](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=228), [18:57](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=1137)

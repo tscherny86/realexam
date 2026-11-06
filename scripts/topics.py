@@ -1025,7 +1025,7 @@ Cambridge speaking tests are marked on **Grammar and Vocabulary**, **Discourse M
 - Keep going: if you run out of ideas, paraphrase, give an example, speculate.
 - Fillers that buy time: *That's an interesting question…*, *Let me think…*, *Well, I suppose…*
 """, None),
-            ("Writing Exam", [r"writing (exam|paper|part|task|test)", r"\bessays?\b", r"\bformal letter\b", r"\binformal letter\b", r"\breport\b", r"\bproposal\b", r"\breview\b", r"\barticle\b", r"\bwriting skills\b"], "Essays, letters, reports, reviews and articles – what each task needs.", """
+            ("Writing Exam", [r"writing (exam|paper|part|task|test)", r"\bessays?\b", r"\bformal letter\b", r"\binformal letter\b", r"\bwrite a (report|proposal|review|letter|story)\b", r"\bwriting skills\b"], "Essays, letters, reports, reviews and articles – what each task needs.", """
 Cambridge writing is marked on **Content**, **Communicative Achievement**, **Organisation** and
 **Language**. Each task type has its own conventions:
 

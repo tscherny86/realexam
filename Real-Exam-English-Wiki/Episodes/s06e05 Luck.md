@@ -23,7 +23,7 @@ tags: [episode, season-6]
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Reported Speech]], [[Emphasis & Auxiliaries]] |
 | **Exams** | – |
 | **Accents** | – |
-| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Shopping & Consumerism]], [[Health & Wellbeing]], [[Friends & Friendship]], [[Money & Finance]], [[Learning, School & Education]], [[Change & Life Changes]], [[Languages & Language Learning]], [[Home & Housing]], [[Help & Kindness]], [[Conditionals]] |
+| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Shopping & Consumerism]], [[Health & Wellbeing]], [[Friends & Friendship]], [[Money & Finance]], [[Learning, School & Education]], [[Change & Life Changes]], [[Languages & Language Learning]], [[Help & Kindness]], [[Conditionals]] |
 
 ## Show notes
 

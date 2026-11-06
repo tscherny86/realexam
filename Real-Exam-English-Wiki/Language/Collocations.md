@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 6
+episodes: 5
 tags: [language]
 ---
 # Collocations
@@ -21,6 +21,30 @@ _Words that naturally go together (make a decision, heavy rain, strong coffee)._
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … the Real Exam English pages on Facebook or Instagram. OK, then let's go with the questions. What kind of TV programs do you enjoy most? Well, lately, because of what's going on, I've been …
+>
+> — [[s01e10 TV|S1 E10]], [Minute 0:55](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=55) · [[Transcript s01e10#Minute 0|in the transcript]]
+
+> … superb all the same. In the second answer we had two lovely collocations with the word feelings. Firstly, to evoke strong feelings and secondly, to trigger some emotional feelings. These are exactly the kind …
+>
+> — [[s03e03 Photos|S3 E3]], [Minute 6:40](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=400) · [[Transcript s03e03#Minute 6|in the transcript]]
+
+> … don´t miss any of the super language you hear. Ok then, lets go with the questions Is change inevitable or can things just stay the same as they are? This is definitely a.Question with …
+>
+> — [[s03e10 Change|S3 E10]], [Minute 0:54](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=54) · [[Transcript s03e10#Minute 0|in the transcript]]
+
+> … change is difficult for some people. It sure is, I like that collocation to embrace change, which means to accept something in a positive way, he also said his country should embrace its socialist …
+>
+> — [[s03e10 Change|S3 E10]], [Minute 12:49](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=769) · [[Transcript s03e10#Minute 12|in the transcript]]
+
+> … which is available on the Real Exam English website, realexamenglish.com Ok, let´s go with the questions. Is your country a safe country? Absolutely not. We have ridiculous availability of firearms throughout most of the …
+>
+> — [[s04e01 Crime|S4 E1]], [Minute 0:39](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=39) · [[Transcript s04e01#Minute 0|in the transcript]]
+
+> … has a similar meaning to completely or absolutely and has some common collocations, like utterly ridiculous, utterly convinced or utterly useless. In the second answer she speaks about racial issues in the USA. A …
+>
+> — [[s04e01 Crime|S4 E1]], [Minute 2:35](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=155) · [[Transcript s04e01#Minute 2|in the transcript]]
 
 > … be purchased on the Real Exam English website, Realexamenglish.com Ok here we go with the questions: So you're a lawyer, right, in an airline. UM, so I suppose you have to use English in …
 >
@@ -114,17 +138,20 @@ _Words that naturally go together (make a decision, heavy rain, strong coffee)._
 >
 > — [[s06e10 Decisions|S6 E10]], [Minute 14:53](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=893) · [[Transcript s06e10#Minute 14|in the transcript]]
 
-## In these episodes (6)
+## In these episodes (5)
 
-- [[s03e03 Photos|S3 E3 – Photos]] (2021-10-19) — Show notes
 - [[x2024-04-16 Martyna from Poland|Bonus – Martyna from Poland]] (2024-04-16) — Minute [1:29](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=89), [3:50](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=230), [7:26](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=446)
 - [[x2025-12-16 Xing - Tokyo|Bonus – Xing - Tokyo]] (2025-12-16) — Minute [11:52](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=712), [15:50](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=950)
 - [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Show notes · Minute [0:27](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=27), [2:36](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=156), [6:36](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=396)
 - [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Show notes · Minute [0:24](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=24), [11:51](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=711)
 - [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [0:42](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=42), [2:26](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=146), [14:53](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=893)
 
-## Briefly mentioned (5)
+## Briefly mentioned (9)
 
+- [[s01e10 TV|S1 E10 – TV]] (2020-10-05) — Minute [0:55](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=55)
+- [[s03e03 Photos|S3 E3 – Photos]] (2021-10-19) — Minute [6:40](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=400)
+- [[s03e10 Change|S3 E10 – Change]] (2022-06-09) — Minute [0:54](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=54), [12:49](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=769)
+- [[s04e01 Crime|S4 E1 – Crime]] (2023-03-24) — Minute [0:39](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=39), [2:35](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=155)
 - [[s05e04 School|S5 E4 – School]] (2025-02-07) — Minute [0:57](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=57), [15:23](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=923)
 - [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Minute [3:06](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=186), [9:58](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=598)
 - [[s06e01 News|S6 E1 – News]] (2026-01-24) — Minute [1:02](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=62), [12:53](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=773)

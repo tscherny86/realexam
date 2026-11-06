@@ -164,6 +164,7 @@ def load_transcript(ep: dict) -> list[dict] | None:
     data = json.loads(f.read_text(encoding="utf-8"))
     words = data["words"] if isinstance(data, dict) else data
     words = [w for w in words if w.get("type", "word") == "word" and w.get("text", "").strip()]
+    words = tidy(words)
     words, hits = corrections.apply(words, ep["id"])
     CORRECTIONS[ep["id"]] = hits
     official = align_official.official_text(ep["id"])
@@ -171,6 +172,20 @@ def load_transcript(ep: dict) -> list[dict] | None:
         words, stats = align_official.apply(words, official)
         ALIGNMENT[ep["id"]] = stats
     return words
+
+
+def tidy(words: list[dict]) -> list[dict]:
+    """Whisper splits "high-level" into "high" + "-level", "studio.com" into "studio" + ".com" and
+    "20%" into "20" + "%"; glue such fragments back onto the previous word."""
+    out: list[dict] = []
+    for w in words:
+        t = w["text"]
+        if out and (t[:1] in "-.%'’" and len(t) > 0) and (len(t) > 1 or t in "%'’"):
+            prev = out[-1]
+            out[-1] = {**prev, "text": prev["text"] + t, "end": w["end"]}
+        else:
+            out.append(w)
+    return out
 
 
 def segments(words: list[dict], seconds: int = 60) -> list[dict]:

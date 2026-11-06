@@ -20,6 +20,22 @@ a waste of money?*).
 
 ## Said in the podcast
 
+> … it really does depend on my mood. But generally things that are science fiction, fantasy related or quite sort of educational. So things like I've been watching a series about the art of Persia …
+>
+> — [[s01e10 TV|S1 E10]], [Minute 2:40](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=160) · [[Transcript s01e10#Minute 2|in the transcript]]
+
+> … um, there's also television programs that are more educational about nature or science or even at times mathematics or language. So, uh, it just depends on what the program is that can be considered …
+>
+> — [[s01e10 TV|S1 E10]], [Minute 8:24](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=504) · [[Transcript s01e10#Minute 8|in the transcript]]
+
+> … people can be famous for just about anything. Whether it's you know science or or just just basically being there like a lot of influencers are. I suppose for me I would love to …
+>
+> — [[s03e08 Fame|S3 E8]], [Minute 1:03](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=63) · [[Transcript s03e08#Minute 1|in the transcript]]
+
+> … too easily influenced by people we have never met, such as sports stars or other famous people? A lot of people are, you know. They're just the same as anyone else. They've just had …
+>
+> — [[s03e08 Fame|S3 E8]], [Minute 11:58](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=718) · [[Transcript s03e08#Minute 11|in the transcript]]
+
 > … and welcome to the Real exam English podcast, this episode is about space. Ok, it’s not the most common exam topic ever but it is a very interesting subject and a lot of people …
 >
 > — [[s05e03 Space|S5 E3]], [Minute 0:16](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=16) · [[Transcript s05e03#Minute 0|in the transcript]]
@@ -52,8 +68,10 @@ a waste of money?*).
 
 - [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Show notes · Minute [0:16](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=16), [2:44](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=164), [4:32](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=272), [6:28](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=388)
 
-## Briefly mentioned (1)
+## Briefly mentioned (3)
 
+- [[s01e10 TV|S1 E10 – TV]] (2020-10-05) — Minute [2:40](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=160), [8:24](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=504)
+- [[s03e08 Fame|S3 E8 – Fame]] (2022-04-07) — Minute [1:03](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=63), [11:58](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=718)
 - [[s05e04 School|S5 E4 – School]] (2025-02-07) — Minute [2:05](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=125), [5:58](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=358), [17:47](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=1067)
 
 ---

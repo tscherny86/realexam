@@ -22,6 +22,26 @@ invites comparatives, conditionals and plenty of descriptive vocabulary.
 
 ## Said in the podcast
 
+> … Today’s topic is city versus country. You´re going to hear loads of urban and rural vocabulary, we analyse the language used to give a speculative opinion and we have some great words and expressions …
+>
+> — [[s02e02 City and Country|S2 E2]], [Minute 0:17](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=17) · [[Transcript s02e02#Minute 0|in the transcript]]
+
+> … can have convenience and country not too far away. I think the city life is something that is enjoyable for certain people. Maybe you know some people all the time and some other people …
+>
+> — [[s02e02 City and Country|S2 E2]], [Minute 1:56](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=116) · [[Transcript s02e02#Minute 1|in the transcript]]
+
+> … touch with nature, particularly in the built up environment, are very, very urban environment. So, for example, in central London, where you got A proliferation of high rise buildings and not a huge amount …
+>
+> — [[s02e02 City and Country|S2 E2]], [Minute 4:50](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=290) · [[Transcript s02e02#Minute 4|in the transcript]]
+
+> … the website for more information. realexamenglish.com. Would you rather live in the countryside or in a town or city? I'd rather live in the countryside, but not too far from a town, so you …
+>
+> — [[s02e02 City and Country|S2 E2]], [Minute 7:24](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=444) · [[Transcript s02e02#Minute 7|in the transcript]]
+
+> … in and I think that's going to be more common. I think city centres are generally closing down, so there needs to be more, more to encourage people to go in there. You know, …
+>
+> — [[s04e06 Transport|S4 E6]], [Minute 12:20](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=740) · [[Transcript s04e06#Minute 12|in the transcript]]
+
 > … it's basically the perfect cross for me between a city and a small town. Like it's big enough that we have events on, we've got clubs, we've got restaurants and things like that, but …
 >
 > — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 1:39](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=99) · [[Transcript s05e05#Minute 1|in the transcript]]
@@ -56,11 +76,12 @@ invites comparatives, conditionals and plenty of descriptive vocabulary.
 
 ## In these episodes (2)
 
-- [[s02e02 City and Country|S2 E2 – City and Country]] (2021-01-29) — Show notes
+- [[s02e02 City and Country|S2 E2 – City and Country]] (2021-01-29) — Show notes · Minute [0:17](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=17), [1:56](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=116), [4:50](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=290), [7:24](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=444)
 - [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Show notes · Minute [0:27](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=27), [9:11](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=551)
 
-## Briefly mentioned (3)
+## Briefly mentioned (4)
 
+- [[s04e06 Transport|S4 E6 – Transport]] (2023-10-19) — Minute [12:20](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=740)
 - [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Minute [1:39](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=99), [7:28](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=448)
 - [[s05e07 Hometown|S5 E7 – Hometown]] (2025-05-15) — Minute [1:03](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=63), [7:19](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=439)
 - [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [17:20](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1040), [19:23](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1163)

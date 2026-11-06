@@ -23,7 +23,7 @@ tags: [episode, season-6]
 | **Language** | [[Idioms & Expressions]], [[Cleft Sentences]], [[Emphasis & Auxiliaries]] |
 | **Exams** | – |
 | **Accents** | [[England]], [[USA]] |
-| **Briefly mentioned** | [[Food & Cooking]], [[Books & Reading]], [[City & Country Life]], [[Money & Finance]], [[Crime & Law]], [[Hometown & Places]], [[Phrasal Verbs]], [[Collocations]], [[Adjectives & Compound Adjectives]], [[Prepositions]], [[Speaking Exam]], [[Writing Exam]], [[Ireland]] |
+| **Briefly mentioned** | [[Food & Cooking]], [[Books & Reading]], [[City & Country Life]], [[Money & Finance]], [[Crime & Law]], [[Hometown & Places]], [[Phrasal Verbs]], [[Collocations]], [[Adjectives & Compound Adjectives]], [[Prepositions]], [[Speaking Exam]], [[Ireland]] |
 
 ## Show notes
 

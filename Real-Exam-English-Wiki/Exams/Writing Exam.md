@@ -1,6 +1,6 @@
 ---
 type: exams
-episodes: 18
+episodes: 4
 tags: [exams]
 ---
 # Writing Exam
@@ -23,6 +23,74 @@ Cambridge writing is marked on **Content**, **Communicative Achievement**, **Org
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … upon as more advanced and a good one to put into your writing particularly. So if you are doing a C1 or C2 exam then you definitely should know how to do this. What …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 9:52](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=592) · [[Transcript s02e03#Minute 9|in the transcript]]
+
+> … lovely alternative to Nowadays, which I seem to see in almost every essay I correct. So if you are one of the nowadays people then why not try this one for a change, in …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 17:45](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=1065) · [[Transcript s02e03#Minute 17|in the transcript]]
+
+> … listener, Maria Giulia in Italy, asking about how to prepare for the writing part of her English exam. So I thought it would be a good idea to give a few tips to you …
+>
+> — [[x2021-02-19 Bonus Episode - Writing|Bonus]], [Minute 0:13](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=13) · [[Transcript x2021-02-19#Minute 0|in the transcript]]
+
+> … different types of writing should I study, can I just study the essay and the letter. My advice, obviously, is to study and practice them all. The more you know, the more options you …
+>
+> — [[x2021-02-19 Bonus Episode - Writing|Bonus]], [Minute 4:45](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=285) · [[Transcript x2021-02-19#Minute 4|in the transcript]]
+
+> … of the exam. That way when you have to write, say, an essay about technology, then you know ok I´m going to write these ten words, those 2 phrasal verbs, that conditional, this inversion, …
+>
+> — [[x2021-02-19 Bonus Episode - Writing|Bonus]], [Minute 6:33](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=393) · [[Transcript x2021-02-19#Minute 6|in the transcript]]
+
+> … that would be good to use in the different types of writing, essay, reports, emails or whatever. Her problem was that despite knowing and having studied many different phrasal verbs when it comes to …
+>
+> — [[x2021-06-20 Phrasal Verbs for Writing|Bonus]], [Minute 3:43](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=223) · [[Transcript x2021-06-20#Minute 3|in the transcript]]
+
+> … seen each other so we´re really looking forward to it. In a writing exam this could be used in a letter, either informal or formal and in fact is a very typical way to …
+>
+> — [[x2021-06-20 Phrasal Verbs for Writing|Bonus]], [Minute 5:17](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=317) · [[Transcript x2021-06-20#Minute 5|in the transcript]]
+
+> … in a formal situation. You can definitely use this in almost any essay, as well as reports and proposals. Like, were we to increase the number of teachers per student then this would lead …
+>
+> — [[x2021-06-20 Phrasal Verbs for Writing|Bonus]], [Minute 7:46](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=466) · [[Transcript x2021-06-20#Minute 7|in the transcript]]
+
+> … always includes the expression “I cannot help but point out” in her essays, every single time. And this is a great way to prepare for an exam, by using the same language over and …
+>
+> — [[x2021-06-20 Phrasal Verbs for Writing|Bonus]], [Minute 9:26](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=566) · [[Transcript x2021-06-20#Minute 9|in the transcript]]
+
+> … would be a fantastic expression to use at the start of an essay for example, when you are introducing a topic. We then had yet another expression with good, and that is that all …
+>
+> — [[s03e08 Fame|S3 E8]], [Minute 10:46](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=646) · [[Transcript s03e08#Minute 10|in the transcript]]
+
+> … mind that this is informal, so you couldn´t use it in an essay or other formal writing, but writing or chatting informally…absolutely. We also had this brilliant comparative structure in the first answer I´m …
+>
+> — [[s03e09 Culture|S3 E9]], [Minute 3:07](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=187) · [[Transcript s03e09#Minute 3|in the transcript]]
+
+> … particularly if you are writing something like an article, a story, an informal letter or a review. Some people say that these days there aren't many big cultural differences between countries. Do you agree? …
+>
+> — [[s03e09 Culture|S3 E9]], [Minute 14:15](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=855) · [[Transcript s03e09#Minute 14|in the transcript]]
+
+> … had a lot of exams where you would learn off a full essay in a specific language without actually knowing what the essay was about but you would get, you could get an A …
+>
+> — [[s04e02 Languages|S4 E2]], [Minute 16:01](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=961) · [[Transcript s04e02#Minute 16|in the transcript]]
+
+> … to reel off. She said that she would learn off a full essay. This means that she would learn every word by memory or to use another expression, she would learn it by heart. …
+>
+> — [[s04e02 Languages|S4 E2]], [Minute 17:32](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=1052) · [[Transcript s04e02#Minute 17|in the transcript]]
+
+> … for this. If you look at the marking scales for a Cambridge writing exam, this is one of the examples they give in how to get maximum marks in your C1 writing for organisations, …
+>
+> — [[s04e05 Art|S4 E5]], [Minute 3:29](https://open.spotify.com/episode/0vR11wg4wOSgeAnjtWfWIQ?t=209) · [[Transcript s04e05#Minute 3|in the transcript]]
+
+> … be great to use when doing a formal writing, such as an essay or a report, or of course, when you're speaking, like we just heard. Is art popular in your country? I would …
+>
+> — [[s04e05 Art|S4 E5]], [Minute 10:45](https://open.spotify.com/episode/0vR11wg4wOSgeAnjtWfWIQ?t=645) · [[Transcript s04e05#Minute 10|in the transcript]]
+
+> … be better. This would sound super in a formal writing like an essay, or maybe a formal letter, and definitely in a report or a proposal, make a note! What type of transport is …
+>
+> — [[s04e06 Transport|S4 E6]], [Minute 3:21](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=201) · [[Transcript s04e06#Minute 3|in the transcript]]
 
 > … English there. Then we speak about the IELTS English exam, specifically the writing part. The tips given here are quite universal and can be applied to most other English writing exams also. Konner, the …
 >
@@ -48,100 +116,21 @@ Cambridge writing is marked on **Content**, **Communicative Achievement**, **Org
 >
 > — [[s05e02 Manners|S5 E2]], [Minute 21:12](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1272) · [[Transcript s05e02#Minute 21|in the transcript]]
 
-> … for things like describing photos and for any descriptive writing, like a review or an article, so make your own list and try to practice them. Ok, back to the questions, with a speaker …
->
-> — [[s05e03 Space|S5 E3]], [Minute 12:20](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=740) · [[Transcript s05e03#Minute 12|in the transcript]]
+## In these episodes (4)
 
-> … of technology classes at school. That’s a useful one for writing an essay actually. There was some more advertising vocabulary too, with targeted advertising. Although then he said it’s actually on TV too so …
->
-> — [[s05e06 Advertising|S5 E6]], [Minute 4:43](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=283) · [[Transcript s05e06#Minute 4|in the transcript]]
-
-> … we’re gonna look at reported speech. Ok, so this is where you report what somebody said, and you gotta change things like verb tenses, time references and pronouns. So I’ll give you a phrase …
->
-> — [[s05e06 Advertising|S5 E6]], [Minute 10:07](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=607) · [[Transcript s05e06#Minute 10|in the transcript]]
-
-> … that would be the most beneficial. Equally, at the end of an essay or in a report or a review you could get this in too. It is the amazing facilities that make this …
->
-> — [[s05e09 Climate Change|S5 E9]], [Minute 19:10](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=1150) · [[Transcript s05e09#Minute 19|in the transcript]]
-
-> … in Europe for 90 days of the year. Should the news just report the facts or should journalists interpret the facts and provide opinion? I have a strict policy on this. I think they …
->
-> — [[s06e01 News|S6 E1]], [Minute 17:17](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=1037) · [[Transcript s06e01#Minute 17|in the transcript]]
-
-> … knows. I like that, it’s a good one to use in an essay perhaps, or maybe in a review or a report. Ok guys, that’s about it for our news based podcast. The truth …
->
-> — [[s06e01 News|S6 E1]], [Minute 20:15](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=1215) · [[Transcript s06e01#Minute 20|in the transcript]]
-
-> … in the past. With regard to writings, this is perfect for a review, a report or an article. Like, had the facilities been newer, it would have been better. Had there been better special …
->
-> — [[s06e02 Extremes|S6 E2]], [Minute 14:39](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=879) · [[Transcript s06e02#Minute 14|in the transcript]]
-
-> … If I do this, I can do that. If I finish this report, I can go and play a game on my phone. Or if I finish this, I can go and take a …
->
-> — [[s06e04 Motivation|S6 E4]], [Minute 4:41](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=281) · [[Transcript s06e04#Minute 4|in the transcript]]
-
-> … both in the speaking parts and the writing also. I’m thinking about essays, reports and proposals. For example, investing more in schools will give rise to better educated children. Or the growth of social …
->
-> — [[s06e04 Motivation|S6 E4]], [Minute 17:52](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=1072) · [[Transcript s06e04#Minute 17|in the transcript]]
-
-> … This is handy vocabulary for a more formal situation, like writing an essay for example. So the financial means is that they have enough money basically and the social means is that they have …
->
-> — [[s06e07 Help|S6 E7]], [Minute 5:31](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=331) · [[Transcript s06e07#Minute 5|in the transcript]]
-
-> … and get you another one. Or imagine if you are writing a review of a movie, you could say the special effects weren’t great but the acting more than made up for it. As …
->
-> — [[s06e07 Help|S6 E7]], [Minute 21:48](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1308) · [[Transcript s06e07#Minute 21|in the transcript]]
-
-> … C2 English exam, either in the speaking part or while writing an article for examples. She even has another mini example later on too, she says we are more inclined to work with the …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 5:25](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=325) · [[Transcript s06e08#Minute 5|in the transcript]]
-
-> … as an error but in formal writings it is. So writing an essay for example, you should say there are numerous reasons…blablabla. This speaker also had a couple of lovely verbs. She said you …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 11:38](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=698) · [[Transcript s06e08#Minute 11|in the transcript]]
-
-> … in a speaking exam or an informal writing but not in an essay or report. Should children be given chores at home? Well, yeah, why not? I had chores and didn't do me any …
->
-> — [[s06e09 Children|S6 E9]], [Minute 14:03](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=843) · [[Transcript s06e09#Minute 14|in the transcript]]
-
-> … or with other people's advice? Alone. I am a very, my kindergarten report card said Annie is a good little decision maker who knows where she's at. And so I'm very gut oriented. So …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 0:52](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=52) · [[Transcript s06e10#Minute 0|in the transcript]]
-
-> … believer that….Handy expression that for using in either a speaking or a writing exam. After that he said it’s very circumstantial based. It’s not actually grammatically correct, this one. You could say it’s very …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 4:20](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=260) · [[Transcript s06e10#Minute 4|in the transcript]]
-
-## In these episodes (18)
-
-- [[x2021-02-19 Bonus Episode - Writing|Bonus – Bonus Episode - Writing]] (2021-02-19) — Show notes
-- [[x2021-06-20 Phrasal Verbs for Writing|Bonus – Phrasal Verbs for Writing]] (2021-06-20) — Show notes
-- [[s03e01 Humour|S3 E1 – Humour]] (2021-08-23) — Show notes
-- [[s03e02 Anger|S3 E2 – Anger]] (2021-09-16) — Show notes
-- [[s03e03 Photos|S3 E3 – Photos]] (2021-10-19) — Show notes
-- [[s03e04 Money|S3 E4 – Money]] (2021-11-15) — Show notes
-- [[s03e05 Learning|S3 E5 – Learning]] (2021-12-11) — Show notes
-- [[s03e06 Fashion|S3 E6 – Fashion]] (2022-01-07) — Show notes
-- [[s03e07 Animals|S3 E7 – Animals]] (2022-02-15) — Show notes
-- [[s03e08 Fame|S3 E8 – Fame]] (2022-04-07) — Show notes
-- [[s03e09 Culture|S3 E9 – Culture]] (2022-05-27) — Show notes
-- [[s03e10 Change|S3 E10 – Change]] (2022-06-09) — Show notes
-- [[x2022-10-14 Happiness|Bonus – Happiness]] (2022-10-14) — Show notes
+- [[x2021-02-19 Bonus Episode - Writing|Bonus – Bonus Episode - Writing]] (2021-02-19) — Show notes · Minute [0:13](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=13), [4:45](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=285), [6:33](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=393)
+- [[x2021-06-20 Phrasal Verbs for Writing|Bonus – Phrasal Verbs for Writing]] (2021-06-20) — Show notes · Minute [3:43](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=223), [5:17](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=317), [7:46](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=466), [9:26](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=566)
+- [[s04e02 Languages|S4 E2 – Languages]] (2023-04-29) — Minute [16:01](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=961), [17:32](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=1052)
 - [[x2024-06-29 Vietnam and IELTS|Bonus – Vietnam and IELTS]] (2024-06-29) — Show notes · Minute [0:15](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=15), [6:16](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=376), [8:44](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=524), [10:17](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=617)
+
+## Briefly mentioned (6)
+
+- [[s02e03 Global Issues|S2 E3 – Global Issues]] (2021-02-05) — Minute [9:52](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=592), [17:45](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=1065)
+- [[s03e08 Fame|S3 E8 – Fame]] (2022-04-07) — Minute [10:46](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=646)
+- [[s03e09 Culture|S3 E9 – Culture]] (2022-05-27) — Minute [3:07](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=187), [14:15](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=855)
+- [[s04e05 Art|S4 E5 – Art]] (2023-09-22) — Minute [3:29](https://open.spotify.com/episode/0vR11wg4wOSgeAnjtWfWIQ?t=209), [10:45](https://open.spotify.com/episode/0vR11wg4wOSgeAnjtWfWIQ?t=645)
+- [[s04e06 Transport|S4 E6 – Transport]] (2023-10-19) — Minute [3:21](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=201)
 - [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Minute [16:01](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=961), [21:12](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1272)
-- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Minute [19:10](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=1150)
-- [[s06e01 News|S6 E1 – News]] (2026-01-24) — Minute [17:17](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=1037), [20:15](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=1215)
-- [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [14:39](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=879)
-
-## Briefly mentioned (7)
-
-- [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Minute [12:20](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=740)
-- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [4:43](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=283), [10:07](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=607)
-- [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [4:41](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=281), [17:52](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=1072)
-- [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [5:31](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=331), [21:48](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1308)
-- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [5:25](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=325), [11:38](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=698)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [14:03](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=843)
-- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [0:52](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=52), [4:20](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=260)
 
 ---
 ← [[Exams]] · [[Real Exam English Wiki|Home]]

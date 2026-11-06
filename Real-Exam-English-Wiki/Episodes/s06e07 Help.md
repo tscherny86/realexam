@@ -23,7 +23,7 @@ tags: [episode, season-6]
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Past Perfect & Narrative Tenses]] |
 | **Exams** | – |
 | **Accents** | – |
-| **Briefly mentioned** | [[Family & Relationships]], [[Money & Finance]], [[Learning, School & Education]], [[Change & Life Changes]], [[Crime & Law]], [[History & the Past]], [[Slang & Informal English]], [[Writing Exam]], [[Ireland]], [[USA]], [[Non-Native Speakers]] |
+| **Briefly mentioned** | [[Family & Relationships]], [[Money & Finance]], [[Learning, School & Education]], [[Change & Life Changes]], [[Crime & Law]], [[History & the Past]], [[Slang & Informal English]], [[Ireland]], [[USA]], [[Non-Native Speakers]] |
 
 ## Show notes
 

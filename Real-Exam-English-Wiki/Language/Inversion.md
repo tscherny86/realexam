@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 5
+episodes: 8
 tags: [language]
 ---
 # Inversion
@@ -20,6 +20,38 @@ _Never have I seen… – putting the auxiliary before the subject for emphasis.
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … for LED light bulbs, because obviously that uses far less energy. So not only are you reducing your electricity bills, but you're also helping the environment by using less energy. Similarly, there are things …
+>
+> — [[s01e08 The Environment|S1 E8]], [Minute 8:20](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=500) · [[Transcript s01e08#Minute 8|in the transcript]]
+
+> … So in an inversion, the standard subject verb order is reversed or inverted. So, for instance, in a standard sentence, you would say, I can play the guitar and the piano. And inverting the …
+>
+> — [[s01e08 The Environment|S1 E8]], [Minute 9:51](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=591) · [[Transcript s01e08#Minute 9|in the transcript]]
+
+> … C1 and C2 level you should have inversions, participle clauses, cleft sentences, inverted conditionals and so on. It´s best to think of this before you start writing, to ensure that you can squeeze them …
+>
+> — [[x2021-02-19 Bonus Episode - Writing|Bonus]], [Minute 3:54](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=234) · [[Transcript x2021-02-19#Minute 3|in the transcript]]
+
+> … to write these ten words, those 2 phrasal verbs, that conditional, this inversion, 4 paragraphs, this opening sentence, that conclusion, those connectors, and it´s just a matter of piecing your formula together and you´re …
+>
+> — [[x2021-02-19 Bonus Episode - Writing|Bonus]], [Minute 6:42](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=402) · [[Transcript x2021-02-19#Minute 6|in the transcript]]
+
+> … you've really got to choose the correct light and breathable clothing so. Not only is it about looking good, it's also about getting the right functional things too. A lovely little inversion there at …
+>
+> — [[s03e06 Fashion|S3 E6]], [Minute 2:55](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU?t=175) · [[Transcript s03e06#Minute 2|in the transcript]]
+
+> … language? I think it's very important to learn a foreign language because not only does it help you with communication, communication with other people, it also… there is, there's been a lot of research …
+>
+> — [[s04e02 Languages|S4 E2]], [Minute 2:56](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=176) · [[Transcript s04e02#Minute 2|in the transcript]]
+
+> … don't realize they listen to English sounds and. What happens with that? Not only are they watching it and listening to English, then when they do English at school, they've heard those sounds, and …
+>
+> — [[s04e02 Languages|S4 E2]], [Minute 4:58](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=298) · [[Transcript s04e02#Minute 4|in the transcript]]
+
+> … to flying, but it's a bit difficult sometimes because often flying is not only quicker, but also much, much cheaper. But this is something that I definitely want to change in future. Super answers …
+>
+> — [[s04e06 Transport|S4 E6]], [Minute 10:02](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=602) · [[Transcript s04e06#Minute 10|in the transcript]]
 
 > … opportunity to travel because you can have some benefits regarding airline tickets, not only within your airline, but also other airlines. So people who love travelling are very satisfied with their job because of …
 >
@@ -73,16 +105,21 @@ _Never have I seen… – putting the auxiliary before the subject for emphasis.
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 14:13](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=853) · [[Transcript s06e02#Minute 14|in the transcript]]
 
-## In these episodes (5)
+## In these episodes (8)
 
+- [[s01e08 The Environment|S1 E8 – The Environment]] (2020-09-25) — Minute [8:20](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=500), [9:51](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=591)
+- [[s03e06 Fashion|S3 E6 – Fashion]] (2022-01-07) — Minute [2:55](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU?t=175)
+- [[s04e02 Languages|S4 E2 – Languages]] (2023-04-29) — Minute [2:56](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=176), [4:58](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=298)
 - [[x2024-04-16 Martyna from Poland|Bonus – Martyna from Poland]] (2024-04-16) — Minute [9:09](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=549), [16:28](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=988)
 - [[x2024-05-01 Monologue - Marijuana|Bonus – Monologue - Marijuana]] (2024-05-01) — Minute [1:11](https://open.spotify.com/episode/78k4YxQJ89E66sFTzzqLlz?t=71), [3:50](https://open.spotify.com/episode/78k4YxQJ89E66sFTzzqLlz?t=230)
 - [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Minute [7:21](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=441), [9:57](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=597), [12:21](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=741), [18:54](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1134)
 - [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Minute [6:24](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=384)
 - [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Show notes · Minute [0:35](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=35), [14:13](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=853)
 
-## Briefly mentioned (2)
+## Briefly mentioned (4)
 
+- [[x2021-02-19 Bonus Episode - Writing|Bonus – Bonus Episode - Writing]] (2021-02-19) — Minute [3:54](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=234), [6:42](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=402)
+- [[s04e06 Transport|S4 E6 – Transport]] (2023-10-19) — Minute [10:02](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=602)
 - [[x2024-06-29 Vietnam and IELTS|Bonus – Vietnam and IELTS]] (2024-06-29) — Minute [17:38](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=1058)
 - [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Minute [19:17](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1157)
 

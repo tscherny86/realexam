@@ -23,7 +23,7 @@ tags: [episode, season-6]
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Reported Speech]], [[Prepositions]] |
 | **Exams** | – |
 | **Accents** | – |
-| **Briefly mentioned** | [[Sport & Exercise]], [[Learning, School & Education]], [[Complaining & Customer Service]], [[Question Tags]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]], [[Emphasis & Auxiliaries]], [[Organising Your Answer]], [[Writing Exam]], [[Listening & Reading]] |
+| **Briefly mentioned** | [[Sport & Exercise]], [[Learning, School & Education]], [[Complaining & Customer Service]], [[Question Tags]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]], [[Emphasis & Auxiliaries]], [[Organising Your Answer]], [[Listening & Reading]] |
 
 ## Show notes
 

@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 2
+episodes: 3
 tags: [language]
 ---
 # Passive Voice
@@ -22,6 +22,26 @@ week.* It is common in formal writing, reports and news.
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … year. But it's the nature of who I am that I soon get bored with things. So, yeah, I'll start something. It might be the guitar or something, and then I'll practice the guitar …
+>
+> — [[s01e05 Phrasal Verbs|S1 E5]], [Minute 12:32](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=752) · [[Transcript s01e05#Minute 12|in the transcript]]
+
+> … today. Also, We analyse some fancy grammar in the form of the passive voice and cleft sentences. We are some excellent vocabulary about globalization and we take a look at how to improve your …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 0:46](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=46) · [[Transcript s02e03#Minute 0|in the transcript]]
+
+> … Midlands of England, and a classic example of how to use the passive voice. We had three brilliant examples. Do I punch people? No, because I don't want to get punched. We had, I …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 2:20](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=140) · [[Transcript s02e03#Minute 2|in the transcript]]
+
+> … and age. And that´s it for today folks. Remember to revise your passive voice, cleft sentences and participle clauses, particularly at a C1 or C2 level, or IELTS band 7. For B2 level you …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 17:57](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=1077) · [[Transcript s02e03#Minute 17|in the transcript]]
+
+> … planes work, and I don't, I don't see…I mean, the car might get overheated because it's so hot and the tyres might get damaged by the sun, but in terms of public transport, I …
+>
+> — [[s04e04 Weather|S4 E4]], [Minute 8:15](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=495) · [[Transcript s04e04#Minute 8|in the transcript]]
 
 > … are also aware of this problem is the consonants. Right? The consonants get removed from. Basically all sentences and there's a lot of actual English nouns that are used in with Vietnamese people speaking …
 >
@@ -67,13 +87,15 @@ week.* It is common in formal writing, reports and news.
 >
 > — [[s06e10 Decisions|S6 E10]], [Minute 6:58](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=418) · [[Transcript s06e10#Minute 6|in the transcript]]
 
-## In these episodes (2)
+## In these episodes (3)
 
-- [[s02e03 Global Issues|S2 E3 – Global Issues]] (2021-02-05) — Show notes
+- [[s02e03 Global Issues|S2 E3 – Global Issues]] (2021-02-05) — Show notes · Minute [0:46](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=46), [2:20](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=140), [17:57](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=1077)
+- [[s04e04 Weather|S4 E4 – Weather]] (2023-07-12) — Minute [8:15](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=495)
 - [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Show notes · Minute [0:23](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=23), [2:57](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=177), [6:58](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=418)
 
-## Briefly mentioned (5)
+## Briefly mentioned (6)
 
+- [[s01e05 Phrasal Verbs|S1 E5 – Phrasal Verbs]] (2020-09-04) — Minute [12:32](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=752)
 - [[x2024-06-29 Vietnam and IELTS|Bonus – Vietnam and IELTS]] (2024-06-29) — Minute [2:54](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=174)
 - [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Minute [21:02](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1262)
 - [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Minute [8:37](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=517), [16:49](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1009)

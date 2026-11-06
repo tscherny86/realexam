@@ -1,2 +1,9 @@
 # Episodes whose transcript was fully proofread by hand (date of the check). Episodes with an official
 # Buzzsprout transcript are aligned to it automatically and do not need to be listed here.
+x2025-11-18	07.11.2026
+s04e05	07.11.2026
+s01e10	07.11.2026
+s01e08	07.11.2026
+s01e05	07.11.2026
+x2020-12-07	07.11.2026
+s01e01	07.11.2026

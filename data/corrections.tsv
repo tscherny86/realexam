@@ -1,1 +1,7 @@
 # Corrections for typical transcription errors. Format: WRONG<Tab>RIGHT<Tab>global|local<Tab>episodes (local only, e.g. s03e02,x2024-05-01)
+real exam English	Real Exam English	global	
+real exam english	Real Exam English	global	
+real exam	Real Exam	global	
+Joe Blocks	Joe Bloggs	local	s04e05
+emailed for the future	earmarked for the future	local	s01e08
+I trade, I guess	by trade, I guess	local	s01e01

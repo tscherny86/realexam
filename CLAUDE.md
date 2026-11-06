@@ -1,7 +1,7 @@
 # Real Exam English Fanwiki – working rules
 
 Language with Alex: German. Everything in the repo, the vault and on the website: English.
-Live: https://tscherny86.github.io/realexam/ · Preview artifact: see `Projekte/Real Exam English Fanwiki – Quellen und Ablageorte` in Obsidian.
+Live: https://tscherny86.github.io/realexam/ · Preview artifact: https://claude.ai/artifact/3CwyLUdDPzPmmG15FtFZv5
 Obsidian: `Projekte/Real Exam English Fanwiki/` in the repo `tscherny86/notes-vault` (mandatory for every change, see below).
 Sister project with the same structure: ABC Podcast Fanwiki (`tscherny86/abcpodcast`).
 

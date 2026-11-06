@@ -23,7 +23,7 @@ tags: [episode, season-6]
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Collocations]], [[Passive Voice]], [[Organising Your Answer]], [[Slang & Informal English]] |
 | **Exams** | – |
 | **Accents** | [[USA]], [[Australia]] |
-| **Briefly mentioned** | [[TV, Film & Entertainment]], [[Shopping & Consumerism]], [[Health & Wellbeing]], [[Family & Relationships]], [[Anger & Emotions]], [[Conditionals]], [[Prepositions]], [[Emphasis & Auxiliaries]], [[Binomial Pairs]], [[Writing Exam]] |
+| **Briefly mentioned** | [[TV, Film & Entertainment]], [[Shopping & Consumerism]], [[Health & Wellbeing]], [[Family & Relationships]], [[Anger & Emotions]], [[Conditionals]], [[Prepositions]], [[Emphasis & Auxiliaries]], [[Binomial Pairs]] |
 
 ## Show notes
 

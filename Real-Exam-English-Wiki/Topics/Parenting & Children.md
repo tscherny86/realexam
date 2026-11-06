@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 8
+episodes: 11
 tags: [topics]
 ---
 # Parenting & Children
@@ -19,6 +19,138 @@ Parenting is a C1/C2 topic; childhood memories are a B2 long-turn favourite.
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … then, let's go with the questions. Who do you take after? My parents? Not my mum. It's got to be my dad. My mum's very highly strung, I think. And my dad's a bit …
+>
+> — [[s01e05 Phrasal Verbs|S1 E5]], [Minute 1:55](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=115) · [[Transcript s01e05#Minute 1|in the transcript]]
+
+> … after? I would say I have a bit of both of my parents in me. I don't totally take after either of them, I would think. Possibly more so my mother. What is something …
+>
+> — [[s01e05 Phrasal Verbs|S1 E5]], [Minute 6:30](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=390) · [[Transcript s01e05#Minute 6|in the transcript]]
+
+> … I look up to? I'd say I'd probably look up to my parents. Do you find it difficult to come up with things to do in your free time? No, not really. Any free …
+>
+> — [[s01e05 Phrasal Verbs|S1 E5]], [Minute 9:37](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=577) · [[Transcript s01e05#Minute 9|in the transcript]]
+
+> … the second question was brought up. And when someone brings up a child, they look after it until it is an adult. And if someone has been brought up in a certain place or …
+>
+> — [[s01e05 Phrasal Verbs|S1 E5]], [Minute 15:06](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=906) · [[Transcript s01e05#Minute 15|in the transcript]]
+
+> … in case you can’t follow all of the conversations. Do you think parents should apply time limits to their children's usage of the computer? Yes, yea definitely yea. Depending on what age they are …
+>
+> — [[s01e06 Technology|S1 E6]], [Minute 1:01](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=61) · [[Transcript s01e06#Minute 1|in the transcript]]
+
+> … piano and the recorder. So the recorder is an instrument that usually kids learn to play in school because it's quite a a simple instrument to master. And she also mentioned the guitar and …
+>
+> — [[s01e07 Music|S1 E7]], [Minute 4:20](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=260) · [[Transcript s01e07#Minute 4|in the transcript]]
+
+> … funk, and heavy metal and punk rock, and as I was a teenager I was more into hip hop and djing and things like that. But if I have to choose right now, in …
+>
+> — [[s01e07 Music|S1 E7]], [Minute 10:24](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=624) · [[Transcript s01e07#Minute 10|in the transcript]]
+
+> … fantastical and wonderful as well. Trevor: Do you think it´s important for parents to read to their children? Emma(Ireland): Absolutely, 100%. They’re like sponges. The vocabulary that they are exposed to in books is …
+>
+> — [[s01e09 Books|S1 E9]], [Minute 4:25](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=265) · [[Transcript s01e09#Minute 4|in the transcript]]
+
+> … Trevor: The first question here asked do you think it´s important for parents to read to their children and in the answer the speaker said being exposed to books is crucial for their development. …
+>
+> — [[s01e09 Books|S1 E9]], [Minute 6:07](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=367) · [[Transcript s01e09#Minute 6|in the transcript]]
+
+> … like gyms and swimming pools and so forth for the parks for children to enjoy. But of course I do enjoy the peacefulness of the countryside And the space between neighbors and so forth. …
+>
+> — [[s02e02 City and Country|S2 E2]], [Minute 1:39](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=99) · [[Transcript s02e02#Minute 1|in the transcript]]
+
+> … mean there are a number of very, very good parks. How do children brought up in the city differ from those brought up in the country? Oh, I think probably Children who are brought …
+>
+> — [[s02e02 City and Country|S2 E2]], [Minute 5:17](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=317) · [[Transcript s02e02#Minute 5|in the transcript]]
+
+> … So let´s crack on with the questions: When should schools start educating children about healthy living? Right from the beginning. I would say I'm probably biased because I'm a nurse, but definitely I mean, …
+>
+> — [[s02e05 Health|S2 E5]], [Minute 0:48](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=48) · [[Transcript s02e05#Minute 0|in the transcript]]
+
+> … can be Functionally strong so that I can take care of my kids, and if they want to play, we can play and roughhouse, etc. But I'm not trying to workout to get buff …
+>
+> — [[s02e05 Health|S2 E5]], [Minute 2:23](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=143) · [[Transcript s02e05#Minute 2|in the transcript]]
+
+> … and meeting up at the parks to go, you know, have our children spend time together. How important do you think it is for parents to like their childrens friends? I think it's important …
+>
+> — [[s02e06 Friends|S2 E6]], [Minute 1:32](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=92) · [[Transcript s02e06#Minute 1|in the transcript]]
+
+> … chip off the old block, definitely, looks as well as disposition. Many parents find it difficult to let their children become independent. What’s your opinion? There's a line between assisting your children and Anne …
+>
+> — [[s02e10 Family|S2 E10]], [Minute 2:59](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=179) · [[Transcript s02e10#Minute 2|in the transcript]]
+
+> … social media and the permanence of the Internet, Even……… so, I've got children They are experiencing the world at such a different way because of the permanence of things like Facebook or Twitter Already, …
+>
+> — [[s02e10 Family|S2 E10]], [Minute 4:32](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=272) · [[Transcript s02e10#Minute 4|in the transcript]]
+
+> … are the lives of young people today different from those of their parents? I think that online communication is very much the norm now Which it was and when I was young, you know …
+>
+> — [[s02e10 Family|S2 E10]], [Minute 6:36](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=396) · [[Transcript s02e10#Minute 6|in the transcript]]
+
+> … are the lives of young people today different from those of their parents? I assume their lives are different, mainly because they spend more time on the Internet or on the phone, and I …
+>
+> — [[s02e10 Family|S2 E10]], [Minute 8:16](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=496) · [[Transcript s02e10#Minute 8|in the transcript]]
+
+> … realexamenglish.com Okey dokey, let’s go with the questions: Do you think that parents should give their children pocket money? Uh, yes, definitely, because uh.You know a parents job. I'm not a parent, so it's …
+>
+> — [[s03e04 Money|S3 E4]], [Minute 1:10](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=70) · [[Transcript s03e04#Minute 1|in the transcript]]
+
+> … first thing to comment on here is the pronunciation of the word parent. Quite a few of my students are from Spain and Italy and it´s quite common to hear them say parents, with …
+>
+> — [[s03e04 Money|S3 E4]], [Minute 2:44](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=164) · [[Transcript s03e04#Minute 2|in the transcript]]
+
+> … into Some very irresponsible spending, again speaking from experience. Don't do it, kids. Some sound advice there and plenty of nice vocabulary too. We had to get into debt which means to owe money, …
+>
+> — [[s03e04 Money|S3 E4]], [Minute 6:51](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=411) · [[Transcript s03e04#Minute 6|in the transcript]]
+
+> … people say that learning a foreign language is easier when you’re a child. What’s your opinion? Learning a foreign language is definitely easier when you're a child, when you can be learning your first …
+>
+> — [[s04e02 Languages|S4 E2]], [Minute 1:09](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=69) · [[Transcript s04e02#Minute 1|in the transcript]]
+
+> … people say that learning a foreign language is easier when you’re a child. What’s your opinion? I agree. Yeah, it is because when you are older, I mean. There's been research on this as …
+>
+> — [[s04e02 Languages|S4 E2]], [Minute 3:51](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=231) · [[Transcript s04e02#Minute 3|in the transcript]]
+
+> … get older. I'm saying that it's easier to learn when you're a child because you don't have any of those problems that you that you get as you get older and you know about …
+>
+> — [[s04e02 Languages|S4 E2]], [Minute 5:39](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=339) · [[Transcript s04e02#Minute 5|in the transcript]]
+
+> … people say that learning a foreign language is easier when you’re a child. What’s your opinion? As someone who is bilingual, not exactly by choice, I would absolutely say that a foreign language is …
+>
+> — [[s04e02 Languages|S4 E2]], [Minute 7:09](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=429) · [[Transcript s04e02#Minute 7|in the transcript]]
+
+> Real Exam English Season 4 Parenting Hello and welcome to the Real Exam English podcast, this episode is about parenting. Almost all of us have, or had, …
+>
+> — [[s04e07 Parenting|S4 E7]], [Minute 0:04](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=4) · [[Transcript s04e07#Minute 0|in the transcript]]
+
+> … into place. Why do you think some people choose not to become parents? Because they like sleeping in, they like money, they like going out. I don't know, I suppose, I suppose there's lots …
+>
+> — [[s04e07 Parenting|S4 E7]], [Minute 1:36](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=96) · [[Transcript s04e07#Minute 1|in the transcript]]
+
+> … I love lying in on a Saturday morning. Not something that many parents get to do, unfortunately! What do you think is the most important feature of a good parent? The most important feature …
+>
+> — [[s04e07 Parenting|S4 E7]], [Minute 3:26](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=206) · [[Transcript s04e07#Minute 3|in the transcript]]
+
+> … think that grandparents are now becoming more and more carers for the children because when your children have kids, I think it's so expensive to put them through paid childcare. It just takes too …
+>
+> — [[s04e07 Parenting|S4 E7]], [Minute 5:46](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=346) · [[Transcript s04e07#Minute 5|in the transcript]]
+
+> … website, realexamenglish.com Ok, then, lets start off in the USA: Should all children be expected to learn about history at school? Absolutely. Children should be expected to learn about history, but the way that …
+>
+> — [[s04e09 History|S4 E9]], [Minute 1:08](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=68) · [[Transcript s04e09#Minute 1|in the transcript]]
+
+> … that country. Greek mythology, for instance, would be particularly well-known. Should all children be expected to learn about history at school? Yes, absolutely. I think it's very, very important history. I don't think so …
+>
+> — [[s04e09 History|S4 E9]], [Minute 3:03](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=183) · [[Transcript s04e09#Minute 3|in the transcript]]
+
+> … basic history of where you're going so. Is it more important for children to learn about their own country's history or world history? Look, I think it's probably both. I think, you know, you...yeah, …
+>
+> — [[s04e09 History|S4 E9]], [Minute 7:42](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=462) · [[Transcript s04e09#Minute 7|in the transcript]]
+
+> … to defend yourself against a powerful person or organisation. For instance, the kid stood up to the bully and punched him in the face. Or the local people stood up to the company that …
+>
+> — [[s04e09 History|S4 E9]], [Minute 12:51](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=771) · [[Transcript s04e09#Minute 12|in the transcript]]
 
 > … I don't think, I think you know, things like coding that the kids are gonna learn, I think that the kids are learning at the moment. I think any job like that is going …
 >
@@ -156,9 +288,12 @@ Parenting is a C1/C2 topic; childhood memories are a B2 long-turn favourite.
 >
 > — [[s06e09 Children|S6 E9]], [Minute 6:58](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=418) · [[Transcript s06e09#Minute 6|in the transcript]]
 
-## In these episodes (8)
+## In these episodes (11)
 
-- [[s04e07 Parenting|S4 E7 – Parenting]] (2023-11-18) — Show notes
+- [[s02e10 Family|S2 E10 – Family]] (2021-04-07) — Minute [2:59](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=179), [4:32](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=272), [6:36](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=396), [8:16](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=496)
+- [[s03e04 Money|S3 E4 – Money]] (2021-11-15) — Minute [1:10](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=70), [2:44](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=164), [6:51](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=411)
+- [[s04e02 Languages|S4 E2 – Languages]] (2023-04-29) — Minute [1:09](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=69), [3:51](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=231), [5:39](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=339), [7:09](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=429)
+- [[s04e07 Parenting|S4 E7 – Parenting]] (2023-11-18) — Show notes · Minute [0:04](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=4), [1:36](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=96), [3:26](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=206), [5:46](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=346)
 - [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Minute [1:08](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=68), [5:23](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=323), [7:09](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=429), [11:57](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=717)
 - [[s05e04 School|S5 E4 – School]] (2025-02-07) — Show notes · Minute [0:21](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=21), [3:06](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=186), [7:04](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=424), [9:01](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=541)
 - [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [3:41](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=221), [7:16](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=436), [9:04](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=544)
@@ -167,8 +302,16 @@ Parenting is a C1/C2 topic; childhood memories are a B2 long-turn favourite.
 - [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [6:04](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=364), [9:00](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=540), [11:47](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=707), [15:01](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=901)
 - [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Show notes · Minute [0:16](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=16), [1:52](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=112), [5:19](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=319), [6:58](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=418)
 
-## Briefly mentioned (3)
+## Briefly mentioned (11)
 
+- [[s01e05 Phrasal Verbs|S1 E5 – Phrasal Verbs]] (2020-09-04) — Minute [1:55](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=115), [6:30](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=390), [9:37](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=577), [15:06](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=906)
+- [[s01e06 Technology|S1 E6 – Technology]] (2020-09-11) — Minute [1:01](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=61)
+- [[s01e07 Music|S1 E7 – Music]] (2020-09-17) — Minute [4:20](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=260), [10:24](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=624)
+- [[s01e09 Books|S1 E9 – Books]] (2020-10-02) — Minute [4:25](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=265), [6:07](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=367)
+- [[s02e02 City and Country|S2 E2 – City and Country]] (2021-01-29) — Minute [1:39](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=99), [5:17](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=317)
+- [[s02e05 Health|S2 E5 – Health]] (2021-02-26) — Minute [0:48](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=48), [2:23](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=143)
+- [[s02e06 Friends|S2 E6 – Friends]] (2021-03-06) — Minute [1:32](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=92)
+- [[s04e09 History|S4 E9 – History]] (2024-01-19) — Minute [1:08](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=68), [3:03](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=183), [7:42](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=462), [12:51](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=771)
 - [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Minute [7:17](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=437), [13:50](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=830)
 - [[s05e10 Weekend|S5 E10 – Weekend]] (2025-08-18) — Minute [6:08](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=368), [15:37](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=937), [18:47](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=1127)
 - [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [4:35](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=275), [6:12](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=372)

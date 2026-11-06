@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 2
+episodes: 3
 tags: [language]
 ---
 # Question Tags
@@ -20,6 +20,18 @@ have you?*
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … benefits of reading and the future of books. We also speak about question tags, the English pronunciation of words that originate from French and different ways to say important. Ok then, let´s go with …
+>
+> — [[s01e09 Books|S1 E9]], [Minute 0:30](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=30) · [[Transcript s01e09#Minute 0|in the transcript]]
+
+> … always get those details across properly. Trevor: We had a couple of question tags in these answers. The first one was I think it´s like music, isn´t it and the second one was they´re …
+>
+> — [[s01e09 Books|S1 E9]], [Minute 10:47](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=647) · [[Transcript s01e09#Minute 10|in the transcript]]
+
+> … in it is another way of saying, isn't it, which is a question tag. So the example was it's easy in it. And as with any question tag, if the beginning of the sentence …
+>
+> — [[s01e10 TV|S1 E10]], [Minute 10:55](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=655) · [[Transcript s01e10#Minute 10|in the transcript]]
 
 > … schooly things. We focus on using auxiliary verbs for emphasis and on question tags, which are always in need of some practice! We have some nice phrasal verbs too and quite a few idioms. …
 >
@@ -41,9 +53,10 @@ have you?*
 >
 > — [[s06e04 Motivation|S6 E4]], [Minute 5:32](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=332) · [[Transcript s06e04#Minute 5|in the transcript]]
 
-## In these episodes (2)
+## In these episodes (3)
 
-- [[s01e09 Books|S1 E9 – Books]] (2020-10-02) — Show notes
+- [[s01e09 Books|S1 E9 – Books]] (2020-10-02) — Show notes · Minute [0:30](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=30), [10:47](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=647)
+- [[s01e10 TV|S1 E10 – TV]] (2020-10-05) — Minute [10:55](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=655)
 - [[s05e04 School|S5 E4 – School]] (2025-02-07) — Show notes · Minute [0:38](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=38), [11:11](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=671), [13:58](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=838)
 
 ## Briefly mentioned (2)

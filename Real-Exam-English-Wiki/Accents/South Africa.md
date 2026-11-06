@@ -19,6 +19,14 @@ languages in the country.
 
 ## Said in the podcast
 
+> … introductions. And the first question is, where are you from? I'm from Cape Town, South Africa. Okay. And what do you do? I'm a stay-at-home mum. Just a quick word that this question, what …
+>
+> — [[s01e01 Introductions|S1 E1]], [Minute 1:37](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=97) · [[Transcript s01e01#Minute 1|in the transcript]]
+
+> … we have a few speakers from the UK, we have somebody from South Africa and we have 2 speakers from The United States, so you´ve a good mix of accents to listen to. And …
+>
+> — [[s01e02 Travel|S1 E2]], [Minute 1:17](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=77) · [[Transcript s01e02#Minute 1|in the transcript]]
+
 > … hear today. We have speakers from England, Wales, Canada, Australia, Ireland and South Africa so you are gonna get a good impression of what manners are expected in English-speaking countries. You’re gonna hear plenty …
 >
 > — [[s05e02 Manners|S5 E2]], [Minute 0:33](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=33) · [[Transcript s05e02#Minute 0|in the transcript]]
@@ -29,10 +37,11 @@ languages in the country.
 
 ## In these episodes (1)
 
-- [[s02e04 Shopping|S2 E4 – Shopping]] (2021-02-12) — Show notes
+- [[s01e02 Travel|S1 E2 – Travel]] (2020-08-30) — Minute [1:17](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=77)
 
-## Briefly mentioned (1)
+## Briefly mentioned (2)
 
+- [[s01e01 Introductions|S1 E1 – Introductions]] (2020-08-30) — Minute [1:37](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=97)
 - [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Minute [0:33](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=33), [15:26](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=926)
 
 ---

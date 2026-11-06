@@ -1,6 +1,6 @@
 ---
 type: accents
-episodes: 23
+episodes: 11
 tags: [accents]
 ---
 # Australia
@@ -18,6 +18,86 @@ terminal*) and a love of shortened words: *arvo* (afternoon), *brekkie* (breakfa
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … Thailand, Laos, Vietnam, Malaysia, Singapore and Burma, or Myanmar. I´ve been to Australia and New Zealand and I´ve been kind of all over Europe I guess. I´ve never been to Russia or South America, …
+>
+> — [[s01e02 Travel|S1 E2]], [Minute 2:27](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=147) · [[Transcript s01e02#Minute 2|in the transcript]]
+
+> … express preferences. We will take a look at some differences between US, Australian and British English and we also have speakers from Ireland and South Africa so lots of accent practice for you as …
+>
+> — [[s02e04 Shopping|S2 E4]], [Minute 0:33](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=33) · [[Transcript s02e04#Minute 0|in the transcript]]
+
+> … necessarily worth going into debt for. Ok so this speaker is from Australia and says shopping mall. We will also hear someone from the United States saying malls later. In British English this is …
+>
+> — [[s02e04 Shopping|S2 E4]], [Minute 10:04](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=604) · [[Transcript s02e04#Minute 10|in the transcript]]
+
+> … really cool expressions. In terms of accents we have US, English, Irish, Australian and New Zealand so superb listening practice for your advanced English exams! Right then, let´s go with the questions: Describe the …
+>
+> — [[s03e01 Humour|S3 E1]], [Minute 1:34](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=94) · [[Transcript s03e01#Minute 1|in the transcript]]
+
+> … with my family and friends. And maybe it's quite a British or Australian thing and I'm unfamiliar with maybe other countries or English speaking countries, but. Me and my family. And friends are very …
+>
+> — [[s03e01 Humour|S3 E1]], [Minute 7:06](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=426) · [[Transcript s03e01#Minute 7|in the transcript]]
+
+> … to be happy right. Well in this episode we have speakers from Australia, England, the USA and New Zealand, all answering questions about what makes them happy. As usual we will zone in on …
+>
+> — [[x2022-10-14 Happiness|Bonus]], [Minute 0:13](https://open.spotify.com/episode/4A4thQQDgZ1KpSBMd8qsZN?t=13) · [[Transcript x2022-10-14#Minute 0|in the transcript]]
+
+> … to. It's definitely, definitely not true. A couple of great answers from Australia there and we had a couple of great expressions too. The first one was that peoples fitness falls by the wayside …
+>
+> — [[x2022-10-14 Happiness|Bonus]], [Minute 2:31](https://open.spotify.com/episode/4A4thQQDgZ1KpSBMd8qsZN?t=151) · [[Transcript x2022-10-14#Minute 2|in the transcript]]
+
+> … it properly in years. So I did camping when I was in Australia many years ago. But it meant that we had a double blow up mattress on the ground we brought our hairdryers …
+>
+> — [[x2023-01-27 Short and Sweet - Camping|Bonus]], [Minute 1:13](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=73) · [[Transcript x2023-01-27#Minute 1|in the transcript]]
+
+> … decision or take action. For example, I was planning on moving to Australia but when it came to the crunch I couldn´t do it, because I would miss my family too much. Or England …
+>
+> — [[x2023-01-27 Short and Sweet - Camping|Bonus]], [Minute 2:44](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=164) · [[Transcript x2023-01-27#Minute 2|in the transcript]]
+
+> … is about crime. We have speakers from the US, the UK, Ireland, Australia and from Spain, all answering questions about their countries and what crimes are committed there. It´s amazing how different it is …
+>
+> — [[s04e01 Crime|S4 E1]], [Minute 0:20](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=20) · [[Transcript s04e01#Minute 0|in the transcript]]
+
+> … for adults. Is your country a safe country? Well, we live in Australia and I would definitely say it's a safe country. But you know, like anywhere, if you go out to some places …
+>
+> — [[s04e01 Crime|S4 E1]], [Minute 6:06](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=366) · [[Transcript s04e01#Minute 6|in the transcript]]
+
+> … if you pardon the pun. Today we have speakers from the US, Australia, Ireland and three different speakers from the UK. So we have a nice variety of types of weather, you´re gonna hear …
+>
+> — [[s04e04 Weather|S4 E4]], [Minute 0:54](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=54) · [[Transcript s04e04#Minute 0|in the transcript]]
+
+> … rain. I think they do a pretty damn good job. Love that Australian accent. She uses this intensifier, pretty damn accurate and pretty damn good job, you would hear this pretty damn frequently in …
+>
+> — [[s04e04 Weather|S4 E4]], [Minute 10:20](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=620) · [[Transcript s04e04#Minute 10|in the transcript]]
+
+> … a note! What type of transport is popular in your country? Well, Australia is a massive country and there is a bit of public transport, but basically the most popular is cars. You, you …
+>
+> — [[s04e06 Transport|S4 E6]], [Minute 3:30](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=210) · [[Transcript s04e06#Minute 3|in the transcript]]
+
+> … think. I haven't done it for a while, but I've flown to Australia and I've flown to the far coast of Canada, and they're long old hauls. And if I could afford it, if …
+>
+> — [[s04e06 Transport|S4 E6]], [Minute 12:47](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=767) · [[Transcript s04e06#Minute 12|in the transcript]]
+
+> … part do grandparents now play in family life in our country? Well, Australia is a little bit different to a lot of the European countries where, you know, everybody goes out together, but I …
+>
+> — [[s04e07 Parenting|S4 E7]], [Minute 11:58](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=718) · [[Transcript s04e07#Minute 11|in the transcript]]
+
+> … We hear a few different accents from the UK, also the US, Australia and Ireland and remember you can access the transcripts for the podcast over on the website realexamenglish.com. As well as copies …
+>
+> — [[s04e08 Holidays|S4 E8]], [Minute 0:34](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=34) · [[Transcript s04e08#Minute 0|in the transcript]]
+
+> … it's…he's great to travel with. So as mentioned, this lovely lady from Australia has a podcast called Beach Travel Wine so if you would like to have some extra listening practice about holidays, and …
+>
+> — [[s04e08 Holidays|S4 E8]], [Minute 7:52](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=472) · [[Transcript s04e08#Minute 7|in the transcript]]
+
+> … is celebrated and learned about in the United States, England, Ireland and Australia. We have a bunch of useful phrasal verbs to speak about archaeology and the past in general and we have a …
+>
+> — [[s04e09 History|S4 E9]], [Minute 0:26](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=26) · [[Transcript s04e09#Minute 0|in the transcript]]
+
+> … own country and also the world. It's quite surprising to me, because Australia is so isolated, how much we don't know around about the rest of the world and I just find that really …
+>
+> — [[s04e09 History|S4 E9]], [Minute 7:59](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=479) · [[Transcript s04e09#Minute 7|in the transcript]]
 
 > … to most other English writing exams also. Konner, the speaker is from Australia, so you can practice listening to the Australian accent and as usual we will take a look at some of the …
 >
@@ -107,25 +187,13 @@ terminal*) and a love of shortened words: *arvo* (afternoon), *brekkie* (breakfa
 >
 > — [[s06e10 Decisions|S6 E10]], [Minute 13:13](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=793) · [[Transcript s06e10#Minute 13|in the transcript]]
 
-## In these episodes (23)
+## In these episodes (11)
 
-- [[s02e04 Shopping|S2 E4 – Shopping]] (2021-02-12) — Show notes
-- [[s02e06 Friends|S2 E6 – Friends]] (2021-03-06) — Show notes
-- [[s02e09 Communications|S2 E9 – Communications]] (2021-03-26) — Show notes
-- [[s02e10 Family|S2 E10 – Family]] (2021-04-07) — Show notes
-- [[s03e01 Humour|S3 E1 – Humour]] (2021-08-23) — Show notes
-- [[s03e02 Anger|S3 E2 – Anger]] (2021-09-16) — Show notes
-- [[s03e03 Photos|S3 E3 – Photos]] (2021-10-19) — Show notes
-- [[s03e05 Learning|S3 E5 – Learning]] (2021-12-11) — Show notes
-- [[s03e07 Animals|S3 E7 – Animals]] (2022-02-15) — Show notes
-- [[s03e08 Fame|S3 E8 – Fame]] (2022-04-07) — Show notes
-- [[s03e10 Change|S3 E10 – Change]] (2022-06-09) — Show notes
-- [[x2022-10-14 Happiness|Bonus – Happiness]] (2022-10-14) — Show notes
-- [[s04e01 Crime|S4 E1 – Crime]] (2023-03-24) — Show notes
-- [[s04e02 Languages|S4 E2 – Languages]] (2023-04-29) — Show notes
-- [[s04e04 Weather|S4 E4 – Weather]] (2023-07-12) — Show notes
-- [[s04e08 Holidays|S4 E8 – Holidays]] (2023-12-21) — Show notes
-- [[s04e09 History|S4 E9 – History]] (2024-01-19) — Show notes
+- [[s04e04 Weather|S4 E4 – Weather]] (2023-07-12) — Show notes · Minute [0:54](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=54), [10:20](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=620)
+- [[s04e06 Transport|S4 E6 – Transport]] (2023-10-19) — Minute [3:30](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=210), [12:47](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=767)
+- [[s04e07 Parenting|S4 E7 – Parenting]] (2023-11-18) — Minute [11:58](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=718)
+- [[s04e08 Holidays|S4 E8 – Holidays]] (2023-12-21) — Show notes · Minute [0:34](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=34), [7:52](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=472)
+- [[s04e09 History|S4 E9 – History]] (2024-01-19) — Show notes · Minute [0:26](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=26), [7:59](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=479)
 - [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Minute [4:30](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=270), [12:29](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=749), [14:01](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=841)
 - [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Show notes · Minute [0:30](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=30), [2:07](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=127), [16:11](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=971)
 - [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Show notes · Minute [0:55](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=55), [2:32](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=152), [4:09](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=249), [6:03](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=363)
@@ -133,8 +201,14 @@ terminal*) and a love of shortened words: *arvo* (afternoon), *brekkie* (breakfa
 - [[s05e10 Weekend|S5 E10 – Weekend]] (2025-08-18) — Show notes · Minute [3:40](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=220), [18:56](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=1136)
 - [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [9:59](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=599), [13:13](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=793)
 
-## Briefly mentioned (4)
+## Briefly mentioned (10)
 
+- [[s01e02 Travel|S1 E2 – Travel]] (2020-08-30) — Minute [2:27](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=147)
+- [[s02e04 Shopping|S2 E4 – Shopping]] (2021-02-12) — Minute [0:33](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=33), [10:04](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=604)
+- [[s03e01 Humour|S3 E1 – Humour]] (2021-08-23) — Minute [1:34](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=94), [7:06](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=426)
+- [[x2022-10-14 Happiness|Bonus – Happiness]] (2022-10-14) — Minute [0:13](https://open.spotify.com/episode/4A4thQQDgZ1KpSBMd8qsZN?t=13), [2:31](https://open.spotify.com/episode/4A4thQQDgZ1KpSBMd8qsZN?t=151)
+- [[x2023-01-27 Short and Sweet - Camping|Bonus – Short and Sweet - Camping]] (2023-01-27) — Minute [1:13](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=73), [2:44](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=164)
+- [[s04e01 Crime|S4 E1 – Crime]] (2023-03-24) — Minute [0:20](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=20), [6:06](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=366)
 - [[x2024-06-29 Vietnam and IELTS|Bonus – Vietnam and IELTS]] (2024-06-29) — Minute [0:24](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=24)
 - [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Minute [0:39](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=39), [5:25](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=325)
 - [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Minute [0:30](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=30), [7:52](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=472)

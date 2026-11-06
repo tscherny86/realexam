@@ -23,7 +23,7 @@ tags: [episode, season-6]
 | **Language** | [[Idioms & Expressions]], [[Collocations]], [[Pronunciation]], [[Common Mistakes]], [[Organising Your Answer]], [[Spelling]] |
 | **Exams** | – |
 | **Accents** | [[USA]] |
-| **Briefly mentioned** | [[Shopping & Consumerism]], [[Work & Careers]], [[Money & Finance]], [[Learning, School & Education]], [[Change & Life Changes]], [[Crime & Law]], [[Languages & Language Learning]], [[Home & Housing]], [[The Future & Predictions]], [[Phrasal Verbs]], [[Adverbs]], [[Emphasis & Auxiliaries]], [[Speaking Exam]], [[Writing Exam]] |
+| **Briefly mentioned** | [[Shopping & Consumerism]], [[Work & Careers]], [[Money & Finance]], [[Learning, School & Education]], [[Change & Life Changes]], [[Crime & Law]], [[Languages & Language Learning]], [[Home & Housing]], [[The Future & Predictions]], [[Phrasal Verbs]], [[Adverbs]], [[Emphasis & Auxiliaries]], [[Speaking Exam]] |
 
 ## Show notes
 

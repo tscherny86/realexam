@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 14
+episodes: 9
 tags: [topics]
 ---
 # Travel, Holidays & Tourism
@@ -23,6 +23,118 @@ collaborative task about a school trip to a C2 Proficiency essay on the effects 
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … welcome to Real Exam English. My name is Trevor. Today´s topic is travel. Holidays, sunshine, adventure, culture, cocktails by the swimming pool, what´s not to love about travel! This is a very common topic …
+>
+> — [[s01e02 Travel|S1 E2]], [Minute 0:12](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=12) · [[Transcript s01e02#Minute 0|in the transcript]]
+
+> … to Namibia, Botswana, Zambia, Malawi, Mozambique, Swaziland, Lesotho and then obviously I´ve travelled quite a bit in South Africa. I´ve travelled in Asia, Thailand, Laos, Vietnam, Malaysia, Singapore and Burma, or Myanmar. I´ve been …
+>
+> — [[s01e02 Travel|S1 E2]], [Minute 2:11](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=131) · [[Transcript s01e02#Minute 2|in the transcript]]
+
+> … Trevor: What activities do you like to do when you are on holiday? Paul(UK): Activities? If you could call it an activity I just like to wander around, basically. So, wherever I am I …
+>
+> — [[s01e02 Travel|S1 E2]], [Minute 8:22](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=502) · [[Transcript s01e02#Minute 8|in the transcript]]
+
+> … Trevor: What activities do you like to do when you are on holiday? Ade(UK): When I´m on holiday I always want to know what´s around the next corner. I like to climb mountains and …
+>
+> — [[s01e02 Travel|S1 E2]], [Minute 10:03](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=603) · [[Transcript s01e02#Minute 10|in the transcript]]
+
+> … quite often do this, but it's been a while. But we go camping and so we'll see friends with different camping equipment and go, oh, actually, that's really useful. That would be useful for …
+>
+> — [[s02e06 Friends|S2 E6]], [Minute 4:41](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=281) · [[Transcript s02e06#Minute 4|in the transcript]]
+
+> … say I quite often do this, but it's been awhile.But we go camping and so we'll see friends with different camping equipment and go, oh.Actually, that's really useful.That would be useful for us. A …
+>
+> — [[s02e06 Friends|S2 E6]], [Minute 9:21](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=561) · [[Transcript s02e06#Minute 9|in the transcript]]
+
+> … will enjoy this episode. In fact, I´ve added a photo from my travels in Indonesia and you will hear various speakers speculating about what they can see in the image. Also, in this episode …
+>
+> — [[s03e09 Culture|S3 E9]], [Minute 0:37](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=37) · [[Transcript s03e09#Minute 0|in the transcript]]
+
+> … just the ability to spend more than like a week or a holiday in a country, you know, just really.Enjoying being.In a foreign country of getting to know the culture, immersing yourself in the …
+>
+> — [[s03e09 Culture|S3 E9]], [Minute 2:17](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=137) · [[Transcript s03e09#Minute 2|in the transcript]]
+
+> … of people with.Fruit in bowls balanced on their heads. They're on a trip.There's a huge crowd of them. It looks like they're in Thailand or somewhere like that, and I think they are going …
+>
+> — [[s03e09 Culture|S3 E9]], [Minute 8:55](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=535) · [[Transcript s03e09#Minute 8|in the transcript]]
+
+> … globalization. With the first major one being the fact that. We can travel absolutely anywhere we like, quite easily and relatively affordably. Most especially in the West, most people can afford to fly anywhere …
+>
+> — [[s03e09 Culture|S3 E9]], [Minute 11:21](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=681) · [[Transcript s03e09#Minute 11|in the transcript]]
+
+> … we have a bit of conditionals grammar, a couple of idioms, some camping vocab and an example of what is known is a portmanteau, nice. Ok here we go: Who would be the ideal …
+>
+> — [[x2023-01-27 Short and Sweet - Camping|Bonus]], [Minute 0:23](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=23) · [[Transcript x2023-01-27#Minute 0|in the transcript]]
+
+> … it comes to the crunch. She said she likes the idea of camping but when it comes to the crunch she never does it. So we use this idiom when a situation comes to …
+>
+> — [[x2023-01-27 Short and Sweet - Camping|Bonus]], [Minute 2:32](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=152) · [[Transcript x2023-01-27#Minute 2|in the transcript]]
+
+> … mentions a campsite, which is, of course, the place where you go camping. A lot of people make mistakes with this word, and say things like we stayed in a camping, or there is …
+>
+> — [[x2023-01-27 Short and Sweet - Camping|Bonus]], [Minute 4:30](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=270) · [[Transcript x2023-01-27#Minute 4|in the transcript]]
+
+> … talking about Spain? Say Spain. Well, I'd say in Spain, in the tourist areas, I would say pickpocketing and stealing from people's person, you know, purses. And there was a time where there was …
+>
+> — [[s04e01 Crime|S4 E1]], [Minute 3:27](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=207) · [[Transcript s04e01#Minute 3|in the transcript]]
+
+> … or bag without you noticing. As she said it´s very common in touristy areas and she said that sometimes people snatch a woman´s handbag, which is to take it by force. Another example would …
+>
+> — [[s04e01 Crime|S4 E1]], [Minute 5:23](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=323) · [[Transcript s04e01#Minute 5|in the transcript]]
+
+> … and vigilant in case there is any danger. Like, as a solo backpacker, you have to keep your wits about you at all times. She mentioned being mugged, which is to attack someone and …
+>
+> — [[s04e01 Crime|S4 E1]], [Minute 12:21](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=741) · [[Transcript s04e01#Minute 12|in the transcript]]
+
+> … might need to describe the weather where you live, or on a holiday you were on, or you may have to talk about extreme weather, and of course weather is linked to climate change …
+>
+> — [[s04e04 Weather|S4 E4]], [Minute 0:41](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=41) · [[Transcript s04e04#Minute 0|in the transcript]]
+
+> … a little less warmth. Other examples would be I could use a holiday, or I could use a cup of a tea. This expression also has a slightly different meaning, which is that something …
+>
+> — [[s04e04 Weather|S4 E4]], [Minute 5:55](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=355) · [[Transcript s04e04#Minute 5|in the transcript]]
+
+> … clothes. But if you're going, you know, overseas and you wanna be travelling around beach places or hiking, you know, it's always nice to be dry and not…and not too hot, but you know, …
+>
+> — [[s04e04 Weather|S4 E4]], [Minute 9:48](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=588) · [[Transcript s04e04#Minute 9|in the transcript]]
+
+> … in Alicante where it's it's….One of our favorite places to go on holiday, we go there pretty much every year, is Lanzarote and it's usually over our wintertime, so it's not really red hot, …
+>
+> — [[s04e04 Weather|S4 E4]], [Minute 11:36](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=696) · [[Transcript s04e04#Minute 11|in the transcript]]
+
+> … over the place. So yeah, definitely cars and planes. Which way of travelling would you choose in order to be more environmentally friendly? Well, the way I see it is when we travel in …
+>
+> — [[s04e06 Transport|S4 E6]], [Minute 3:52](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=232) · [[Transcript s04e06#Minute 3|in the transcript]]
+
+> … wonder about that actually. I suppose for a lot of people they travel a lot and if you're traveling a lot with business or if you're in, you know, highly, well-paid job, highly lucrative …
+>
+> — [[s04e06 Transport|S4 E6]], [Minute 6:06](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=366) · [[Transcript s04e06#Minute 6|in the transcript]]
+
+> … lot, so I feel very privileged in that respect. Which way of travelling would you choose, in order to be more environmentally-friendly? My favorite way of travelling in an environmentally friendly way is travelling …
+>
+> — [[s04e06 Transport|S4 E6]], [Minute 9:29](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=569) · [[Transcript s04e06#Minute 9|in the transcript]]
+
+> … Lastly, some transport vocabulary to pick up on. She said she gets travel sick when she reads in the car. As the name suggests this is the feeling of nausea some people get while …
+>
+> — [[s04e06 Transport|S4 E6]], [Minute 11:06](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=666) · [[Transcript s04e06#Minute 11|in the transcript]]
+
+> … and welcome to the real exam English podcast, today’s episode is about holidays. Everyone loves going on holidays and it’s a very common topic in English exams so it’s essential to have some nice …
+>
+> — [[s04e08 Holidays|S4 E8]], [Minute 0:14](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=14) · [[Transcript s04e08#Minute 0|in the transcript]]
+
+> … that. What activities do you like to do when you are on holiday? I like to be active on holidays. I don't, I wouldn't be one for going on holidays and sunbathing the whole …
+>
+> — [[s04e08 Holidays|S4 E8]], [Minute 1:50](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=110) · [[Transcript s04e08#Minute 1|in the transcript]]
+
+> … luxury than I'm living in my own house when I go on holidays. But I would imagine that's why they want to go in there. And I suppose if you have pets, you can …
+>
+> — [[s04e08 Holidays|S4 E8]], [Minute 3:26](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=206) · [[Transcript s04e08#Minute 3|in the transcript]]
+
+> … cleanliness is most important to me. When I was much younger, I backpacked across Europe, Greece, Turkey, the Middle East and I didn't require any luxury at that point. I'd sleep on floors, I …
+>
+> — [[s04e08 Holidays|S4 E8]], [Minute 5:14](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=314) · [[Transcript s04e08#Minute 5|in the transcript]]
 
 > … doing that anymore. That's something, you know, mad. …I would like to travel actually in the future, further away, like maybe go to Japan or go to Australia, Hawaii, places like that, that I …
 >
@@ -140,25 +252,22 @@ collaborative task about a school trip to a C2 Proficiency essay on the effects 
 >
 > — [[s06e05 Luck|S6 E5]], [Minute 15:39](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=939) · [[Transcript s06e05#Minute 15|in the transcript]]
 
-## In these episodes (14)
+## In these episodes (9)
 
-- [[s01e02 Travel|S1 E2 – Travel]] (2020-08-30) — Show notes
-- [[x2023-01-27 Short and Sweet - Camping|Bonus – Short and Sweet - Camping]] (2023-01-27) — Show notes
-- [[s04e01 Crime|S4 E1 – Crime]] (2023-03-24) — Show notes
-- [[s04e02 Languages|S4 E2 – Languages]] (2023-04-29) — Show notes
-- [[s04e03 Home|S4 E3 – Home]] (2023-06-01) — Show notes
-- [[s04e04 Weather|S4 E4 – Weather]] (2023-07-12) — Show notes
-- [[s04e05 Art|S4 E5 – Art]] (2023-09-22) — Show notes
-- [[s04e06 Transport|S4 E6 – Transport]] (2023-10-19) — Show notes
-- [[s04e07 Parenting|S4 E7 – Parenting]] (2023-11-18) — Show notes
-- [[s04e08 Holidays|S4 E8 – Holidays]] (2023-12-21) — Show notes
-- [[s04e09 History|S4 E9 – History]] (2024-01-19) — Show notes
+- [[s01e02 Travel|S1 E2 – Travel]] (2020-08-30) — Show notes · Minute [0:12](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=12), [2:11](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=131), [8:22](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=502), [10:03](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=603)
+- [[x2023-01-27 Short and Sweet - Camping|Bonus – Short and Sweet - Camping]] (2023-01-27) — Show notes · Minute [0:23](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=23), [2:32](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=152), [4:30](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=270)
+- [[s04e01 Crime|S4 E1 – Crime]] (2023-03-24) — Show notes · Minute [3:27](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=207), [5:23](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=323), [12:21](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=741)
+- [[s04e04 Weather|S4 E4 – Weather]] (2023-07-12) — Show notes · Minute [0:41](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=41), [5:55](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=355), [9:48](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=588), [11:36](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=696)
+- [[s04e06 Transport|S4 E6 – Transport]] (2023-10-19) — Show notes · Minute [3:52](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=232), [6:06](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=366), [9:29](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=569), [11:06](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=666)
+- [[s04e08 Holidays|S4 E8 – Holidays]] (2023-12-21) — Show notes · Minute [0:14](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=14), [1:50](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=110), [3:26](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=206), [5:14](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=314)
 - [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Show notes · Minute [1:29](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=89), [3:41](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=221)
 - [[x2024-04-16 Martyna from Poland|Bonus – Martyna from Poland]] (2024-04-16) — Minute [6:04](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=364), [9:02](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=542), [16:24](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=984), [23:48](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1428)
 - [[x2025-09-22 Monologue - Tourism|Bonus – Monologue - Tourism]] (2025-09-22) — Show notes · Minute [0:06](https://open.spotify.com/episode/68nqAB1GPAn6ltd20VCmKH?t=6), [1:45](https://open.spotify.com/episode/68nqAB1GPAn6ltd20VCmKH?t=105), [3:45](https://open.spotify.com/episode/68nqAB1GPAn6ltd20VCmKH?t=225), [5:18](https://open.spotify.com/episode/68nqAB1GPAn6ltd20VCmKH?t=318)
 
-## Briefly mentioned (6)
+## Briefly mentioned (8)
 
+- [[s02e06 Friends|S2 E6 – Friends]] (2021-03-06) — Minute [4:41](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=281), [9:21](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=561)
+- [[s03e09 Culture|S3 E9 – Culture]] (2022-05-27) — Minute [0:37](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=37), [2:17](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=137), [8:55](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=535), [11:21](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=681)
 - [[x2024-06-29 Vietnam and IELTS|Bonus – Vietnam and IELTS]] (2024-06-29) — Minute [0:53](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=53), [3:20](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=200)
 - [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Minute [7:05](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=425), [8:38](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=518), [12:36](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=756), [15:27](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=927)
 - [[s05e10 Weekend|S5 E10 – Weekend]] (2025-08-18) — Minute [1:26](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=86), [5:47](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=347), [16:48](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=1008)

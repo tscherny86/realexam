@@ -21,7 +21,7 @@ tags: [episode, season-5]
 | **Transcript** | [[Transcript s05e09]] (word-level timestamps, aligned with the official transcript) |
 | **Topics** | [[The Environment & Climate Change]], [[Change & Life Changes]] |
 | **Language** | [[Phrasal Verbs]], [[Conditionals]], [[Inversion]], [[Pronunciation]] |
-| **Exams** | [[Speaking Exam]], [[Writing Exam]] |
+| **Exams** | [[Speaking Exam]] |
 | **Accents** | – |
 | **Briefly mentioned** | [[Food & Cooking]], [[Learning, School & Education]], [[Animals & Pets]], [[Weather & Seasons]], [[Transport & Traffic]], [[News & Media]], [[Idioms & Expressions]], [[Collocations]], [[Cleft Sentences]], [[Modal Verbs]], [[Word Formation]], [[Prepositions]], [[Emphasis & Auxiliaries]], [[Ireland]], [[Wales]], [[Non-Native Speakers]] |
 

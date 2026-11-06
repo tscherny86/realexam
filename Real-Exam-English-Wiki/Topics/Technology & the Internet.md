@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 7
+episodes: 8
 tags: [topics]
 ---
 # Technology & the Internet
@@ -22,6 +22,166 @@ Technology questions are a safe bet in every exam: *Has technology made our live
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … amount of plastic we are using. Or maybe if you're writing about technology, then you could say, oh, I need to cut down on the amount of time I spend on social media. So …
+>
+> — [[s01e05 Phrasal Verbs|S1 E5]], [Minute 5:13](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=313) · [[Transcript s01e05#Minute 5|in the transcript]]
+
+> … I don't really think so. Oh, there is actually one thing. My internet usage, which I don't know. I think it's because I have a need for knowledge a lot of the time, and …
+>
+> — [[s01e05 Phrasal Verbs|S1 E5]], [Minute 7:17](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=437) · [[Transcript s01e05#Minute 7|in the transcript]]
+
+> … invent. So for example, I came up with an idea for an app. I'm going to make millions. What do you fiddle with when you're nervous? I'd say I usually fiddle with my glasses …
+>
+> — [[s01e05 Phrasal Verbs|S1 E5]], [Minute 10:18](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=618) · [[Transcript s01e05#Minute 10|in the transcript]]
+
+> … podcast player you use. And I'd love to hear from you on social media too, on Facebook or Instagram. And thanks a million for listening. See you next time. Trevor.
+>
+> — [[s01e05 Phrasal Verbs|S1 E5]], [Minute 16:30](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=990) · [[Transcript s01e05#Minute 16|in the transcript]]
+
+> … Real Exam English. My name is Trevor. Today we are talking about technology. This is another super popular subject in English exams. Love it or hate it we live in a very technological world, …
+>
+> — [[s01e06 Technology|S1 E6]], [Minute 0:13](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=13) · [[Transcript s01e06#Minute 0|in the transcript]]
+
+> … although it´s principles are a bit mixed but I generally can´t stand social media. In this answer we hear a few different ways to express likes and dislikes We hear I love Reddit, I …
+>
+> — [[s01e06 Technology|S1 E6]], [Minute 2:30](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=150) · [[Transcript s01e06#Minute 2|in the transcript]]
+
+> … is not true. Some people think we spend too much time checking social media. Do you agree? Yes, I definitely do. I think we’d just be a lot better off living in the moment …
+>
+> — [[s01e06 Technology|S1 E6]], [Minute 4:17](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=257) · [[Transcript s01e06#Minute 4|in the transcript]]
+
+> … exam, then you can find that there also. It is said that technology like security cameras and data bases are a threat to our freedom. Do you agree? I don´t know if that overly …
+>
+> — [[s01e06 Technology|S1 E6]], [Minute 6:00](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=360) · [[Transcript s01e06#Minute 6|in the transcript]]
+
+> … realexamenglish.com. As well as the transcripts, you can find information there about online classes. Whether you are looking for exam preparation classes in groups or individual classes for exam prep, general revision, business English …
+>
+> — [[s02e02 City and Country|S2 E2]], [Minute 7:00](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=420) · [[Transcript s02e02#Minute 7|in the transcript]]
+
+> … what I think Is the characteristic of a more modern city? Is technology, efficiency and innovation. What should governments and city councils do to improve living standards in big cities? I am a big …
+>
+> — [[s02e02 City and Country|S2 E2]], [Minute 11:10](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=670) · [[Transcript s02e02#Minute 11|in the transcript]]
+
+> … friends and can keep in contact with them wherever they are Through technology, yes. And it doesn't necessarily have to be in the area where I am, 'cause I can drive to it. You …
+>
+> — [[s02e02 City and Country|S2 E2]], [Minute 14:33](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=873) · [[Transcript s02e02#Minute 14|in the transcript]]
+
+> … at my local news station ABC, ABC. I will look up Newspapers Online. Is it important to donate money to international charities? I think Giving money to charities is always a good idea, If …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 4:26](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=266) · [[Transcript s02e03#Minute 4|in the transcript]]
+
+> … realexamenglish.com, as well as the transcripts. You can find information there about online classes, whether you are looking for exam preparation classes in groups or individual classes for exam prep, general revision, business English, …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 10:39](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=639) · [[Transcript s02e03#Minute 10|in the transcript]]
+
+> … about globalization, for example Imports, exports, trade, commerce, Interconnected, manufacturing issues, changing digital economy, Crumbling infrastructure, late-stage Capitalistic structure. Wow! He also uses this expression “to an extent, domestic issues should be taken care …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 12:43](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=763) · [[Transcript s02e03#Minute 12|in the transcript]]
+
+> … hate inspirational quotes. It really annoys me when people share those on social media, but I have to think that things will get better no matter what the scale of the problem is. Because …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 14:40](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=880) · [[Transcript s02e03#Minute 14|in the transcript]]
+
+> … and that look pretty cool. Fashion is for idiots. Do you think online shopping will ever replace going to the shops? To an extent it has. For things that aren't a physical experience, yes, …
+>
+> — [[s02e04 Shopping|S2 E4]], [Minute 1:38](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=98) · [[Transcript s02e04#Minute 1|in the transcript]]
+
+> … that I have three children, my ideal shopping experience is doing it online over a Cup of coffee. Yeah, so I'm much prefer online shopping now. For most things, apart from clothes, It is …
+>
+> — [[s02e04 Shopping|S2 E4]], [Minute 8:20](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=500) · [[Transcript s02e04#Minute 8|in the transcript]]
+
+> … realexamenglish.com. As well as the transcripts, you can find information there about online classes. Whether you are looking for exam preparation classes in groups or individual classes for exam prep, general revision, business English, …
+>
+> — [[s02e04 Shopping|S2 E4]], [Minute 11:18](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=678) · [[Transcript s02e04#Minute 11|in the transcript]]
+
+> … communications. The way we communicate has changed significantly with the advent of technology and it is a subject that is quite common in English exams. It´s also a subject that has a lot of …
+>
+> — [[s02e09 Communications|S2 E9]], [Minute 0:20](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=20) · [[Transcript s02e09#Minute 0|in the transcript]]
+
+> … are doing a Cambridge exam. Do you can find information there about online classes. Whether you are looking for exam preparation classes in groups or individual classes for exam prep, general revision, business English, …
+>
+> — [[s02e09 Communications|S2 E9]], [Minute 5:54](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=354) · [[Transcript s02e09#Minute 5|in the transcript]]
+
+> … I'll go And visit them. Invariably I will talk to them by social media. Will pick up a phone and call them or they will call me. Sending emails lots and lots of different …
+>
+> — [[s02e09 Communications|S2 E9]], [Minute 9:07](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=547) · [[Transcript s02e09#Minute 9|in the transcript]]
+
+> … really interested in that, so. I look at newspapers like the Independence Online or Guardian or sort of BBC News and sometimes I'll even this Aljazeera or France 24 and I also look at …
+>
+> — [[s02e09 Communications|S2 E9]], [Minute 11:05](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=665) · [[Transcript s02e09#Minute 11|in the transcript]]
+
+> … think the really huge thing that is different. Is our access to social media and the permanence of the Internet, Even……… so, I've got children They are experiencing the world at such a different …
+>
+> — [[s02e10 Family|S2 E10]], [Minute 4:23](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=263) · [[Transcript s02e10#Minute 4|in the transcript]]
+
+> … young people today different from those of their parents? I think that online communication is very much the norm now Which it was and when I was young, you know we would, We had …
+>
+> — [[s02e10 Family|S2 E10]], [Minute 6:39](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=399) · [[Transcript s02e10#Minute 6|in the transcript]]
+
+> … their lives are different, mainly because they spend more time on the Internet or on the phone, and I think that they are generally more anxious about sort of….. some, well, some, not all, …
+>
+> — [[s02e10 Family|S2 E10]], [Minute 8:25](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=505) · [[Transcript s02e10#Minute 8|in the transcript]]
+
+> … more evident because of the dangers that parents are aware of through social media and the news that perhaps they weren't aware of all the dangers that were not there. Many years ago. And …
+>
+> — [[s02e10 Family|S2 E10]], [Minute 15:31](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=931) · [[Transcript s02e10#Minute 15|in the transcript]]
+
+> … What else is happening…in September we are going to start some new online group classes, both in the morning and in the afternoon. So, if you are doing an exam this summer and want …
+>
+> — [[x2021-06-20 Phrasal Verbs for Writing|Bonus]], [Minute 3:11](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=191) · [[Transcript x2021-06-20#Minute 3|in the transcript]]
+
+> … games, some people can´t stop spending money on clothes, or maybe new gadgets, the list is endless. So if you have to speak, or write, about any of these things then you can say …
+>
+> — [[x2021-06-20 Phrasal Verbs for Writing|Bonus]], [Minute 6:07](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=367) · [[Transcript x2021-06-20#Minute 6|in the transcript]]
+
+> … up with or keeping up to date with things like the news, technology, fashion, music, etc. I like to keep up with world events by following some journalists on twitter. The second meaning is …
+>
+> — [[x2021-06-20 Phrasal Verbs for Writing|Bonus]], [Minute 8:23](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=503) · [[Transcript x2021-06-20#Minute 8|in the transcript]]
+
+> … just buy small ones that I can take with me. How has technology changed the way people take photos? Well, I mean most people now take photos on their mobile phone rather than on …
+>
+> — [[s03e03 Photos|S3 E3]], [Minute 2:56](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=176) · [[Transcript s03e03#Minute 2|in the transcript]]
+
+> … photo for today’s episode is hopefully on the artwork of your podcast app for this episode, additionally you can find a link for it in the show notes, and it´s on the blog on …
+>
+> — [[s03e03 Photos|S3 E3]], [Minute 7:31](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=451) · [[Transcript s03e03#Minute 7|in the transcript]]
+
+> … a great time. Should there be any restrictions regarding photos on the internet? Yeah, I I I I would say there Should be and The reason I say this is because I don't think …
+>
+> — [[s03e03 Photos|S3 E3]], [Minute 11:03](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=663) · [[Transcript s03e03#Minute 11|in the transcript]]
+
+> … get your film developed, which is what you had to do before digital cameras became the norm, bringing your film to a special shop to get your images printed. We heard about taking some …
+>
+> — [[s03e03 Photos|S3 E3]], [Minute 13:53](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=833) · [[Transcript s03e03#Minute 13|in the transcript]]
+
+> … no. Like if people are being bullied by random people on the Internet to the point where they kill themselves just because they're famous. No, we're not respecting them. We're not respecting them at …
+>
+> — [[s03e08 Fame|S3 E8]], [Minute 6:52](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=412) · [[Transcript s03e08#Minute 6|in the transcript]]
+
+> … to sell photos in order to generate Revenue for their newspaper or online, you know posts or blog spots or whatever, uhm.Some respects celebrities privacy. I mean the reality of it is that there …
+>
+> — [[s03e08 Fame|S3 E8]], [Minute 9:15](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=555) · [[Transcript s03e08#Minute 9|in the transcript]]
+
+> … a couple of phrasal verbs, let’s not put stuff up on the internet just to knock people down. So to put something up on the internet is post or upload something and to knock …
+>
+> — [[s03e08 Fame|S3 E8]], [Minute 11:43](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=703) · [[Transcript s03e08#Minute 11|in the transcript]]
+
+> … learning about different cultures and one of the joys of being an online English teacher is that I get to meet people from all over the world and find out about the way they …
+>
+> — [[s03e09 Culture|S3 E9]], [Minute 0:19](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=19) · [[Transcript s03e09#Minute 0|in the transcript]]
+
+> … actually having to be Rich, the next biggest factor, obviously, is the Internet and the pure access to information that we all have. We can learn about just about anything that is occurring on …
+>
+> — [[s03e09 Culture|S3 E9]], [Minute 11:39](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=699) · [[Transcript s03e09#Minute 11|in the transcript]]
+
+> … Then he follows it with “the next biggest factor, obviously, is the internet”, boom, excellent, and then he finishes with “lastly, English, English is getting bigger and bigger”. I love it. His answer is …
+>
+> — [[s03e09 Culture|S3 E9]], [Minute 13:24](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=804) · [[Transcript s03e09#Minute 13|in the transcript]]
+
+> … everywhere.And and I think as well as as both of those things social media and the Internet. I think in its own way, it's it's made everything accessible to anybody in the world notwithstanding …
+>
+> — [[s03e09 Culture|S3 E9]], [Minute 15:25](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=925) · [[Transcript s03e09#Minute 15|in the transcript]]
 
 > … or goals, or about predictions for the future, regarding things like jobs, Artificial Intelligence or maybe the environment. So in this episode we’ll hear some great ways to express what you would like to …
 >
@@ -143,18 +303,27 @@ Technology questions are a safe bet in every exam: *Has technology made our live
 >
 > — [[s06e09 Children|S6 E9]], [Minute 9:04](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=544) · [[Transcript s06e09#Minute 9|in the transcript]]
 
-## In these episodes (7)
+## In these episodes (8)
 
-- [[s01e06 Technology|S1 E6 – Technology]] (2020-09-11) — Show notes
-- [[s02e09 Communications|S2 E9 – Communications]] (2021-03-26) — Show notes
+- [[s01e06 Technology|S1 E6 – Technology]] (2020-09-11) — Show notes · Minute [0:13](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=13), [2:30](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=150), [4:17](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=257), [6:00](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=360)
+- [[s02e09 Communications|S2 E9 – Communications]] (2021-03-26) — Show notes · Minute [0:20](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=20), [5:54](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=354), [9:07](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=547), [11:05](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=665)
+- [[s02e10 Family|S2 E10 – Family]] (2021-04-07) — Minute [4:23](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=263), [6:39](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=399), [8:25](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=505), [15:31](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=931)
 - [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Show notes · Minute [0:28](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=28), [6:43](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=403), [8:22](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=502), [11:51](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=711)
 - [[s05e08 Internet|S5 E8 – Internet]] (2025-06-17) — Show notes · Minute [0:16](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=16), [1:58](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=118), [4:20](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=260), [5:54](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=354)
 - [[x2025-11-18 News - I made an app!|Bonus – News - I made an app!]] (2025-11-18) — Show notes · Minute [0:12](https://open.spotify.com/episode/4ny6w4TrSiKpWsvdbSBMJp?t=12), [1:45](https://open.spotify.com/episode/4ny6w4TrSiKpWsvdbSBMJp?t=105)
 - [[s06e01 News|S6 E1 – News]] (2026-01-24) — Minute [5:57](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=357), [9:28](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=568), [11:00](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=660), [14:00](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=840)
 - [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Show notes · Minute [0:29](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=29), [5:09](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=309), [7:21](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=441), [9:04](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=544)
 
-## Briefly mentioned (4)
+## Briefly mentioned (12)
 
+- [[s01e05 Phrasal Verbs|S1 E5 – Phrasal Verbs]] (2020-09-04) — Minute [5:13](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=313), [7:17](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=437), [10:18](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=618), [16:30](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=990)
+- [[s02e02 City and Country|S2 E2 – City and Country]] (2021-01-29) — Minute [7:00](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=420), [11:10](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=670), [14:33](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=873)
+- [[s02e03 Global Issues|S2 E3 – Global Issues]] (2021-02-05) — Minute [4:26](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=266), [10:39](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=639), [12:43](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=763), [14:40](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=880)
+- [[s02e04 Shopping|S2 E4 – Shopping]] (2021-02-12) — Minute [1:38](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=98), [8:20](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=500), [11:18](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=678)
+- [[x2021-06-20 Phrasal Verbs for Writing|Bonus – Phrasal Verbs for Writing]] (2021-06-20) — Minute [3:11](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=191), [6:07](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=367), [8:23](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=503)
+- [[s03e03 Photos|S3 E3 – Photos]] (2021-10-19) — Minute [2:56](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=176), [7:31](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=451), [11:03](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=663), [13:53](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=833)
+- [[s03e08 Fame|S3 E8 – Fame]] (2022-04-07) — Minute [6:52](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=412), [9:15](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=555), [11:43](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=703)
+- [[s03e09 Culture|S3 E9 – Culture]] (2022-05-27) — Minute [0:19](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=19), [11:39](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=699), [13:24](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=804), [15:25](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=925)
 - [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Minute [12:11](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=731), [14:03](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=843), [17:43](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1063)
 - [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [4:39](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=279), [9:56](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=596), [15:52](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=952), [18:42](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=1122)
 - [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [7:16](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=436), [9:55](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=595), [12:14](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=734)

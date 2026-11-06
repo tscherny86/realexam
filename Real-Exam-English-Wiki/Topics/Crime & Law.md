@@ -22,6 +22,38 @@ Crime is a frequent C1 Advanced topic with a lot of specific vocabulary to learn
 
 ## Said in the podcast
 
+> … 'cause I don't want to get punched in the face? Do I steal from people? I don't why? 'cause I don't want to get stolen from. Do I stab people? No, 'cause I think …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 1:44](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=104) · [[Transcript s02e03#Minute 1|in the transcript]]
+
+> … Another example would be, Being Irish, I love Guinness or seeing the police, the thief ran away. This is another of those structures that examiners look upon as more advanced and a good one …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 9:44](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=584) · [[Transcript s02e03#Minute 9|in the transcript]]
+
+> Real Exam English Season 4 Crime Hello and welcome to Real Exam English. This episode is about crime. We have speakers from the US, the UK, Ireland, …
+>
+> — [[s04e01 Crime|S4 E1]], [Minute 0:04](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=4) · [[Transcript s04e01#Minute 0|in the transcript]]
+
+> … unnecessary, I luckily live in a part of the country with strict laws. So a wide range of language there, which is, of course, important. This adverb utterly is great, it has a similar …
+>
+> — [[s04e01 Crime|S4 E1]], [Minute 2:25](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=145) · [[Transcript s04e01#Minute 2|in the transcript]]
+
+> … else, it's probably that. I don't think there's really mega, mega, serious crime or I'm not aware of it where I live. Do you think that young criminals should be sent to prison for …
+>
+> — [[s04e01 Crime|S4 E1]], [Minute 4:14](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=254) · [[Transcript s04e01#Minute 4|in the transcript]]
+
+> … things happening around the same time, like there was a spate of burglaries on my street or the police are investigating a spate of muggings in the city centre. Lastly, she talked about juvenile …
+>
+> — [[s04e01 Crime|S4 E1]], [Minute 5:47](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=347) · [[Transcript s04e01#Minute 5|in the transcript]]
+
+> … one of the be one of the main roles. Do you think punishment is a good way of making children behave themselves? It's that old adage it never did me any harm, but I …
+>
+> — [[s04e07 Parenting|S4 E7]], [Minute 6:18](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=378) · [[Transcript s04e07#Minute 6|in the transcript]]
+
+> … thing to comment on here is this when he was talking about punishing kids, and he said we’re not talking about giving them a good beating. So a beating is where you beat or …
+>
+> — [[s04e07 Parenting|S4 E7]], [Minute 8:16](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=496) · [[Transcript s04e07#Minute 8|in the transcript]]
+
 > … super interesting chat with a Brazilian lady, Melina, who is an international law professor and researcher and has an excellent level of English. We speak about learning English in Brazil, the benefits of spending …
 >
 > — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 0:11](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=11) · [[Transcript x2024-08-02#Minute 0|in the transcript]]
@@ -92,11 +124,13 @@ Crime is a frequent C1 Advanced topic with a lot of specific vocabulary to learn
 
 ## In these episodes (2)
 
-- [[s04e01 Crime|S4 E1 – Crime]] (2023-03-24) — Show notes
+- [[s04e01 Crime|S4 E1 – Crime]] (2023-03-24) — Show notes · Minute [0:04](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=4), [2:25](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=145), [4:14](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=254), [5:47](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=347)
 - [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Show notes · Minute [0:11](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=11), [2:02](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=122), [3:47](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=227), [7:06](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=426)
 
-## Briefly mentioned (4)
+## Briefly mentioned (6)
 
+- [[s02e03 Global Issues|S2 E3 – Global Issues]] (2021-02-05) — Minute [1:44](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=104), [9:44](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=584)
+- [[s04e07 Parenting|S4 E7 – Parenting]] (2023-11-18) — Minute [6:18](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=378), [8:16](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=496)
 - [[x2025-12-16 Xing - Tokyo|Bonus – Xing - Tokyo]] (2025-12-16) — Minute [11:19](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=679), [14:30](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=870)
 - [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [6:25](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=385), [11:43](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=703), [16:57](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1017)
 - [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [7:13](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=433), [9:38](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=578), [14:04](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=844), [15:37](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=937)

@@ -21,9 +21,9 @@ tags: [episode, season-5]
 | **Transcript** | [[Transcript s05e02]] (word-level timestamps, aligned with the official transcript) |
 | **Topics** | [[Learning, School & Education]], [[Culture & Traditions]], [[Parenting & Children]], [[Manners & Politeness]] |
 | **Language** | [[Idioms & Expressions]], [[Past Perfect & Narrative Tenses]], [[Connectors & Linking Words]], [[Organising Your Answer]], [[Slang & Informal English]] |
-| **Exams** | [[Writing Exam]] |
+| **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[Canada]], [[Non-Native Speakers]] |
-| **Briefly mentioned** | [[Work & Careers]], [[Family & Relationships]], [[Fashion & Clothes]], [[Change & Life Changes]], [[Languages & Language Learning]], [[Transport & Traffic]], [[Conditionals]], [[Passive Voice]], [[Adjectives & Compound Adjectives]], [[Australia]], [[South Africa]] |
+| **Briefly mentioned** | [[Work & Careers]], [[Family & Relationships]], [[Fashion & Clothes]], [[Change & Life Changes]], [[Languages & Language Learning]], [[Transport & Traffic]], [[Conditionals]], [[Passive Voice]], [[Adjectives & Compound Adjectives]], [[Writing Exam]], [[Australia]], [[South Africa]] |
 
 ## Show notes
 

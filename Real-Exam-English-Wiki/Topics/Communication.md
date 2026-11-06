@@ -22,6 +22,62 @@ something has been lost.
 
 ## Said in the podcast
 
+> … dialogue, the two guys from the We Dig Music podcast have a chat for us about the city and the country. So yea, loads of great stuff for you today. Let´s crack on with …
+>
+> — [[s02e02 City and Country|S2 E2]], [Minute 0:32](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=32) · [[Transcript s02e02#Minute 0|in the transcript]]
+
+> … city environment, so you can be shrewd and be businesslike. But your communication and your interpersonal skills Will translate well into a big city environment, so use those skills that you developed kind of …
+>
+> — [[s02e02 City and Country|S2 E2]], [Minute 9:10](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=550) · [[Transcript s02e02#Minute 9|in the transcript]]
+
+> … sense of community, leisure opportunities, work opportunities, transport and scenic views. The chat went on for quite a while so this is a shorter edited version. Why might these things be important when considering …
+>
+> — [[s02e02 City and Country|S2 E2]], [Minute 13:18](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=798) · [[Transcript s02e02#Minute 13|in the transcript]]
+
+> … agree is yea, or yes, or yea yea. This IS how friends chat in real life but if the objective is to impress the examiner then you need to have more expressions like absolutely, …
+>
+> — [[s02e02 City and Country|S2 E2]], [Minute 17:47](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=1067) · [[Transcript s02e02#Minute 17|in the transcript]]
+
+> … to be on call on occasion and I don't particularly enjoy receiving phone calls in the evening when I would typically be spending that time with my family, so I'm not, I'm not very …
+>
+> — [[s02e08 Work|S2 E8]], [Minute 4:19](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=259) · [[Transcript s02e08#Minute 4|in the transcript]]
+
+> … informal. Two awesome expressions there. What do you do? I am a communication freelancer working in the sustainability sector so I help companies who want to communicate credibly, no greenwashing, By helping nonnative speakers …
+>
+> — [[s02e08 Work|S2 E8]], [Minute 10:10](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=610) · [[Transcript s02e08#Minute 10|in the transcript]]
+
+> Hello and welcome to Real Exam English. Today´s episode is all about communications. The way we communicate has changed significantly with the advent of technology and it is a subject that is quite common …
+>
+> — [[s02e09 Communications|S2 E9]], [Minute 0:15](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=15) · [[Transcript s02e09#Minute 0|in the transcript]]
+
+> … which was to reach out to someone, which means to try to communicate with someone. How often do you meet friends for a chat? I think I do this a lot less than I …
+>
+> — [[s02e09 Communications|S2 E9]], [Minute 1:48](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=108) · [[Transcript s02e09#Minute 1|in the transcript]]
+
+> … other and stuff like that. So a very 3 dimensional way to communicate and I appreciate it. The phrasal verbs this time are to get across and to be cut off. So to get …
+>
+> — [[s02e09 Communications|S2 E9]], [Minute 4:02](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=242) · [[Transcript s02e09#Minute 4|in the transcript]]
+
+> … impress the examiner. how often do you meet with friends for a chat? Obviously given lockdown and stuff not as often as I would like, but I've got a group of friends who are …
+>
+> — [[s02e09 Communications|S2 E9]], [Minute 7:40](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=460) · [[Transcript s02e09#Minute 7|in the transcript]]
+
+> … have to describe photos where people look angry or maybe write a letter of complaint where you were angry about something. So I´ve just said the word “angry” about 5 times, which as you …
+>
+> — [[s03e02 Anger|S3 E2]], [Minute 0:36](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=36) · [[Transcript s03e02#Minute 0|in the transcript]]
+
+> … and we don't really have that much downtime. We have access to emails at midnight. We have a phone and laptops at home. We don't really have a switch off time like I believe …
+>
+> — [[s03e02 Anger|S3 E2]], [Minute 2:46](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=166) · [[Transcript s03e02#Minute 2|in the transcript]]
+
+> … kind of, you know, withdraw from from conversations with the person or communications with the person as much as possible without being impolite, but from the the degree of warmth that that I I …
+>
+> — [[s03e02 Anger|S3 E2]], [Minute 9:58](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=598) · [[Transcript s03e02#Minute 9|in the transcript]]
+
+> … cause you any stress or anxiety listening to all of this anger chat. Make sure to get a bit of downtime now, then make a note of whichever super expressions you like best from …
+>
+> — [[s03e02 Anger|S3 E2]], [Minute 12:22](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=742) · [[Transcript s03e02#Minute 12|in the transcript]]
+
 > … for me I think an essential part of everyone's job is good communication skills and good personal skills and in order to be able to work in any industry and in any role, and …
 >
 > — [[s04e10 Future|S4 E10]], [Minute 4:29](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=269) · [[Transcript s04e10#Minute 4|in the transcript]]
@@ -136,14 +192,17 @@ something has been lost.
 
 ## In these episodes (5)
 
-- [[s02e09 Communications|S2 E9 – Communications]] (2021-03-26) — Show notes
+- [[s02e09 Communications|S2 E9 – Communications]] (2021-03-26) — Show notes · Minute [0:15](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=15), [1:48](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=108), [4:02](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=242), [7:40](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=460)
 - [[x2024-06-29 Vietnam and IELTS|Bonus – Vietnam and IELTS]] (2024-06-29) — Show notes · Minute [0:05](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=5), [2:13](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=133), [6:27](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=387), [13:56](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=836)
 - [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Show notes · Minute [0:08](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=8), [22:56](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1376), [25:46](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1546)
 - [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Minute [12:06](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=726), [13:55](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=835)
 - [[x2025-12-16 Xing - Tokyo|Bonus – Xing - Tokyo]] (2025-12-16) — Show notes · Minute [0:14](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=14), [7:33](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=453), [14:43](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=883)
 
-## Briefly mentioned (5)
+## Briefly mentioned (8)
 
+- [[s02e02 City and Country|S2 E2 – City and Country]] (2021-01-29) — Minute [0:32](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=32), [9:10](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=550), [13:18](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=798), [17:47](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=1067)
+- [[s02e08 Work|S2 E8 – Work]] (2021-03-19) — Minute [4:19](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=259), [10:10](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=610)
+- [[s03e02 Anger|S3 E2 – Anger]] (2021-09-16) — Minute [0:36](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=36), [2:46](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=166), [9:58](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=598), [12:22](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=742)
 - [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Minute [4:29](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=269), [6:04](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=364), [12:59](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=779), [16:07](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=967)
 - [[x2024-04-16 Martyna from Poland|Bonus – Martyna from Poland]] (2024-04-16) — Minute [0:41](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=41), [3:20](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=200), [24:20](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1460)
 - [[s05e07 Hometown|S5 E7 – Hometown]] (2025-05-15) — Minute [0:54](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=54), [8:19](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=499), [16:16](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=976)

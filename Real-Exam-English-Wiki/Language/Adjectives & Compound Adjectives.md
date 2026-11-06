@@ -21,6 +21,98 @@ _Strong adjectives and compound adjectives (time-consuming, well-off, mouth-wate
 
 ## Said in the podcast
 
+> … little bit. Much better to say I like Italy because of the mouth-watering gastronomy or the delicious local delicacies. You know, you got to impress the examiners. So make an effort. In today's episode …
+>
+> — [[s01e03 Food|S1 E3]], [Minute 0:46](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=46) · [[Transcript s01e03#Minute 0|in the transcript]]
+
+> … country. And she also mentioned homegrown vegetables, which is a really nice compound adjective. And examiners love compound nouns and compound adjectives. So if you can get them into your answers, writing or speaking, …
+>
+> — [[s01e03 Food|S1 E3]], [Minute 12:41](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=761) · [[Transcript s01e03#Minute 12|in the transcript]]
+
+> … things we can do. Some really great environmental vocabulary there, particularly the compound adjectives. So we heard environmentally aware, eco-conscious, consumerism-driven, and smaller scale. And if you can get some compound adjectives or compound …
+>
+> — [[s01e08 The Environment|S1 E8]], [Minute 12:36](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=756) · [[Transcript s01e08#Minute 12|in the transcript]]
+
+> … for lunch today. In the second answer we had a slew of adjectives, kind, caring, considerate, respectful, mean and likeable. Remember it´s important to show a range of language in your answers so an …
+>
+> — [[s02e06 Friends|S2 E6]], [Minute 2:58](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=178) · [[Transcript s02e06#Minute 2|in the transcript]]
+
+> … think are typically fairly well respected. Ok so we had a few compound adjectives and a compound noun here. So remember this is where you make an adjective, or a noun, by combining two …
+>
+> — [[s02e08 Work|S2 E8]], [Minute 2:03](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=123) · [[Transcript s02e08#Minute 2|in the transcript]]
+
+> … what all the native speakers are using guys! We had plenty of adjectives here too. Introverted and shy, which are words for someone who likes to spend time alone and doesn´t enjoy mixing with …
+>
+> — [[s02e09 Communications|S2 E9]], [Minute 7:14](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=434) · [[Transcript s02e09#Minute 7|in the transcript]]
+
+> … don´t impress examiners so you have to learn and practice using better adjectives, and it makes your language more colourful and interesting for the listener or reader. Have you got any brother or sisters? …
+>
+> — [[s02e10 Family|S2 E10]], [Minute 5:55](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=355) · [[Transcript s02e10#Minute 5|in the transcript]]
+
+> … heighten, and many of them relate to measurements, so for example, the adjective high changes to the verb heighten. Long changes to lengthen, which means to make longer, wide changes to widen, broad to …
+>
+> — [[s02e10 Family|S2 E10]], [Minute 10:25](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=625) · [[Transcript s02e10#Minute 10|in the transcript]]
+
+> … a short answer here, from the United States. Nevertheless, we heard the adjective bad being used twice and the adjective good five times. So, as with my introduction earlier this wouldn´t be a great …
+>
+> — [[s03e02 Anger|S3 E2]], [Minute 4:51](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=291) · [[Transcript s03e02#Minute 4|in the transcript]]
+
+> … Today you are going to here lots of photography vocabulary, some amazing adjectives and expressions and for the first time ever on the Real Exam English podcast you can hear people speculating about photographs, …
+>
+> — [[s03e03 Photos|S3 E3]], [Minute 0:30](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=30) · [[Transcript s03e03#Minute 0|in the transcript]]
+
+> … that place when I look at it in the future. Some awesome adjectives here from Australia. We heard the speaker talking about how bad he feels he looks in photos and he used three …
+>
+> — [[s03e03 Photos|S3 E3]], [Minute 6:03](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=363) · [[Transcript s03e03#Minute 6|in the transcript]]
+
+> … lots of look and looks like. Remember look is followed by an adjective, as in they look happy, while looks like is followed by a noun, for instance, it looks like a third world …
+>
+> — [[s03e03 Photos|S3 E3]], [Minute 9:36](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=576) · [[Transcript s03e03#Minute 9|in the transcript]]
+
+> … stuff. One other thing to comment on here is the use of adjectives. In the first answer we hear the woman looks happy, the girl is happy, the child is happy. Also, in the …
+>
+> — [[s03e05 Learning|S3 E5]], [Minute 9:38](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=578) · [[Transcript s03e05#Minute 9|in the transcript]]
+
+> … I´m not a big fan of using good too much as an adjective in English exams, particularly when describing pictures or how people are feeling. For higher level exams you really should be using …
+>
+> — [[s03e08 Fame|S3 E8]], [Minute 2:52](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=172) · [[Transcript s03e08#Minute 2|in the transcript]]
+
+> … old and wise saying, nice expression that, particularly as age-old is a compound adjective, age hyphen old, and remember examiners like compound words so it´s nice way to get more marks in your exam. …
+>
+> — [[s03e08 Fame|S3 E8]], [Minute 11:29](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=689) · [[Transcript s03e08#Minute 11|in the transcript]]
+
+> … heard another expression with the word all, well in fact it´s an adjective and that was one-size-fits-all, or more slowly…one-size-fits-all. This means it is suitable for everyone or every purpose. For instance, the government …
+>
+> — [[s03e09 Culture|S3 E9]], [Minute 16:04](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=964) · [[Transcript s03e09#Minute 16|in the transcript]]
+
+> … is really or very important. This use of super, to intensify an adjective, has become much more common in recent times. When I was a kid back in 1980s Ireland we didn´t use super …
+>
+> — [[x2022-10-14 Happiness|Bonus]], [Minute 4:50](https://open.spotify.com/episode/4A4thQQDgZ1KpSBMd8qsZN?t=290) · [[Transcript x2022-10-14#Minute 4|in the transcript]]
+
+> … describe rooms and neighbourhoods. In this episode there are plenty of useful adjectives and idioms, we will also focus a bit on pronunciation, as well as some top tips about what not to do …
+>
+> — [[s04e03 Home|S4 E3]], [Minute 0:27](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=27) · [[Transcript s04e03#Minute 0|in the transcript]]
+
+> … muted colours, so it seems to be quite a popular choice. For adjectives she used plentiful, comfortable and then relaxing three times. As you know by now, we don´t want much repetition in exam …
+>
+> — [[s04e03 Home|S4 E3]], [Minute 2:36](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=156) · [[Transcript s04e03#Minute 2|in the transcript]]
+
+> … people and is a bit unsociable. And that London was hectic, great adjective this hectic, meaning really busy. You can use it for a location, like the city centre was hectic last night, or …
+>
+> — [[s04e03 Home|S4 E3]], [Minute 10:04](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=604) · [[Transcript s04e03#Minute 10|in the transcript]]
+
+> … a close relationship. I love this in an answer, using the same adjective in different ways. However, after that she then repeated very close again, very close to public transport, then very big, then …
+>
+> — [[s04e03 Home|S4 E3]], [Minute 11:54](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=714) · [[Transcript s04e03#Minute 11|in the transcript]]
+
+> … our energy level and our relationships with others. A nice mix of adjectives here, warm, cool, sadder, energetic, depressed, dark and dreary. These last ones came together, dark and dreary. It´s useful to learn …
+>
+> — [[s04e04 Weather|S4 E4]], [Minute 5:22](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=322) · [[Transcript s04e04#Minute 5|in the transcript]]
+
+> … of that one if I were you. We had another of those adjective pairs, lovely and warm, never warm and lovely, always lovely and warm. Then in the second answer she says that she …
+>
+> — [[s04e04 Weather|S4 E4]], [Minute 15:23](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=923) · [[Transcript s04e04#Minute 15|in the transcript]]
+
 > … you. Some key vocabulary here to start off. Ok we had the adjectives rude and nasty and impertinent, which are all negative adjectives for people who are not polite or respectful. She mentioned that …
 >
 > — [[s05e02 Manners|S5 E2]], [Minute 3:18](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=198) · [[Transcript s05e02#Minute 3|in the transcript]]
@@ -107,14 +199,25 @@ _Strong adjectives and compound adjectives (time-consuming, well-off, mouth-wate
 
 ## In these episodes (5)
 
-- [[s01e08 The Environment|S1 E8 – The Environment]] (2020-09-25) — Show notes
-- [[s03e03 Photos|S3 E3 – Photos]] (2021-10-19) — Show notes
-- [[s04e03 Home|S4 E3 – Home]] (2023-06-01) — Show notes
+- [[s01e08 The Environment|S1 E8 – The Environment]] (2020-09-25) — Show notes · Minute [12:36](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=756)
+- [[s03e03 Photos|S3 E3 – Photos]] (2021-10-19) — Show notes · Minute [0:30](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=30), [6:03](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=363), [9:36](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=576)
+- [[s04e03 Home|S4 E3 – Home]] (2023-06-01) — Show notes · Minute [0:27](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=27), [2:36](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=156), [10:04](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=604), [11:54](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=714)
 - [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Show notes · Minute [0:35](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=35), [5:42](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=342), [10:08](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=608), [12:13](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=733)
 - [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Minute [3:16](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=196), [17:54](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1074)
 
-## Briefly mentioned (9)
+## Briefly mentioned (20)
 
+- [[s01e03 Food|S1 E3 – Food]] (2020-08-30) — Minute [0:46](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=46), [12:41](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=761)
+- [[s02e06 Friends|S2 E6 – Friends]] (2021-03-06) — Minute [2:58](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=178)
+- [[s02e08 Work|S2 E8 – Work]] (2021-03-19) — Minute [2:03](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=123)
+- [[s02e09 Communications|S2 E9 – Communications]] (2021-03-26) — Minute [7:14](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=434)
+- [[s02e10 Family|S2 E10 – Family]] (2021-04-07) — Minute [5:55](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=355), [10:25](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=625)
+- [[s03e02 Anger|S3 E2 – Anger]] (2021-09-16) — Minute [4:51](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=291)
+- [[s03e05 Learning|S3 E5 – Learning]] (2021-12-11) — Minute [9:38](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=578)
+- [[s03e08 Fame|S3 E8 – Fame]] (2022-04-07) — Minute [2:52](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=172), [11:29](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=689)
+- [[s03e09 Culture|S3 E9 – Culture]] (2022-05-27) — Minute [16:04](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=964)
+- [[x2022-10-14 Happiness|Bonus – Happiness]] (2022-10-14) — Minute [4:50](https://open.spotify.com/episode/4A4thQQDgZ1KpSBMd8qsZN?t=290)
+- [[s04e04 Weather|S4 E4 – Weather]] (2023-07-12) — Minute [5:22](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=322), [15:23](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=923)
 - [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Minute [3:18](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=198), [9:33](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=573)
 - [[s05e04 School|S5 E4 – School]] (2025-02-07) — Minute [6:16](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=376), [19:31](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=1171)
 - [[s05e10 Weekend|S5 E10 – Weekend]] (2025-08-18) — Minute [12:28](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=748)

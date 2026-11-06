@@ -21,6 +21,142 @@ Questions about reading test both vocabulary and the ability to describe somethi
 
 ## Said in the podcast
 
+> … times students answer with something like, I play football or I like reading books or something like that. Okay. Which isn't correct. Okay. You need to tell the examiner what your job is or …
+>
+> — [[s01e01 Introductions|S1 E1]], [Minute 1:55](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=115) · [[Transcript s01e01#Minute 1|in the transcript]]
+
+> … for this and every episode on the Real Exam English pages, on Facebook or Instagram. And you can also find lots of great grammar exercises there, as well as really useful tips on how …
+>
+> — [[s01e01 Introductions|S1 E1]], [Minute 6:39](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=399) · [[Transcript s01e01#Minute 6|in the transcript]]
+
+> … is. And you can reach us on social media also. We're on Facebook, Twitter, Instagram, and YouTube. And I would really love to hear from you. So thank you very much for listening to …
+>
+> — [[s01e01 Introductions|S1 E1]], [Minute 14:48](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=888) · [[Transcript s01e01#Minute 14|in the transcript]]
+
+> … it can come up in any part of the test, speaking, listening, reading or writing so it’s something you need to prepare for beforehand and listening to this podcast will help a lot as …
+>
+> — [[s01e02 Travel|S1 E2]], [Minute 0:28](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=28) · [[Transcript s01e02#Minute 0|in the transcript]]
+
+> … your bucket list. Remember, you can find us on social media. On Facebook, Twitter, Instagram or YouTube, it's real exam English. And it would be great to find out. Yeah, well, what items make …
+>
+> — [[s01e02 Travel|S1 E2]], [Minute 8:08](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=488) · [[Transcript s01e02#Minute 8|in the transcript]]
+
+> … for this and every episode on the real exam English pages on Facebook or Instagram, and you can also find lots of great grammar exercises there as well as really useful tips on how …
+>
+> — [[s01e02 Travel|S1 E2]], [Minute 9:42](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=582) · [[Transcript s01e02#Minute 9|in the transcript]]
+
+> … of accents for you today, and the transcripts can be gotten on Facebook or Instagram in case you can’t follow all of the conversations. Do you think parents should apply time limits to their …
+>
+> — [[s01e06 Technology|S1 E6]], [Minute 0:52](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=52) · [[Transcript s01e06#Minute 0|in the transcript]]
+
+> … for this and every episode on the real exam English pages on Facebook or Instagram, and you can also find lots of great grammar exercises there as well as really useful tips on how …
+>
+> — [[s01e06 Technology|S1 E6]], [Minute 5:40](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=340) · [[Transcript s01e06#Minute 5|in the transcript]]
+
+> … staff. OK, so look up cleft sentences in your textbook or grammar book if you have one, and try to get those into your writings because they're seen as a more advanced type of …
+>
+> — [[s01e06 Technology|S1 E6]], [Minute 7:43](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=463) · [[Transcript s01e06#Minute 7|in the transcript]]
+
+> … overshare, which of course is someone who shares too much information on Facebook, Instagram or whatever social media. And I think we all have one or two friends who are guilty. What kind of …
+>
+> — [[s01e06 Technology|S1 E6]], [Minute 10:46](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=646) · [[Transcript s01e06#Minute 10|in the transcript]]
+
+> … In this episode we hear about a wide variety of different music genres, we learn about the difference between classic and classical music and we also have some great phrasal verbs. We have a …
+>
+> — [[s01e07 Music|S1 E7]], [Minute 0:21](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=21) · [[Transcript s01e07#Minute 0|in the transcript]]
+
+> … for this and every episode on the real exam English pages on Facebook or Instagram, and you can also find lots of great grammar exercises there as well as really useful tips on how …
+>
+> — [[s01e07 Music|S1 E7]], [Minute 7:30](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=450) · [[Transcript s01e07#Minute 7|in the transcript]]
+
+> … folks. You´ll notice that in every answer we heard a few different genres of music. Have a think about what different types of music you would mention in an exam if asked, and how …
+>
+> — [[s01e07 Music|S1 E7]], [Minute 11:30](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=690) · [[Transcript s01e07#Minute 11|in the transcript]]
+
+> … comes up very frequently in exams and I reckon every single English book has a chapter on the environment. So it's pretty easy and really important to have lots of practice speaking, writing and …
+>
+> — [[s01e08 The Environment|S1 E8]], [Minute 0:40](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=40) · [[Transcript s01e08#Minute 0|in the transcript]]
+
+> … for this and every episode on the Real Exam English pages on Facebook or Instagram. And you can also find lots of great grammar exercises there, as well as really useful tips on how …
+>
+> — [[s01e08 The Environment|S1 E8]], [Minute 6:22](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=382) · [[Transcript s01e08#Minute 6|in the transcript]]
+
+> … So make sure to check it out in your textbook or grammar book. And at a B2 level, it's not really expected. But if you are able to use it in an exam, you …
+>
+> — [[s01e08 The Environment|S1 E8]], [Minute 10:19](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=619) · [[Transcript s01e08#Minute 10|in the transcript]]
+
+> … and subscribe to the podcast. And make sure to follow us on Facebook or Instagram for any updates and new use of English exercises. Okay, all the best. Trevor.
+>
+> — [[s01e08 The Environment|S1 E8]], [Minute 14:18](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=858) · [[Transcript s01e08#Minute 14|in the transcript]]
+
+> … Real Exam English, my name is Trevor. Today we are talking about books. It´s another topic that appears regularly in exams and in this episode you will hear native English speakers answering questions about …
+>
+> — [[s01e09 Books|S1 E9]], [Minute 0:12](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=12) · [[Transcript s01e09#Minute 0|in the transcript]]
+
+> … and another super piece of vocabulary is a pageturner. And pageturner is book that is very engaging and therefore makes you turn the pages very quickly. And that's a fantastic word to have for …
+>
+> — [[s01e09 Books|S1 E9]], [Minute 2:05](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=125) · [[Transcript s01e09#Minute 2|in the transcript]]
+
+> … 100%. They’re like sponges. The vocabulary that they are exposed to in books is crucial to their development so yes I think it´s…….And it´s a bonding time as well to have with children and …
+>
+> — [[s01e09 Books|S1 E9]], [Minute 4:37](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=277) · [[Transcript s01e09#Minute 4|in the transcript]]
+
+> … their children and in the answer the speaker said being exposed to books is crucial for their development. A lot of the time in English exams the question includes the word important and very …
+>
+> — [[s01e09 Books|S1 E9]], [Minute 6:12](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=372) · [[Transcript s01e09#Minute 6|in the transcript]]
+
+> … usual, you can request transcripts on the Real Exam English pages on Facebook or Instagram. OK, then let's go with the questions. What kind of TV programs do you enjoy most? Well, lately, because …
+>
+> — [[s01e10 TV|S1 E10]], [Minute 0:52](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=52) · [[Transcript s01e10#Minute 0|in the transcript]]
+
+> … in, really. I don't, I couldn't, I don't really subscribe to one genre of TV program. So it really does depend on my mood. But generally things that are science fiction, fantasy related or …
+>
+> — [[s01e10 TV|S1 E10]], [Minute 2:33](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=153) · [[Transcript s01e10#Minute 2|in the transcript]]
+
+> … for this and every episode on the Real Exam English pages on Facebook or Instagram. And you can also find lots of great grammar exercises there, as well as really useful tips on how …
+>
+> — [[s01e10 TV|S1 E10]], [Minute 4:59](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=299) · [[Transcript s01e10#Minute 4|in the transcript]]
+
+> … because there's many programs on television that can be that covers different genres, for example, comedy, romance, you know, uh, soap operas. But there's also, um, there's also television programs that are more educational …
+>
+> — [[s01e10 TV|S1 E10]], [Minute 8:12](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=492) · [[Transcript s01e10#Minute 8|in the transcript]]
+
+> … that, but you also got underwear and you might also get a book And you get you know something that was, you know, something that you needed to a shirt, pair, pants, whatever. So …
+>
+> — [[s02e01 Celebrations|S2 E1]], [Minute 6:10](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=370) · [[Transcript s02e01#Minute 6|in the transcript]]
+
+> … you like to give and receive? Great question. I really like giving books out because I really like reading and I really like to think about what is the other person interested in that …
+>
+> — [[s02e01 Celebrations|S2 E1]], [Minute 11:18](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=678) · [[Transcript s02e01#Minute 11|in the transcript]]
+
+> … with friends, have a boogie and so on. Remember guys to check Facebook and Instagram for grammar and vocabulary exercises and videos and I´d love to hear from you so come on, get in …
+>
+> — [[s02e01 Celebrations|S2 E1]], [Minute 16:40](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=1000) · [[Transcript s02e01#Minute 16|in the transcript]]
+
+> … do food shopping online shopping for like You know stuff, DVDs, videos, books, etc. I can do that, but shopping for more Physically engaging things like cars like guitars, artwork. Actually, I said books, …
+>
+> — [[s02e04 Shopping|S2 E4]], [Minute 2:03](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=123) · [[Transcript s02e04#Minute 2|in the transcript]]
+
+> … there As quickly as possible. But when it comes to say, buying books or music, I really enjoy going with someone else, and you can kind of discuss things with them and and get …
+>
+> — [[s02e04 Shopping|S2 E4]], [Minute 12:33](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=753) · [[Transcript s02e04#Minute 12|in the transcript]]
+
+> … a bath.Anneli lighting the candles put in light bubbles in the bath.And reading basically like reading in the bath.That's how I really chill out. in the morning I do like a bit of a …
+>
+> — [[s02e07 Free time|S2 E7]], [Minute 4:16](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=256) · [[Transcript s02e07#Minute 4|in the transcript]]
+
+> … would also enjoy, you know, being at home with them, watching TV, reading books, listening to me.Like I think in my adult life, I still afford the same proportion to those hobbies.It's just that …
+>
+> — [[s02e07 Free time|S2 E7]], [Minute 7:14](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=434) · [[Transcript s02e07#Minute 7|in the transcript]]
+
+> … is having periods of not doing that and doing something else like reading or you know, gardening and I think lock down has had a has had a an impact on what you can …
+>
+> — [[s02e07 Free time|S2 E7]], [Minute 13:25](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=805) · [[Transcript s02e07#Minute 13|in the transcript]]
+
+> … Remember to keep an eye on the Real Exam English page on Facebook and Instagram for use of English exercises and updates. And I´ll see you again next time for some more Real Exam …
+>
+> — [[s02e07 Free time|S2 E7]], [Minute 16:15](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=975) · [[Transcript s02e07#Minute 16|in the transcript]]
+
 > … popular in Poland. So I use English subtitles and I read English books whenever it is possible. OK, so in Poland, do most people watch TV series with the voice over, like a dubbed …
 >
 > — [[x2024-04-16 Martyna from Poland|Bonus]], [Minute 10:56](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=656) · [[Transcript x2024-04-16#Minute 10|in the transcript]]
@@ -143,13 +279,22 @@ Questions about reading test both vocabulary and the ability to describe somethi
 
 ## In these episodes (4)
 
-- [[s01e09 Books|S1 E9 – Books]] (2020-10-02) — Show notes
+- [[s01e09 Books|S1 E9 – Books]] (2020-10-02) — Show notes · Minute [0:12](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=12), [2:05](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=125), [4:37](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=277), [6:12](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=372)
 - [[x2024-04-16 Martyna from Poland|Bonus – Martyna from Poland]] (2024-04-16) — Minute [10:56](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=656), [12:50](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=770), [17:35](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1055)
 - [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Minute [2:01](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=121), [3:31](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=211), [7:56](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=476), [13:37](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=817)
 - [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Minute [1:22](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=82), [3:49](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=229), [10:56](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=656), [12:39](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=759)
 
-## Briefly mentioned (7)
+## Briefly mentioned (16)
 
+- [[s01e01 Introductions|S1 E1 – Introductions]] (2020-08-30) — Minute [1:55](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=115), [6:39](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=399), [14:48](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=888)
+- [[s01e02 Travel|S1 E2 – Travel]] (2020-08-30) — Minute [0:28](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=28), [8:08](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=488), [9:42](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=582)
+- [[s01e06 Technology|S1 E6 – Technology]] (2020-09-11) — Minute [0:52](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=52), [5:40](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=340), [7:43](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=463), [10:46](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=646)
+- [[s01e07 Music|S1 E7 – Music]] (2020-09-17) — Minute [0:21](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=21), [7:30](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=450), [11:30](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=690)
+- [[s01e08 The Environment|S1 E8 – The Environment]] (2020-09-25) — Minute [0:40](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=40), [6:22](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=382), [10:19](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=619), [14:18](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=858)
+- [[s01e10 TV|S1 E10 – TV]] (2020-10-05) — Minute [0:52](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=52), [2:33](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=153), [4:59](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=299), [8:12](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=492)
+- [[s02e01 Celebrations|S2 E1 – Celebrations]] (2021-01-21) — Minute [6:10](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=370), [11:18](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=678), [16:40](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=1000)
+- [[s02e04 Shopping|S2 E4 – Shopping]] (2021-02-12) — Minute [2:03](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=123), [12:33](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=753)
+- [[s02e07 Free time|S2 E7 – Free time]] (2021-03-12) — Minute [4:16](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=256), [7:14](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=434), [13:25](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=805), [16:15](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=975)
 - [[x2024-06-29 Vietnam and IELTS|Bonus – Vietnam and IELTS]] (2024-06-29) — Minute [6:12](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=372), [8:12](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=492), [10:40](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=640), [17:17](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=1037)
 - [[s05e04 School|S5 E4 – School]] (2025-02-07) — Minute [13:02](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=782), [19:42](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=1182)
 - [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Minute [17:21](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1041), [19:11](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1151)

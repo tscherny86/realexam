@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 7
+episodes: 9
 tags: [language]
 ---
 # Common Mistakes
@@ -21,6 +21,30 @@ Typical mistakes at B2–C2:
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … we really learn things is by trying to do things and making mistakes. Do you agree? I would agree, yeah, I would agree with that because a lot of my students, you know, they're …
+>
+> — [[s03e05 Learning|S3 E5]], [Minute 10:29](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=629) · [[Transcript s03e05#Minute 10|in the transcript]]
+
+> … to try it out, even if it means you might make a mistake or two. In fact, even in an exam if you make a mistake with less common words or structures this will …
+>
+> — [[s03e05 Learning|S3 E5]], [Minute 12:05](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=725) · [[Transcript s03e05#Minute 12|in the transcript]]
+
+> … to point out her way of correcting herself when she made a mistake, emerged, sorry, immersed. It´s totally ok if you make a mistake like this in an exam and correct yourself, just keep …
+>
+> — [[s04e02 Languages|S4 E2]], [Minute 1:40](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=100) · [[Transcript s04e02#Minute 1|in the transcript]]
+
+> … older and you know about being conscious about how you're doing it incorrectly or whatever, children don't care. Some super-duper advice there, if you have kids, get them watching English TV, you´ll save a …
+>
+> — [[s04e02 Languages|S4 E2]], [Minute 5:49](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=349) · [[Transcript s04e02#Minute 5|in the transcript]]
+
+> … quickly, the motivation is far better. How far do you agree that errors are a natural part of language learning? Errors are an absolutely natural part of learning languages, and I think if you …
+>
+> — [[s04e02 Languages|S4 E2]], [Minute 8:12](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=492) · [[Transcript s04e02#Minute 8|in the transcript]]
+
+> … Lastly, she said it´s important not to get hung up on making errors. If you get hung up on something you get overly bothered by it. For example, I love Guinness and I get …
+>
+> — [[s04e02 Languages|S4 E2]], [Minute 9:44](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=584) · [[Transcript s04e02#Minute 9|in the transcript]]
 
 > … you will hear she speaks really well. She has the occasional little error but she’s an excellent communicator and her pronunciation is fantastic. Being from Poland, she has a bit of an accent when …
 >
@@ -102,8 +126,10 @@ Typical mistakes at B2–C2:
 >
 > — [[s06e08 Priorities|S6 E8]], [Minute 14:44](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=884) · [[Transcript s06e08#Minute 14|in the transcript]]
 
-## In these episodes (7)
+## In these episodes (9)
 
+- [[s03e05 Learning|S3 E5 – Learning]] (2021-12-11) — Minute [10:29](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=629), [12:05](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=725)
+- [[s04e02 Languages|S4 E2 – Languages]] (2023-04-29) — Minute [1:40](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=100), [5:49](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=349), [8:12](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=492), [9:44](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=584)
 - [[x2024-04-16 Martyna from Poland|Bonus – Martyna from Poland]] (2024-04-16) — Show notes · Minute [0:39](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=39), [15:26](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=926), [22:40](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1360)
 - [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Minute [5:50](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=350), [19:03](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1143), [22:54](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1374)
 - [[s05e10 Weekend|S5 E10 – Weekend]] (2025-08-18) — Minute [8:30](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=510), [10:37](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=637)

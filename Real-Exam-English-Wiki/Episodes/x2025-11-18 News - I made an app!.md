@@ -18,7 +18,7 @@ tags: [episode, season-0]
 | **Date** | 2025-11-18 |
 | **Duration** | 3:29 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/4ny6w4TrSiKpWsvdbSBMJp) · [MP3](https://www.buzzsprout.com/1107956/episodes/18210421-news-i-made-an-app.mp3) |
-| **Transcript** | [[Transcript x2025-11-18]] (word-level timestamps, **not yet proofread**) |
+| **Transcript** | [[Transcript x2025-11-18]] (word-level timestamps, fully proofread) |
 | **Topics** | [[Technology & the Internet]], [[Languages & Language Learning]], [[News & Media]], [[Motivation & Goals]], [[Help & Kindness]] |
 | **Language** | [[Past Perfect & Narrative Tenses]] |
 | **Exams** | – |

@@ -1,0 +1,57 @@
+---
+type: transcript
+label: "S1 E6"
+tags: [transcript]
+---
+# Transcript – S01 - 6 Technology
+
+Episode: [[s01e06 Technology]] · transcribed automatically, aligned with the official transcript (0 corrections); occasional hearing errors are possible.
+Click ▶ to open Spotify at exactly this point.
+
+### Minute 0
+[▶ 0:11](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=11)  
+Hello and welcome to Real Exam English. My name is Trevor. Today we are talking about technology. This is another super popular subject in English exams. Love it or hate it we live in a very technological world, and there´s really a wide variety of questions you can be asked on this topic. For that reason, it´s vital to have some excellent vocabulary that you can use in your exam. There are lots of writing questions about technology, which is a great way to practice implementing the vocabulary that you know and thinking how you would go about answering different questions. Ok, as usual we have a great mix of accents for you today, and the transcripts can be gotten on Facebook or Instagram in case you can’t follow all of the conversations. Do you think parents should apply time limits to their children's usage of the computer? Yes, yea definitely yea. Depending on what age they are obviously, it has to change, y´know together with how old they are.
+
+### Minute 1
+[▶ 1:16](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=76)  
+But yea, I think so. I think you get…..y´know even as adults when we are on our phones or our tablets or whatever you can really feel your mood changing afterwards and it’s very easy to notice in kids, even if they’ve just been watching television for an hour or two, y’know. You really notice their change in mood, they’re quicker to anger or get annoyed with something so yea I definitely think there needs to be a balance, I guess. Just one thing to comment on from this answer, and that is the use of even if and the example was that you can really feel your mood changing and it's very easy to notice in kids even if they've just been watching television for an hour or two. So we use even if to say that if something is the case or not, the result is still the same. So an example would be even if you take your taxi, you'll still miss your train. OK, so that's a really useful conjunction to have and important one to know.
+
+### Minute 2
+[▶ 2:19](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=139)  
+Do you use social networking sites a lot? I use Reddit, religiously, I love reddit. I do really enjoy Reddit, I think it´s a good community, although it´s principles are a bit mixed but I generally can´t stand social media. In this answer we hear a few different ways to express likes and dislikes We hear I love Reddit, I do really enjoy Reddit, I can't stand social media and it's really crucial to have a few different ways to express likes and dislikes because the nature of English exams are that very often you're asked that type of question. So instead of saying I don't like something you can say I can't stand, as in the answer that was given. Other options that you can use are I detest, for example, I detest football or I can't bear, I can't bear people who lie, I hate is another option, of course. Another good one is I'm not really into.
+
+### Minute 3
+[▶ 3:22](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=202)  
+So you could say I'm not really into romantic movies. Umm, a very colloquial one is it's not my cup of tea. So for example, if someone says hey, do you fancy going clubbing? you could say oh it's not really my cup of tea. And another excellent one is it doesn't tickle my fancy. Someone might say to you, hey, do you want to come for a walk with me? Doesn't tickle my fancy, I´m feeling a bit lazy. OK. So they're all negative ones and on the positive side, you could say I'm keen on, like I'm keen on movies, I'm fond of, like I'm fond of a beer after work. Which is true. And I adore like, I adore banana ice cream. I'm mad about I'm mad about Harry Potter. Or I'm a big fan of. I'm a big fan of Justin Bieber, which is not true. Some people think we spend too much time checking social media. Do you agree?
+
+### Minute 4
+[▶ 4:23](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=263)  
+Yes, I definitely do. I think we’d just be a lot better off living in the moment a little bit more and yes, I would agree with that statement for sure. Do you think that technology will result in more people being unemployed in the future? No, not necessarily. I think it will result in a shift and hopefully it will mean that less people have to do manual labour in the future. A couple of really nice pieces of vocabulary here. The first one was better off and the sentence was I think we'd just be a lot better off living in the moment a little bit more and better off means to be in a better situation. So for instance, he'd be better off working for a bigger company. And the second really good piece of vocabulary he used was a shift and that was relating to technology resulting in a shift and hopefully meaning less people will have to do manual labour so a shift is a change in position or a change in direction.
+
+### Minute 5
+[▶ 5:25](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=325)  
+So an example sentence would be there has been a dramatic shift in public opinion towards the wearing of face masks. Remember you can get the transcripts for this and every episode on the real exam English pages on Facebook or Instagram, and you can also find lots of great grammar exercises there as well as really useful tips on how to prepare for your exam. And if you want information on classes to prepare for your exam, then you can find that there also. It is said that technology like security cameras and data bases are a threat to our freedom. Do you agree? I don´t know if that overly concerns me, I think there is an element of…..it certainly does go on, there is an element of what we would call Big Brother going on, but am, that´s y´know watching from secret, but it doesn´t overly concern me.
+
+### Minute 6
+[▶ 6:43](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=403)  
+I think that there´s a lot going on that we don´t know about that possibly should concern us more and what does concern me is the ability of computers to somehow overtake us in the future So we're going to focus on this sentence. What does concern me is the ability of computers to somehow overtake us in the future. So this is an example of a cleft sentence. It's used to add emphasis, and it's a really handy piece of grammar to have for the writing paper because it's very versatile. I mean, imagine you're writing a review of a restaurant. You can say what was absolutely delicious was the apple pie, it was out of this world. Or if you're writing a formal report or proposal, you could say what is clearly required to improve the business is more training for the staff. OK, so look up cleft sentences in your textbook or grammar book if you have one, and try to get those into your writings because they're seen as a more advanced type of writing and it's a good way to impress the examiners.
+
+### Minute 7
+[▶ 7:55](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=475)  
+What kind of technology devices do you own and use regularly? Oh my god, I could go on for hours. I am the technology king because I´m a filmmaker so I´ve got lots of video cameras, old ones and new ones of different sizes. I am a photographer so again I´ve got lots of digital cameras and old antique cameras. I work with music so I´ve got lots of djing mixing equipment. I´ve got Go pros, I´ve got web technology. My house if just full of things that you plug into stuff. Lots of really good technological vocabulary there from the technology king, but I would just like to focus on phrasal verb that he used. So he said that, Oh my God, I could go on for hours and to go on means to continue.
+
+### Minute 8
+[▶ 8:59](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=539)  
+So an example sentence would be I could go on playing this new computer game for ages, it's totally addictive. It is said that we spend too much time looking for updates on social media sites. Do you agree? I think some people do. Some people require the likes to feel good I think. I don´t do anything personal on social media but I do a lot with the businesses. I think people can overshare too much and I think those are normally the people that have issues, and they need that ….they need the likes, don´t they, to feel good, which is a bit sad. Because of the nature of technology and all of the developments that occur every year, it's a topic that generates a lot of new words. And there's one brilliant word that came out last year in 2019 to kind of describe what the speaker was talking about.
+
+### Minute 10
+[▶ 10:03](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=603)  
+So the speaker was saying that some people require the likes to feel good. And what sad fishing is that you're fishing for sympathy on social media, you know, so it's this kind of post where someone says, oh, I had the most difficult day at work, I really need a hug and everyone sends a message saying, oh, you're OK girl or man, man, you'll be fine, something like that. So I think it's a really brilliant word and very accurate. And you can really picture it, so sad fishing. And the other really good word that she uses here is to overshare, which of course is someone who shares too much information on Facebook, Instagram or whatever social media. And I think we all have one or two friends who are guilty. What kind of tech devices do you own? I have a laptop computer, I have an iphone, in our household we have 2 ipads and we have a smart TV and actually my computer is sitting on top of two old laptops that are unused but I´m afraid to throw them away as they have old photos in them that I haven´t gotten around to putting on something, to save them, like the cloud or something.
+
+### Minute 11
+[▶ 11:33](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=693)  
+OK, so the speaker mentioned her laptop and I'm sure almost everybody listening knows what a laptop is, but I'm going to explain where the word comes is from and it's going to blow your mind if you don't already know what it is. So imagine you're sitting down on a sofa and you're using your laptop. So the part of your legs where you leave the laptop is called your lap, so you leave it on top of your lap. Therefore laptop. OK. And I would also like to comment on a really good phrasal verb here, which was, uhm, I haven't gotten around to putting on something. So to get around to doing something means to do something that you haven't intended to do for a long time. So for instance, you could say I still haven't gotten around to fixing that roof. That's it for today, folks.
+
+### Minute 12
+[▶ 12:35](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=755)  
+Remember, you'd be better off living in the moment, and nobody likes someone who goes sad fishing. Having said all that, please make sure to check out real exam English on Facebook and Instagram for some tasty use of English exercises, and I promise not to overshare. OK. Thank you very much for listening all the best, Trevor.

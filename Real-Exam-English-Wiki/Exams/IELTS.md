@@ -21,6 +21,14 @@ Task 2 essay) and a one-to-one Speaking interview (11–14 min, three parts).
 
 ## Said in the podcast
 
+> … sentences and participle clauses, particularly at a C1 or C2 level, or IELTS band 7. For B2 level you need to know the passive voice well as you´ll need it in your formal writings …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 18:04](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=1084) · [[Transcript s02e03#Minute 18|in the transcript]]
+
+> … in to your answers, particularly at a C1 and C2 level, or IELTS band 7. And not only in your speaking, but in your writings too. Do you think it benefits companies if they …
+>
+> — [[s02e08 Work|S2 E8]], [Minute 2:48](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=168) · [[Transcript s02e08#Minute 2|in the transcript]]
+
 > … Vietnam and the state of English there. Then we speak about the IELTS English exam, specifically the writing part. The tips given here are quite universal and can be applied to most other English …
 >
 > — [[x2024-06-29 Vietnam and IELTS|Bonus]], [Minute 0:13](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=13) · [[Transcript x2024-06-29#Minute 0|in the transcript]]
@@ -40,6 +48,11 @@ Task 2 essay) and a one-to-one Speaking interview (11–14 min, three parts).
 ## In these episodes (1)
 
 - [[x2024-06-29 Vietnam and IELTS|Bonus – Vietnam and IELTS]] (2024-06-29) — Show notes · Minute [0:13](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=13), [5:57](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=357), [8:04](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=484), [11:47](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=707)
+
+## Briefly mentioned (2)
+
+- [[s02e03 Global Issues|S2 E3 – Global Issues]] (2021-02-05) — Minute [18:04](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=1084)
+- [[s02e08 Work|S2 E8 – Work]] (2021-03-19) — Minute [2:48](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=168)
 
 ---
 ← [[Exams]] · [[Real Exam English Wiki|Home]]

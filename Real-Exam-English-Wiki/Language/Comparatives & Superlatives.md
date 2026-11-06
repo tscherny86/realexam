@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 1
+episodes: 2
 tags: [language]
 ---
 # Comparatives & Superlatives
@@ -20,6 +20,10 @@ Beyond *bigger* and *the biggest*, exams look for **modified comparisons**:
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … appearance and style over substance, and so you know, young people feel far more pressure to perform to look a certain way to act a certain way to dress a certain way to behave …
+>
+> — [[s02e10 Family|S2 E10]], [Minute 9:05](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=545) · [[Transcript s02e10#Minute 9|in the transcript]]
 
 > … ability to write necessarily. And funnily enough, I think Part 2 is far more challenging than part one, but students often bomb or fall apart, with part one more often, especially with the with …
 >
@@ -41,8 +45,9 @@ Beyond *bigger* and *the biggest*, exams look for **modified comparisons**:
 >
 > — [[s05e10 Weekend|S5 E10]], [Minute 12:22](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=742) · [[Transcript s05e10#Minute 12|in the transcript]]
 
-## In these episodes (1)
+## In these episodes (2)
 
+- [[s02e10 Family|S2 E10 – Family]] (2021-04-07) — Minute [9:05](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=545)
 - [[s05e10 Weekend|S5 E10 – Weekend]] (2025-08-18) — Minute [12:22](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=742)
 
 ## Briefly mentioned (2)

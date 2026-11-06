@@ -22,6 +22,10 @@ consequences and solutions in a structured way.
 
 ## Said in the podcast
 
+> … to Real Exam English. Today we are going to be talking about global issues. We are living in an ever more globalized world and for that reason this is a topic that comes up …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 0:11](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=11) · [[Transcript s02e03#Minute 0|in the transcript]]
+
 > … rest of the world are pretty minor. Like we don't have many homeless, we don't really have that big of a drugs problem and if we do you you know, you don't really see …
 >
 > — [[s05e07 Hometown|S5 E7]], [Minute 4:52](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=292) · [[Transcript s05e07#Minute 4|in the transcript]]
@@ -32,7 +36,7 @@ consequences and solutions in a structured way.
 
 ## In these episodes (1)
 
-- [[s02e03 Global Issues|S2 E3 – Global Issues]] (2021-02-05) — Show notes
+- [[s02e03 Global Issues|S2 E3 – Global Issues]] (2021-02-05) — Show notes · Minute [0:11](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=11)
 
 ## Briefly mentioned (1)
 

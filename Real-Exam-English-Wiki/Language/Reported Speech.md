@@ -55,7 +55,7 @@ _Reporting what people said, with tense backshift and reporting verbs._
 >
 > — [[s06e05 Luck|S6 E5]], [Minute 4:32](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=272) · [[Transcript s06e05#Minute 4|in the transcript]]
 
-> … to live in a house in the countryside. In the first answer he said that in any walk of life you need luck. The walk of life here refers to people from a wide …
+> … bit of something to the watching the game. In the first answer he said that in any walk of life you need luck. The walk of life here refers to people from a wide …
 >
 > — [[s06e05 Luck|S6 E5]], [Minute 14:50](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=890) · [[Transcript s06e05#Minute 14|in the transcript]]
 

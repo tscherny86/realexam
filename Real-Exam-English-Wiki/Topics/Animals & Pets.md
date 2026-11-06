@@ -21,6 +21,30 @@ From *Do you have a pet?* to C2 debates on animal testing and zoos – animals c
 
 ## Said in the podcast
 
+> … and sympathy towards others, you often hear it used when speaking about animals. For example, in the 21st century the way animals are transported has become much more humane. For transcripts of the podcast, …
+>
+> — [[s02e05 Health|S2 E5]], [Minute 7:20](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=440) · [[Transcript s02e05#Minute 7|in the transcript]]
+
+> … substitute as with so in negative comparatives. For instance, instead of my dog is not as big as yours you can say my dog is not so big as yours. Keep an eye out …
+>
+> — [[s02e05 Health|S2 E5]], [Minute 14:29](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=869) · [[Transcript s02e05#Minute 14|in the transcript]]
+
+> Hello and welcome to Real Exam English. Today’s topic is animals. You are going to hear speakers from the UK, USA, Australia and New Zealand, all answering questions about pets, zoos, wildlife …
+>
+> — [[s03e07 Animals|S3 E7]], [Minute 0:13](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=13) · [[Transcript s03e07#Minute 0|in the transcript]]
+
+> … walk around the woods. I'll see birds. I'll see other people walking dogs occasionally see a deer. It's just it's wonderful, lovely and relax. I think being out in nature is good for your …
+>
+> — [[s03e07 Animals|S3 E7]], [Minute 1:51](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=111) · [[Transcript s03e07#Minute 1|in the transcript]]
+
+> … want to pet and you know, cuddle up with. How has the wildlife population of your local area changed over the years? I'm not sure I haven't been paying so much attention to it …
+>
+> — [[s03e07 Animals|S3 E7]], [Minute 3:24](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=204) · [[Transcript s03e07#Minute 3|in the transcript]]
+
+> … what I feel also is that having rich and healthy and abundant wildlife. And means basically the earth is healthy itself and humans whether we like it or not, are animals. And we require …
+>
+> — [[s03e07 Animals|S3 E7]], [Minute 5:11](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=311) · [[Transcript s03e07#Minute 5|in the transcript]]
+
 > … system, it's really not sustainable. So when we think about livestock, meat, animal source foods and food waste. So we really I think we're going to have to rethink that really quickly if we …
 >
 > — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 11:41](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=701) · [[Transcript x2024-08-02#Minute 11|in the transcript]]
@@ -47,10 +71,11 @@ From *Do you have a pet?* to C2 debates on animal testing and zoos – animals c
 
 ## In these episodes (1)
 
-- [[s03e07 Animals|S3 E7 – Animals]] (2022-02-15) — Show notes
+- [[s03e07 Animals|S3 E7 – Animals]] (2022-02-15) — Show notes · Minute [0:13](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=13), [1:51](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=111), [3:24](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=204), [5:11](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=311)
 
-## Briefly mentioned (2)
+## Briefly mentioned (3)
 
+- [[s02e05 Health|S2 E5 – Health]] (2021-02-26) — Minute [7:20](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=440), [14:29](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=869)
 - [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Minute [11:41](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=701), [14:56](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=896)
 - [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Minute [1:20](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=80), [3:03](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=183), [10:27](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=627), [16:01](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=961)
 

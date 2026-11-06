@@ -8,7 +8,7 @@ year: 2021
 date: 2021-02-12
 duration: "22:46"
 spotify: "https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y"
-transcript: false
+transcript: true
 tags: [episode, season-2]
 ---
 # S02 - 4 Shopping
@@ -18,12 +18,12 @@ tags: [episode, season-2]
 | **Date** | 2021-02-12 |
 | **Duration** | 22:46 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y) · [MP3](https://www.buzzsprout.com/1107956/episodes/7823197-s02-4-shopping.mp3) |
-| **Transcript** | not transcribed yet – see [[How to Transcribe]] |
-| **Topics** | [[Music]], [[Shopping & Consumerism]] |
+| **Transcript** | [[Transcript s02e04]] (word-level timestamps, aligned with the official transcript) |
+| **Topics** | [[Food & Cooking]], [[Shopping & Consumerism]], [[Money & Finance]], [[Fashion & Clothes]] |
 | **Language** | [[Idioms & Expressions]] |
 | **Exams** | – |
-| **Accents** | [[Ireland]], [[England]], [[USA]], [[Australia]], [[South Africa]] |
-| **Briefly mentioned** | – |
+| **Accents** | [[Ireland]], [[England]], [[USA]] |
+| **Briefly mentioned** | [[Technology & the Internet]], [[Books & Reading]], [[Art & Creativity]], [[Transport & Traffic]], [[Phrasal Verbs]], [[Conditionals]], [[Prepositions]], [[Slang & Informal English]], [[Exam Tips & Preparation]], [[Australia]] |
 
 ## Show notes
 
@@ -33,6 +33,19 @@ You´ll hear plenty of shopping vocabulary today as well as a variety of ways to
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Arianwen from the In Mothering podast, Trisha from Conversations with a Random Nobody, Chris, Barbara, Ronny, Zoe, Ofordi, Karen, Keith, Mary, Emma and Ursula.
 
+## Chapters
+
+- [0:13](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=13) – Hello and welcome to Real Exam English. Today we are going to be talking about shopping. Love it … ([[Transcript s02e04#Minute 0|transcript]])
+- [2:21](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=141) – Actually, I said books, but books as well, like the experience of playing a guitar Before you buy, … ([[Transcript s02e04#Minute 2|transcript]])
+- [4:28](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=268) – But yeah, I think definitely outdoor markets are becoming more popular on the kind of Um, you know … ([[Transcript s02e04#Minute 4|transcript]])
+- [6:36](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=396) – Do you think people should borrow money to buy something they want? I suppose there's a. There's a … ([[Transcript s02e04#Minute 6|transcript]])
+- [8:37](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=517) – What do you think? Oh my God totally all the time. And I know I do it myself … ([[Transcript s02e04#Minute 8|transcript]])
+- [10:43](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=643) – So the speaker said I don´t think like say….buying a new outfit. We actually hear our next speaker … ([[Transcript s02e04#Minute 10|transcript]])
+- [12:45](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=765) – So it depends what you're going shopping for. For food shopping, I absolutely prefer to go on my … ([[Transcript s02e04#Minute 12|transcript]])
+- [14:49](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=889) – Because of these new new models that are more of like open concept. No well. But grocery shopping? … ([[Transcript s02e04#Minute 14|transcript]])
+- [16:50](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=1010) – What do you think? Yeah, I think that is a definite advantage for me. The advantage of a … ([[Transcript s02e04#Minute 16|transcript]])
+- [18:56](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=1136) – Oh Be in perfume and all that kind of stuff. Yeah yeah it's Department store. Yeah, and though … ([[Transcript s02e04#Minute 18|transcript]])
+- [21:00](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=1260) – How about you? Yeah, probably go probably maybe with the Department store. I don't know if if a … ([[Transcript s02e04#Minute 21|transcript]])
 
 ---
 ← [[All Episodes]] · [[Real Exam English Wiki|Home]]

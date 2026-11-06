@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 5
+episodes: 8
 tags: [language]
 ---
 # Emphasis & Auxiliaries
@@ -21,6 +21,46 @@ Ways to **add emphasis**:
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … No, 'cause I think getting stabbed would suck. It seems like a really really simple principle that I don't think Is taken seriously enough, like Just take that bit. That sentence lived by itAnd …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 1:57](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=117) · [[Transcript s02e03#Minute 1|in the transcript]]
+
+> … important. Yeah, I don't do it As often as I used to. I do think it's important to follow news from other places in the world because it'll allow you some different perspectives which …
+>
+> — [[s02e03 Global Issues|S2 E3]], [Minute 7:51](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=471) · [[Transcript s02e03#Minute 7|in the transcript]]
+
+> … in Indian culture as well. Less so the food I gotta say I do love Russian .And Eastern European food. Though all over that, yes. Some students have the opportunity to study in another …
+>
+> — [[s03e09 Culture|S3 E9]], [Minute 1:50](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=110) · [[Transcript s03e09#Minute 1|in the transcript]]
+
+> … you lovely listeners are, I presume, learning English and this is a really common topic in English exams. They often ask about how long you have been studying English, what you find most difficult …
+>
+> — [[s04e02 Languages|S4 E2]], [Minute 0:22](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=22) · [[Transcript s04e02#Minute 0|in the transcript]]
+
+> … answer, I do wonder if it´s a good idea. By using the auxiliary verb do here it emphasizes the fact that he wonders. A good example, would be, I do love you. You can, …
+>
+> — [[s04e02 Languages|S4 E2]], [Minute 13:43](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=823) · [[Transcript s04e02#Minute 13|in the transcript]]
+
+> … organizing your speech, plus a very interesting way of using the word really. As usual you will hear a bunch of different accents and you can find details of how to get the transcripts …
+>
+> — [[s04e06 Transport|S4 E6]], [Minute 0:38](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=38) · [[Transcript s04e06#Minute 0|in the transcript]]
+
+> … or we need to go and then it's flying, you know, we do have some trains, but you know, you just can't get trains all over the place. So yeah, definitely cars and planes. …
+>
+> — [[s04e06 Transport|S4 E6]], [Minute 3:45](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=225) · [[Transcript s04e06#Minute 3|in the transcript]]
+
+> … answer, the sheer amount of transport there is. Sheer is used to emphasize a feeling or a quality, like the performance from Taylor Swift last night was sheer genius, or your argument is sheer …
+>
+> — [[s04e06 Transport|S4 E6]], [Minute 10:48](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=648) · [[Transcript s04e06#Minute 10|in the transcript]]
+
+> … if I'm at a…..I like shopping as well, actually. Shopping is something I do like to do on holidays because I like to get things that maybe you can get at home and bring …
+>
+> — [[s04e08 Holidays|S4 E8]], [Minute 2:38](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=158) · [[Transcript s04e08#Minute 2|in the transcript]]
+
+> … luxury is not important at all. At all here is used to emphasize, and is used after a negative phrase. Like English pronunciation is not easy at all. A nice alternative to this is …
+>
+> — [[s04e08 Holidays|S4 E8]], [Minute 11:20](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=680) · [[Transcript s04e08#Minute 11|in the transcript]]
 
 > … environments and a bunch of other schooly things. We focus on using auxiliary verbs for emphasis and on question tags, which are always in need of some practice! We have some nice phrasal verbs …
 >
@@ -134,16 +174,21 @@ Ways to **add emphasis**:
 >
 > — [[s06e10 Decisions|S6 E10]], [Minute 12:49](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=769) · [[Transcript s06e10#Minute 12|in the transcript]]
 
-## In these episodes (5)
+## In these episodes (8)
 
+- [[s04e02 Languages|S4 E2 – Languages]] (2023-04-29) — Minute [0:22](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=22), [13:43](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=823)
+- [[s04e06 Transport|S4 E6 – Transport]] (2023-10-19) — Minute [0:38](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=38), [3:45](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=225), [10:48](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=648)
+- [[s04e08 Holidays|S4 E8 – Holidays]] (2023-12-21) — Minute [2:38](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=158), [11:20](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=680)
 - [[s05e04 School|S5 E4 – School]] (2025-02-07) — Show notes · Minute [0:35](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=35), [2:25](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=145), [8:48](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=528), [10:32](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=632)
 - [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [3:19](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=199), [8:22](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=502), [17:13](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=1033), [18:50](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=1130)
 - [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Minute [1:26](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=86), [15:06](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=906), [17:59](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=1079)
 - [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Minute [6:40](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=400), [9:06](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=546), [18:03](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=1083)
 - [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [4:52](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=292), [17:19](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1039), [18:50](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1130)
 
-## Briefly mentioned (6)
+## Briefly mentioned (8)
 
+- [[s02e03 Global Issues|S2 E3 – Global Issues]] (2021-02-05) — Minute [1:57](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=117), [7:51](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=471)
+- [[s03e09 Culture|S3 E9 – Culture]] (2022-05-27) — Minute [1:50](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=110)
 - [[s05e08 Internet|S5 E8 – Internet]] (2025-06-17) — Minute [0:42](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=42), [3:46](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=226)
 - [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Minute [8:00](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=480), [18:16](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=1096)
 - [[x2025-11-21 Helena - Barcelona|Bonus – Helena - Barcelona]] (2025-11-21) — Minute [1:52](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=112), [9:08](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=548)

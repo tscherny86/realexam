@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 9
+episodes: 13
 tags: [language]
 ---
 # Past Perfect & Narrative Tenses
@@ -21,6 +21,98 @@ Exam stories (*Tell us about a time when…*) are judged on how well you handle 
 > each passage linked to the exact minute.
 
 ## Said in the podcast
+
+> … And what's the worst thing about living in London? I suppose I would say that London can be a little bit relentless in that there are so many people. And so, you know, you're …
+>
+> — [[s01e01 Introductions|S1 E1]], [Minute 3:51](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=231) · [[Transcript s01e01#Minute 3|in the transcript]]
+
+> … connecting words. So, we heard but, because, so, and whereas, which was used to contrast the seasons. And examiners love connectors as they give the answer some structure. So, if you can get some …
+>
+> — [[s01e01 Introductions|S1 E1]], [Minute 9:15](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=555) · [[Transcript s01e01#Minute 9|in the transcript]]
+
+> … to move in an unstable or awkward manner. And it's very often used to describe how you would move in the dark, for example, or maybe after a few too many drinks, perhaps. So, …
+>
+> — [[s01e01 Introductions|S1 E1]], [Minute 12:08](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=728) · [[Transcript s01e01#Minute 12|in the transcript]]
+
+> … personal experience questions such as where you have been and where you would like to go in the future and then there are general travel and tourism questions, regarding the positive and negative effects …
+>
+> — [[s01e02 Travel|S1 E2]], [Minute 0:59](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=59) · [[Transcript s01e02#Minute 0|in the transcript]]
+
+> … never been to Japan, I don´t think it´s as expensive as it used to be but I believe it´s still not the cheapest country in the world. I´ve never been and yea it looks …
+>
+> — [[s01e02 Travel|S1 E2]], [Minute 10:59](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=659) · [[Transcript s01e02#Minute 10|in the transcript]]
+
+> … kids will eat are difficult. They are not necessarily things that I would eat. I think I´m pretty ok with cooking most things. I´ve gotten much better at baking recently, since having kids because …
+>
+> — [[s01e03 Food|S1 E3]], [Minute 1:57](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=117) · [[Transcript s01e03#Minute 1|in the transcript]]
+
+> … just to pick up on the expressions at the start that were used to buy a bit of extra time. So the speaker said, Oh my goodness, that's a huge question. OK, so we've …
+>
+> — [[s01e03 Food|S1 E3]], [Minute 15:02](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=902) · [[Transcript s01e03#Minute 15|in the transcript]]
+
+> … and a great mix of accents too so you can get you used to listening to different accents before you take your English exam. And remember in case you can´t understand everything the speakers …
+>
+> — [[s01e04 Sport and exercise|S1 E4]], [Minute 0:38](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=38) · [[Transcript s01e04#Minute 0|in the transcript]]
+
+> … ever taken part in a sports competition? Diarmuid(Ireland:) Yes I have. I used to play rugby when I was in school. We lost the quarter final of the junior cup. I’m still sickened about …
+>
+> — [[s01e04 Sport and exercise|S1 E4]], [Minute 3:02](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=182) · [[Transcript s01e04#Minute 3|in the transcript]]
+
+> … failing that, preferably dance classes. I find gyms quite boring and I used to be a gym bunny for many many years. And what I mean by a gym bunny is I used to …
+>
+> — [[s01e04 Sport and exercise|S1 E4]], [Minute 9:12](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=552) · [[Transcript s01e04#Minute 9|in the transcript]]
+
+> … Real Exam English pages on Facebook or Instagram. Do you think it would be a good idea to reward people for the amount of rubbish they recycle? I grew up in a different place …
+>
+> — [[s01e08 The Environment|S1 E8]], [Minute 1:25](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=85) · [[Transcript s01e08#Minute 1|in the transcript]]
+
+> … decided to buy? How many air miles? How much carbon has been used to make it? Is there an environmentally cheaper version that's just as good as this one? Can I buy that? So …
+>
+> — [[s01e08 The Environment|S1 E8]], [Minute 8:58](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=538) · [[Transcript s01e08#Minute 8|in the transcript]]
+
+> … or mix of different things or people. And an example of this would be, how were your exams? I got two A's, two B's, a C and a D, a mixed bag, really. How …
+>
+> — [[s01e10 TV|S1 E10]], [Minute 3:40](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=220) · [[Transcript s01e10#Minute 3|in the transcript]]
+
+> … a couple of nice connectors here, which were for instance, which was used to give an example. And we had whereas, which is used to show contrast. Do you prefer to watch a performance …
+>
+> — [[s01e10 TV|S1 E10]], [Minute 7:18](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=438) · [[Transcript s01e10#Minute 7|in the transcript]]
+
+> … organizing parties and I probably am a bit more slapdash than I would like to be, but I love, I love to be Able to invite people and make them feel welcome and to …
+>
+> — [[s02e01 Celebrations|S2 E1]], [Minute 3:47](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=227) · [[Transcript s02e01#Minute 3|in the transcript]]
+
+> … went to a Hacienda reunion party, which was near where the Hacienda used to be. The Hacienda is actually like a block of flats. So that used to be a really cool club in …
+>
+> — [[s02e01 Celebrations|S2 E1]], [Minute 13:24](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=804) · [[Transcript s02e01#Minute 13|in the transcript]]
+
+> … to hear loads of urban and rural vocabulary, we analyse the language used to give a speculative opinion and we have some great words and expressions to describe work skills. We also have our …
+>
+> — [[s02e02 City and Country|S2 E2]], [Minute 0:21](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=21) · [[Transcript s02e02#Minute 0|in the transcript]]
+
+> … the first answer here we had an example of a cleft sentence used to give emphasis, that was what I like about Brussels is that it´s big and small at the same time. We …
+>
+> — [[s02e02 City and Country|S2 E2]], [Minute 12:20](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=740) · [[Transcript s02e02#Minute 12|in the transcript]]
+
+> … to.We don't really go out to the movies anymore, but yeah, I would say we like to invest our money typically and enjoy. Enjoy a nice.Cooked meal in a restaurant or or go to …
+>
+> — [[s03e04 Money|S3 E4]], [Minute 2:25](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=145) · [[Transcript s03e04#Minute 2|in the transcript]]
+
+> … am not tall, nor is my brother. So be it then is used to say that you have to accept the situation as it exists. Like, if our daughter wants to get a tattoo, …
+>
+> — [[s03e04 Money|S3 E4]], [Minute 12:25](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=745) · [[Transcript s03e04#Minute 12|in the transcript]]
+
+> … would have thought a lot about it. Normally we would use the past simple here right, I thought a lot about it. When she uses I would have thought a lot about it she …
+>
+> — [[s04e03 Home|S4 E3]], [Minute 2:00](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=120) · [[Transcript s04e03#Minute 2|in the transcript]]
+
+> … get the car to go anywhere, but you know that's what I'm used to actually. I like to go to the places where there's a lot of noise and to the fiestas out when …
+>
+> — [[s04e03 Home|S4 E3]], [Minute 5:51](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=351) · [[Transcript s04e03#Minute 5|in the transcript]]
+
+> … here, in the middle of nowhere and out of the way, both used to describe places far from where other people live. He also said he wouldn´t like a terraced house, which is a …
+>
+> — [[s04e03 Home|S4 E3]], [Minute 9:31](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=571) · [[Transcript s04e03#Minute 9|in the transcript]]
 
 > … previous episodes in that it features a non-native speaker. I thought it would be useful to hear from someone who has prepared for a Cambridge exam to see if we can get some tips …
 >
@@ -110,10 +202,14 @@ Exam stories (*Tell us about a time when…*) are judged on how well you handle 
 >
 > — [[s06e07 Help|S6 E7]], [Minute 17:32](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1052) · [[Transcript s06e07#Minute 17|in the transcript]]
 
-## In these episodes (9)
+## In these episodes (13)
 
-- [[s01e04 Sport and exercise|S1 E4 – Sport and exercise]] (2020-08-30) — Show notes
-- [[s02e02 City and Country|S2 E2 – City and Country]] (2021-01-29) — Show notes
+- [[s01e01 Introductions|S1 E1 – Introductions]] (2020-08-30) — Minute [3:51](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=231), [9:15](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=555), [12:08](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=728)
+- [[s01e04 Sport and exercise|S1 E4 – Sport and exercise]] (2020-08-30) — Show notes · Minute [0:38](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=38), [3:02](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=182), [9:12](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=552)
+- [[s01e10 TV|S1 E10 – TV]] (2020-10-05) — Minute [3:40](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=220), [7:18](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=438)
+- [[s02e01 Celebrations|S2 E1 – Celebrations]] (2021-01-21) — Minute [3:47](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=227), [13:24](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=804)
+- [[s02e02 City and Country|S2 E2 – City and Country]] (2021-01-29) — Show notes · Minute [0:21](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=21), [12:20](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=740)
+- [[s04e03 Home|S4 E3 – Home]] (2023-06-01) — Minute [2:00](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=120), [5:51](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=351), [9:31](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=571)
 - [[x2024-04-16 Martyna from Poland|Bonus – Martyna from Poland]] (2024-04-16) — Minute [0:13](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=13), [20:07](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1207)
 - [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Minute [1:05](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=65)
 - [[s05e10 Weekend|S5 E10 – Weekend]] (2025-08-18) — Minute [3:16](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=196)
@@ -122,8 +218,12 @@ Exam stories (*Tell us about a time when…*) are judged on how well you handle 
 - [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Show notes · Minute [3:51](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=231), [5:37](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=337), [8:06](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=486)
 - [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [5:15](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=315), [17:32](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1052)
 
-## Briefly mentioned (6)
+## Briefly mentioned (10)
 
+- [[s01e02 Travel|S1 E2 – Travel]] (2020-08-30) — Minute [0:59](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=59), [10:59](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=659)
+- [[s01e03 Food|S1 E3 – Food]] (2020-08-30) — Minute [1:57](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=117), [15:02](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=902)
+- [[s01e08 The Environment|S1 E8 – The Environment]] (2020-09-25) — Minute [1:25](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=85), [8:58](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=538)
+- [[s03e04 Money|S3 E4 – Money]] (2021-11-15) — Minute [2:25](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=145), [12:25](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=745)
 - [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Minute [1:04](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=64), [22:08](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1328)
 - [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Minute [5:32](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=332), [15:15](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=915)
 - [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [1:05](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=65), [18:53](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=1133)
