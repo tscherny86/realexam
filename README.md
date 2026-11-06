@@ -2,7 +2,9 @@
 
 ## Version: 1.0.0
 
-Live: https://tscherny86.github.io/realexam/ · Changes: [CHANGELOG.md](CHANGELOG.md)
+Live: https://tscherny86.github.io/realexam/ · Changes: [CHANGELOG.md](CHANGELOG.md) · Latest release: [v1.0.0](https://github.com/tscherny86/realexam/releases/latest) (07.11.2026)
+
+**State of 1.0.0:** all 75 episodes with transcripts (68 aligned with the official Buzzsprout transcript, 7 proofread by hand), 96 articles (50 topics, 27 language points, 9 exams, 10 accents), 3,314 quotes linked to the exact minute, all Spotify episode IDs mapped.
 
 Fanwiki for the [Real Exam English podcast](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW)
 (B2, C1, C2) by Trevor – native speakers answer exam-style questions, Trevor picks out the best
@@ -32,7 +34,7 @@ python scripts/build_wiki.py            # rebuild the vault (from data/)
 New topics or language points: `scripts/topics.py`.
 
 ## Data
-- `data/feed.xml` – RSS feed (https://feeds.buzzsprout.com/1107956.rss)
+- `data/feed.xml` – RSS feed (https://feeds.buzzsprout.com/1107956.rss, state 06.11.2026, 75 episodes)
 - `data/spotify_ids.json` – Spotify episode IDs (for minute links)
 - `data/transcripts/` – raw Whisper transcripts with word timestamps
 - `data/official/` – official Buzzsprout transcripts (text only); `data/alignment_report.json` shows how well they matched
