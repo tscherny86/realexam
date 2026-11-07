@@ -4,6 +4,10 @@ Newest version on top. Every delivered version gets an entry here and a GitHub r
 (created automatically by `.github/workflows/release.yml`). Times are CET.
 New transcripts (commits "Transcript <id>") are content, not a version of their own.
 
+## Unreleased
+
+- Operations (07.11.2026, GitHub suspension): `scripts/ci.py` and `scripts/release.mjs`; `release.yml` and the new `.gitlab-ci.yml` (runner acespc) only call these scripts. `pages.yml` no longer runs on push, only manually with `PAGES_FREIGABE=ja` (publishing blocked until Alex decides). No new version, the site is unchanged.
+
 ## 1.4.0 – 07.11.2026
 - **Open data for other apps.** Every site build now also writes `data.json` (episodes with vocabulary box, exam
   questions and minute marks; all entries with quotes, level and exams) and `transcripts.json` (all transcripts,

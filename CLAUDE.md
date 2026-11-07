@@ -68,3 +68,11 @@ If nothing is unchecked: answer "alles geprüft, nichts offen".
    Only then is the delivery finished; report it to Alex in the same message. If that is impossible in the session,
    say explicitly "Shamrock Script NICHT aktualisiert" – never finish silently. `data.json`/`transcripts.json`
    (format `schema: 1`) may only be extended, never have fields renamed or removed.
+
+## Checks and releases without GitHub (fallback)
+
+Since the GitHub suspension of 07.11.2026 nothing may depend on GitHub alone. The code lives locally, on GitHub and privately on GitLab (`gitlab.com/tschernutter/realexam`); `git push origin` goes to GitLab first.
+
+- **Check:** `python scripts/ci.py` (builds the site into a temp folder, checks articles and version; publishes nothing) – GitLab CI (`.gitlab-ci.yml`, runner acespc) calls the same script.
+- **Release:** `node scripts/release.mjs --all-missing --title "Real Exam English Fanwiki"` creates missing tags `vX.Y.Z` and releases with the CHANGELOG section – on GitLab (glab) and, when reachable, on GitHub (gh). `--dry-run` only shows what would happen.
+- **Publishing: NO until Alex decides.** Full transcripts of a third-party podcast without permission (possible trigger of the GitHub suspension). `pages.yml` only runs manually and only with the repo variable `PAGES_FREIGABE=ja`; GitLab CI has no Pages job; no publishing on Netlify, Vercel or elsewhere. Shamrock Script keeps showing Spotify links meanwhile (`RX_FANWIKI_OFFLINE`).

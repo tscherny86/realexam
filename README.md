@@ -58,3 +58,11 @@ One-time setup: GitHub → repo → **Settings → Pages → Source: "GitHub Act
 Version in `package.json`, entry at the top of `CHANGELOG.md`, heading `## Version` here in the README.
 On push `.github/workflows/release.yml` creates the GitHub release `vX.Y.Z`. Documentation in Obsidian:
 `Projekte/Real Exam English Fanwiki/` (repo `tscherny86/notes-vault`).
+
+## Checks and releases without GitHub (fallback)
+
+Since the GitHub suspension of 07.11.2026 nothing may depend on GitHub alone. The code lives locally, on GitHub and privately on GitLab (`gitlab.com/tschernutter/realexam`); `git push origin` goes to GitLab first.
+
+- **Check:** `python scripts/ci.py` (builds the site into a temp folder, checks articles and version; publishes nothing) – GitLab CI (`.gitlab-ci.yml`, runner acespc) calls the same script.
+- **Release:** `node scripts/release.mjs --all-missing --title "Real Exam English Fanwiki"` creates missing tags `vX.Y.Z` and releases with the CHANGELOG section – on GitLab (glab) and, when reachable, on GitHub (gh). `--dry-run` only shows what would happen.
+- **Publishing: NO until Alex decides.** Full transcripts of a third-party podcast without permission (possible trigger of the GitHub suspension). `pages.yml` only runs manually and only with the repo variable `PAGES_FREIGABE=ja`; GitLab CI has no Pages job; no publishing on Netlify, Vercel or elsewhere. Shamrock Script keeps showing Spotify links meanwhile (`RX_FANWIKI_OFFLINE`).
