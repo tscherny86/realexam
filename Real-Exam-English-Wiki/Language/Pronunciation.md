@@ -15,6 +15,8 @@ Pronunciation is one of the four speaking criteria. Examiners look for **individ
   *recipe* /ˈresəpi/, *Wednesday*, silent letters in *climb, island, knife, debt*.
 - Word stress changes meaning: *REcord* (noun) vs. *reCORD* (verb), *PREsent / preSENT*.
 - The **schwa** /ə/ in unstressed syllables is the most common sound in English.
+- **Connected speech** is why natives sound fast: linking (*an‿apple*), weak forms (*can* /kən/, *to* /tə/),
+  elision (*nex(t) week*), assimilation (*ten bikes* → "tem bikes").
 
 > [!info] Note
 > The background above is general knowledge. What is said **in the podcast** about it follows below,

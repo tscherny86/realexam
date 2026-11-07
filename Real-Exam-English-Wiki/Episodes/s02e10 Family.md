@@ -19,11 +19,11 @@ tags: [episode, season-2]
 | **Duration** | 18:21 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB) · [MP3](https://www.buzzsprout.com/1107956/episodes/8289920-s02-10-family.mp3) |
 | **Transcript** | [[Transcript s02e10]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Technology & the Internet]], [[Family & Relationships]], [[Parenting & Children]] |
+| **Topics** | [[Family & Relationships]], [[Parenting & Children]] |
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[Scotland]], [[USA]], [[Australia]] |
-| **Briefly mentioned** | [[Culture & Traditions]], [[Change & Life Changes]], [[Home & Housing]], [[Help & Kindness]], [[Adjectives & Compound Adjectives]] |
+| **Briefly mentioned** | [[Technology & the Internet]], [[Culture & Traditions]], [[Change & Life Changes]], [[Home & Housing]], [[Help & Kindness]], [[Age & Generations]], [[Adjectives & Compound Adjectives]] |
 
 ## Show notes
 

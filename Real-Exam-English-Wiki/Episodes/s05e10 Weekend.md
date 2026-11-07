@@ -23,7 +23,7 @@ tags: [episode, season-5]
 | **Language** | [[Idioms & Expressions]], [[Comparatives & Superlatives]] |
 | **Exams** | – |
 | **Accents** | [[England]], [[Wales]], [[Australia]] |
-| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Food & Cooking]], [[TV, Film & Entertainment]], [[Celebrations & Festivals]], [[Change & Life Changes]], [[Weather & Seasons]], [[Parenting & Children]], [[Adjectives & Compound Adjectives]], [[USA]] |
+| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Food & Cooking]], [[TV, Film & Entertainment]], [[Celebrations & Festivals]], [[Change & Life Changes]], [[Weather & Seasons]], [[Parenting & Children]], [[Nature & Outdoors]], [[Adjectives & Compound Adjectives]], [[USA]] |
 
 ## Show notes
 

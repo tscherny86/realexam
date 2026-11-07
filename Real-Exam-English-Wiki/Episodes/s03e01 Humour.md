@@ -23,7 +23,7 @@ tags: [episode, season-3]
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[USA]], [[Australia]], [[New Zealand]] |
-| **Briefly mentioned** | [[Family & Relationships]], [[Pronunciation]], [[Speaking Exam]] |
+| **Briefly mentioned** | [[Family & Relationships]], [[Politics & Government]], [[Pronunciation]], [[Speaking Exam]] |
 
 ## Show notes
 

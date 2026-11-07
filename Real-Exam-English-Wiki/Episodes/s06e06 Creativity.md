@@ -23,7 +23,7 @@ tags: [episode, season-6]
 | **Language** | [[Phrasal Verbs]], [[Collocations]], [[Relative Clauses]], [[Pronunciation]], [[Prepositions]], [[Confusing Words & Homophones]] |
 | **Exams** | – |
 | **Accents** | – |
-| **Briefly mentioned** | [[Technology & the Internet]], [[Family & Relationships]], [[Help & Kindness]], [[Idioms & Expressions]], [[Common Mistakes]], [[England]] |
+| **Briefly mentioned** | [[Technology & the Internet]], [[Family & Relationships]], [[Help & Kindness]], [[Nature & Outdoors]], [[Idioms & Expressions]], [[Common Mistakes]], [[England]] |
 
 ## Show notes
 

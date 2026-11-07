@@ -23,7 +23,7 @@ tags: [episode, season-6]
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |
 | **Exams** | – |
 | **Accents** | – |
-| **Briefly mentioned** | [[Family & Relationships]], [[Money & Finance]], [[Change & Life Changes]], [[Crime & Law]], [[History & the Past]], [[Ireland]], [[England]], [[USA]], [[Non-Native Speakers]] |
+| **Briefly mentioned** | [[Family & Relationships]], [[Money & Finance]], [[Change & Life Changes]], [[Crime & Law]], [[History & the Past]], [[Politics & Government]], [[Ireland]], [[England]], [[USA]], [[Non-Native Speakers]] |
 
 ## Show notes
 

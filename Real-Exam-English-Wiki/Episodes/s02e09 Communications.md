@@ -23,7 +23,7 @@ tags: [episode, season-2]
 | **Language** | [[Phrasal Verbs]] |
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[Scotland]], [[USA]], [[Australia]] |
-| **Briefly mentioned** | [[Family & Relationships]], [[Photography & Photos]], [[Covid & Lockdown]], [[Idioms & Expressions]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]] |
+| **Briefly mentioned** | [[Family & Relationships]], [[Photography & Photos]], [[Covid & Lockdown]], [[Social Media]], [[Idioms & Expressions]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]] |
 
 ## Show notes
 

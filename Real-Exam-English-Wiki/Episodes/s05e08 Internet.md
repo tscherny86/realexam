@@ -19,7 +19,7 @@ tags: [episode, season-5]
 | **Duration** | 18:52 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19) · [MP3](https://www.buzzsprout.com/1107956/episodes/17350997-s05-8-internet.mp3) |
 | **Transcript** | [[Transcript s05e08]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Technology & the Internet]], [[News & Media]] |
+| **Topics** | [[Technology & the Internet]], [[News & Media]], [[Social Media]] |
 | **Language** | [[Phrasal Verbs]], [[Pronunciation]], [[Emphasis & Auxiliaries]], [[Common Mistakes]], [[Binomial Pairs]] |
 | **Exams** | – |
 | **Accents** | – |

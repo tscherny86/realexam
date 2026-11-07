@@ -15,6 +15,9 @@ Cambridge speaking tests are marked on **Grammar and Vocabulary**, **Discourse M
 - Interact: react to your partner, ask their opinion, agree and disagree politely.
 - Keep going: if you run out of ideas, paraphrase, give an example, speculate.
 - Fillers that buy time: *That's an interesting question…*, *Let me think…*, *Well, I suppose…*
+- **Dialogue and interaction** (Part 3, and the dialogues in the podcast from season 2 on): agree and disagree
+  politely (*I see your point, but…*, *I'm not sure I agree*), ask your partner's opinion, build on what they said,
+  reach a decision together without dominating.
 
 > [!info] Note
 > The background above is general knowledge. What is said **in the podcast** about it follows below,

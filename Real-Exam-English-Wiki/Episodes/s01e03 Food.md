@@ -23,7 +23,7 @@ tags: [episode, season-1]
 | **Language** | [[Idioms & Expressions]] |
 | **Exams** | [[Speaking Exam]] |
 | **Accents** | [[Ireland]], [[England]], [[USA]] |
-| **Briefly mentioned** | [[Money & Finance]], [[Culture & Traditions]], [[Phrasal Verbs]], [[Adjectives & Compound Adjectives]] |
+| **Briefly mentioned** | [[Money & Finance]], [[Culture & Traditions]], [[Age & Generations]], [[Phrasal Verbs]], [[Adjectives & Compound Adjectives]] |
 
 ## Show notes
 

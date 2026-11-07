@@ -23,7 +23,7 @@ tags: [episode, season-5]
 | **Language** | [[Phrasal Verbs]], [[Conditionals]], [[Cleft Sentences]], [[Inversion]], [[Pronunciation]] |
 | **Exams** | [[Exam Tips & Preparation]] |
 | **Accents** | [[Ireland]], [[England]], [[Wales]], [[Canada]], [[Australia]], [[South Africa]] |
-| **Briefly mentioned** | [[Food & Cooking]], [[Learning, School & Education]], [[Animals & Pets]], [[Weather & Seasons]], [[Transport & Traffic]], [[News & Media]], [[Globalisation]], [[Idioms & Expressions]], [[Collocations]], [[Word Formation]], [[Emphasis & Auxiliaries]] |
+| **Briefly mentioned** | [[Food & Cooking]], [[Learning, School & Education]], [[Animals & Pets]], [[Weather & Seasons]], [[Transport & Traffic]], [[News & Media]], [[Globalisation]], [[Politics & Government]], [[Idioms & Expressions]], [[Collocations]], [[Word Formation]], [[Emphasis & Auxiliaries]] |
 
 ## Show notes
 

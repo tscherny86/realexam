@@ -23,7 +23,7 @@ tags: [episode, season-5]
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[Wales]], [[Canada]], [[Australia]] |
-| **Briefly mentioned** | [[Food & Cooking]], [[Technology & the Internet]], [[Books & Reading]], [[City & Country Life]], [[Friends & Friendship]], [[Communication]], [[Anger & Emotions]], [[Home & Housing]], [[News & Media]], [[Luck & Chance]], [[Help & Kindness]], [[Passive Voice]], [[Past Perfect & Narrative Tenses]] |
+| **Briefly mentioned** | [[Food & Cooking]], [[Technology & the Internet]], [[Books & Reading]], [[City & Country Life]], [[Friends & Friendship]], [[Communication]], [[Anger & Emotions]], [[Home & Housing]], [[News & Media]], [[Luck & Chance]], [[Help & Kindness]], [[Social Media]], [[Politics & Government]], [[Passive Voice]], [[Past Perfect & Narrative Tenses]] |
 
 ## Show notes
 

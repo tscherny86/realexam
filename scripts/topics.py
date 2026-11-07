@@ -70,7 +70,7 @@ exercise more.
     {
         "name": "Technology & the Internet",
         "folder": "Topics",
-        "patterns": [r"technolog", r"\binternet\b", r"\bonline\b", r"smartphone", r"social media", r"\bapps?\b", r"artificial intelligence", r"\bAI\b", r"gadget", r"screen time", r"\bdigital\b"],
+        "patterns": [r"technolog", r"\binternet\b", r"\bonline\b", r"smartphone", r"\bapps?\b", r"artificial intelligence", r"\bAI\b", r"gadget", r"screen time", r"\bdigital\b"],
         "summary": "Smartphones, social media, AI and how technology changes daily life – a standard C1 topic.",
         "body": """
 Technology questions are a safe bet in every exam: *Has technology made our lives easier?*,
@@ -460,6 +460,8 @@ Crime is a frequent C1 Advanced topic with a lot of specific vocabulary to learn
 - Process: *to commit a crime*, *to be arrested/charged/convicted*, *to be sentenced to*,
   *a fine*, *community service*, *to get away with*.
 - Discussion: harsher sentences vs. rehabilitation, CCTV and privacy, why crime rates rise or fall.
+- Related debates that come up in the same breath: **gun control** (the USA versus Europe), **racism and
+  discrimination**, whether tougher policing makes streets safer.
 """,
     },
     {
@@ -788,6 +790,63 @@ home and missing their families. Useful vocabulary: *to self-isolate*, *furlough
 *restrictions*, *to ease the lockdown*, *a second wave*, *to get back to normal*.
 """,
     },
+    {
+        "name": "Nature & Outdoors",
+        "folder": "Topics",
+        "patterns": [r"\bnature\b", r"\bhiking\b", r"\boutdoors?\b", r"\bforests?\b", r"\bmountains?\b", r"\bbeach(es)?\b", r"\blakes?\b", r"\bnational parks?\b", r"\bgo(ing)? for a walk\b", r"\bfresh air\b", r"\bscenery\b", r"\bscenic\b"],
+        "summary": "Mountains, beaches, forests and fresh air – the outdoor life that speakers from every country praise.",
+        "body": """
+Nature turns up inside many other topics: hometowns, holidays, relaxing, the environment. Examiners
+like it because it brings out descriptive language.
+
+- Vocabulary: *breathtaking scenery*, *unspoilt*, *off the beaten track*, *to go hiking*, *a trail*,
+  *lush*, *rugged*, *to get some fresh air*, *to be out in the open*, *picturesque*.
+- Discussion: city children losing contact with nature, national parks vs. tourism, whether being
+  outdoors makes people happier.
+""",
+    },
+    {
+        "name": "Social Media",
+        "folder": "Topics",
+        "patterns": [r"social media", r"\btiktok\b", r"\bfacebook\b", r"\binstagram\b", r"\btwitter\b", r"\byoutube\b", r"\binfluencers?\b", r"\bfollowers\b", r"\bsocial networks?\b", r"\bscroll(ing)? through\b"],
+        "summary": "Social media, influencers and screen time – one of the most frequent C1 essay subjects.",
+        "body": """
+*Does social media do more harm than good?* is asked at every level. Have both sides ready.
+
+- Vocabulary: *to go viral*, *to scroll through*, *a feed*, *to post/share*, *followers*, *an influencer*,
+  *fake news*, *echo chamber*, *doomscrolling*, *to be glued to your phone*, *a digital detox*.
+- Arguments: staying in touch and finding communities versus addiction, comparison, privacy and
+  misinformation; whether platforms should be regulated or have age limits.
+""",
+    },
+    {
+        "name": "Politics & Government",
+        "folder": "Topics",
+        "patterns": [r"\bgovernments?\b", r"\bpolitic", r"\belections?\b", r"\bvot(e|es|ed|ing|ers?)\b", r"\bpoliticians?\b", r"\bparliament\b", r"\bpresident\b", r"\bdemocra", r"\bpolicy\b", r"\bpolicies\b"],
+        "summary": "What governments should do about the environment, crime, education or housing – the C1/C2 angle on almost every topic.",
+        "body": """
+Politics rarely appears as its own question, but C1 and C2 tasks constantly ask *what should the
+government do about…?* The vocabulary is worth having.
+
+- Vocabulary: *to pass a law*, *to introduce a ban*, *to raise taxes*, *subsidies*, *to fund*,
+  *the authorities*, *a policy*, *to take measures*, *to crack down on*, *public spending*, *to lobby*.
+- Keep it neutral in exams: no party politics, but clear arguments about responsibility and funding.
+""",
+    },
+    {
+        "name": "Age & Generations",
+        "folder": "Topics",
+        "patterns": [r"\bgenerations?\b", r"\bgeneration gap\b", r"\bolder (people|generation|person|folks)\b", r"\byoung(er)? (people|generation|folks)\b", r"\belderly\b", r"\bretire(d|ment)?\b", r"\bpensioners?\b", r"\bmiddle-aged\b", r"\bage(ing|d) population\b", r"\bgrowing old\b", r"\bold age\b"],
+        "summary": "Young and old: the generation gap, ageing societies and what each age group can learn from the other.",
+        "body": """
+Age appears in questions about family, manners, technology and work: *Is there a generation gap?*,
+*Should people retire later?*, *What can young people learn from the elderly?*
+
+- Vocabulary: *the generation gap*, *to look up to / look down on*, *set in your ways*, *to keep up with
+  the times*, *an ageing population*, *life expectancy*, *to retire*, *a pensioner*, *to feel your age*.
+- Avoid *old people*; prefer *older people*, *the elderly*, *senior citizens*.
+""",
+    },
     # ------------------------------------------------------------------ Language (grammar & vocabulary)
     *[
         {"name": n, "folder": "Language", "patterns": p, "summary": s, "body": b, **({"min": m} if m else {})}
@@ -891,6 +950,8 @@ Beyond *bigger* and *the biggest*, exams look for **modified comparisons**:
   *exhausted*, *very big* → *enormous*.
 - **Compound adjectives** combine two words with a hyphen: *time-consuming*, *well-known*,
   *a ten-year-old boy* (no plural *years* before a noun), *mouth-watering*, *long-lasting*.
+- **Replace basic words**: *good* → *superb, outstanding, decent*; *bad* → *dreadful, appalling, poor*;
+  *nice* → *pleasant, delightful*; *big* → *huge, vast, enormous*; *very* → see Intensifiers.
 - Order of adjectives: opinion → size → age → shape → colour → origin → material (*a lovely little old
   wooden box*).
 """, 4),
@@ -908,6 +969,8 @@ Beyond *bigger* and *the biggest*, exams look for **modified comparisons**:
   no *that*).
 - Advanced: *whose*, *whom*, *whereby*, *in which case*, reduced relatives (*the people living next
   door*), *which* referring to a whole clause (*He was late, which annoyed everyone*).
+- **Participle clauses** are compact relative clauses and a C1/C2 hallmark: *People living in cities…*
+  (= who live), *The book written by…* (= which was written), *Having finished the exam, she…*.
 """, None),
             ("Modal Verbs", [r"\bmodal"], "Must, might, can't, should have – obligation, possibility and deduction.", """
 - Obligation and advice: *must*, *have to*, *should*, *ought to*, *needn't*, *had better*.
@@ -929,6 +992,8 @@ Pronunciation is one of the four speaking criteria. Examiners look for **individ
   *recipe* /ˈresəpi/, *Wednesday*, silent letters in *climb, island, knife, debt*.
 - Word stress changes meaning: *REcord* (noun) vs. *reCORD* (verb), *PREsent / preSENT*.
 - The **schwa** /ə/ in unstressed syllables is the most common sound in English.
+- **Connected speech** is why natives sound fast: linking (*an‿apple*), weak forms (*can* /kən/, *to* /tə/),
+  elision (*nex(t) week*), assimilation (*ten bikes* → "tem bikes").
 """, None),
             ("Word Formation", [r"word[- ]formation", r"\bsuffix", r"\bprefix", r"portmanteau", r"\bnoun form\b", r"\badjective form\b", r"word family"], "Prefixes, suffixes and word families – tested directly in Use of English Part 3.", """
 **Word formation** (Use of English Part 3) asks you to change a given word to fit a gap:
@@ -988,6 +1053,8 @@ a beginning, a middle and an end and whether ideas are linked.
 - Signposts: *firstly / to begin with*, *another point is*, *on the one hand… on the other hand*,
   *having said that*, *to sum up*, *in conclusion*.
 - In writing: one idea per paragraph, topic sentences, a clear conclusion.
+- Two devices examiners notice: a **rhetorical question** to open an answer (*Is it ever right to lie?*) and the
+  **sandwich technique** for opinions (your point, a reason and an example, back to the point).
 """, None),
             ("Slang & Informal English", [r"\bslang\b", r"\binformal\b", r"colloquial"], "Gonna, grand, mate, dodgy – the informal English you hear from native speakers.", """
 Native speakers use **informal English** constantly; you need to understand it for the listening
@@ -1115,6 +1182,9 @@ Cambridge speaking tests are marked on **Grammar and Vocabulary**, **Discourse M
 - Interact: react to your partner, ask their opinion, agree and disagree politely.
 - Keep going: if you run out of ideas, paraphrase, give an example, speculate.
 - Fillers that buy time: *That's an interesting question…*, *Let me think…*, *Well, I suppose…*
+- **Dialogue and interaction** (Part 3, and the dialogues in the podcast from season 2 on): agree and disagree
+  politely (*I see your point, but…*, *I'm not sure I agree*), ask your partner's opinion, build on what they said,
+  reach a decision together without dominating.
 """, None),
             ("Writing Exam", [r"writing (exam|paper|part|task|test)", r"\bessays?\b", r"\bformal letter\b", r"\binformal letter\b", r"\bwrite a (report|proposal|review|letter|story)\b", r"\bwriting skills\b"], "Essays, letters, reports, reviews and articles – what each task needs.", """
 Cambridge writing is marked on **Content**, **Communicative Achievement**, **Organisation** and
@@ -1126,6 +1196,7 @@ Cambridge writing is marked on **Content**, **Communicative Achievement**, **Org
 - **Report/proposal**: headings, neutral tone, recommendations.
 - **Review/article**: engaging title, personal voice, a recommendation at the end.
 - Use the word limit, plan for five minutes, leave time to check.
+- **Paraphrase** the task instead of copying its words; a C2 essay also summarises two texts in your own words.
 """, None),
             ("Listening & Reading", [r"listening (exam|paper|part|skills|practice)", r"reading (paper|part|skills)", r"use of english (paper|part|exam|test)", r"\bkey word transformation", r"\bmultiple choice\b", r"\bgapped text\b"], "Listening practice with different accents and the Reading & Use of English paper.", """
 - **Listening**: Cambridge recordings mix British, Irish, American, Australian and other accents –

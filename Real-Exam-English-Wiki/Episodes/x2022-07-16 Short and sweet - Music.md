@@ -23,7 +23,7 @@ tags: [episode, season-0]
 | **Language** | [[Connectors & Linking Words]] |
 | **Exams** | – |
 | **Accents** | [[England]] |
-| **Briefly mentioned** | [[Idioms & Expressions]], [[Buying Time & Fillers]] |
+| **Briefly mentioned** | [[Age & Generations]], [[Idioms & Expressions]], [[Buying Time & Fillers]] |
 
 ## Show notes
 

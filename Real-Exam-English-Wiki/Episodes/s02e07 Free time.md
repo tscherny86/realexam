@@ -23,7 +23,7 @@ tags: [episode, season-2]
 | **Language** | [[Idioms & Expressions]] |
 | **Exams** | [[Speaking Exam]] |
 | **Accents** | [[Ireland]], [[England]], [[Scotland]], [[USA]] |
-| **Briefly mentioned** | [[Books & Reading]], [[TV, Film & Entertainment]], [[Change & Life Changes]], [[Home & Housing]], [[Relaxing & Stress]], [[Phrasal Verbs]] |
+| **Briefly mentioned** | [[Books & Reading]], [[TV, Film & Entertainment]], [[Change & Life Changes]], [[Home & Housing]], [[Relaxing & Stress]], [[Nature & Outdoors]], [[Phrasal Verbs]] |
 
 ## Show notes
 

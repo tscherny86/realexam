@@ -23,7 +23,7 @@ tags: [episode, season-4]
 | **Language** | [[Adverbs]] |
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[USA]], [[Australia]] |
-| **Briefly mentioned** | [[Change & Life Changes]], [[Drugs & Legalisation]], [[Idioms & Expressions]], [[Speculating & Hedging]] |
+| **Briefly mentioned** | [[Change & Life Changes]], [[Drugs & Legalisation]], [[Age & Generations]], [[Idioms & Expressions]], [[Speculating & Hedging]] |
 
 ## Show notes
 

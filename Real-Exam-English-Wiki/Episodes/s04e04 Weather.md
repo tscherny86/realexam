@@ -23,7 +23,7 @@ tags: [episode, season-4]
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Passive Voice]], [[Adverbs]] |
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[USA]], [[Australia]] |
-| **Briefly mentioned** | [[The Environment & Climate Change]], [[Anger & Emotions]], [[Change & Life Changes]], [[Extremes & Adventure]], [[Globalisation]], [[Adjectives & Compound Adjectives]] |
+| **Briefly mentioned** | [[The Environment & Climate Change]], [[Anger & Emotions]], [[Change & Life Changes]], [[Extremes & Adventure]], [[Globalisation]], [[Nature & Outdoors]], [[Adjectives & Compound Adjectives]] |
 
 ## Show notes
 

@@ -15,6 +15,8 @@ Crime is a frequent C1 Advanced topic with a lot of specific vocabulary to learn
 - Process: *to commit a crime*, *to be arrested/charged/convicted*, *to be sentenced to*,
   *a fine*, *community service*, *to get away with*.
 - Discussion: harsher sentences vs. rehabilitation, CCTV and privacy, why crime rates rise or fall.
+- Related debates that come up in the same breath: **gun control** (the USA versus Europe), **racism and
+  discrimination**, whether tougher policing makes streets safer.
 
 > [!info] Note
 > The background above is general knowledge. What is said **in the podcast** about it follows below,

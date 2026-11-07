@@ -23,7 +23,7 @@ tags: [episode, season-2]
 | **Language** | [[Idioms & Expressions]], [[Buying Time & Fillers]], [[British vs American English]], [[Likes, Dislikes & Preferences]] |
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[USA]], [[Australia]], [[South Africa]] |
-| **Briefly mentioned** | [[Technology & the Internet]], [[Books & Reading]], [[Art & Creativity]], [[Transport & Traffic]], [[Covid & Lockdown]], [[Phrasal Verbs]], [[Gerund or Infinitive]] |
+| **Briefly mentioned** | [[Technology & the Internet]], [[Books & Reading]], [[Art & Creativity]], [[Transport & Traffic]], [[Covid & Lockdown]], [[Nature & Outdoors]], [[Phrasal Verbs]], [[Gerund or Infinitive]] |
 
 ## Show notes
 

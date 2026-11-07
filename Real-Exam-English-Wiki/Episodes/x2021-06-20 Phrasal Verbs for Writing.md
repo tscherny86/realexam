@@ -23,7 +23,7 @@ tags: [episode, season-0]
 | **Language** | [[Phrasal Verbs]] |
 | **Exams** | [[Speaking Exam]], [[Writing Exam]] |
 | **Accents** | – |
-| **Briefly mentioned** | [[Technology & the Internet]], [[Fashion & Clothes]], [[Idioms & Expressions]], [[Conditionals]], [[Gerund or Infinitive]], [[Exam Tips & Preparation]] |
+| **Briefly mentioned** | [[Fashion & Clothes]], [[Idioms & Expressions]], [[Conditionals]], [[Gerund or Infinitive]], [[Exam Tips & Preparation]] |
 
 ## Show notes
 

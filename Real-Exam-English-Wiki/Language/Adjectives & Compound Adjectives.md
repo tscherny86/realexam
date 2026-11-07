@@ -12,6 +12,8 @@ _Strong adjectives and compound adjectives (time-consuming, well-off, mouth-wate
   *exhausted*, *very big* → *enormous*.
 - **Compound adjectives** combine two words with a hyphen: *time-consuming*, *well-known*,
   *a ten-year-old boy* (no plural *years* before a noun), *mouth-watering*, *long-lasting*.
+- **Replace basic words**: *good* → *superb, outstanding, decent*; *bad* → *dreadful, appalling, poor*;
+  *nice* → *pleasant, delightful*; *big* → *huge, vast, enormous*; *very* → see Intensifiers.
 - Order of adjectives: opinion → size → age → shape → colour → origin → material (*a lovely little old
   wooden box*).
 

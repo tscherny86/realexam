@@ -4,6 +4,15 @@ Newest version on top. Every delivered version gets an entry here and a GitHub r
 (created automatically by `.github/workflows/release.yml`). Times are CET.
 New transcripts (commits "Transcript <id>") are content, not a version of their own.
 
+## 1.2.0 – 07.11.2026
+- **Four new topics** that the reviewers' counts showed to carry real weight across the episodes: **Nature &
+  Outdoors** (9 episodes), **Social Media** (8, taken out of Technology & the Internet), **Politics & Government** (5)
+  and **Age & Generations** (6). Now 110 articles: 57 topics, 34 language points, 9 exams, 10 accents.
+- Reviewer suggestions that are too rare for an article of their own went into existing ones as paragraphs:
+  gun control and racism (Crime & Law), participle clauses (Relative Clauses), rhetorical questions and the sandwich
+  technique (Organising Your Answer), connected speech (Pronunciation), dialogue and interaction skills (Speaking
+  Exam), synonyms for basic words (Adjectives), paraphrasing (Writing Exam).
+
 ## 1.1.0 – 07.11.2026
 - **Full quality pass over all 75 transcripts** (Alex: "der DICKE Qualitätscheck"). Five helpers read every transcript
   line by line: 197 new rules in `data/corrections.tsv`, 205 corrections in 60 episodes (misheard names and

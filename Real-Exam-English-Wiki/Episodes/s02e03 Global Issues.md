@@ -23,7 +23,7 @@ tags: [episode, season-2]
 | **Language** | [[Cleft Sentences]], [[Passive Voice]], [[Connectors & Linking Words]] |
 | **Exams** | [[Cambridge C2 Proficiency (CPE)]] |
 | **Accents** | [[USA]] |
-| **Briefly mentioned** | [[Technology & the Internet]], [[The Environment & Climate Change]], [[Money & Finance]], [[Fashion & Clothes]], [[Culture & Traditions]], [[Crime & Law]], [[Idioms & Expressions]], [[Emphasis & Auxiliaries]], [[Buying Time & Fillers]], [[Verbs with Many Meanings (get, do, make, take)]], [[IELTS]], [[Writing Exam]], [[England]] |
+| **Briefly mentioned** | [[The Environment & Climate Change]], [[Money & Finance]], [[Fashion & Clothes]], [[Culture & Traditions]], [[Crime & Law]], [[Idioms & Expressions]], [[Emphasis & Auxiliaries]], [[Buying Time & Fillers]], [[Verbs with Many Meanings (get, do, make, take)]], [[IELTS]], [[Writing Exam]], [[England]] |
 
 ## Show notes
 

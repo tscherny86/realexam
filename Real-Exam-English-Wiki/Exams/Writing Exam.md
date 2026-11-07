@@ -17,6 +17,7 @@ Cambridge writing is marked on **Content**, **Communicative Achievement**, **Org
 - **Report/proposal**: headings, neutral tone, recommendations.
 - **Review/article**: engaging title, personal voice, a recommendation at the end.
 - Use the word limit, plan for five minutes, leave time to check.
+- **Paraphrase** the task instead of copying its words; a C2 essay also summarises two texts in your own words.
 
 > [!info] Note
 > The background above is general knowledge. What is said **in the podcast** about it follows below,

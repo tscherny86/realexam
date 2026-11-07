@@ -13,6 +13,8 @@ _Who, which, that, whose, whereby – defining and non-defining clauses._
   no *that*).
 - Advanced: *whose*, *whom*, *whereby*, *in which case*, reduced relatives (*the people living next
   door*), *which* referring to a whole clause (*He was late, which annoyed everyone*).
+- **Participle clauses** are compact relative clauses and a C1/C2 hallmark: *People living in cities…*
+  (= who live), *The book written by…* (= which was written), *Having finished the exam, she…*.
 
 > [!info] Note
 > The background above is general knowledge. What is said **in the podcast** about it follows below,

@@ -23,7 +23,7 @@ tags: [episode, season-3]
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |
 | **Exams** | – |
 | **Accents** | [[England]], [[USA]], [[Australia]], [[New Zealand]] |
-| **Briefly mentioned** | [[Technology & the Internet]], [[TV, Film & Entertainment]], [[Manners & Politeness]], [[Adjectives & Compound Adjectives]], [[Writing Exam]] |
+| **Briefly mentioned** | [[Technology & the Internet]], [[TV, Film & Entertainment]], [[Manners & Politeness]], [[Social Media]], [[Adjectives & Compound Adjectives]], [[Writing Exam]] |
 
 ## Show notes
 

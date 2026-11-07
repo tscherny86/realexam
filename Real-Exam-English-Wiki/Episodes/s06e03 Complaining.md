@@ -23,7 +23,7 @@ tags: [episode, season-6]
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[USA]] |
-| **Briefly mentioned** | [[Technology & the Internet]], [[Anger & Emotions]], [[Change & Life Changes]], [[Happiness]], [[Manners & Politeness]], [[Adjectives & Compound Adjectives]], [[Prepositions]] |
+| **Briefly mentioned** | [[Anger & Emotions]], [[Change & Life Changes]], [[Happiness]], [[Manners & Politeness]], [[Social Media]], [[Adjectives & Compound Adjectives]], [[Prepositions]] |
 
 ## Show notes
 

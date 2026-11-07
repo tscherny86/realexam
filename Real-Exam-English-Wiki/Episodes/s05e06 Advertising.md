@@ -23,7 +23,7 @@ tags: [episode, season-5]
 | **Language** | [[Idioms & Expressions]], [[Connectors & Linking Words]], [[Emphasis & Auxiliaries]], [[Verbs with Many Meanings (get, do, make, take)]] |
 | **Exams** | – |
 | **Accents** | [[England]], [[USA]], [[Australia]] |
-| **Briefly mentioned** | [[Sport & Exercise]], [[Technology & the Internet]], [[TV, Film & Entertainment]], [[Money & Finance]], [[Change & Life Changes]], [[Happiness]], [[Home & Housing]], [[Priorities & Decisions]], [[Passive Voice]], [[Question Tags]], [[Buying Time & Fillers]], [[Likes, Dislikes & Preferences]] |
+| **Briefly mentioned** | [[Sport & Exercise]], [[TV, Film & Entertainment]], [[Money & Finance]], [[Change & Life Changes]], [[Happiness]], [[Home & Housing]], [[Priorities & Decisions]], [[Social Media]], [[Passive Voice]], [[Question Tags]], [[Buying Time & Fillers]], [[Likes, Dislikes & Preferences]] |
 
 ## Show notes
 

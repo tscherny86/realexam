@@ -23,7 +23,7 @@ tags: [episode, season-5]
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Comparatives & Superlatives]] |
 | **Exams** | – |
 | **Accents** | [[England]], [[Wales]], [[Canada]], [[Australia]] |
-| **Briefly mentioned** | [[Health & Wellbeing]], [[Free Time & Hobbies]], [[Work & Careers]], [[Languages & Language Learning]], [[Home & Housing]], [[News & Media]], [[Prepositions]], [[USA]] |
+| **Briefly mentioned** | [[Health & Wellbeing]], [[Free Time & Hobbies]], [[Work & Careers]], [[Languages & Language Learning]], [[Home & Housing]], [[News & Media]], [[Nature & Outdoors]], [[Prepositions]], [[USA]] |
 
 ## Show notes
 

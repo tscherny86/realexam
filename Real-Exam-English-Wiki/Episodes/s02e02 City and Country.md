@@ -23,7 +23,7 @@ tags: [episode, season-2]
 | **Language** | [[Idioms & Expressions]], [[Likes, Dislikes & Preferences]], [[Speculating & Hedging]] |
 | **Exams** | – |
 | **Accents** | – |
-| **Briefly mentioned** | [[Technology & the Internet]], [[Free Time & Hobbies]], [[Parenting & Children]], [[Phrasal Verbs]], [[Connectors & Linking Words]], [[England]], [[USA]] |
+| **Briefly mentioned** | [[Technology & the Internet]], [[Free Time & Hobbies]], [[Parenting & Children]], [[Nature & Outdoors]], [[Phrasal Verbs]], [[Connectors & Linking Words]], [[England]], [[USA]] |
 
 ## Show notes
 

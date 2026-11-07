@@ -23,7 +23,7 @@ tags: [episode, season-1]
 | **Language** | [[Cleft Sentences]], [[Likes, Dislikes & Preferences]] |
 | **Exams** | – |
 | **Accents** | – |
-| **Briefly mentioned** | [[TV, Film & Entertainment]], [[Work & Careers]], [[Anger & Emotions]], [[Change & Life Changes]], [[Parenting & Children]], [[The Future & Predictions]], [[Phrasal Verbs]], [[Idioms & Expressions]] |
+| **Briefly mentioned** | [[TV, Film & Entertainment]], [[Work & Careers]], [[Anger & Emotions]], [[Change & Life Changes]], [[Parenting & Children]], [[The Future & Predictions]], [[Social Media]], [[Phrasal Verbs]], [[Idioms & Expressions]] |
 
 ## Show notes
 

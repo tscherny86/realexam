@@ -19,7 +19,7 @@ tags: [episode, season-4]
 | **Duration** | 13:38 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw) · [MP3](https://www.buzzsprout.com/1107956/episodes/14185229-s04-8-holidays.mp3) |
 | **Transcript** | [[Transcript s04e08]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Travel, Holidays & Tourism]] |
+| **Topics** | [[Travel, Holidays & Tourism]], [[Nature & Outdoors]] |
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Emphasis & Auxiliaries]] |
 | **Exams** | [[Listening & Reading]] |
 | **Accents** | [[Ireland]], [[England]], [[Australia]] |

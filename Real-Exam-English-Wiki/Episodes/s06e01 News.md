@@ -19,11 +19,11 @@ tags: [episode, season-6]
 | **Duration** | 21:01 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W) · [MP3](https://www.buzzsprout.com/1107956/episodes/18561981-s06-1-news.mp3) |
 | **Transcript** | [[Transcript s06e01]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Technology & the Internet]], [[News & Media]] |
+| **Topics** | [[News & Media]], [[Politics & Government]] |
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[USA]] |
-| **Briefly mentioned** | [[TV, Film & Entertainment]], [[Work & Careers]], [[Learning, School & Education]], [[Motivation & Goals]], [[Adjectives & Compound Adjectives]] |
+| **Briefly mentioned** | [[Technology & the Internet]], [[TV, Film & Entertainment]], [[Work & Careers]], [[Learning, School & Education]], [[Motivation & Goals]], [[Social Media]], [[Adjectives & Compound Adjectives]] |
 
 ## Show notes
 

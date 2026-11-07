@@ -15,6 +15,8 @@ a beginning, a middle and an end and whether ideas are linked.
 - Signposts: *firstly / to begin with*, *another point is*, *on the one hand… on the other hand*,
   *having said that*, *to sum up*, *in conclusion*.
 - In writing: one idea per paragraph, topic sentences, a clear conclusion.
+- Two devices examiners notice: a **rhetorical question** to open an answer (*Is it ever right to lie?*) and the
+  **sandwich technique** for opinions (your point, a reason and an example, back to the point).
 
 > [!info] Note
 > The background above is general knowledge. What is said **in the podcast** about it follows below,
