@@ -61,10 +61,12 @@ If nothing is unchecked: answer "alles geprüft, nichts offen".
    do there unless repo, live URL or file names change.
 5. **Pass every update on to Shamrock Script (mandatory, Alex 07.11.2026).** Shamrock Script (Alex' C2 writing
    trainer, a Claude artifact; folder `C:\Users\tsche\OneDrive\ShamrockScript`, repo `tscherny86/shamrock-script`)
-   shows this archive as its own "Podcast" menu and must always have the current data. After **every** push that
-   changes the site data – a new version *and* pure content commits ("Transcript <id>", corrections) – wait until
-   GitHub Pages has rebuilt (`data.json` on the live site shows the new `built`), then follow
-   **"Podcast data update"** in `ShamrockScript/CLAUDE.md` (sync script, republish the artifact, commit there).
+   shows this archive as its own "Podcast" menu and must always have the current data. Real Exam stays private and
+   is only a data provider for Shamrock Script (decision Alex, 07.11.2026); there is no public site to wait for.
+   After **every** commit that changes the site data – a new version *and* pure content commits ("Transcript
+   <id>", corrections) – follow **"Podcast data update"** in `ShamrockScript/CLAUDE.md` right away: run
+   `python scripts/sync_realexam.py` there (it builds `data.json` locally from this clone with `build_site.py`),
+   republish the artifact, commit and push there.
    Only then is the delivery finished; report it to Alex in the same message. If that is impossible in the session,
    say explicitly "Shamrock Script NICHT aktualisiert" – never finish silently. `data.json`/`transcripts.json`
    (format `schema: 1`) may only be extended, never have fields renamed or removed.
