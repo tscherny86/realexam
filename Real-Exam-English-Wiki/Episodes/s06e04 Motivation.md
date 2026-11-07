@@ -19,11 +19,11 @@ tags: [episode, season-6]
 | **Duration** | 18:44 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa) · [MP3](https://www.buzzsprout.com/1107956/episodes/19044420-s06-4-motivation.mp3) |
 | **Transcript** | [[Transcript s06e04]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Books & Reading]], [[Work & Careers]], [[Languages & Language Learning]], [[Motivation & Goals]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Reported Speech]], [[Prepositions]] |
+| **Topics** | [[Books & Reading]], [[Motivation & Goals]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Word Formation]] |
 | **Exams** | – |
 | **Accents** | – |
-| **Briefly mentioned** | [[Sport & Exercise]], [[Learning, School & Education]], [[Complaining & Customer Service]], [[Question Tags]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]], [[Emphasis & Auxiliaries]], [[Organising Your Answer]], [[Listening & Reading]] |
+| **Briefly mentioned** | [[Sport & Exercise]], [[Work & Careers]], [[Learning, School & Education]], [[Complaining & Customer Service]], [[Question Tags]], [[Adverbs]], [[Adjectives & Compound Adjectives]], [[Emphasis & Auxiliaries]], [[Listening & Reading]] |
 
 ## Show notes
 

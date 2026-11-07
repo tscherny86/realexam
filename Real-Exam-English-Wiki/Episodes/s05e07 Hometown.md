@@ -19,11 +19,11 @@ tags: [episode, season-5]
 | **Duration** | 17:09 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w) · [MP3](https://www.buzzsprout.com/1107956/episodes/17129721-s05-7-hometown.mp3) |
 | **Transcript** | [[Transcript s05e07]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Shopping & Consumerism]], [[Change & Life Changes]], [[Languages & Language Learning]], [[Hometown & Places]] |
-| **Language** | [[Idioms & Expressions]] |
+| **Topics** | [[Change & Life Changes]], [[Hometown & Places]] |
+| **Language** | [[Idioms & Expressions]], [[Gerund or Infinitive]] |
 | **Exams** | – |
-| **Accents** | [[Wales]], [[Australia]], [[Non-Native Speakers]] |
-| **Briefly mentioned** | [[Food & Cooking]], [[City & Country Life]], [[Global Issues]], [[Communication]], [[Money & Finance]], [[Learning, School & Education]], [[Culture & Traditions]], [[Help & Kindness]], [[Conditionals]], [[Reported Speech]], [[Scotland]] |
+| **Accents** | [[Wales]], [[Australia]] |
+| **Briefly mentioned** | [[Food & Cooking]], [[City & Country Life]], [[Global Issues]], [[Money & Finance]], [[Learning, School & Education]], [[Culture & Traditions]], [[Help & Kindness]], [[Scotland]] |
 
 ## Show notes
 

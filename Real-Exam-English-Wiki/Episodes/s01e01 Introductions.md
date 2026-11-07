@@ -19,11 +19,11 @@ tags: [episode, season-1]
 | **Duration** | 15:19 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u) · [MP3](https://www.buzzsprout.com/1107956/episodes/5206405-s01-1-introductions.mp3) |
 | **Transcript** | [[Transcript s01e01]] (word-level timestamps, fully proofread) |
-| **Topics** | [[Work & Careers]], [[Learning, School & Education]] |
-| **Language** | [[Phrasal Verbs]], [[Past Perfect & Narrative Tenses]], [[Connectors & Linking Words]] |
+| **Topics** | – |
+| **Language** | [[Phrasal Verbs]], [[Buying Time & Fillers]] |
 | **Exams** | [[Speaking Exam]] |
-| **Accents** | [[England]], [[USA]] |
-| **Briefly mentioned** | [[Books & Reading]], [[Shopping & Consumerism]], [[Transport & Traffic]], [[Idioms & Expressions]], [[Conditionals]], [[Prepositions]], [[Exam Tips & Preparation]], [[South Africa]] |
+| **Accents** | [[Ireland]], [[England]], [[USA]] |
+| **Briefly mentioned** | [[Work & Careers]], [[Transport & Traffic]], [[Idioms & Expressions]], [[Conditionals]], [[Connectors & Linking Words]], [[South Africa]] |
 
 ## Show notes
 

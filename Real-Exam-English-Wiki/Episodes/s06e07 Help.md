@@ -19,11 +19,11 @@ tags: [episode, season-6]
 | **Duration** | 22:31 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj) · [MP3](https://www.buzzsprout.com/1107956/episodes/19518211-s06-7-help.mp3) |
 | **Transcript** | [[Transcript s06e07]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[City & Country Life]], [[Work & Careers]], [[Home & Housing]], [[Parenting & Children]], [[Help & Kindness]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Past Perfect & Narrative Tenses]] |
+| **Topics** | [[City & Country Life]], [[Help & Kindness]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |
 | **Exams** | – |
 | **Accents** | – |
-| **Briefly mentioned** | [[Family & Relationships]], [[Money & Finance]], [[Learning, School & Education]], [[Change & Life Changes]], [[Crime & Law]], [[History & the Past]], [[Slang & Informal English]], [[Ireland]], [[USA]], [[Non-Native Speakers]] |
+| **Briefly mentioned** | [[Family & Relationships]], [[Money & Finance]], [[Change & Life Changes]], [[Crime & Law]], [[History & the Past]], [[Ireland]], [[England]], [[USA]], [[Non-Native Speakers]] |
 
 ## Show notes
 
@@ -42,7 +42,7 @@ As we have speakers from different parts of the world it’s fascinating to hear
 - [8:35](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=515) – She said women tend to over-give. So we use over to express doing too much of something. Like, … ([[Transcript s06e07#Minute 8|transcript]])
 - [10:37](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=637) – On the other hand, he said that people in cities are more reluctant to step in. This word … ([[Transcript s06e07#Minute 10|transcript]])
 - [12:39](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=759) – New groups generally start in September but you can join any time throughout the year as long as … ([[Transcript s06e07#Minute 12|transcript]])
-- [14:48](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=888) – So thaxºt's probably the most dramatic event of being helped by a stranger. And just the other day … ([[Transcript s06e07#Minute 14|transcript]])
+- [14:48](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=888) – So that's probably the most dramatic event of being helped by a stranger. And just the other day … ([[Transcript s06e07#Minute 14|transcript]])
 - [16:55](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1015) – To be politically correct can be tricky sometimes. It was pretty easy to change policeman to police officer … ([[Transcript s06e07#Minute 16|transcript]])
 - [18:59](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1139) – For instance, I wouldn’t dream of going to Madrid in August, it’s way too hot. Or I wouldn’t … ([[Transcript s06e07#Minute 18|transcript]])
 - [21:02](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1262) – Like no, no, no heart, no love, nothing. And then there's the people that like make up for … ([[Transcript s06e07#Minute 21|transcript]])

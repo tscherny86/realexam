@@ -20,10 +20,10 @@ tags: [episode, season-6]
 | **Listen** | [Spotify](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X) · [MP3](https://www.buzzsprout.com/1107956/episodes/18879689-s06-3-complaining.mp3) |
 | **Transcript** | [[Transcript s06e03]] (word-level timestamps, aligned with the official transcript) |
 | **Topics** | [[Work & Careers]], [[Culture & Traditions]], [[Complaining & Customer Service]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Conditionals]], [[Connectors & Linking Words]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[USA]] |
-| **Briefly mentioned** | [[Technology & the Internet]], [[Communication]], [[Anger & Emotions]], [[Change & Life Changes]], [[Happiness]], [[Manners & Politeness]], [[News & Media]], [[Adjectives & Compound Adjectives]], [[Prepositions]], [[Organising Your Answer]] |
+| **Briefly mentioned** | [[Technology & the Internet]], [[Anger & Emotions]], [[Change & Life Changes]], [[Happiness]], [[Manners & Politeness]], [[Adjectives & Compound Adjectives]], [[Prepositions]] |
 
 ## Show notes
 

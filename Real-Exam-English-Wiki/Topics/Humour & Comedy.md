@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 3
+episodes: 2
 tags: [topics]
 ---
 # Humour & Comedy
@@ -25,15 +25,15 @@ stand-up, Irish *slagging* (teasing).
 >
 > — [[s02e01 Celebrations|S2 E1]], [Minute 12:43](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=763) · [[Transcript s02e01#Minute 12|in the transcript]]
 
-> … to let your hair down is a great way to say telling jokes. Do you like organizing parties? Love it, absolutely love it. It´s the event management background in me. Absolutely love it. Love …
+> … to celebrate to let your hair down, act a fool, crack some jokes, catch up with friends, have a boogie and so on.
 >
-> — [[s02e01 Celebrations|S2 E1]], [Minute 15:24](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=924) · [[Transcript s02e01#Minute 15|in the transcript]]
+> — [[s02e01 Celebrations|S2 E1]], [Minute 16:35](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=995) · [[Transcript s02e01#Minute 16|in the transcript]]
 
 > … longer much more tolerable and more possible. It is sometimes said that laughter is the best form of medicine, do you agree? I think that's true up to a point. I'm someone who loves …
 >
 > — [[s02e05 Health|S2 E5]], [Minute 9:14](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=554) · [[Transcript s02e05#Minute 9|in the transcript]]
 
-> … well as your vocabulary. Ok then so today´s topic is sense of humour. Everybody likes to have a laugh right, but as you are about to hear, what is funny in one country isn´t …
+> … that in later episodes. Ok then so today’s topic is sense of humour. Everybody likes to have a laugh right, but as you are about to hear, what is funny in one country isn’t …
 >
 > — [[s03e01 Humour|S3 E1]], [Minute 1:11](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=71) · [[Transcript s03e01#Minute 1|in the transcript]]
 
@@ -56,22 +56,6 @@ stand-up, Irish *slagging* (teasing).
 > … word or expression… Well, there's one that I find it curious and funny because we don't have something similar in Brazil and I don't know. I find it funny, which is hold my beer. …
 >
 > — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 23:36](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1416) · [[Transcript x2024-08-02#Minute 23|in the transcript]]
-
-> … some phrasal verbs and a wide variety of accents, including quite a funny conversation between two Welsh ladies that is sure to test your listening skills. As usual you can find the transcripts for …
->
-> — [[s05e03 Space|S5 E3]], [Minute 0:40](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=40) · [[Transcript s05e03#Minute 0|in the transcript]]
-
-> … a white strip across the sky at night. People often find it funny to hear this in a different language other than their own, the Milky Way. Undertake was another lovely word he used. …
->
-> — [[s05e03 Space|S5 E3]], [Minute 5:56](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=356) · [[Transcript s05e03#Minute 5|in the transcript]]
-
-> … engrossing Surprised astonished, amazed, taken aback Clean spotless, pristine Scared terrified, petrified Funny hilarious, priceless Expensive exorbitant, extortionate Tough one there at the end. Ok, there are more answers than those possible as well. …
->
-> — [[s05e03 Space|S5 E3]], [Minute 11:45](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=705) · [[Transcript s05e03#Minute 11|in the transcript]]
-
-> … so it’s excellent practice for you. And also, they are just really funny, they crack me up. Remember, if you can´t follow the audio then you check out the transcript which has all of …
->
-> — [[s05e03 Space|S5 E3]], [Minute 15:11](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=911) · [[Transcript s05e03#Minute 15|in the transcript]]
 
 > … it uses or occupies a lot of time. And I had to laugh when I heard him say one of the negative symptoms of using the internet is that people stop going to the …
 >
@@ -101,15 +85,14 @@ stand-up, Irish *slagging* (teasing).
 >
 > — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 26:32](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=1592) · [[Transcript x2025-12-16#Minute 26|in the transcript]]
 
-## In these episodes (3)
+## In these episodes (2)
 
 - [[s03e01 Humour|S3 E1 – Humour]] (2021-08-23) — Show notes · Minute [1:11](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=71), [2:44](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=164), [4:18](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=258), [6:16](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=376)
-- [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Show notes · Minute [0:40](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=40), [5:56](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=356), [11:45](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=705), [15:11](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=911)
 - [[x2025-12-16 Xing - Tokyo|Bonus – Xing - Tokyo]] (2025-12-16) — Minute [3:07](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=187), [7:26](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=446), [18:50](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=1130), [26:32](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=1592)
 
 ## Briefly mentioned (4)
 
-- [[s02e01 Celebrations|S2 E1 – Celebrations]] (2021-01-21) — Minute [12:43](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=763), [15:24](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=924)
+- [[s02e01 Celebrations|S2 E1 – Celebrations]] (2021-01-21) — Minute [12:43](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=763), [16:35](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=995)
 - [[s02e05 Health|S2 E5 – Health]] (2021-02-26) — Minute [9:14](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=554)
 - [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Minute [20:01](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1201), [23:36](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1416)
 - [[s05e08 Internet|S5 E8 – Internet]] (2025-06-17) — Minute [2:19](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=139), [10:20](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=620), [13:43](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=823)

@@ -20,10 +20,10 @@ tags: [episode, season-6]
 | **Listen** | [Spotify](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY) · [MP3](https://www.buzzsprout.com/1107956/episodes/19319293-s06-6-creativity.mp3) |
 | **Transcript** | [[Transcript s06e06]] (word-level timestamps, aligned with the official transcript) |
 | **Topics** | [[Work & Careers]], [[Art & Creativity]] |
-| **Language** | [[Phrasal Verbs]], [[Collocations]], [[Relative Clauses]], [[Pronunciation]], [[Prepositions]], [[Organising Your Answer]], [[Spelling]] |
+| **Language** | [[Phrasal Verbs]], [[Collocations]], [[Relative Clauses]], [[Pronunciation]], [[Prepositions]], [[Confusing Words & Homophones]] |
 | **Exams** | – |
-| **Accents** | [[Non-Native Speakers]] |
-| **Briefly mentioned** | [[Technology & the Internet]], [[Family & Relationships]], [[Learning, School & Education]], [[Help & Kindness]], [[Idioms & Expressions]], [[Past Perfect & Narrative Tenses]], [[Confusing Words & Homophones]], [[England]] |
+| **Accents** | – |
+| **Briefly mentioned** | [[Technology & the Internet]], [[Family & Relationships]], [[Help & Kindness]], [[Idioms & Expressions]], [[Common Mistakes]], [[England]] |
 
 ## Show notes
 

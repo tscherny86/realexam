@@ -19,11 +19,11 @@ tags: [episode, season-4]
 | **Duration** | 13:52 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t) · [MP3](https://www.buzzsprout.com/1107956/episodes/13993992-s04-7-parenting.mp3) |
 | **Transcript** | [[Transcript s04e07]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Work & Careers]], [[Family & Relationships]], [[Parenting & Children]] |
-| **Language** | [[Phrasal Verbs]] |
+| **Topics** | [[Family & Relationships]], [[Parenting & Children]] |
+| **Language** | [[Phrasal Verbs]], [[Adverbs]] |
 | **Exams** | – |
-| **Accents** | [[Australia]], [[Non-Native Speakers]] |
-| **Briefly mentioned** | [[Anger & Emotions]], [[Money & Finance]], [[Crime & Law]], [[Home & Housing]], [[Help & Kindness]], [[Idioms & Expressions]], [[Connectors & Linking Words]], [[Pronunciation]], [[Cambridge C2 Proficiency (CPE)]] |
+| **Accents** | – |
+| **Briefly mentioned** | [[Anger & Emotions]], [[Money & Finance]], [[Crime & Law]], [[Home & Housing]], [[Help & Kindness]], [[Idioms & Expressions]], [[Connectors & Linking Words]], [[Pronunciation]], [[Australia]] |
 
 ## Show notes
 

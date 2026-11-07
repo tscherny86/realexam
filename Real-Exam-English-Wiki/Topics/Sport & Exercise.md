@@ -25,7 +25,7 @@ exercise more.
 
 ## Said in the podcast
 
-> … My name is Trevor and today we´re going to be talking about sports and exercise. Ok I´m a big sports fan, I love watching sports as well as keeping fit, but I understand not …
+> … My name is Trevor and today we’re going to be talking about sports and exercise. Ok I’m a big sports fan, I love watching sports as well as keeping fit, but I understand not …
 >
 > — [[s01e04 Sport and exercise|S1 E4]], [Minute 0:12](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=12) · [[Transcript s01e04#Minute 0|in the transcript]]
 
@@ -33,11 +33,11 @@ exercise more.
 >
 > — [[s01e04 Sport and exercise|S1 E4]], [Minute 2:59](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=179) · [[Transcript s01e04#Minute 2|in the transcript]]
 
-> … spend the money it´s more motivation for me to go to the gym. So, I feel like I do personally, feel like I need to like spend something in order to motivate me to …
+> … spend the money it’s more motivation for me to go to the gym. So, I feel like I do personally, feel like I need to like spend something in order to motivate me to …
 >
 > — [[s01e04 Sport and exercise|S1 E4]], [Minute 5:12](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=312) · [[Transcript s01e04#Minute 5|in the transcript]]
 
-> … it really is the most important phrasal verb when you're talking about exercising and gyms in particular. So to work out is basically to do exercise. Remember, you can get the transcripts for this …
+> … it really is the most important phrasal verb when you're talking about exercising and gyms in particular. So to work out is basically to do exercise. Trevor: Have you ever been to a gym? …
 >
 > — [[s01e04 Sport and exercise|S1 E4]], [Minute 6:43](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=403) · [[Transcript s01e04#Minute 6|in the transcript]]
 
@@ -48,26 +48,6 @@ exercise more.
 > … were buff and swole. So you could say the bodybuilders in that gym are all swole, it’s totally intimidating to go in there! In the second answer we had this expression to crunch the …
 >
 > — [[s02e05 Health|S2 E5]], [Minute 3:49](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=229) · [[Transcript s02e05#Minute 3|in the transcript]]
-
-> … we too easily influenced by people we have never met, such as sports stars or other famous people? Wholeheartedly, yes, I think we are. I think people get so obsessive with famous people, be …
->
-> — [[s03e08 Fame|S3 E8]], [Minute 1:42](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=102) · [[Transcript s03e08#Minute 1|in the transcript]]
-
-> … virtuously. This expression actually came up in a C1 use of English exercise I did in class yesterday, which just shows the benefit of listening to and studying expressions like these. Anther useful expression …
->
-> — [[s03e08 Fame|S3 E8]], [Minute 3:22](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=202) · [[Transcript s03e08#Minute 3|in the transcript]]
-
-> … we too easily influenced by people we have never met, such as sports stars or other famous people? A lot of people are, you know. They're just the same as anyone else. They've just …
->
-> — [[s03e08 Fame|S3 E8]], [Minute 11:58](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=718) · [[Transcript s03e08#Minute 11|in the transcript]]
-
-> … notorious is used when you are famous for something bad, like the footballer is notorious for diving. We heard some nice emphasis in the first answer, I do wonder if it´s a good idea. …
->
-> — [[s04e02 Languages|S4 E2]], [Minute 13:35](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=815) · [[Transcript s04e02#Minute 13|in the transcript]]
-
-> … with the transcripts are a bunch of really useful grammar and vocabulary exercises, especially for anyone preparing for a Cambridge English exam. They can really help you get the most from the podcast and …
->
-> — [[s04e02 Languages|S4 E2]], [Minute 18:24](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=1104) · [[Transcript s04e02#Minute 18|in the transcript]]
 
 > … are you going to do this weekend? Well, Saturday morning, we'll be running at the track, as normal, with our triathlon club and then we go for breakfast, so that'll be that. Then we'll …
 >
@@ -89,7 +69,7 @@ exercise more.
 >
 > — [[s05e04 School|S5 E4]], [Minute 9:18](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=558) · [[Transcript s05e04#Minute 9|in the transcript]]
 
-> … attitude and enthusiasm would be the most important. How important is physical exercise at school? I think it is of utmost importance. Because you have, especially when you're into your teenage years, you're getting …
+> … attitude and enthusiasm would be the most important. How important is physical exercise at school? I think it is of utmost importance. Therefore, if they’re going to do any exercise, it needs to be …
 >
 > — [[s05e04 School|S5 E4]], [Minute 14:48](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=888) · [[Transcript s05e04#Minute 14|in the transcript]]
 
@@ -125,11 +105,9 @@ exercise more.
 
 - [[s01e04 Sport and exercise|S1 E4 – Sport and exercise]] (2020-08-30) — Show notes · Minute [0:12](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=12), [2:59](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=179), [5:12](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=312), [6:43](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=403)
 
-## Briefly mentioned (7)
+## Briefly mentioned (5)
 
 - [[s02e05 Health|S2 E5 – Health]] (2021-02-26) — Minute [2:16](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=136), [3:49](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=229)
-- [[s03e08 Fame|S3 E8 – Fame]] (2022-04-07) — Minute [1:42](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=102), [3:22](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=202), [11:58](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=718)
-- [[s04e02 Languages|S4 E2 – Languages]] (2023-04-29) — Minute [13:35](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=815), [18:24](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=1104)
 - [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Minute [9:53](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=593), [11:24](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=684), [15:35](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=935)
 - [[s05e04 School|S5 E4 – School]] (2025-02-07) — Minute [1:27](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=87), [9:18](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=558), [14:48](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=888), [17:17](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=1037)
 - [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [4:17](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=257), [19:02](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=1142)

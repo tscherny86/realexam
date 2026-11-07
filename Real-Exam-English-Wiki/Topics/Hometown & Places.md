@@ -20,7 +20,7 @@ good first impression.
 
 ## Said in the podcast
 
-> … and welcome to the Real Exam English podcast. This episode is about hometowns. As usual we’ll take a look at all of the nice grammar and vocabulary, particularly language relating to towns and cities. …
+> This episode is about hometowns. As usual we’ll take a look at all of the nice grammar and vocabulary, particularly language relating to towns and cities. …
 >
 > — [[s05e07 Hometown|S5 E7]], [Minute 0:16](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=16) · [[Transcript s05e07#Minute 0|in the transcript]]
 

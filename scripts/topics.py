@@ -52,7 +52,7 @@ how far your vocabulary stretches beyond *delicious* and *tasty*.
     {
         "name": "Sport & Exercise",
         "folder": "Topics",
-        "patterns": [r"\bsports?\b", r"exercis", r"\bgym\b", r"football", r"fitness", r"workout", r"athlet", r"keep fit", r"\bjogging\b", r"\brunning\b"],
+        "patterns": [r"\bsports?\b", r"\bexercis(e|ing)\b(?! (book|books|on|in|for|from))", r"\bgym\b", r"football", r"fitness", r"workout", r"athlet", r"keep fit", r"\bjogging\b", r"\brunning\b"],
         "summary": "Keeping fit, competitive sport and the role of exercise in a healthy life.",
         "body": """
 Exam questions on sport usually go beyond *Which sport do you like?* – you may be asked whether
@@ -86,7 +86,7 @@ Technology questions are a safe bet in every exam: *Has technology made our live
     {
         "name": "Music",
         "folder": "Topics",
-        "patterns": [r"\bmusic\b", r"\bsongs?\b", r"concert", r"\bband\b", r"playlist", r"musical instrument", r"\bgig\b", r"\balbum\b"],
+        "patterns": [r"\bmusic\b", r"\bsongs?\b", r"concert", r"(?<!ielts )\bbands?\b(?! ?[0-9])", r"playlist", r"musical instrument", r"\bgig\b", r"\balbum\b"],
         "summary": "Musical taste, concerts and playing an instrument.",
         "body": """
 Music is a classic B2 speaking topic and a good source of personal examples for *Part 1* questions.
@@ -100,7 +100,7 @@ Music is a classic B2 speaking topic and a good source of personal examples for 
     {
         "name": "The Environment & Climate Change",
         "folder": "Topics",
-        "patterns": [r"environment", r"climate change", r"pollution", r"recycl", r"global warming", r"carbon", r"sustainab", r"\bplastic", r"renewable", r"\bemissions?\b", r"eco-friendly", r"\bgreenhouse"],
+        "patterns": [r"\bthe environment\b", r"environmental(ly)?\b", r"climate change", r"pollution", r"recycl", r"global warming", r"carbon", r"sustainab", r"\bplastic", r"renewable", r"\bemissions?\b", r"eco-friendly", r"\bgreenhouse"],
         "summary": "Pollution, recycling, climate change and sustainable living – essential for every level.",
         "body": """
 Hardly any exam goes by without an environmental question, and C1/C2 essays on climate change are
@@ -190,7 +190,7 @@ consequences and solutions in a structured way.
     {
         "name": "Shopping & Consumerism",
         "folder": "Topics",
-        "patterns": [r"shopping", r"\bshops?\b", r"consumer", r"purchas", r"bargain", r"\bbrands?\b", r"\bretail", r"\bsales?\b", r"second-?hand", r"\bbuy\b", r"\bbought\b"],
+        "patterns": [r"shopping", r"\bshops?\b", r"consumer", r"purchas", r"bargain", r"\bbrands?\b", r"\bretail", r"second-?hand"],
         "summary": "Shopping habits, online shopping, brands and consumer society.",
         "body": """
 Shopping is a B2 favourite that can be pushed to C1/C2 with questions about consumerism and
@@ -248,7 +248,7 @@ answers ready that go beyond *I like watching TV*.
         "name": "Work & Careers",
         "folder": "Topics",
         "patterns": [r"\bwork\b", r"\bjobs?\b", r"career", r"employ", r"\bboss\b", r"\boffice\b", r"colleague", r"salary", r"profession", r"work-life balance", r"\bretire", r"unemployment", r"\bworkplace\b"],
-        "min": 6,
+        "min": 15,
         "summary": "Jobs, careers, the workplace and work-life balance – a C1 Advanced staple.",
         "body": """
 Work is one of the most frequent C1 topics: *Is it better to work for a large company or a small
@@ -263,7 +263,7 @@ one?*, *How important is job satisfaction?*, *Should people retire later?*
     {
         "name": "Communication",
         "folder": "Topics",
-        "patterns": [r"communicat", r"text message", r"\btexting\b", r"phone call", r"\bemail", r"\bletters?\b", r"\bwhatsapp\b", r"video call", r"face-to-face", r"\bchat\b"],
+        "patterns": [r"\bcommunicat(e|es|ed|ion|ions|ing)\b", r"text message", r"\btexting\b", r"phone call", r"\bemail", r"\bwhatsapp\b", r"video call", r"face-to-face"],
         "summary": "How we keep in touch: messaging, calls, social media and face-to-face contact.",
         "body": """
 Communication topics ask how technology has changed the way we talk to each other and whether
@@ -308,7 +308,7 @@ stand-up, Irish *slagging* (teasing).
     {
         "name": "Anger & Emotions",
         "folder": "Topics",
-        "patterns": [r"\banger\b", r"\bangry\b", r"annoy", r"frustrat", r"emotion", r"\btemper\b", r"furious", r"\bupset\b", r"\bfeelings?\b", r"lose it", r"\bmood\b"],
+        "patterns": [r"\banger\b", r"\bangry\b", r"annoy", r"frustrat", r"emotion", r"\btemper\b", r"furious", r"\bupset\b", r"lose it", r"\bmood\b"],
         "summary": "Talking about feelings – from mild irritation to losing your temper.",
         "body": """
 Emotion vocabulary separates a B2 candidate (*angry*, *sad*, *happy*) from a C1 one
@@ -323,7 +323,7 @@ Emotion vocabulary separates a B2 candidate (*angry*, *sad*, *happy*) from a C1 
     {
         "name": "Photography & Photos",
         "folder": "Topics",
-        "patterns": [r"\bphotos?\b", r"photograph", r"\bpictures?\b", r"\bcamera", r"selfie", r"instagram", r"\bsnapshot"],
+        "patterns": [r"\bphotos?\b", r"photograph", r"\bpictures?\b", r"\bcamera", r"selfie", r"\bsnapshot"],
         "summary": "Taking photos, social media pictures and the speaking-exam skill of describing a picture.",
         "body": """
 Photos matter twice in exams: as a topic (*Do people take too many photos?*) and as a task –
@@ -337,7 +337,7 @@ in B2 First and C1 Advanced Part 2 you **compare two photographs** and speculate
     {
         "name": "Money & Finance",
         "folder": "Topics",
-        "patterns": [r"\bmoney\b", r"financ", r"\bsavings?\b", r"\bspend", r"\bdebt", r"budget", r"\bbank\b", r"\bwealth", r"\bcash\b", r"\bloan", r"\bincome\b", r"\bpocket money\b", r"\bexpensive\b"],
+        "patterns": [r"\bmoney\b", r"financ", r"\bsavings?\b", r"\bspend(ing)? (money|a fortune|a lot on|on)\b", r"\bdebt", r"budget", r"\bbank\b", r"\bwealth", r"\bcash\b", r"\bloan", r"\bincome\b", r"\bpocket money\b", r"\bexpensive\b"],
         "min": 5,
         "summary": "Saving, spending, debt and attitudes to money.",
         "body": """
@@ -353,7 +353,7 @@ common at every level.
     {
         "name": "Learning, School & Education",
         "folder": "Topics",
-        "patterns": [r"\blearning\b", r"education", r"\bschool", r"\bstudents?\b", r"\bteachers?\b", r"\bstudy", r"universit", r"\bcourse", r"homework", r"\bclassroom", r"\bcurriculum"],
+        "patterns": [r"\blearning\b", r"education", r"\bschool", r"\bteachers?\b", r"\bstudy", r"universit", r"(?<!of )\bcourses?\b", r"homework", r"\bclassroom", r"\bcurriculum"],
         "min": 6,
         "summary": "School days, learning styles, university and whether education prepares you for life.",
         "body": """
@@ -397,7 +397,7 @@ From *Do you have a pet?* to C2 debates on animal testing and zoos – animals c
     {
         "name": "Fame & Celebrity",
         "folder": "Topics",
-        "patterns": [r"\bfame\b", r"\bfamous\b", r"celebrit", r"\bstars?\b", r"paparazzi", r"\bprivacy\b", r"influencer", r"\bidol"],
+        "patterns": [r"\bfame\b", r"\bfamous\b", r"celebrit", r"paparazzi", r"\bprivacy\b", r"influencer", r"\bidol"],
         "summary": "Celebrities, privacy and whether fame is worth having.",
         "body": """
 A C1 classic: *Do celebrities deserve their privacy?*, *Would you like to be famous?*
@@ -423,7 +423,7 @@ New Zealand and South Africa answer the same questions very differently.
     {
         "name": "Change & Life Changes",
         "folder": "Topics",
-        "patterns": [r"\bchang(e|es|ed|ing)\b", r"turning point", r"\bmove(d)? abroad", r"\bnew chapter"],
+        "patterns": [r"(?<!climate )(?<!climate-)\bchang(e|es|ed|ing)\b", r"turning point", r"\bmove(d)? abroad", r"\bnew chapter"],
         "min": 12,
         "summary": "Big life changes, moving abroad and how people deal with change.",
         "body": """
@@ -437,8 +437,8 @@ tenses and reflective language.
     {
         "name": "Happiness",
         "folder": "Topics",
-        "patterns": [r"happiness", r"\bhappy\b", r"\bjoy\b", r"contentment", r"\bcontent\b", r"satisf", r"fulfil"],
-        "min": 5,
+        "patterns": [r"happiness", r"\bhappy\b", r"\bjoy\b", r"contentment", r"satisf", r"fulfil"],
+        "min": 12,
         "summary": "What makes people happy and whether money can buy it.",
         "body": """
 Happiness is a reflective C1/C2 topic that invites abstract nouns and hedging language.
@@ -450,7 +450,7 @@ Happiness is a reflective C1/C2 topic that invites abstract nouns and hedging la
     {
         "name": "Crime & Law",
         "folder": "Topics",
-        "patterns": [r"\bcrimes?\b", r"criminal", r"police", r"\btheft\b", r"\bsteal", r"\bstolen\b", r"burglar", r"\blaws?\b", r"prison", r"murder", r"illegal", r"\bpunish", r"shoplift", r"\bjail\b", r"\bfine[sd]?\b"],
+        "patterns": [r"\bcrimes?\b", r"criminal", r"police", r"\btheft\b", r"\bsteal", r"\bstolen\b", r"burglar", r"\b(the law|laws|against the law|break(ing)? the law|law enforcement)\b", r"prison", r"murder", r"illegal", r"\bpunish", r"shoplift", r"\bjail\b", r"\bfine[sd]?\b"],
         "summary": "Types of crime, punishment and how safe different countries feel.",
         "body": """
 Crime is a frequent C1 Advanced topic with a lot of specific vocabulary to learn.
@@ -465,7 +465,7 @@ Crime is a frequent C1 Advanced topic with a lot of specific vocabulary to learn
     {
         "name": "Languages & Language Learning",
         "folder": "Topics",
-        "patterns": [r"\blanguages?\b", r"bilingual", r"native speaker", r"learn(ing)? English", r"mother tongue", r"\bfluent"],
+        "patterns": [r"\blanguages\b", r"\b(foreign|second|native|first|another|new|other) language\b", r"language learning", r"bilingual", r"mother tongue", r"\bfluent", r"\blearn(ing|t|ed)? (English|Spanish|French|German|Italian|Japanese|Chinese)\b", r"\blearn(ing|t|ed)? (a |the |another |any )?language", r"\bEnglish (learner|learning|teacher|teaching)s?\b", r"\blanguage (learner|learning|skills?|level|barrier|school|exam|teacher)s?\b", r"\b(my|your|her|his|their|own) English\b", r"\b(speak|speaking|spoke|speaks) English\b"],
         "min": 8,
         "summary": "Learning languages, being bilingual and the experience of living in another language.",
         "body": """
@@ -581,7 +581,7 @@ Future questions test modal verbs and future forms: *will*, *going to*, *might*,
     {
         "name": "Space & Science",
         "folder": "Topics",
-        "patterns": [r"\bspace\b", r"planet", r"astronaut", r"\bnasa\b", r"\bmoon\b", r"\bmars\b", r"universe", r"galax", r"rocket", r"\bscience\b", r"scientist", r"\bstars?\b", r"space exploration"],
+        "patterns": [r"\bspace\b", r"planet", r"astronaut", r"\bnasa\b", r"\bmoon\b", r"\bmars\b", r"universe", r"galax", r"rocket", r"\bscience\b", r"scientist", r"space exploration"],
         "min": 4,
         "summary": "Space exploration, science and whether the money is well spent.",
         "body": """
@@ -650,7 +650,7 @@ good first impression.
     {
         "name": "News & Media",
         "folder": "Topics",
-        "patterns": [r"\bnews\b", r"journalis", r"newspaper", r"headline", r"\bmedia\b", r"fake news", r"\bthe press\b", r"\bbroadcast", r"\bcurrent affairs\b"],
+        "patterns": [r"\bnews\b", r"journalis", r"newspaper", r"headline", r"\bthe media\b", r"\bmass media\b", r"fake news", r"\bthe press\b", r"\bbroadcast", r"\bcurrent affairs\b"],
         "min": 4,
         "summary": "How we get the news, fake news and the role of journalists.",
         "body": """
@@ -664,7 +664,7 @@ News and media are frequent C1/C2 topics, including the reliability of social me
     {
         "name": "Extremes & Adventure",
         "folder": "Topics",
-        "patterns": [r"\bextreme", r"adventur", r"adrenaline", r"\brisks?\b", r"\bdaring\b", r"marathon", r"\bthrill", r"\bdanger"],
+        "patterns": [r"\bextremes?\b", r"adventur", r"adrenaline", r"\brisks?\b", r"\bdaring\b", r"marathon", r"\bthrill(ing|ed|s)?\b", r"\bdanger"],
         "min": 4,
         "summary": "Extreme experiences, risk-taking and adrenaline sports.",
         "body": """
@@ -721,7 +721,7 @@ A fun C1 topic that produces a lot of idioms.
         "name": "Help & Kindness",
         "folder": "Topics",
         "patterns": [r"\bhelp(ing|ed|s)?\b", r"kindness", r"volunteer", r"\bfavou?rs?\b", r"charity", r"generous", r"\bgive back\b", r"\bgood deed"],
-        "min": 8,
+        "min": 12,
         "summary": "Helping others, volunteering and acts of kindness.",
         "body": """
 Help is a topic bursting with phrasal verbs: *help out*, *give a hand*, *pitch in*, *chip in*,
@@ -746,6 +746,48 @@ perfect (*If I had known…*).
   *to sleep on it*, *in two minds*.
 """,
     },
+    {
+        "name": "Drugs & Legalisation",
+        "folder": "Topics",
+        "patterns": [r"marijuana", r"cannabis", r"legali[sz]", r"\bdrugs?\b", r"\bweed\b", r"\baddict"],
+        "min": 6,
+        "summary": "Drugs, addiction and whether soft drugs should be legalised – a classic C1/C2 discussion.",
+        "body": """
+A sensitive but frequent discussion topic at C1 and C2 level: *Should cannabis be legalised?*, *How
+should society deal with addiction?*
+
+- Vocabulary: *to legalise/decriminalise*, *recreational use*, *medicinal*, *to be addicted to*,
+  *substance abuse*, *rehab*, *a deterrent*, *the black market*, *to crack down on*.
+- Keep an essay balanced: health risks and crime on one side, tax revenue, regulation and personal
+  freedom on the other.
+""",
+    },
+    {
+        "name": "Globalisation",
+        "folder": "Topics",
+        "patterns": [r"globali[sz]", r"\bglobal(ly)?\b", r"multinational", r"\bthe same everywhere\b"],
+        "min": 6,
+        "summary": "Globalisation: countries becoming more alike, multinational companies and cultural identity.",
+        "body": """
+Globalisation appears in questions about tourism, culture, work and the environment: *Are countries
+becoming more similar?*, *Do multinational companies do more harm than good?*
+
+- Vocabulary: *to homogenise*, *cultural identity*, *a melting pot*, *outsourcing*, *to lose touch with
+  traditions*, *interconnected*, *a global village*.
+""",
+    },
+    {
+        "name": "Covid & Lockdown",
+        "folder": "Topics",
+        "patterns": [r"\bcovid", r"coronavirus", r"\bpandemic\b", r"lockdown", r"\bquarantine\b", r"social distanc"],
+        "min": 4,
+        "summary": "The pandemic years in the podcast: lockdown, working from home and how life changed.",
+        "body": """
+Seasons 1 and 2 were recorded during the pandemic, so many speakers mention **lockdown**, working from
+home and missing their families. Useful vocabulary: *to self-isolate*, *furlough*, *to work remotely*,
+*restrictions*, *to ease the lockdown*, *a second wave*, *to get back to normal*.
+""",
+    },
     # ------------------------------------------------------------------ Language (grammar & vocabulary)
     *[
         {"name": n, "folder": "Language", "patterns": p, "summary": s, "body": b, **({"min": m} if m else {})}
@@ -768,7 +810,7 @@ head*, *once in a blue moon*.
   Use the ones you have heard in context and are sure about.
 - Many idioms are informal; in a formal essay keep to neutral expressions.
 """, 5),
-            ("Collocations", [r"collocat", r"go(es)? together with", r"\bgo with\b"], "Words that naturally go together (make a decision, heavy rain, strong coffee).", """
+            ("Collocations", [r"collocat"], "Words that naturally go together (make a decision, heavy rain, strong coffee).", """
 **Collocations** are word partnerships native speakers use automatically: *make a mistake* (not *do*),
 *heavy traffic*, *a strong accent*, *bitterly cold*.
 
@@ -777,7 +819,7 @@ head*, *once in a blue moon*.
 - Learn verb + noun (*take a photo*), adjective + noun (*a narrow escape*) and adverb + adjective
   (*deeply disappointed*) pairs.
 """, None),
-            ("Conditionals", [r"conditional", r"\bif I (had|were)\b", r"\bhad I\b", r"\bwere I\b", r"\bunless\b", r"\bprovided that\b"], "Zero, first, second, third and mixed conditionals, plus inverted forms for C1/C2.", """
+            ("Conditionals", [r"conditional"], "Zero, first, second, third and mixed conditionals, plus inverted forms for C1/C2.", """
 - **Zero**: facts (*If you heat ice, it melts*). **First**: real future (*If it rains, we'll stay in*).
 - **Second**: unreal present/future (*If I won the lottery, I'd travel*). **Third**: unreal past
   (*If I had known, I would have come*).
@@ -793,7 +835,7 @@ head*, *once in a blue moon*.
 - Other forms: *The reason (why) I left was…*, *All I want is…*, *The thing is…*
 - They are very common in natural speech and earn marks for range in C1/C2 speaking and writing.
 """, None),
-            ("Inversion", [r"\binversion\b", r"\binverted\b", r"\bnever have I\b", r"\bnot only\b", r"\bno sooner\b", r"\brarely\b", r"\bseldom\b", r"\bunder no circumstances\b", r"\blittle did\b"], "Never have I seen… – putting the auxiliary before the subject for emphasis.", """
+            ("Inversion", [r"\binversions?\b", r"\binverted\b", r"\binvert\b", r"\bno sooner\b", r"\bunder no circumstances\b", r"\blittle did\b"], "Never have I seen… – putting the auxiliary before the subject for emphasis.", """
 **Inversion** after negative or limiting adverbials is a hallmark of formal, advanced English:
 
 - *Never have I seen such a mess.* *Not only did he arrive late, but he also forgot the tickets.*
@@ -811,7 +853,7 @@ week.* It is common in formal writing, reports and news.
   Use of English key-word transformations.
 - Informal *get*-passive: *He got sacked.*
 """, None),
-            ("Past Perfect & Narrative Tenses", [r"past perfect", r"narrative tense", r"\bpluperfect\b", r"past continuous", r"past simple", r"\bused to\b", r"\bwould\b.*\bevery\b"], "Telling stories: past simple, past continuous, past perfect and used to / would.", """
+            ("Past Perfect & Narrative Tenses", [r"past perfect", r"narrative tense", r"\bpluperfect\b", r"past continuous", r"past simple"], "Telling stories: past simple, past continuous, past perfect and used to / would.", """
 Exam stories (*Tell us about a time when…*) are judged on how well you handle the **narrative tenses**:
 
 - **Past simple** for the main events, **past continuous** for background actions in progress,
@@ -828,7 +870,7 @@ have you?*
 - Tricky ones: *I'm late, aren't I?*, *Let's go, shall we?*, *Don't forget, will you?*
 - Intonation: falling tag = you expect agreement; rising tag = a real question.
 """, None),
-            ("Comparatives & Superlatives", [r"comparative", r"superlative", r"\bfar more\b", r"\bby far\b", r"\bnowhere near\b", r"\bthe more .* the more\b"], "Comparing things precisely: far better, nowhere near as good, the more… the more.", """
+            ("Comparatives & Superlatives", [r"comparative", r"superlative", r"\bthe more .* the more\b"], "Comparing things precisely: far better, nowhere near as good, the more… the more.", """
 Beyond *bigger* and *the biggest*, exams look for **modified comparisons**:
 
 - *far/much/considerably/slightly* + comparative; *by far the best*; *nowhere near as expensive as*;
@@ -836,7 +878,7 @@ Beyond *bigger* and *the biggest*, exams look for **modified comparisons**:
 - *The more you practise, the easier it gets.* *It's getting harder and harder.*
 - Spelling: *bigger*, *happier*, *more modern*; irregular: *further*, *elder/eldest*, *less/least*.
 """, None),
-            ("Adverbs", [r"\badverbs?\b", r"\badverbial\b", r"\b\w+ly\b.*\badverb"], "Adverbs of degree, manner and attitude that make speech sound natural and precise.", """
+            ("Adverbs", [r"\badverbs?\b", r"\badverbial\b"], "Adverbs of degree, manner and attitude that make speech sound natural and precise.", """
 **Adverbs** show how well you can shade meaning: *utterly exhausted*, *absolutely stunning*,
 *slightly annoyed*, *frankly*, *admittedly*, *surprisingly*.
 
@@ -852,7 +894,7 @@ Beyond *bigger* and *the biggest*, exams look for **modified comparisons**:
 - Order of adjectives: opinion → size → age → shape → colour → origin → material (*a lovely little old
   wooden box*).
 """, 4),
-            ("Connectors & Linking Words", [r"connector", r"linking words?", r"\blinkers?\b", r"discourse marker", r"cohesi", r"\bfurthermore\b", r"\bnevertheless\b", r"\bwhereas\b", r"\bhowever\b"], "Linking ideas so that essays and answers flow: however, whereas, furthermore, consequently.", """
+            ("Connectors & Linking Words", [r"connector", r"linking words?", r"\blinkers?\b", r"discourse marker", r"cohesi"], "Linking ideas so that essays and answers flow: however, whereas, furthermore, consequently.", """
 **Cohesion** is one of the four writing criteria in Cambridge exams, so linking words are worth marks.
 
 - Contrast: *however*, *whereas*, *although*, *despite / in spite of* + noun or -ing, *nevertheless*.
@@ -867,13 +909,13 @@ Beyond *bigger* and *the biggest*, exams look for **modified comparisons**:
 - Advanced: *whose*, *whom*, *whereby*, *in which case*, reduced relatives (*the people living next
   door*), *which* referring to a whole clause (*He was late, which annoyed everyone*).
 """, None),
-            ("Modal Verbs", [r"\bmodal", r"\bmust have\b", r"\bcan't have\b", r"\bmight have\b", r"\bshould have\b", r"\bought to\b", r"\bneedn't\b"], "Must, might, can't, should have – obligation, possibility and deduction.", """
+            ("Modal Verbs", [r"\bmodal"], "Must, might, can't, should have – obligation, possibility and deduction.", """
 - Obligation and advice: *must*, *have to*, *should*, *ought to*, *needn't*, *had better*.
 - Deduction: *must be* (sure), *might/may/could be* (possible), *can't be* (impossible).
 - **Modals in the past**: *must have left*, *can't have seen*, *should have told me* (regret),
   *needn't have worried* – a favourite in key-word transformations.
 """, None),
-            ("Reported Speech", [r"reported speech", r"indirect speech", r"reporting verbs?", r"\bhe said that\b", r"\bshe told me\b"], "Reporting what people said, with tense backshift and reporting verbs.", """
+            ("Reported Speech", [r"reported speech", r"indirect speech", r"reporting verbs?"], "Reporting what people said, with tense backshift and reporting verbs.", """
 - Backshift: *"I'm tired" → She said she was tired.* Modals and time words change too
   (*will → would*, *tomorrow → the next day*).
 - **Reporting verbs** with their patterns are tested heavily: *suggest doing*, *refuse to do*,
@@ -888,7 +930,7 @@ Pronunciation is one of the four speaking criteria. Examiners look for **individ
 - Word stress changes meaning: *REcord* (noun) vs. *reCORD* (verb), *PREsent / preSENT*.
 - The **schwa** /ə/ in unstressed syllables is the most common sound in English.
 """, None),
-            ("Word Formation", [r"word formation", r"\bsuffix", r"\bprefix", r"portmanteau", r"\bnoun form\b", r"\badjective form\b", r"word family"], "Prefixes, suffixes and word families – tested directly in Use of English Part 3.", """
+            ("Word Formation", [r"word[- ]formation", r"\bsuffix", r"\bprefix", r"portmanteau", r"\bnoun form\b", r"\badjective form\b", r"word family"], "Prefixes, suffixes and word families – tested directly in Use of English Part 3.", """
 **Word formation** (Use of English Part 3) asks you to change a given word to fit a gap:
 *succeed → success → successful → unsuccessfully*.
 
@@ -897,7 +939,7 @@ Pronunciation is one of the four speaking criteria. Examiners look for **individ
 - Prefixes: *un-, in-, im-, il-, ir-, dis-, mis-, over-, under-, re-*.
 - **Portmanteau** words blend two words: *brunch*, *glamping*, *staycation*, *smog*.
 """, None),
-            ("Prepositions", [r"\bprepositions?\b", r"dependent preposition", r"\binterested in\b", r"\bdepend on\b", r"\bon time\b", r"\bin time\b", r"\bat the end\b", r"\bin the end\b"], "Dependent prepositions and the small words that cause big mistakes.", """
+            ("Prepositions", [r"\bprepositions?\b", r"dependent preposition"], "Dependent prepositions and the small words that cause big mistakes.", """
 Prepositions are a constant source of errors, and **dependent prepositions** (*depend on*,
 *interested in*, *good at*, *responsible for*) appear in every Use of English paper.
 
@@ -922,7 +964,7 @@ Ways to **add emphasis**:
 - **False friends** for Spanish speakers: *embarrassed* ≠ *embarazada*, *assist* ≠ *asistir*,
   *career* ≠ *carrera*, *library* ≠ *librería*.
 """, None),
-            ("Common Mistakes", [r"common (mistakes?|errors?)", r"\bmistakes?\b", r"\berrors?\b", r"\bpeople (often|always) say\b", r"\bdon't say\b", r"\bincorrect"], "The errors examiners hear again and again – and how to avoid them.", """
+            ("Common Mistakes", [r"common (mistakes?|errors?)", r"\bmistakes? (that|people|students|learners)\b", r"\bpeople (often|always|sometimes) say\b", r"\bdon't say\b", r"\bincorrect", r"\bthat's wrong\b", r"\bnot correct\b"], "The errors examiners hear again and again – and how to avoid them.", """
 Typical mistakes at B2–C2:
 
 - *People is* → *people are*; *informations* → *information* (uncountable); *advices* → *advice*.
@@ -938,7 +980,7 @@ Typical mistakes at B2–C2:
   *odds and ends*, *peace and quiet*, *bits and pieces*, *now and then*, *sooner or later*.
 - They sound very natural in speech and are quick wins for the vocabulary mark.
 """, None),
-            ("Organising Your Answer", [r"organi[sz](e|ing|ation)", r"structure (your|an|the) answer", r"\bfirstly\b", r"\bsecondly\b", r"\bto sum up\b", r"\bon the one hand\b", r"\bin conclusion\b", r"\bparagraph"], "Structuring a long turn, a monologue or an essay so the examiner can follow you.", """
+            ("Organising Your Answer", [r"organi[sz](e|ing|ed|ation of) (your|an|the|my|his|her) (answer|answers|speech|essay|writing|ideas|response)", r"structure (your|an|the) answer", r"well[- ]structured", r"discourse management", r"\bsignpost"], "Structuring a long turn, a monologue or an essay so the examiner can follow you.", """
 **Discourse management** is a speaking criterion of its own: examiners check whether your answer has
 a beginning, a middle and an end and whether ideas are linked.
 
@@ -947,7 +989,7 @@ a beginning, a middle and an end and whether ideas are linked.
   *having said that*, *to sum up*, *in conclusion*.
 - In writing: one idea per paragraph, topic sentences, a clear conclusion.
 """, None),
-            ("Slang & Informal English", [r"\bslang\b", r"informal", r"colloquial", r"\bgonna\b", r"\bwanna\b", r"\bgrand\b", r"\bmate\b", r"\bcheers\b", r"\bbloke\b", r"\bdodgy\b"], "Gonna, grand, mate, dodgy – the informal English you hear from native speakers.", """
+            ("Slang & Informal English", [r"\bslang\b", r"\binformal\b", r"colloquial"], "Gonna, grand, mate, dodgy – the informal English you hear from native speakers.", """
 Native speakers use **informal English** constantly; you need to understand it for the listening
 paper and to know when **not** to use it (formal essays, reports, letters of application).
 
@@ -955,12 +997,61 @@ paper and to know when **not** to use it (formal essays, reports, letters of app
   *knackered*, *dodgy*, *quid*. American: *awesome*, *bucks*, *gonna*, *you guys*.
 - *Gonna / wanna / gotta* are fine in speech, never in writing.
 """, 4),
-            ("Spelling", [r"\bspelling\b", r"\bspelt\b", r"\bspelled\b", r"\bhow do you spell\b", r"british spelling", r"american spelling", r"\bdouble (the )?(l|consonant)\b"], "British vs. American spelling and the words everyone misspells.", """
+            ("Spelling", [r"\bspelling\b", r"\bhow do you spell\b", r"british spelling", r"american spelling", r"\bdouble (the )?(l|consonant)\b"], "British vs. American spelling and the words everyone misspells.", """
 - **British vs. American**: *colour / color*, *centre / center*, *organise / organize* (both OK in
   the UK), *travelling / traveling*, *programme / program*.
 - Frequent errors: *definitely*, *separate*, *necessary*, *accommodation*, *occurred*,
   *receive*, *which / witch*, *beginning*.
 - Cambridge accepts either British or American spelling as long as it is consistent.
+""", None),
+            ("Buying Time & Fillers", [r"\bbuy(ing)? (yourself |you |yourselves )?(some |a little |a bit of |a little bit of )?(extra )?time\b", r"\bfillers?\b", r"\bstalling\b", r"\bthat's (an interesting|a good|a great|a difficult) question\b", r"\bthinking time\b", r"\bplay(ing)? for time\b"], "Well… that's an interesting question – phrases that buy you a few seconds to think in the speaking exam.", """
+Examiners do not mind a short pause, but silence sounds like you have no answer. Native speakers
+**buy time** constantly:
+
+- *Well…*, *Let me think…*, *That's an interesting question*, *I've never really thought about it, but…*,
+  *It depends what you mean by…*, repeating part of the question (*Where would I like to live? Well…*).
+- Use one, then answer; two or three in a row sound evasive.
+""", None),
+            ("Substitution & Ellipsis", [r"\bsubstitution\b", r"\bellipsis\b", r"\bsubstitute (word|words|for)\b", r"\bleave out the\b"], "Replacing or leaving out words so you don't repeat yourself – rewarded in the writing paper.", """
+Cambridge writing descriptors reward **substitution** (*this, that, these ones, so, do so, the former*)
+and **ellipsis** (leaving out words that are understood: *I'd love to, but I can't*). Both make your
+text read like a native speaker's instead of repeating the same noun in every sentence.
+""", None),
+            ("Gerund or Infinitive", [r"\bgerunds?\b", r"\binfinitives?\b", r"\b-ing form\b", r"\bing form\b", r"\bverb patterns?\b"], "Enjoy doing, want to do, stop doing vs stop to do – the verb patterns examiners test.", """
+- Verbs followed by the **gerund**: *enjoy, avoid, mind, suggest, keep, finish, can't stand*.
+- Verbs followed by the **infinitive**: *want, decide, hope, manage, afford, refuse, promise*.
+- Both with a change of meaning: *stop smoking / stop to smoke*, *remember doing / remember to do*,
+  *try doing / try to do*.
+- After prepositions always the -ing form: *interested in learning*, *good at cooking*.
+""", None),
+            ("Intensifiers", [r"\bintensifiers?\b", r"\bintensify", r"\b(absolutely|utterly|incredibly|extremely|really|pretty|quite|rather) \w+\b.*\bintensif", r"\bgradable\b", r"\bungradable\b"], "Absolutely, utterly, pretty, rather – words that make adjectives stronger or softer.", """
+**Intensifiers** shade an adjective: *extremely tired*, *utterly exhausted*, *pretty good*,
+*rather expensive*, *a bit annoyed*. Gradable adjectives take *very/extremely*; extreme adjectives take
+*absolutely/utterly/completely* (*absolutely freezing*, not *very freezing*). Native speakers also use
+*so*, *way* (*way too expensive*) and *dead* (*dead easy*, informal).
+""", None),
+            ("British vs American English", [r"british (english|and american|or american|vs|versus)", r"american (english|and british|or british)", r"\bin (the UK|britain|america|the states) (we|they) (say|call|use)\b", r"\b(americans|brits) (say|call|use)\b", r"\bamerican (word|term|spelling|pronunciation)\b", r"\bbritish (word|term|spelling|pronunciation)\b"], "Aluminium or aluminum, holiday or vacation – the differences and which to use in the exam.", """
+Both varieties are accepted in every major exam as long as you are **consistent**. Watch for:
+
+- Vocabulary: *flat/apartment*, *lift/elevator*, *holiday/vacation*, *queue/line*, *rubbish/trash*.
+- Spelling: *colour/color*, *centre/center*, *organise/organize*, *travelling/traveling*.
+- Pronunciation: rhotic *r* in American English, *tomato*, *schedule*, *aluminium/aluminum*.
+""", None),
+            ("Likes, Dislikes & Preferences", [r"\b(likes|dislikes) and (dislikes|likes)\b", r"\bexpress(ing)? (a |your |their )?(likes|dislikes|preferences?)\b", r"\bI'd rather\b", r"\bI'd prefer\b", r"\bprefer(ence|ences)?\b.*\b(rather|prefer)\b", r"\bI'm (really )?(into|keen on|fond of|not keen on)\b", r"\bcan't stand\b"], "Ways to say what you like, hate and prefer that go beyond 'I like' and 'I don't like'.", """
+Part 1 questions are often about likes and preferences, so vary the language:
+
+- Likes: *I'm really into*, *I'm keen on*, *I'm fond of*, *I'm a big fan of*, *I can't get enough of*.
+- Dislikes: *I can't stand*, *I'm not keen on*, *it's not my cup of tea*, *I can't bear*, *it leaves me cold*.
+- Preferences: *I'd rather… than…*, *I prefer… to…*, *I'd sooner*, *given the choice*.
+- Grammar: *enjoy / don't mind / can't stand* + -ing; *would rather* + bare infinitive.
+""", None),
+            ("Speculating & Hedging", [r"\bspeculat", r"\bhedg(e|ing)\b", r"\b(it|she|he|they) (looks|look|seems|seem|appears|appear) (as if|as though|like|to be)\b", r"\bjudging by\b", r"\bI'd say (that )?(it|she|he|they)\b", r"\bmight (well )?be\b.*\bspeculat"], "It looks as if…, they might be… – the language for talking about pictures and possibilities.", """
+Speaking Part 2 (comparing photographs) is a **speculation** task: say what might be happening, not just
+what you see.
+
+- *It looks as if / as though…*, *they seem to be…*, *judging by the…*, *I'd say…*, *perhaps*, *presumably*.
+- Modals of deduction: *must be*, *might/may/could be*, *can't be*.
+- Hedging softens claims in essays too: *arguably*, *to some extent*, *it is generally believed that*.
 """, None),
             ("Verbs with Many Meanings (get, do, make, take)", [r"\b(the verb|uses of|ways to use) (get|do|make|take)\b", r"\bget\b.*\bmeanings?\b", r"\bmake or do\b", r"\bdo or make\b"], "The all-purpose verbs get, do, make and take and their many uses.", """
 - **get**: receive (*get a letter*), become (*get tired*), arrive (*get home*), fetch (*get a drink*),
@@ -975,7 +1066,7 @@ paper and to know when **not** to use it (formal essays, reports, letters of app
     *[
         {"name": n, "folder": "Exams", "patterns": p, "summary": s, "body": b, **({"min": m} if m else {})}
         for n, p, s, b, m in [
-            ("Cambridge B2 First (FCE)", [r"B2 First", r"\bFCE\b", r"First Certificate", r"\bB2\b", r"First for Schools"], "The upper-intermediate Cambridge exam, formerly the First Certificate (FCE).", """
+            ("Cambridge B2 First (FCE)", [r"B2 First", r"\bFCE\b", r"First Certificate", r"\bB2 (exam|level|students?|candidates?|paper)\b", r"First for Schools"], "The upper-intermediate Cambridge exam, formerly the First Certificate (FCE).", """
 **B2 First** (formerly FCE) certifies upper-intermediate English. Four papers: Reading and Use of
 English (75 min), Writing (80 min: essay + one of article, email/letter, report, review, story
 *for Schools*), Listening (40 min) and Speaking (14 min, in pairs).
@@ -984,7 +1075,7 @@ English (75 min), Writing (80 min: essay + one of article, email/letter, report,
   task, Part 4 discussion.
 - Pass marks: 160–179 = B2, 180+ = C1 on the Cambridge scale.
 """, None),
-            ("Cambridge C1 Advanced (CAE)", [r"C1 Advanced", r"\bCAE\b", r"\bC1\b", r"Certificate in Advanced English"], "The Cambridge exam most universities and employers ask for.", """
+            ("Cambridge C1 Advanced (CAE)", [r"C1 Advanced", r"\bCAE\b", r"\bC1 (exam|level|students?|candidates?|paper)\b", r"Certificate in Advanced English"], "The Cambridge exam most universities and employers ask for.", """
 **C1 Advanced** (formerly CAE) proves you can follow academic study and professional life in English.
 Papers: Reading and Use of English (90 min), Writing (90 min: essay + one of letter, proposal,
 report, review), Listening (40 min), Speaking (15 min).
@@ -993,7 +1084,7 @@ report, review), Listening (40 min), Speaking (15 min).
 - Speaking Part 2: three pictures, talk about two for one minute; Part 3: a written prompt to discuss.
 - Scale: 180–199 = C1, 200+ = C2.
 """, None),
-            ("Cambridge C2 Proficiency (CPE)", [r"C2 Proficiency", r"\bCPE\b", r"\bC2\b", r"Proficiency"], "The highest Cambridge level – near-native command of English.", """
+            ("Cambridge C2 Proficiency (CPE)", [r"C2 Proficiency", r"\bCPE\b", r"\bC2 (exam|level|students?|candidates?|paper)\b", r"\bProficiency exam\b"], "The highest Cambridge level – near-native command of English.", """
 **C2 Proficiency** (formerly CPE) is the top Cambridge qualification. Papers: Reading and Use of
 English (90 min), Writing (90 min: discursive essay summarising two texts + one of article, letter,
 report, review, or a set-text question), Listening (40 min), Speaking (16 min).
@@ -1016,7 +1107,7 @@ Task 2 essay) and a one-to-one Speaking interview (11–14 min, three parts).
 - **EOI** (Escuela Oficial de Idiomas): Spain's state language schools with their own B2/C1/C2 exams,
   which many of the podcast's listeners sit.
 """, None),
-            ("Speaking Exam", [r"speaking (exam|test|paper|part)", r"\boral exam\b", r"\bexaminer", r"\binterlocutor\b", r"\blong turn\b", r"\bcollaborative task\b", r"\bspeaking skills\b"], "How the speaking test works and what examiners are really listening for.", """
+            ("Speaking Exam", [r"speaking (exam|test|paper|part)", r"\boral exam\b", r"\bexaminers? (are|will|want|look|like|love|hate|expect|mark|listen)", r"\binterlocutor\b", r"\blong turn\b", r"\bcollaborative task\b", r"\bspeaking skills\b", r"\bmonologue\b"], "How the speaking test works and what examiners are really listening for.", """
 Cambridge speaking tests are marked on **Grammar and Vocabulary**, **Discourse Management**,
 **Pronunciation** and **Interactive Communication** (plus a global mark from the interlocutor).
 
@@ -1036,7 +1127,7 @@ Cambridge writing is marked on **Content**, **Communicative Achievement**, **Org
 - **Review/article**: engaging title, personal voice, a recommendation at the end.
 - Use the word limit, plan for five minutes, leave time to check.
 """, None),
-            ("Listening & Reading", [r"listening (exam|paper|part|skills|practice)", r"reading (paper|part|skills)", r"use of english", r"\bkey word transformation", r"\bmultiple choice\b", r"\bgapped text\b"], "Listening practice with different accents and the Reading & Use of English paper.", """
+            ("Listening & Reading", [r"listening (exam|paper|part|skills|practice)", r"reading (paper|part|skills)", r"use of english (paper|part|exam|test)", r"\bkey word transformation", r"\bmultiple choice\b", r"\bgapped text\b"], "Listening practice with different accents and the Reading & Use of English paper.", """
 - **Listening**: Cambridge recordings mix British, Irish, American, Australian and other accents –
   exactly what this podcast trains. Read the questions first, listen for paraphrase, never leave a
   blank.
@@ -1044,7 +1135,7 @@ Cambridge writing is marked on **Content**, **Communicative Achievement**, **Org
   word formation, key-word transformations, then reading tasks (multiple choice, gapped text,
   multiple matching).
 """, None),
-            ("Exam Tips & Preparation", [r"exam (tips?|preparation|day|advice|strateg)", r"\btop tip", r"\bprepar(e|ing) for (the|your|an) exam", r"\brevis(e|ion)\b", r"\bnervous\b", r"\bpractice (makes|test)", r"\bexam technique"], "Practical advice for the weeks before the exam and for the day itself.", """
+            ("Exam Tips & Preparation", [r"exam (tips?|preparation|day|advice|strateg)", r"\btop tip", r"\bprepar(e|ing) for (the|your|an) exam", r"\brevis(e|ion)\b", r"\bpractice (makes|test)", r"\bexam technique"], "Practical advice for the weeks before the exam and for the day itself.", """
 - Practise with past papers under timed conditions; know the task formats inside out.
 - Build vocabulary by topic and record whole phrases, not single words.
 - Listen to a wide range of accents (podcasts, series, radio) every day.
@@ -1063,7 +1154,7 @@ always pronounced, *th* often sounding close to *t/d* (*tree* for *three*), risi
 vocabulary of its own: *grand* (fine), *craic* (fun, good atmosphere), *yer man* (that guy),
 *deadly* (great), *to give out* (to scold), *press* (cupboard).
 """),
-            ("England", [r"\bEngland\b", r"\bBritish\b", r"\bLondon\b", r"\bManchester\b", r"\bLiverpool\b", r"\bChester\b", r"\bYorkshire\b", r"\bEnglish accent\b", r"\bRP\b", r"\bcockney\b", r"\bBrits?\b"], "British English from London to the North – RP, Estuary, Northern and more.", """
+            ("England", [r"\bEngland\b", r"\bBritish\b", r"\bBritain\b", r"(?-i:\bUK\b)", r"\bLondon\b", r"\bManchester\b", r"\bLiverpool\b", r"\bChester\b", r"\bYorkshire\b", r"\bEnglish accent\b", r"\bRP\b", r"\bcockney\b", r"\bBrits?\b"], "British English from London to the North – RP, Estuary, Northern and more.", """
 England has dozens of accents: **RP / BBC English**, Estuary (London area), Cockney, Northern
 accents (Manchester, Liverpool *Scouse*, Yorkshire, Geordie in Newcastle). Shared features: the
 non-rhotic *r* (*car* → /kɑː/), the long /ɑː/ in *bath, dance* in the South, the short /æ/ in the
@@ -1110,7 +1201,7 @@ Afrikaans and African languages: *lekker* (nice), *braai* (barbecue), *robot* (t
 *now now* (soon), *shame* (expressing sympathy), *howzit* (hello). It is one of eleven official
 languages in the country.
 """),
-            ("Non-Native Speakers", [r"non-native", r"\bSpanish\b", r"\bSpain\b", r"\bPoland\b", r"\bPolish\b", r"\bBrazil", r"\bVietnam", r"\bChina\b", r"\bChinese\b", r"\bItalian\b", r"\bItaly\b", r"\bGerman\b", r"\bFrench\b", r"\bTokyo\b", r"\bBarcelona\b"], "Learners and non-native teachers who speak in the podcast – and the countries they come from.", """
+            ("Non-Native Speakers", [r"non-native", r"\bPoland\b", r"\bPolish\b", r"\bBrazil", r"\bVietnam", r"\bChina\b", r"\bChinese\b", r"\bTokyo\b", r"\bBarcelona\b", r"\bSpanish (student|speaker|learner|teacher|lady|guy|girl|woman|man)s?\b"], "Learners and non-native teachers who speak in the podcast – and the countries they come from.", """
 Several episodes feature **non-native speakers** – students and teachers from Spain, Poland,
 Brazil, Vietnam and China – talking about their own path to fluent English. Their experiences are
 especially relatable: typical mistakes of their first language, the role of living abroad, and whether

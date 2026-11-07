@@ -20,10 +20,10 @@ tags: [episode, season-0]
 | **Listen** | [Spotify](https://open.spotify.com/episode/68nqAB1GPAn6ltd20VCmKH) · [MP3](https://www.buzzsprout.com/1107956/episodes/17884572-monologue-tourism.mp3) |
 | **Transcript** | [[Transcript x2025-09-22]] (word-level timestamps, aligned with the official transcript) |
 | **Topics** | [[Travel, Holidays & Tourism]], [[Culture & Traditions]] |
-| **Language** | [[Organising Your Answer]] |
-| **Exams** | – |
-| **Accents** | [[Ireland]], [[Non-Native Speakers]] |
-| **Briefly mentioned** | [[The Environment & Climate Change]] |
+| **Language** | – |
+| **Exams** | [[Speaking Exam]] |
+| **Accents** | [[Ireland]] |
+| **Briefly mentioned** | – |
 
 ## Show notes
 

@@ -65,7 +65,7 @@ answers ready that go beyond *I like watching TV*.
 >
 > — [[s05e01 Relaxing|S5 E1]], [Minute 15:54](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=954) · [[Transcript s05e01#Minute 15|in the transcript]]
 
-> … welcome to the Real Exam English podcast. This episode is about the weekend. As usual we have speakers from a variety of countries telling us about their experiences, so we take a look at …
+> This episode is about the weekend. As usual we have speakers from a variety of countries telling us about their experiences, so we take a look at …
 >
 > — [[s05e10 Weekend|S5 E10]], [Minute 0:16](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=16) · [[Transcript s05e10#Minute 0|in the transcript]]
 

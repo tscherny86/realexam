@@ -21,9 +21,9 @@ tags: [episode, season-4]
 | **Transcript** | [[Transcript s04e08]] (word-level timestamps, aligned with the official transcript) |
 | **Topics** | [[Travel, Holidays & Tourism]] |
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Emphasis & Auxiliaries]] |
-| **Exams** | – |
-| **Accents** | [[England]], [[Australia]], [[Non-Native Speakers]] |
-| **Briefly mentioned** | [[Health & Wellbeing]], [[Home & Housing]], [[Relaxing & Stress]], [[Conditionals]], [[Ireland]] |
+| **Exams** | [[Listening & Reading]] |
+| **Accents** | [[Ireland]], [[England]], [[Australia]] |
+| **Briefly mentioned** | [[Home & Housing]], [[Relaxing & Stress]] |
 
 ## Show notes
 
@@ -42,7 +42,7 @@ Thanks to all of the contributors, including Matsy, Matt, Leah Ann, Stephanie, L
 - [4:28](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=268) – Like the arrival of artificial intelligence constitutes a dramatic change in the world of education. Apart from that … ([[Transcript s04e08#Minute 4|transcript]])
 - [6:30](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=390) – She had another nice holiday verb, which was to backpack, she backpacked across Europe and the Middle East. … ([[Transcript s04e08#Minute 6|transcript]])
 - [8:32](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=512) – While I can sympathise with the viewpoint that it's nice to wake up in nature, I just absolutely … ([[Transcript s04e08#Minute 8|transcript]])
-- [10:43](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=643) – If I go to another country then I want to see the country I think than…rather than stay … ([[Transcript s04e08#Minute 10|transcript]])
+- [10:43](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=643) – If I go to another country then I want to see the country I think than… rather than … ([[Transcript s04e08#Minute 10|transcript]])
 - [12:44](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=764) – For these kinds of attractions the word sights is much better than monuments, which I sometimes hear Spanish … ([[Transcript s04e08#Minute 12|transcript]])
 
 ---

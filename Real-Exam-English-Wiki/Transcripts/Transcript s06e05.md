@@ -5,7 +5,7 @@ tags: [transcript]
 ---
 # Transcript – S06 - 5 Luck
 
-Episode: [[s06e05 Luck]] · transcribed automatically, aligned with the official transcript (0 corrections); occasional hearing errors are possible.
+Episode: [[s06e05 Luck]] · transcribed automatically, aligned with the official transcript (1 corrections); occasional hearing errors are possible.
 Click ▶ to open Spotify at exactly this point.
 
 ### Minute 0
@@ -34,7 +34,7 @@ Then we were then chatting about our good intentions after winning the lottery a
 
 ### Minute 6
 [▶ 6:43](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=403)  
-I do have a lot of habits that I do that help me to rewire my brain. And it's something that I have done since I was younger, and it just helps me. It's comforting. Short and sweet answer here. I just want to focus on the verb do here. She said I don’t have any lucky objects or habits but I do perform a lot of rituals. I do have a lot of habits to help rewire my brain. Ok, so after using I don’t have lucky habits she uses I do perform rituals as a way to highlight the contrast. Remember, when speaking, to stress the do, I don’t like apples, but I do love bananas. This expression to rewire my brain is nice actually, isn’t in. Meaning to change how your brain functions, often to change habits or learn new skills. For instance, I’m trying to rewire my brain to stop checking my phone every two minutes or I’m focussing on positive news in an attempt to rewire my brain to be more optimistic.
+I do have a lot of habits that I do that help me to rewire my brain. And it's something that I have done since I was younger, and it just helps me. It's comforting. Short and sweet answer here. I just want to focus on the verb do here. She said I don’t have any lucky objects or habits but I do perform a lot of rituals. I do have a lot of habits to help rewire my brain. Ok, so after using I don’t have lucky habits she uses I do perform rituals as a way to highlight the contrast. Remember, when speaking, to stress the do, I don’t like apples, but I do love bananas. This expression to rewire my brain is nice actually, isn’t it. Meaning to change how your brain functions, often to change habits or learn new skills. For instance, I’m trying to rewire my brain to stop checking my phone every two minutes or I’m focussing on positive news in an attempt to rewire my brain to be more optimistic.
 
 ### Minute 7
 [▶ 7:51](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=471)  

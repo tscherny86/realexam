@@ -19,11 +19,11 @@ tags: [episode, season-3]
 | **Duration** | 14:31 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x) · [MP3](https://www.buzzsprout.com/1107956/episodes/9553357-s03-4-money.mp3) |
 | **Transcript** | [[Transcript s03e04]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Shopping & Consumerism]], [[Family & Relationships]], [[Money & Finance]], [[Happiness]], [[Parenting & Children]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Conditionals]] |
-| **Exams** | – |
-| **Accents** | – |
-| **Briefly mentioned** | [[Learning, School & Education]], [[Extremes & Adventure]], [[Past Perfect & Narrative Tenses]], [[Pronunciation]], [[Speaking Exam]], [[USA]], [[Non-Native Speakers]] |
+| **Topics** | [[Money & Finance]], [[Happiness]], [[Parenting & Children]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Conditionals]], [[Inversion]], [[Adverbs]] |
+| **Exams** | [[Speaking Exam]], [[Listening & Reading]] |
+| **Accents** | [[USA]] |
+| **Briefly mentioned** | [[Learning, School & Education]], [[Pronunciation]] |
 
 ## Show notes
 
@@ -35,7 +35,7 @@ Thanks to all of the contributors, including Ian from the We Dig Music podcast, 
 
 ## Chapters
 
-- [0:05](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=5) – Real Exam English Season 3 Money Hello and welcome to Real Exam English. Today´s episode is about money. … ([[Transcript s03e04#Minute 0|transcript]])
+- [0:05](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=5) – Real Exam English Season 3 Money Hello and welcome to Real Exam English. Today’s episode is about money. … ([[Transcript s03e04#Minute 0|transcript]])
 - [2:10](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=130) – A lot of us are investing our money now apart from that.Uh, you know, we like to go … ([[Transcript s03e04#Minute 2|transcript]])
 - [4:11](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=251) – I love to study. I have goals of becoming a doctor and I'm studying at medical school. And … ([[Transcript s03e04#Minute 4|transcript]])
 - [6:18](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=378) – Should credit card companies be blamed for peoples irresponsible spending habits? To an extent, yes, uhm. Did people … ([[Transcript s03e04#Minute 6|transcript]])

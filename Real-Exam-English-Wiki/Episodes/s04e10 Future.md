@@ -19,11 +19,11 @@ tags: [episode, season-4]
 | **Duration** | 16:54 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu) · [MP3](https://www.buzzsprout.com/1107956/episodes/14631365-s04-10-future.mp3) |
 | **Transcript** | [[Transcript s04e10]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Travel, Holidays & Tourism]], [[Technology & the Internet]], [[The Environment & Climate Change]], [[Work & Careers]], [[The Future & Predictions]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Modal Verbs]] |
+| **Topics** | [[Technology & the Internet]], [[Work & Careers]], [[The Future & Predictions]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Adverbs]] |
 | **Exams** | – |
-| **Accents** | – |
-| **Briefly mentioned** | [[Sport & Exercise]], [[Health & Wellbeing]], [[Friends & Friendship]], [[Free Time & Hobbies]], [[Communication]], [[Family & Relationships]], [[Learning, School & Education]], [[Change & Life Changes]], [[Parenting & Children]], [[News & Media]], [[Conditionals]], [[Adverbs]], [[Slang & Informal English]], [[Cambridge C1 Advanced (CAE)]], [[Speaking Exam]], [[Non-Native Speakers]] |
+| **Accents** | [[Australia]] |
+| **Briefly mentioned** | [[Sport & Exercise]], [[Health & Wellbeing]], [[Friends & Friendship]], [[Free Time & Hobbies]], [[Communication]], [[Family & Relationships]], [[Learning, School & Education]], [[Change & Life Changes]], [[Parenting & Children]], [[News & Media]], [[Modal Verbs]], [[England]] |
 
 ## Show notes
 
@@ -42,7 +42,7 @@ Thanks to all of the contributors, including  Matt, Leah Ann, Stephanie, Loli, 
 - [4:22](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=262) – Which skills will be essential in the future to be able to find a job in the coming … ([[Transcript s04e10#Minute 4|transcript]])
 - [6:37](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=397) – Excellent. Which skills will be essential in the future to be able to find a job in the … ([[Transcript s04e10#Minute 6|transcript]])
 - [8:40](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=520) – Like we drastically need to cut down our expenditure, or humans have drastically altered the Earth’s atmosphere and … ([[Transcript s04e10#Minute 8|transcript]])
-- [10:47](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=647) – Nice. I think you guys know all of these already, but it´s a good illustration of how frequently … ([[Transcript s04e10#Minute 10|transcript]])
+- [10:47](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=647) – Nice. I think you guys know all of these already, but it’s a good illustration of how frequently … ([[Transcript s04e10#Minute 10|transcript]])
 - [13:19](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=799) – So you know it's sort of understanding what we can do instead or how we can find a … ([[Transcript s04e10#Minute 13|transcript]])
 - [15:22](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=922) – We had another useful phrase for clarifying what you think, and that was at any rate. She said … ([[Transcript s04e10#Minute 15|transcript]])
 

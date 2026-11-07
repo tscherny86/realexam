@@ -27,7 +27,7 @@ A fun C1 topic that produces a lot of idioms.
 >
 > — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 19:22](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1162) · [[Transcript s05e05#Minute 19|in the transcript]]
 
-> … and welcome to the Real Exam English podcast. This episode is about luck. We talk about the role luck plays in success, we talk about lucky habits, about lotteries and about being lucky in …
+> This episode is about luck. We talk about the role luck plays in success, we talk about lucky habits, about lotteries and about being lucky in …
 >
 > — [[s06e05 Luck|S6 E5]], [Minute 0:16](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=16) · [[Transcript s06e05#Minute 0|in the transcript]]
 

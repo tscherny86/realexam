@@ -48,9 +48,45 @@ MAX_QUOTES_PER_EPISODE = 4
 #   main topic:        title hit, show-notes hit with at least MIN_NOTES mentions, or at least FOLDER_MIN mentions
 #   briefly mentioned: at least FOLDER_MINOR mentions
 # A topic entry may raise its own threshold with "min".
-FOLDER_MIN = {"Topics": 10, "Language": 3, "Exams": 3, "Accents": 3}
+FOLDER_MIN = {"Topics": 10, "Language": 3, "Exams": 3, "Accents": 5}
 FOLDER_MINOR = {"Topics": 4, "Language": 2, "Exams": 2, "Accents": 2}
-MIN_NOTES = 3
+# mentions a show-notes (or intro) hit needs in the transcript to count as a main topic; language points, exams and
+# accents announced in the show notes are reliable, topic words there are not (review of all 75 episodes, 07.11.2026)
+MIN_NOTES = {"Topics": 3, "Language": 1, "Exams": 1, "Accents": 1}
+INTRO_SECONDS = 120
+# Trevor's recurring plugs (website, transcripts, classes, social media, app, coffee); sentences matching this are
+# ignored by the topic search so that "help", "learning", "Instagram" or "exam preparation" do not count everywhere
+PLUG = re.compile(
+    r"realexamenglish|real exam english (website|web ?page|pages?|app|podcast)|facebook|instagram|italki|buy me a coffee|"
+    r"studio\.com|transcripts? (for|of) (this|the|every) (episode|podcast)|(classes|lessons) (with|to prepare)|exam preparation classes|"
+    r"tips on how to prepare for your exam|like and subscribe|subscribe to the podcast|individual classes|group classes|"
+    r"(need|want) (some )?(extra )?help (preparing|with your)|happy to help|apple podcasts|spotify",
+    re.I,
+)
+
+
+def content_words(words: list[dict]) -> list[dict]:
+    """Removes whole sentences that are plugs (see PLUG); timestamps of the remaining words stay as they are."""
+    out, sent = [], []
+    for w in words:
+        sent.append(w)
+        if re.search(r"[.!?]['\"”’]?$", w["text"]):
+            if not PLUG.search(" ".join(x["text"] for x in sent)):
+                out.extend(sent)
+            sent = []
+    if sent and not PLUG.search(" ".join(x["text"] for x in sent)):
+        out.extend(sent)
+    return out
+
+
+def notes_for_matching(description: str) -> str:
+    """Show notes without links and without the credits ("Thanks to all of the contributors …") for the topic search."""
+    keep = []
+    for line in description.splitlines():
+        if re.match(r"^(Thanks to|Link for|Links? to)", line.strip(), re.I):
+            continue
+        keep.append(line)
+    return re.sub(r"https?://\S+|www\.\S+", " ", "\n".join(keep))
 
 CORRECTIONS: dict = {}  # episode -> Counter of applied correction rules
 ALIGNMENT: dict = {}  # episode -> stats of the official-transcript alignment
@@ -165,12 +201,13 @@ def load_transcript(ep: dict) -> list[dict] | None:
     words = data["words"] if isinstance(data, dict) else data
     words = [w for w in words if w.get("type", "word") == "word" and w.get("text", "").strip()]
     words = tidy(words)
-    words, hits = corrections.apply(words, ep["id"])
-    CORRECTIONS[ep["id"]] = hits
     official = align_official.official_text(ep["id"])
     if official:
         words, stats = align_official.apply(words, official)
         ALIGNMENT[ep["id"]] = stats
+    # corrections run after the alignment, so they also fix errors in the official text
+    words, hits = corrections.apply(words, ep["id"])
+    CORRECTIONS[ep["id"]] = hits
     return words
 
 
@@ -257,6 +294,8 @@ def build() -> None:
             shutil.rmtree(VAULT / sub, ignore_errors=True)
     transcripts = {e["id"]: load_transcript(e) for e in episodes}
     n_tx = sum(1 for t in transcripts.values() if t)
+    # words used for the topic search: without Trevor's recurring plugs (website, classes, social media, app)
+    content = {eid: content_words(w) if w else w for eid, w in transcripts.items()}
 
     # ---- collect topic hits
     topic_hits: dict[str, list] = {}
@@ -266,19 +305,23 @@ def build() -> None:
         rx = re.compile("|".join(f"(?:{p})" for p in topic["patterns"]), re.IGNORECASE)
         min_mentions = max(topic.get("min", 0), FOLDER_MIN[topic["folder"]])
         min_minor = FOLDER_MINOR[topic["folder"]]
+        min_notes = MIN_NOTES[topic["folder"]]
         hits = []
         for ep in episodes:
             in_title = bool(rx.search(ep["title"]))
-            in_notes = in_title or bool(rx.search(re.sub(r"https?://\S+|www\.\S+", " ", ep["description"])))
+            in_notes = in_title or bool(rx.search(notes_for_matching(ep["description"])))
             quotes = []
-            words = transcripts[ep["id"]]
+            words = content[ep["id"]]
             if words and topic["name"] not in NO_QUOTES:
                 quotes = find_quotes(words, topic["patterns"])
             raw = len(rx.findall(" ".join(w["text"] for w in words))) if words else 0
             if (topic["name"], ep["id"]) in EXCLUDE:
                 continue
+            # accents: Trevor announces the speakers' origins in the first two minutes – that counts like the show notes
+            if topic["folder"] == "Accents" and words and any(rx.search(w["text"]) for w in words if w["start"] < INTRO_SECONDS):
+                in_notes = True
             # a show-notes hit counts only if the transcript backs it up (or there is no transcript yet)
-            notes_ok = in_title or (in_notes and (not words or raw >= MIN_NOTES))
+            notes_ok = in_title or (in_notes and (not words or raw >= min_notes))
             if notes_ok or raw >= min_minor:
                 main = notes_ok or raw >= min_mentions or topic["name"] in NO_QUOTES
                 hits.append({"ep": ep, "in_notes": notes_ok, "quotes": quotes, "main": main, "raw": raw})

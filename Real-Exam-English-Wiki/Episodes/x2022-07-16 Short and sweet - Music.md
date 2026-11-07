@@ -20,10 +20,10 @@ tags: [episode, season-0]
 | **Listen** | [Spotify](https://open.spotify.com/episode/0bpjtRvhYcRAOnDCFmrBJE) · [MP3](https://www.buzzsprout.com/1107956/episodes/10970230-short-and-sweet-music.mp3) |
 | **Transcript** | [[Transcript x2022-07-16]] (word-level timestamps, aligned with the official transcript) |
 | **Topics** | [[Music]] |
-| **Language** | – |
+| **Language** | [[Connectors & Linking Words]] |
 | **Exams** | – |
-| **Accents** | – |
-| **Briefly mentioned** | [[Idioms & Expressions]] |
+| **Accents** | [[England]] |
+| **Briefly mentioned** | [[Idioms & Expressions]], [[Buying Time & Fillers]] |
 
 ## Show notes
 
@@ -35,7 +35,7 @@ Thanks to Ofordi for contributing.
 
 ## Chapters
 
-- [0:05](https://open.spotify.com/episode/0bpjtRvhYcRAOnDCFmrBJE?t=5) – Hi, Trevor here. I´m busy recording the next season of the Real Exam English podcast at the moment … ([[Transcript x2022-07-16#Minute 0|transcript]])
+- [0:05](https://open.spotify.com/episode/0bpjtRvhYcRAOnDCFmrBJE?t=5) – Hello and welcome to Real Exam English. It's Trevor here. I’m busy recording the next season of the … ([[Transcript x2022-07-16#Minute 0|transcript]])
 - [2:08](https://open.spotify.com/episode/0bpjtRvhYcRAOnDCFmrBJE?t=128) – So eclectic means it comes from a diverse range of sources. You could also say, for example, the … ([[Transcript x2022-07-16#Minute 2|transcript]])
 - [4:12](https://open.spotify.com/episode/0bpjtRvhYcRAOnDCFmrBJE?t=252) – Ok, and the very last thing to highlight is a super way to give your opinion and that … ([[Transcript x2022-07-16#Minute 4|transcript]])
 

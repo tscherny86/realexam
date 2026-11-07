@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 0
+episodes: 2
 tags: [language]
 ---
 # Verbs with Many Meanings (get, do, make, take)
@@ -20,11 +20,11 @@ _The all-purpose verbs get, do, make and take and their many uses._
 
 ## Said in the podcast
 
-> … verb to be and the past participle, but it's also possible with the verb get in place of be, particularly when talking about events that are negative or not desired, such as in our …
+> … verb to be and the past participle but it’s also possible with the verb get in place of be, particularly when talking about events that are negative or not desired, such as our examples …
 >
 > — [[s02e03 Global Issues|S2 E3]], [Minute 2:41](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=161) · [[Transcript s02e03#Minute 2|in the transcript]]
 
-> … your speech more cohesive and we focus on different ways to use the verb do. As usual if you would like to read exactly what the speakers say then you purchase the transcripts over …
+> … your speech more cohesive and we focus on different ways to use the verb do. Without, because we always skip the adverts when there's a program with adverts. When I when… I record it …
 >
 > — [[s05e06 Advertising|S5 E6]], [Minute 1:02](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=62) · [[Transcript s05e06#Minute 1|in the transcript]]
 
@@ -32,19 +32,22 @@ _The all-purpose verbs get, do, make and take and their many uses._
 >
 > — [[s05e06 Advertising|S5 E6]], [Minute 2:57](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=177) · [[Transcript s05e06#Minute 2|in the transcript]]
 
-> … of idioms, phrasal verbs and a special focus on different uses of the verb get. Remember you can get the transcripts for this and all episodes on the Real Exam English website, realexamenglish.com Ok, …
+> … of idioms, phrasal verbs and a special focus on different uses of the verb get. So where are you from? I'm from China. Okay, and where do you live? Now I live in Japan. …
 >
 > — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 0:30](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=30) · [[Transcript x2025-12-16#Minute 0|in the transcript]]
 
-## In these episodes (0)
+> … for the C2 exam, I was crazy. Like every day trying to get more information, more vocab, right? I think that's the name for that, right? Okay. And also there are a lot of …
+>
+> — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 18:03](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=1083) · [[Transcript x2025-12-16#Minute 18|in the transcript]]
 
-_no episode yet where this was a main topic_
+## In these episodes (2)
 
-## Briefly mentioned (3)
+- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Show notes · Minute [1:02](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=62), [2:57](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=177)
+- [[x2025-12-16 Xing - Tokyo|Bonus – Xing - Tokyo]] (2025-12-16) — Show notes · Minute [0:30](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=30), [18:03](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=1083)
+
+## Briefly mentioned (1)
 
 - [[s02e03 Global Issues|S2 E3 – Global Issues]] (2021-02-05) — Minute [2:41](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=161)
-- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [1:02](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=62), [2:57](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=177)
-- [[x2025-12-16 Xing - Tokyo|Bonus – Xing - Tokyo]] (2025-12-16) — Minute [0:30](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=30)
 
 ---
 ← [[Language]] · [[Real Exam English Wiki|Home]]

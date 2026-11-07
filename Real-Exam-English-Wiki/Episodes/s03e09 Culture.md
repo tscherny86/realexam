@@ -19,11 +19,11 @@ tags: [episode, season-3]
 | **Duration** | 17:57 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e) · [MP3](https://www.buzzsprout.com/1107956/episodes/10691423-s03-9-culture.mp3) |
 | **Transcript** | [[Transcript s03e09]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Food & Cooking]], [[Photography & Photos]], [[Learning, School & Education]], [[Culture & Traditions]], [[Languages & Language Learning]] |
-| **Language** | [[Idioms & Expressions]], [[Prepositions]], [[Slang & Informal English]] |
+| **Topics** | [[Culture & Traditions]] |
+| **Language** | [[Idioms & Expressions]], [[Adverbs]], [[Organising Your Answer]], [[Speculating & Hedging]] |
 | **Exams** | – |
-| **Accents** | [[Non-Native Speakers]] |
-| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Technology & the Internet]], [[Money & Finance]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]], [[Pronunciation]], [[Emphasis & Auxiliaries]], [[Writing Exam]] |
+| **Accents** | – |
+| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Technology & the Internet]], [[Money & Finance]], [[Learning, School & Education]], [[Languages & Language Learning]], [[Globalisation]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]], [[Pronunciation]], [[Emphasis & Auxiliaries]], [[Slang & Informal English]], [[Writing Exam]] |
 
 ## Show notes
 
@@ -39,7 +39,7 @@ Thanks to all of the contributors, including Ian from the We Dig Music podcast, 
 
 - [0:11](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=11) – Hello and welcome to Real Exam English. Today’s episode is about culture. Personally I love learning about different … ([[Transcript s03e09#Minute 0|transcript]])
 - [2:40](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=160) – Two great answers there. The first question was if the speaker is interested in the cultures of other … ([[Transcript s03e09#Minute 2|transcript]])
-- [4:42](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=282) – Actually, in the first answer he used a similar expression when talking about the Eastern European food, I´m … ([[Transcript s03e09#Minute 4|transcript]])
+- [4:42](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=282) – Actually, in the first answer he used a similar expression when talking about the Eastern European food, I’m … ([[Transcript s03e09#Minute 4|transcript]])
 - [6:43](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=403) – We then heard that we should expand our repertoire, linguistically. So this word repertoire comes from French and … ([[Transcript s03e09#Minute 6|transcript]])
 - [8:47](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=527) – So it's almost like it would be in an offering of sorts. Here's a bunch of people with.Fruit … ([[Transcript s03e09#Minute 8|transcript]])
 - [11:11](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=671) – what do you think contributes most to globalization? I think there are probably two or three major factors … ([[Transcript s03e09#Minute 11|transcript]])

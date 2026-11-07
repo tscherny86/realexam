@@ -20,9 +20,9 @@ Advertising is a C1 Advanced favourite, often linked to children, social media a
 
 ## Said in the podcast
 
-> … and welcome to the Real Exam English podcast, this episode is about advertising. One of my students just did a C1 exam this month and had to do a writing about advertising so it’s …
+> … a C1 exam this month and had to do a writing about advertising so it’s definitely a hot topic to cover. Before we start, one thing to make note of is the pronunciation so …
 >
-> — [[s05e06 Advertising|S5 E6]], [Minute 0:16](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=16) · [[Transcript s05e06#Minute 0|in the transcript]]
+> — [[s05e06 Advertising|S5 E6]], [Minute 0:23](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=23) · [[Transcript s05e06#Minute 0|in the transcript]]
 
 > … nowadays from product endorsements. In your country, which types of products are advertised the most? Why do you think that is? In Australia there's so much gambling ads. Actually, I've noticed this especially recently. …
 >
@@ -38,7 +38,7 @@ Advertising is a C1 Advanced favourite, often linked to children, social media a
 
 ## In these episodes (1)
 
-- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Show notes · Minute [0:16](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=16), [2:28](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=148), [4:00](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=240), [5:53](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=353)
+- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Show notes · Minute [0:23](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=23), [2:28](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=148), [4:00](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=240), [5:53](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=353)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

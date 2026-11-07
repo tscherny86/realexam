@@ -22,11 +22,11 @@ examiners to hear cultural comparison.
 
 ## Said in the podcast
 
-> … disagreeing, making suggestions, that kind of stuff. This first episode is about celebrations. It´s a new year, it´s definitely going to be better than last year so hopefully we´ll all have lots to celebrate! …
+> … disagreeing, making suggestions, that kind of stuff. This first episode is about celebrations. It’s a new year, it’s definitely going to be better than last year so hopefully we’ll all have lots to celebrate! …
 >
 > — [[s02e01 Celebrations|S2 E1]], [Minute 0:54](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=54) · [[Transcript s02e01#Minute 0|in the transcript]]
 
-> … we have my town Queen Bee and have a really lovely multicultural festival which is Quite small I guess, but it means that it's really friendly and it's really easy to be around. So …
+> … on. Around us we have my town Queanbeyan and have a really lovely multicultural festival which is Quite small I guess, but it means that it's really friendly and it's really easy to be around. So …
 >
 > — [[s02e01 Celebrations|S2 E1]], [Minute 2:37](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=157) · [[Transcript s02e01#Minute 2|in the transcript]]
 
@@ -34,7 +34,7 @@ examiners to hear cultural comparison.
 >
 > — [[s02e01 Celebrations|S2 E1]], [Minute 6:22](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=382) · [[Transcript s02e01#Minute 6|in the transcript]]
 
-> … speak about technology too. Have you ever been to a fancy dress party? Well, you know, yes. As far as costume parties, Halloween you know is one time of the year where .You know, …
+> … there about online classes. Have you ever been to a fancy dress party? Well, you know, yes. As far as costume parties, Halloween you know is one time of the year where .You know, …
 >
 > — [[s02e01 Celebrations|S2 E1]], [Minute 8:16](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=496) · [[Transcript s02e01#Minute 8|in the transcript]]
 
@@ -42,19 +42,19 @@ examiners to hear cultural comparison.
 >
 > — [[s04e09 History|S4 E9]], [Minute 0:20](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=20) · [[Transcript s04e09#Minute 0|in the transcript]]
 
-> … they can apply their thinking to. How do people in your country celebrate important historical events? Usually it's with a parade, a BBQ and fireworks. Sometimes if it's something like 911 it's with moments …
+> … they can apply their thinking to. How do people in your country celebrate important historical events? Usually it's with a parade, a BBQ and fireworks. Sometimes if it's something like 9/11 it's with moments of …
 >
 > — [[s04e09 History|S4 E9]], [Minute 1:52](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=112) · [[Transcript s04e09#Minute 1|in the transcript]]
 
-> … check out the realexamenglish website, realexamenglish.com How do people in your country celebrate important historical events? Uhm, I don't think we support. I don't think we're as fanatical and we support them as much …
+> … bit hit and miss, this means it’s a bit inconsistent. Sometimes they celebrate historical events, sometimes they don’t. He used a lovely rhetorical question in the middle of his answer. He said “how morbid …
 >
-> — [[s04e09 History|S4 E9]], [Minute 9:38](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=578) · [[Transcript s04e09#Minute 9|in the transcript]]
+> — [[s04e09 History|S4 E9]], [Minute 10:30](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=630) · [[Transcript s04e09#Minute 10|in the transcript]]
 
 > … couple years ago we flew over to New Zealand for a music festival over a weekend and it was a massive….It was like a… I'm calling it a weekend even though it was actually …
 >
 > — [[s05e10 Weekend|S5 E10]], [Minute 1:34](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=94) · [[Transcript s05e10#Minute 1|in the transcript]]
 
-> … time. Then he used some typically Australian expressions. Firstly, he said the festival was heaps of fun, meaning a lot of fun. In the UK or US you would more commonly here lots of …
+> … time. Then he used some typically Australian expressions. Firstly, he said the festival was heaps of fun, meaning a lot of fun. In the UK or US you would more commonly hear lots of fun or loads of fun, …
 >
 > — [[s05e10 Weekend|S5 E10]], [Minute 3:43](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=223) · [[Transcript s05e10#Minute 3|in the transcript]]
 
@@ -65,7 +65,7 @@ examiners to hear cultural comparison.
 ## In these episodes (2)
 
 - [[s02e01 Celebrations|S2 E1 – Celebrations]] (2021-01-21) — Show notes · Minute [0:54](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=54), [2:37](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=157), [6:22](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=382), [8:16](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=496)
-- [[s04e09 History|S4 E9 – History]] (2024-01-19) — Show notes · Minute [0:20](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=20), [1:52](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=112), [9:38](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=578)
+- [[s04e09 History|S4 E9 – History]] (2024-01-19) — Show notes · Minute [0:20](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=20), [1:52](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=112), [10:30](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=630)
 
 ## Briefly mentioned (1)
 

@@ -20,41 +20,21 @@ a waste of money?*).
 
 ## Said in the podcast
 
-> … it really does depend on my mood. But generally things that are science fiction, fantasy related or quite sort of educational. So things like I've been watching a series about the art of Persia …
+> … about it, as you are gonna hear, we have quite a few space fans speaking today. So there’s plenty of space vocabulary, lots of adjectives, some phrasal verbs and a wide variety of accents, …
 >
-> — [[s01e10 TV|S1 E10]], [Minute 2:40](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=160) · [[Transcript s01e10#Minute 2|in the transcript]]
-
-> … um, there's also television programs that are more educational about nature or science or even at times mathematics or language. So, uh, it just depends on what the program is that can be considered …
->
-> — [[s01e10 TV|S1 E10]], [Minute 8:24](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=504) · [[Transcript s01e10#Minute 8|in the transcript]]
-
-> … people can be famous for just about anything. Whether it's you know science or or just just basically being there like a lot of influencers are. I suppose for me I would love to …
->
-> — [[s03e08 Fame|S3 E8]], [Minute 1:03](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=63) · [[Transcript s03e08#Minute 1|in the transcript]]
-
-> … too easily influenced by people we have never met, such as sports stars or other famous people? A lot of people are, you know. They're just the same as anyone else. They've just had …
->
-> — [[s03e08 Fame|S3 E8]], [Minute 11:58](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=718) · [[Transcript s03e08#Minute 11|in the transcript]]
-
-> … and welcome to the Real exam English podcast, this episode is about space. Ok, it’s not the most common exam topic ever but it is a very interesting subject and a lot of people …
->
-> — [[s05e03 Space|S5 E3]], [Minute 0:16](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=16) · [[Transcript s05e03#Minute 0|in the transcript]]
+> — [[s05e03 Space|S5 E3]], [Minute 0:29](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=29) · [[Transcript s05e03#Minute 0|in the transcript]]
 
 > … be gone in a, in a blip and life will and the universe will continue. Great answer to start off there. We had some useful space vocabulary with the night sky and stars and …
 >
 > — [[s05e03 Space|S5 E3]], [Minute 2:44](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=164) · [[Transcript s05e03#Minute 2|in the transcript]]
 
-> … did some astronomy research during my undergraduate as well in Melbourne about Mars and the possible Mars trips that we could be taking and the…I guess the viability and if it's real or not …
+> … did some astronomy research during my undergraduate as well in Melbourne about Mars and the possible Mars trips that we could be taking and the… I guess the viability and if it's real or …
 >
 > — [[s05e03 Space|S5 E3]], [Minute 4:32](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=272) · [[Transcript s05e03#Minute 4|in the transcript]]
 
 > … have undertaken, very appropriate sentence! Do you find astronomy interesting? I love space. I love galaxies. My favorite color is the Galaxy bluey purple. That's my wallpaper. It's and I was….I was kind of …
 >
 > — [[s05e03 Space|S5 E3]], [Minute 6:28](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=388) · [[Transcript s05e03#Minute 6|in the transcript]]
-
-> … lot about it, particularly something quite specialist. For example, I´m a total Star Wars nerd, or she’s a grammar nerd. He said that despite not being outgoing he was into the performing arts. This …
->
-> — [[s05e04 School|S5 E4]], [Minute 2:05](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=125) · [[Transcript s05e04#Minute 2|in the transcript]]
 
 > … and STEM subjects, ok it’s an acronym, so the S is for Science, T is for Technology, E for Engineering and the M for Mathematics, nice vocabulary that, STEM subjects. As she said music …
 >
@@ -66,13 +46,11 @@ a waste of money?*).
 
 ## In these episodes (1)
 
-- [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Show notes · Minute [0:16](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=16), [2:44](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=164), [4:32](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=272), [6:28](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=388)
+- [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Show notes · Minute [0:29](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=29), [2:44](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=164), [4:32](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=272), [6:28](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=388)
 
-## Briefly mentioned (3)
+## Briefly mentioned (1)
 
-- [[s01e10 TV|S1 E10 – TV]] (2020-10-05) — Minute [2:40](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=160), [8:24](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=504)
-- [[s03e08 Fame|S3 E8 – Fame]] (2022-04-07) — Minute [1:03](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=63), [11:58](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=718)
-- [[s05e04 School|S5 E4 – School]] (2025-02-07) — Minute [2:05](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=125), [5:58](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=358), [17:47](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=1067)
+- [[s05e04 School|S5 E4 – School]] (2025-02-07) — Minute [5:58](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=358), [17:47](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=1067)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

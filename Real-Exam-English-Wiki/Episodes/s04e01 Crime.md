@@ -19,11 +19,11 @@ tags: [episode, season-4]
 | **Duration** | 13:20 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM) · [MP3](https://www.buzzsprout.com/1107956/episodes/12506687-s04-1-crime.mp3) |
 | **Transcript** | [[Transcript s04e01]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Travel, Holidays & Tourism]], [[Learning, School & Education]], [[Crime & Law]] |
-| **Language** | – |
+| **Topics** | [[Crime & Law]] |
+| **Language** | [[Adverbs]] |
 | **Exams** | – |
-| **Accents** | [[USA]], [[Non-Native Speakers]] |
-| **Briefly mentioned** | [[Change & Life Changes]], [[Languages & Language Learning]], [[Idioms & Expressions]], [[Collocations]], [[Adverbs]], [[Connectors & Linking Words]], [[Cambridge C1 Advanced (CAE)]], [[Cambridge C2 Proficiency (CPE)]], [[Ireland]], [[England]], [[Australia]] |
+| **Accents** | [[Ireland]], [[England]], [[USA]], [[Australia]] |
+| **Briefly mentioned** | [[Change & Life Changes]], [[Drugs & Legalisation]], [[Idioms & Expressions]], [[Speculating & Hedging]] |
 
 ## Show notes
 

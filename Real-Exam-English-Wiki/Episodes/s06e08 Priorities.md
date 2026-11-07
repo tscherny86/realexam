@@ -20,10 +20,10 @@ tags: [episode, season-6]
 | **Listen** | [Spotify](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K) · [MP3](https://www.buzzsprout.com/1107956/episodes/19688738-s06-8-priorities.mp3) |
 | **Transcript** | [[Transcript s06e08]] (word-level timestamps, aligned with the official transcript) |
 | **Topics** | [[The Environment & Climate Change]], [[Parenting & Children]], [[Priorities & Decisions]] |
-| **Language** | [[Idioms & Expressions]], [[Collocations]], [[Pronunciation]], [[Common Mistakes]], [[Organising Your Answer]], [[Spelling]] |
+| **Language** | [[Idioms & Expressions]], [[Collocations]], [[Adverbs]], [[Connectors & Linking Words]], [[Pronunciation]], [[Common Mistakes]], [[Spelling]] |
 | **Exams** | – |
-| **Accents** | [[USA]] |
-| **Briefly mentioned** | [[Shopping & Consumerism]], [[Work & Careers]], [[Money & Finance]], [[Learning, School & Education]], [[Change & Life Changes]], [[Crime & Law]], [[Languages & Language Learning]], [[Home & Housing]], [[The Future & Predictions]], [[Phrasal Verbs]], [[Adverbs]], [[Emphasis & Auxiliaries]], [[Speaking Exam]] |
+| **Accents** | – |
+| **Briefly mentioned** | [[Work & Careers]], [[Money & Finance]], [[Crime & Law]], [[Home & Housing]], [[The Future & Predictions]], [[Emphasis & Auxiliaries]], [[Speaking Exam]], [[England]], [[USA]] |
 
 ## Show notes
 

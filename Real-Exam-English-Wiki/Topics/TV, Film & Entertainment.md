@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 4
+episodes: 5
 tags: [topics]
 ---
 # TV, Film & Entertainment
@@ -29,7 +29,7 @@ Film and television offer easy personal examples and a lot of lively vocabulary.
 >
 > — [[s01e06 Technology|S1 E6]], [Minute 3:22](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=202) · [[Transcript s01e06#Minute 3|in the transcript]]
 
-> … in our household we have 2 ipads and we have a smart TV and actually my computer is sitting on top of two old laptops that are unused but I´m afraid to throw them …
+> … in our household we have 2 ipads and we have a smart TV and actually my computer is sitting on top of two old laptops that are unused but I’m afraid to throw them …
 >
 > — [[s01e06 Technology|S1 E6]], [Minute 11:11](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=671) · [[Transcript s01e06#Minute 11|in the transcript]]
 
@@ -37,11 +37,15 @@ Film and television offer easy personal examples and a lot of lively vocabulary.
 >
 > — [[s01e08 The Environment|S1 E8]], [Minute 4:41](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=281) · [[Transcript s01e08#Minute 4|in the transcript]]
 
-> … if we want to understand something well it's better to watch a documentaryt rather than read a book? Diarmuid: No, I think that’s definitely not true, you can twist any narrative into a TV …
+> … of vocabulary to have because very often you're asked what kind of movie or what type of movie or book or TV series you are into. And instead of saying kind or type, it's …
+>
+> — [[s01e09 Books|S1 E9]], [Minute 3:06](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=186) · [[Transcript s01e09#Minute 3|in the transcript]]
+
+> … if we want to understand something well it's better to watch a documentary rather than read a book? Diarmuid: No, I think that’s definitely not true, you can twist any narrative into a TV …
 >
 > — [[s01e09 Books|S1 E9]], [Minute 7:47](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=467) · [[Transcript s01e09#Minute 7|in the transcript]]
 
-> … if we want to understand something well it's better to watch a documentaryt rather than read a book? Ade: They’re different things aren’t they, they’ve both got their own value and credit. I think …
+> … if we want to understand something well it's better to watch a documentary rather than read a book? Ade: They’re different things aren’t they, they’ve both got their own value and credit. I think …
 >
 > — [[s01e09 Books|S1 E9]], [Minute 9:44](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=584) · [[Transcript s01e09#Minute 9|in the transcript]]
 
@@ -81,17 +85,9 @@ Film and television offer easy personal examples and a lot of lively vocabulary.
 >
 > — [[s03e01 Humour|S3 E1]], [Minute 12:15](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=735) · [[Transcript s03e01#Minute 12|in the transcript]]
 
-> … it's fine. We had this awesome idiom at the start here, the tv show is completely on the nose, which means it´s exactly right, like his impersonation of the actor was on the nose. …
+> … it's fine. We had this awesome idiom at the start here, the tv show is completely on the nose, which means it’s exactly right, like his impersonation of the actor was on the nose. …
 >
 > — [[s03e01 Humour|S3 E1]], [Minute 14:17](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=857) · [[Transcript s03e01#Minute 14|in the transcript]]
-
-> … had to lug around a camera and. Before that you got the films developed and then you know you had to download it onto your laptop or different things like that. So phone photography …
->
-> — [[s03e03 Photos|S3 E3]], [Minute 3:21](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=201) · [[Transcript s03e03#Minute 3|in the transcript]]
-
-> … didn't see it till you went to the shop and got your film developed. You would probably only take it. You you were kind of more sparing with them. You you know you might …
->
-> — [[s03e03 Photos|S3 E3]], [Minute 13:03](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=783) · [[Transcript s03e03#Minute 13|in the transcript]]
 
 > … get so obsessive with famous people, be it people in sports, in movies, in bands.You know the current wave of K pop the obsession that some of these young girls have with K pop …
 >
@@ -109,7 +105,7 @@ Film and television offer easy personal examples and a lot of lively vocabulary.
 >
 > — [[s03e08 Fame|S3 E8]], [Minute 12:18](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=738) · [[Transcript s03e08#Minute 12|in the transcript]]
 
-> … Some super-duper advice there, if you have kids, get them watching English TV, you´ll save a fortune in English lessons in the future. We heard two lovely inversions too, not only does it help …
+> … Some super-duper advice there, if you have kids, get them watching English TV, you’ll save a fortune in English lessons in the future. We heard two lovely inversions too, not only does it help …
 >
 > — [[s04e02 Languages|S4 E2]], [Minute 5:57](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=357) · [[Transcript s04e02#Minute 5|in the transcript]]
 
@@ -137,15 +133,11 @@ Film and television offer easy personal examples and a lot of lively vocabulary.
 >
 > — [[x2024-04-16 Martyna from Poland|Bonus]], [Minute 14:10](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=850) · [[Transcript x2024-04-16#Minute 14|in the transcript]]
 
-> … to walk on two legs and observe it's been our theatre, our movies, you know? And I mean ancient peoples were much more in tune with that. They developed constellations and the constellations have …
->
-> — [[s05e03 Space|S5 E3]], [Minute 1:50](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=110) · [[Transcript s05e03#Minute 1|in the transcript]]
-
 > … it from a distance from a telescope. What is your favorite space movie or TV show and how realistic is it? So, as a thing, musicians don't tend to be big on films, so …
 >
 > — [[s05e03 Space|S5 E3]], [Minute 7:30](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=450) · [[Transcript s05e03#Minute 7|in the transcript]]
 
-> … she said as a thing, musicians don’t tend to be big on films. When she says as a thing, she means as a rule, or usually. So, as a thing, musicians don´t tend to …
+> … she said as a thing, musicians don’t tend to be big on films. When she says as a thing, she means as a rule, or usually. So, as a thing, musicians don’t tend to …
 >
 > — [[s05e03 Space|S5 E3]], [Minute 9:23](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=563) · [[Transcript s05e03#Minute 9|in the transcript]]
 
@@ -153,9 +145,13 @@ Film and television offer easy personal examples and a lot of lively vocabulary.
 >
 > — [[s05e03 Space|S5 E3]], [Minute 13:02](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=782) · [[Transcript s05e03#Minute 13|in the transcript]]
 
-> … Ok, question time, let’s go: Is it more enjoyable to watch a TV program with advertising breaks or without them? Without, because we always skip the adverts when there's a program with adverts. When …
+> … in both answers, even though I like space, I don’t like space movies. And the answers were interesting, which always makes them seem better, right! Ok so, speaking of interesting answers next up we …
 >
-> — [[s05e06 Advertising|S5 E6]], [Minute 1:21](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=81) · [[Transcript s05e06#Minute 1|in the transcript]]
+> — [[s05e03 Space|S5 E3]], [Minute 14:48](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=888) · [[Transcript s05e03#Minute 14|in the transcript]]
+
+> … to me, it's my targeted advertising. But actually I see it on TV as well so it can't just be just be me. But there are gambling ads everywhere, and I think that's because …
+>
+> — [[s05e06 Advertising|S5 E6]], [Minute 2:43](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=163) · [[Transcript s05e06#Minute 2|in the transcript]]
 
 > … vocabulary too, with targeted advertising. Although then he said it’s actually on TV too so it can’t just be me. This is a great example of when to use can’t when you are making …
 >
@@ -173,7 +169,7 @@ Film and television offer easy personal examples and a lot of lively vocabulary.
 >
 > — [[s05e08 Internet|S5 E8]], [Minute 1:10](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=70) · [[Transcript s05e08#Minute 1|in the transcript]]
 
-> … use the Internet a lot for scrolling through my Instagram. And watching TV, I don't own a physical television anymore. I use… I exclusively stream everything. So that's what, that's what I use it …
+> … What do you spend most of your time online doing? And watching TV, I don't own a physical television anymore. I use… I exclusively stream everything. So that's what, that's what I use it …
 >
 > — [[s05e08 Internet|S5 E8]], [Minute 5:20](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=320) · [[Transcript s05e08#Minute 5|in the transcript]]
 
@@ -225,23 +221,22 @@ Film and television offer easy personal examples and a lot of lively vocabulary.
 >
 > — [[s06e10 Decisions|S6 E10]], [Minute 15:48](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=948) · [[Transcript s06e10#Minute 15|in the transcript]]
 
-## In these episodes (4)
+## In these episodes (5)
 
+- [[s01e09 Books|S1 E9 – Books]] (2020-10-02) — Minute [3:06](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=186), [7:47](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=467), [9:44](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=584)
 - [[s01e10 TV|S1 E10 – TV]] (2020-10-05) — Show notes · Minute [0:04](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=4), [1:37](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=97), [3:12](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=192), [5:22](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=322)
 - [[s03e01 Humour|S3 E1 – Humour]] (2021-08-23) — Minute [4:31](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=271), [12:15](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=735), [14:17](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=857)
 - [[x2024-04-16 Martyna from Poland|Bonus – Martyna from Poland]] (2024-04-16) — Show notes · Minute [1:10](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=70), [10:41](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=641), [12:36](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=756), [14:10](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=850)
-- [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Minute [1:50](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=110), [7:30](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=450), [9:23](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=563), [13:02](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=782)
+- [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Minute [7:30](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=450), [9:23](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=563), [13:02](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=782), [14:48](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=888)
 
-## Briefly mentioned (13)
+## Briefly mentioned (11)
 
 - [[s01e06 Technology|S1 E6 – Technology]] (2020-09-11) — Minute [1:27](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=87), [3:22](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=202), [11:11](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=671)
 - [[s01e08 The Environment|S1 E8 – The Environment]] (2020-09-25) — Minute [4:41](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=281)
-- [[s01e09 Books|S1 E9 – Books]] (2020-10-02) — Minute [7:47](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=467), [9:44](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=584)
 - [[s02e07 Free time|S2 E7 – Free time]] (2021-03-12) — Minute [3:10](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=190), [5:10](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=310), [7:05](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=425)
-- [[s03e03 Photos|S3 E3 – Photos]] (2021-10-19) — Minute [3:21](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=201), [13:03](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=783)
 - [[s03e08 Fame|S3 E8 – Fame]] (2022-04-07) — Minute [1:56](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=116), [4:03](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=243), [7:37](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=457), [12:18](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=738)
 - [[s04e02 Languages|S4 E2 – Languages]] (2023-04-29) — Minute [5:57](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=357), [8:02](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=482), [17:10](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=1030)
-- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [1:21](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=81), [4:51](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=291), [8:02](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=482), [15:50](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=950)
+- [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [2:43](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=163), [4:51](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=291), [8:02](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=482), [15:50](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=950)
 - [[s05e08 Internet|S5 E8 – Internet]] (2025-06-17) — Minute [1:10](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=70), [5:20](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=320), [7:23](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=443)
 - [[s05e10 Weekend|S5 E10 – Weekend]] (2025-08-18) — Minute [11:34](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=694), [13:04](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=784), [18:18](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=1098)
 - [[s06e01 News|S6 E1 – News]] (2026-01-24) — Minute [1:24](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=84), [4:50](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=290), [9:17](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=557), [17:30](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=1050)

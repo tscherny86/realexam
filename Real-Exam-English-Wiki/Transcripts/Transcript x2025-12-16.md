@@ -5,7 +5,7 @@ tags: [transcript]
 ---
 # Transcript – Xing - Tokyo
 
-Episode: [[x2025-12-16 Xing - Tokyo]] · transcribed automatically, aligned with the official transcript (0 corrections); occasional hearing errors are possible.
+Episode: [[x2025-12-16 Xing - Tokyo]] · transcribed automatically, aligned with the official transcript (1 corrections); occasional hearing errors are possible.
 Click ▶ to open Spotify at exactly this point.
 
 ### Minute 0
@@ -38,7 +38,7 @@ I, kind of tongue in cheek, suggested that Chinese people are shameless and Xing
 
 ### Minute 8
 [▶ 8:12](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=492)  
-A small little error but one that a lot of people make! Obviously, you've got a fantastic level of English. Did you learn that in the school system in China? No. I, when I was, I mean, English is mandatory in most Chinese schools. And it's actually similar to Japan. It's also really important here. However, it's more about passing exams. It was when I…I don't know about these days, but when I was a student back then, it was, speakin was never a thing that people paid attention to. It was all about grammar and reading and writing and listening. And I think the turning point, the turning point for me was when I was 16, I went to Australia for a summer camp. And that was the time, I started to realize, oh, speaking is really important.
+A small little error but one that a lot of people make! Obviously, you've got a fantastic level of English. Did you learn that in the school system in China? No. I, when I was, I mean, English is mandatory in most Chinese schools. And it's actually similar to Japan. It's also really important here. However, it's more about passing exams. It was when I… I don't know about these days, but when I was a student back then, it was, speaking was never a thing that people paid attention to. It was all about grammar and reading and writing and listening. And I think the turning point, the turning point for me was when I was 16, I went to Australia for a summer camp. And that was the time, I started to realize, oh, speaking is really important.
 
 ### Minute 9
 [▶ 9:19](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=559)  
@@ -70,7 +70,7 @@ Something else good to use in an exam would be the idiom to go with the flow. Sh
 
 ### Minute 16
 [▶ 16:55](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=1015)  
-Well, the only thing that came to my mind was spontaneous. Wow. I just like this word for no reason. I don't know. I just like it because it feels really free. And yeah, like I don't think I need to give you a specific reason for that. I just like it. For what it is. You like the meaning of it or the sound of it or what? I like all of it. Wow. Interesting. And I'm also trying to live it. Right. The way it is. Yeah. So, it's a bit of a personal motto for you. I think so. I think so. be spontaneous. All right, cool. Nice. And then the other aspects of English, or the fact that you're able to speak English, that you enjoy. I think listening to your podcast. That was pretty British. Okay. Podcast. Sorry. Listening to your podcast is…it's really helpful actually, especially when I was preparing for the C2 exam, I was crazy.
+Well, the only thing that came to my mind was spontaneous. Wow. I just like this word for no reason. I don't know. I just like it because it feels really free. And yeah, like I don't think I need to give you a specific reason for that. I just like it. For what it is. You like the meaning of it or the sound of it or what? I like all of it. Wow. Interesting. And I'm also trying to live it. Right. The way it is. Yeah. So, it's a bit of a personal motto for you. I think so. I think so. be spontaneous. All right, cool. Nice. And then the other aspects of English, or the fact that you're able to speak English, that you enjoy. I think listening to your podcast. That was pretty British. Okay. Podcast. Sorry. Listening to your podcast is… it's really helpful actually, especially when I was preparing for the C2 exam, I was crazy.
 
 ### Minute 18
 [▶ 18:05](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=1085)  

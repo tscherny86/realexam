@@ -19,11 +19,11 @@ tags: [episode, season-3]
 | **Duration** | 15:18 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU) · [MP3](https://www.buzzsprout.com/1107956/episodes/9845366-s03-6-fashion.mp3) |
 | **Transcript** | [[Transcript s03e06]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Fashion & Clothes]], [[Languages & Language Learning]] |
-| **Language** | [[Inversion]], [[Prepositions]] |
+| **Topics** | [[Fashion & Clothes]] |
+| **Language** | – |
 | **Exams** | – |
 | **Accents** | – |
-| **Briefly mentioned** | [[Shopping & Consumerism]], [[Friends & Friendship]], [[Culture & Traditions]], [[Change & Life Changes]], [[Manners & Politeness]], [[Connectors & Linking Words]], [[Slang & Informal English]] |
+| **Briefly mentioned** | [[Friends & Friendship]], [[Culture & Traditions]], [[Change & Life Changes]], [[Manners & Politeness]], [[Inversion]] |
 
 ## Show notes
 
@@ -35,7 +35,7 @@ Thanks to all of the contributors, including Ian from the We Dig Music podcast, 
 
 ## Chapters
 
-- [0:13](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU?t=13) – Hello and welcome to Real Exam English. Today’s topic is fashion. I must confess it´s not my area … ([[Transcript s03e06#Minute 0|transcript]])
+- [0:13](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU?t=13) – Hello and welcome to Real Exam English. Today’s topic is fashion. I must confess it’s not my area … ([[Transcript s03e06#Minute 0|transcript]])
 - [2:18](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU?t=138) – On what occasions do you think carefully about what you’re going to wear? Honestly, in most occasions I … ([[Transcript s03e06#Minute 2|transcript]])
 - [4:26](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU?t=266) – I'm gonna I'm gonna form some kind of opinion if someone is wandering down the street wearing the … ([[Transcript s03e06#Minute 4|transcript]])
 - [6:27](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU?t=387) – So fashion-wise means with respect to fashion. And the reason the speaker used this word here is to … ([[Transcript s03e06#Minute 6|transcript]])

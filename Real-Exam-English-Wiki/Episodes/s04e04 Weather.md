@@ -19,11 +19,11 @@ tags: [episode, season-4]
 | **Duration** | 16:41 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ) · [MP3](https://www.buzzsprout.com/1107956/episodes/13208052-s04-4-weather.mp3) |
 | **Transcript** | [[Transcript s04e04]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Travel, Holidays & Tourism]], [[Anger & Emotions]], [[Weather & Seasons]], [[Transport & Traffic]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Passive Voice]], [[Slang & Informal English]] |
+| **Topics** | [[Weather & Seasons]], [[Transport & Traffic]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Passive Voice]], [[Adverbs]] |
 | **Exams** | – |
-| **Accents** | [[Ireland]], [[USA]], [[Australia]], [[Non-Native Speakers]] |
-| **Briefly mentioned** | [[The Environment & Climate Change]], [[Work & Careers]], [[Change & Life Changes]], [[Home & Housing]], [[Extremes & Adventure]], [[Adjectives & Compound Adjectives]], [[England]] |
+| **Accents** | [[Ireland]], [[England]], [[USA]], [[Australia]] |
+| **Briefly mentioned** | [[The Environment & Climate Change]], [[Anger & Emotions]], [[Change & Life Changes]], [[Extremes & Adventure]], [[Globalisation]], [[Adjectives & Compound Adjectives]] |
 
 ## Show notes
 
@@ -39,7 +39,7 @@ Thanks to all of the contributors, including Matt, Leah Ann, Stephanie, Loli, Em
 - [2:24](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=144) – And being with people changes your mood. So obviously, you know, it's important to get out and meet … ([[Transcript s04e04#Minute 2|transcript]])
 - [4:28](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=268) – Like a lot of small shops are being driven out of business due to the arrival of larger … ([[Transcript s04e04#Minute 4|transcript]])
 - [6:32](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=392) – In what ways do you think weather and our mood are connected? That is such a good question. … ([[Transcript s04e04#Minute 6|transcript]])
-- [8:41](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=521) – Really important to have some different ways to say your feeling bad, other great expressions are down in … ([[Transcript s04e04#Minute 8|transcript]])
+- [8:41](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=521) – Really important to have some different ways to say you’re feeling bad, other great expressions are down in … ([[Transcript s04e04#Minute 8|transcript]])
 - [10:46](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=646) – If you think about it, quite a lot of English-speaking countries are islands so it makes sense to … ([[Transcript s04e04#Minute 10|transcript]])
 - [12:54](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=774) – He had a couple of nice phrasal verbs too, we are not cut out for dealing with heavy … ([[Transcript s04e04#Minute 12|transcript]])
 - [15:02](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=902) – It would be good for writing a letter of application, for instance, like I believe I am eminently … ([[Transcript s04e04#Minute 15|transcript]])

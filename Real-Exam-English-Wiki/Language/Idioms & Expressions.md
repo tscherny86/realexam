@@ -33,7 +33,7 @@ head*, *once in a blue moon*.
 >
 > — [[s01e01 Introductions|S1 E1]], [Minute 12:58](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=778) · [[Transcript s01e01#Minute 12|in the transcript]]
 
-> … magazines, Instagram or wherever. You will need to get yourself some nice expressions, vocabulary and phrasal verbs that you will be able to use in the exam. And basically there are two types of …
+> … to love about travel! You will need to get yourself some nice expressions, vocabulary and phrasal verbs that you will be able to use in the exam. And basically there are two types of …
 >
 > — [[s01e02 Travel|S1 E2]], [Minute 0:44](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=44) · [[Transcript s01e02#Minute 0|in the transcript]]
 
@@ -57,7 +57,7 @@ head*, *once in a blue moon*.
 >
 > — [[s01e03 Food|S1 E3]], [Minute 5:41](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=341) · [[Transcript s01e03#Minute 5|in the transcript]]
 
-> … serve good food, I don't have a problem with that. And this expression, as long as can be replaced with on the condition that are providing that and is a really good conjunction to …
+> … serve good food, I don't have a problem with that. And this expression, as long as can be replaced with on the condition that or providing that and is a really good conjunction to use and again, examiners love that, …
 >
 > — [[s01e03 Food|S1 E3]], [Minute 9:05](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=545) · [[Transcript s01e03#Minute 9|in the transcript]]
 
@@ -109,6 +109,10 @@ head*, *once in a blue moon*.
 >
 > — [[s01e08 The Environment|S1 E8]], [Minute 5:49](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=349) · [[Transcript s01e08#Minute 5|in the transcript]]
 
+> … quite fantastical and wonderful as well. This answer starts off with this expression in terms of genre, I'd say satirical science fiction. And this is a really useful piece of vocabulary to have because …
+>
+> — [[s01e09 Books|S1 E9]], [Minute 2:55](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=175) · [[Transcript s01e09#Minute 2|in the transcript]]
+
 > … come around to reading books a lot more. We had an excellent idiom here in the last answer, swings and roundabouts. So we had an excellent idiom in this last answer. If you say …
 >
 > — [[s01e09 Books|S1 E9]], [Minute 8:37](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=517) · [[Transcript s01e09#Minute 8|in the transcript]]
@@ -129,7 +133,7 @@ head*, *once in a blue moon*.
 >
 > — [[s01e10 TV|S1 E10]], [Minute 10:26](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=626) · [[Transcript s01e10#Minute 10|in the transcript]]
 
-> … yourself, we have some nice phrasal verbs and lots of great real-English idioms! So let´s go! Which do you prefer? Celebrations with family or with friends? I'm gonna go with friends on this one …
+> … yourself, we have some nice phrasal verbs and lots of great real-English idioms! So let’s go! Which do you prefer? Celebrations with family or with friends? I'm gonna go with friends on this one …
 >
 > — [[s02e01 Celebrations|S2 E1]], [Minute 1:13](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=73) · [[Transcript s02e01#Minute 1|in the transcript]]
 
@@ -137,7 +141,7 @@ head*, *once in a blue moon*.
 >
 > — [[s02e01 Celebrations|S2 E1]], [Minute 4:39](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=279) · [[Transcript s02e01#Minute 4|in the transcript]]
 
-> … mention of rodeo should tell you it´s the USA. We heard this expression there was a lot of to-do, that’s to hyphen do. This means a lot of excitement and commotion, usually more than …
+> … mention of rodeo should tell you it’s the USA. We heard this expression there was a lot of to-do, that’s to hyphen do. This means a lot of excitement and commotion, usually more than …
 >
 > — [[s02e01 Celebrations|S2 E1]], [Minute 6:52](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=412) · [[Transcript s02e01#Minute 6|in the transcript]]
 
@@ -153,13 +157,13 @@ head*, *once in a blue moon*.
 >
 > — [[s02e02 City and Country|S2 E2]], [Minute 2:23](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=143) · [[Transcript s02e02#Minute 2|in the transcript]]
 
-> … deal faster, slightly less urban. Isn´t this so much better than just saying the normal comparative, instead of faster say a good deal faster. This use of intensifiers is very typical in English when …
+> … deal faster, slightly less urban. Isn’t this so much better than just saying the normal comparative, instead of faster say a good deal faster. This use of intensifiers is very typical in English when …
 >
 > — [[s02e02 City and Country|S2 E2]], [Minute 6:10](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=370) · [[Transcript s02e02#Minute 6|in the transcript]]
 
-> … useful to include it. If you can't follow what the speaker is saying, then make sure to check out the transcript on realexamenglish.com. How would life in a modern big city be different from …
+> … to show off your interaction skills. You need to show some nice expressions for agreeing and disagreeing, making suggestions and coming to a conclusion. While the two speakers we listened to interact very naturally …
 >
-> — [[s02e02 City and Country|S2 E2]], [Minute 10:20](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=620) · [[Transcript s02e02#Minute 10|in the transcript]]
+> — [[s02e02 City and Country|S2 E2]], [Minute 17:30](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=1050) · [[Transcript s02e02#Minute 17|in the transcript]]
 
 > … being said I did love the latest Pixar film. Another way of saying the same thing is “having said that” or nevertheless, or nonetheless, or however if you want to keep it more simple. …
 >
@@ -177,7 +181,7 @@ head*, *once in a blue moon*.
 >
 > — [[s02e03 Global Issues|S2 E3]], [Minute 17:38](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=1058) · [[Transcript s02e03#Minute 17|in the transcript]]
 
-> … usual. In addition, we have a dialogue so you´ll hear some great expressions for interacting and giving opinions. It´s quite a long episode today so let´s get going with the questions. How important is …
+> … usual. In addition, we have a dialogue so you’ll hear some great expressions for interacting and giving opinions. It’s quite a long episode today so let’s get going with the questions. How important is …
 >
 > — [[s02e04 Shopping|S2 E4]], [Minute 0:45](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=45) · [[Transcript s02e04#Minute 0|in the transcript]]
 
@@ -185,11 +189,11 @@ head*, *once in a blue moon*.
 >
 > — [[s02e04 Shopping|S2 E4]], [Minute 10:09](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=609) · [[Transcript s02e04#Minute 10|in the transcript]]
 
-> … really useful both in real life and in an exam situation. Most expressions require a gerund, such as I love playing football, I can´t stand cleaning the bathrooms or I´m keen on learning the …
+> … really useful both in real life and in an exam situation. Most expressions require a gerund, such as I love playing football, I can’t stand cleaning the bathrooms or I’m keen on learning the …
 >
 > — [[s02e04 Shopping|S2 E4]], [Minute 13:14](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=794) · [[Transcript s02e04#Minute 13|in the transcript]]
 
-> … exam but just don´t overdo it. We had a couple of great expressions here at the end to use when a business is unsuccessful and fails, they were going under and going out of …
+> … exam but just don’t overdo it. We had a couple of great expressions here at the end to use when a business is unsuccessful and fails, they were going under and going out of …
 >
 > — [[s02e04 Shopping|S2 E4]], [Minute 15:52](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=952) · [[Transcript s02e04#Minute 15|in the transcript]]
 
@@ -197,7 +201,7 @@ head*, *once in a blue moon*.
 >
 > — [[x2021-02-19 Bonus Episode - Writing|Bonus]], [Minute 3:28](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=208) · [[Transcript x2021-02-19#Minute 3|in the transcript]]
 
-> … answers. We have a lot of super vocabulary today, from American English expressions to figurative language to replacing offensive words in a polite way. So let´s crack on with the questions: When should schools …
+> … answers. We have a lot of super vocabulary today, from American English expressions to figurative language to replacing offensive words in a polite way. So let’s crack on with the questions: When should schools …
 >
 > — [[s02e05 Health|S2 E5]], [Minute 0:36](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=36) · [[Transcript s02e05#Minute 0|in the transcript]]
 
@@ -205,7 +209,7 @@ head*, *once in a blue moon*.
 >
 > — [[s02e05 Health|S2 E5]], [Minute 3:09](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=189) · [[Transcript s02e05#Minute 3|in the transcript]]
 
-> … when you get older, or shouldn´t anyway, so the meaning in our expression is different from the literal meaning of the words, which is what figurative language is, and it´s a super way to …
+> … when you get older, or shouldn’t anyway, so the meaning in our expression is different from the literal meaning of the words, which is what figurative language is, and it’s a super way to …
 >
 > — [[s02e05 Health|S2 E5]], [Minute 5:21](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=321) · [[Transcript s02e05#Minute 5|in the transcript]]
 
@@ -221,7 +225,7 @@ head*, *once in a blue moon*.
 >
 > — [[s02e06 Friends|S2 E6]], [Minute 10:18](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=618) · [[Transcript s02e06#Minute 10|in the transcript]]
 
-> … involving you at all then it´s important that you have a nice expression to interrupt them politely, like sorry to interrupt but or if I can just add something here. You shouldn´t have to …
+> … involving you at all then it’s important that you have a nice expression to interrupt them politely, like sorry to interrupt but or if I can just add something here. You shouldn’t have to …
 >
 > — [[s02e06 Friends|S2 E6]], [Minute 12:18](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=738) · [[Transcript s02e06#Minute 12|in the transcript]]
 
@@ -237,11 +241,11 @@ head*, *once in a blue moon*.
 >
 > — [[s02e07 Free time|S2 E7]], [Minute 3:49](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=229) · [[Transcript s02e07#Minute 3|in the transcript]]
 
-> … as they were when I. was a child We had a lovely expression here which was it’s something that doesn´t come naturally to me. So if something comes naturally to you then it comes …
+> … as they were when I. was a child We had a lovely expression here which was it’s something that doesn’t come naturally to me. So if something comes naturally to you then it comes …
 >
 > — [[s02e07 Free time|S2 E7]], [Minute 7:42](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=462) · [[Transcript s02e07#Minute 7|in the transcript]]
 
-> … puppy and his free time revolves around her, this is a great expression to say that is she is the centre of his attention or the most important thing to him. It would be …
+> … he had a new puppy and his free time revolves around her, this is a great expression to say that is she is the centre of his attention or the most important thing to him. It would be …
 >
 > — [[s02e07 Free time|S2 E7]], [Minute 11:53](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=713) · [[Transcript s02e07#Minute 11|in the transcript]]
 
@@ -257,7 +261,7 @@ head*, *once in a blue moon*.
 >
 > — [[s02e08 Work|S2 E8]], [Minute 9:48](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=588) · [[Transcript s02e08#Minute 9|in the transcript]]
 
-> … and that was from a personal standpoint. We´ve heard so many similar expressions in previous episodes but this is a really nice one to finish off with today, from a personal standpoint. Ok guys, …
+> … and that was from a personal standpoint. We’ve heard so many similar expressions in previous episodes but this is a really nice one to finish off with today, from a personal standpoint. Ok guys, …
 >
 > — [[s02e08 Work|S2 E8]], [Minute 13:50](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=830) · [[Transcript s02e08#Minute 13|in the transcript]]
 
@@ -265,7 +269,7 @@ head*, *once in a blue moon*.
 >
 > — [[s02e09 Communications|S2 E9]], [Minute 5:16](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=316) · [[Transcript s02e09#Minute 5|in the transcript]]
 
-> … on end, much to his father’s dismay. He started off his answer saying “given lockdown, not as often as I´d like”, so given in this context means considering. It´s a nice structure to use, …
+> … on end, much to his father’s dismay. He started off his answer saying “given lockdown, not as often as I’d like”, so given in this context means considering. It’s a nice structure to use, …
 >
 > — [[s02e09 Communications|S2 E9]], [Minute 8:41](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=521) · [[Transcript s02e09#Minute 8|in the transcript]]
 
@@ -281,15 +285,15 @@ head*, *once in a blue moon*.
 >
 > — [[s02e10 Family|S2 E10]], [Minute 3:59](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=239) · [[Transcript s02e10#Minute 3|in the transcript]]
 
-> … he can, with the exception of this year. That´s a really handy expression, with the exception of. So when you have one thing that doesn´t follow a rule or doesn´t belong in a list, …
+> … he can, with the exception of this year. That’s a really handy expression, with the exception of. So when you have one thing that doesn’t follow a rule or doesn’t belong in a list, …
 >
 > — [[s02e10 Family|S2 E10]], [Minute 7:22](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=442) · [[Transcript s02e10#Minute 7|in the transcript]]
 
-> … people have asked about how to give donations as a means of saying thanks. To be honest, I´m extremely flattered and grateful that anyone would want to give a donation, but at the same …
+> … people have asked about how to give donations as a means of saying thanks. To be honest, I’m extremely flattered and grateful that anyone would want to give a donation, but at the same …
 >
 > — [[x2021-06-20 Phrasal Verbs for Writing|Bonus]], [Minute 0:46](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=46) · [[Transcript x2021-06-20#Minute 0|in the transcript]]
 
-> … you speak too quickly, I can´t keep up with what you are saying, or the company cannot keep up with the demands for it´s products which has led to a shortage. Phrasal verb number …
+> … you speak too quickly, I can’t keep up with what you are saying, or the company cannot keep up with the demands for its products which has led to a shortage. Phrasal verb number six is Set …
 >
 > — [[x2021-06-20 Phrasal Verbs for Writing|Bonus]], [Minute 8:38](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=518) · [[Transcript x2021-06-20#Minute 8|in the transcript]]
 
@@ -309,15 +313,15 @@ head*, *once in a blue moon*.
 >
 > — [[s03e01 Humour|S3 E1]], [Minute 7:24](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=444) · [[Transcript s03e01#Minute 7|in the transcript]]
 
-> … strategy in an exam situation. Luckily, today we have loads of super expressions to express anger so you can improve your vocabulary no-end. Remember you can access the transcripts for this episode on the …
+> … strategy in an exam situation. Luckily, today we have loads of super expressions to express anger so you can improve your vocabulary no-end. Ok then, let’s plough ahead with the questions. what do you …
 >
 > — [[s03e02 Anger|S3 E2]], [Minute 0:49](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=49) · [[Transcript s03e02#Minute 0|in the transcript]]
 
-> … that we all live. Ok so here is our first bunch of expressions, all the way from Australia, great accent. The first expression was my burning hot temper, which of course if when you …
+> … that we all live. Ok so here is our first bunch of expressions, all the way from Australia, great accent. The first expression was my burning hot temper, which of course is when you are really angry or furious. Then …
 >
 > — [[s03e02 Anger|S3 E2]], [Minute 3:21](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=201) · [[Transcript s03e02#Minute 3|in the transcript]]
 
-> … East Midlands of England. In the first answer we heard this cool expression, out of step with how the world functions. If you are out of step it means you don´t have the same …
+> … East Midlands of England. In the first answer we heard this cool expression, out of step with how the world functions. If you are out of step it means you don’t have the same …
 >
 > — [[s03e02 Anger|S3 E2]], [Minute 7:03](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=423) · [[Transcript s03e02#Minute 7|in the transcript]]
 
@@ -325,21 +329,21 @@ head*, *once in a blue moon*.
 >
 > — [[s03e02 Anger|S3 E2]], [Minute 9:23](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=563) · [[Transcript s03e02#Minute 9|in the transcript]]
 
-> … are going to here lots of photography vocabulary, some amazing adjectives and expressions and for the first time ever on the Real Exam English podcast you can hear people speculating about photographs, with lots …
->
-> — [[s03e03 Photos|S3 E3]], [Minute 0:31](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=31) · [[Transcript s03e03#Minute 0|in the transcript]]
-
 > … people take photos of you? Easily I can answer this one by saying no. I absolutely hate it when people take photos of me for some. For some reason, I mean, I don't think …
 >
 > — [[s03e03 Photos|S3 E3]], [Minute 4:31](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=271) · [[Transcript s03e03#Minute 4|in the transcript]]
 
-> … your language of speculation so make sure to use a variety of expressions, if you can. So the photo for today’s episode is hopefully on the artwork of your podcast app for this episode, …
+> … your language of speculation so make sure to use a variety of expressions, if you can. OK then here we go. In the background, looks like it might be an early morning sort of …
 >
 > — [[s03e03 Photos|S3 E3]], [Minute 7:25](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=445) · [[Transcript s03e03#Minute 7|in the transcript]]
 
-> … sentence, such as it looks like it might be early morning. Other expressions we heard were I guess, it could be, it might be, I don´t think, clearly, probably and then we had this …
+> … sentence, such as it looks like it might be early morning. Other expressions we heard were I guess, it could be, it might be, I don’t think, clearly, probably and then we had this …
 >
 > — [[s03e03 Photos|S3 E3]], [Minute 9:51](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=591) · [[Transcript s03e03#Minute 9|in the transcript]]
+
+> … also mean and it's malicious in its intent. There was a lovely expression in the first answer, to spark memories, which means to trigger or cause the recollection of memories. We heard about revenge …
+>
+> — [[s03e03 Photos|S3 E3]], [Minute 11:26](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=686) · [[Transcript s03e03#Minute 11|in the transcript]]
 
 > … to cover and today you are going to hear loads of words, expressions and phrasal verbs all to do with money. We also have some nice conditionals, inversions and some awesome adverbs. As usual …
 >
@@ -357,7 +361,7 @@ head*, *once in a blue moon*.
 >
 > — [[s03e04 Money|S3 E4]], [Minute 10:53](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=653) · [[Transcript s03e04#Minute 10|in the transcript]]
 
-> … States, all answering questions about learning. You will hear loads of useful expressions and idioms, some amazing ways to structure your answer, plus some wonderful language for speculating about photographs. As usual you can …
+> … States, all answering questions about learning. You will hear loads of useful expressions and idioms, some amazing ways to structure your answer, plus some wonderful language for speculating about photographs. What practical skill would …
 >
 > — [[s03e05 Learning|S3 E5]], [Minute 0:29](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=29) · [[Transcript s03e05#Minute 0|in the transcript]]
 
@@ -373,7 +377,7 @@ head*, *once in a blue moon*.
 >
 > — [[s03e05 Learning|S3 E5]], [Minute 15:17](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=917) · [[Transcript s03e05#Minute 15|in the transcript]]
 
-> … different ways to express habits, you will hear some super vocabulary, excellent idioms and also we have some top class speculation about a photograph with an owl. Remember you can find the transcript for …
+> … different ways to express habits, you will hear some super vocabulary, excellent idioms and also we have some top class speculation about a photograph with an owl. Feel free to get in contact any …
 >
 > — [[s03e07 Animals|S3 E7]], [Minute 0:36](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=36) · [[Transcript s03e07#Minute 0|in the transcript]]
 
@@ -381,11 +385,11 @@ head*, *once in a blue moon*.
 >
 > — [[s03e07 Animals|S3 E7]], [Minute 7:03](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=423) · [[Transcript s03e07#Minute 7|in the transcript]]
 
-> … gives herself some extra time to think with a combination of stalling expressions, “oh yea…uhm, gosh, I hadn´t really thought about it actually”. We’ve spoken before about the importance of having expression like these …
+> … gives herself some extra time to think with a combination of stalling expressions, “oh yea… uhm, gosh, I hadn’t really thought about it actually”. We’ve spoken before about the importance of having expression like …
 >
 > — [[s03e07 Animals|S3 E7]], [Minute 12:32](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=752) · [[Transcript s03e07#Minute 12|in the transcript]]
 
-> … able to experience feelings. She finished her answer perfectly too with this expression I´m not a fan of it, that’s a great way to voice your disagreement or disapproval of something. Like, what is …
+> … able to experience feelings. She finished her answer perfectly too with this expression I’m not a fan of it, that’s a great way to voice your disagreement or disapproval of something. Like, what is …
 >
 > — [[s03e07 Animals|S3 E7]], [Minute 14:41](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=881) · [[Transcript s03e07#Minute 14|in the transcript]]
 
@@ -393,7 +397,7 @@ head*, *once in a blue moon*.
 >
 > — [[s03e08 Fame|S3 E8]], [Minute 3:07](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=187) · [[Transcript s03e08#Minute 3|in the transcript]]
 
-> … have a positive effect on the world. He also had a nice expression with good, which was “that´s good enough for me”, meaning that something is adequate for your needs. Like, hey Trevor, I …
+> … have a positive effect on the world. He also had a nice expression with good, which was “that’s good enough for me”, meaning that something is adequate for your needs. Like, hey Trevor, I …
 >
 > — [[s03e08 Fame|S3 E8]], [Minute 6:08](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=368) · [[Transcript s03e08#Minute 6|in the transcript]]
 
@@ -401,23 +405,19 @@ head*, *once in a blue moon*.
 >
 > — [[s03e08 Fame|S3 E8]], [Minute 7:41](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=461) · [[Transcript s03e08#Minute 7|in the transcript]]
 
-> … like Nelson Mandela. Nice. The first answer starts off with the class expression, There´s different schools of thought on this, meaning that different groups of people have different ideas or opinions about it. This …
+> … like Nelson Mandela. Nice. The first answer starts off with the class expression, There’s different schools of thought on this, meaning that different groups of people have different ideas or opinions about it. This …
 >
 > — [[s03e08 Fame|S3 E8]], [Minute 10:33](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=633) · [[Transcript s03e08#Minute 10|in the transcript]]
 
-> … in the image. Also, in this episode you will hear some super expressions with the word all, some brilliant use of adverbs and possibly the most well-structured answer we have ever heard on the …
->
-> — [[s03e09 Culture|S3 E9]], [Minute 0:46](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=46) · [[Transcript s03e09#Minute 0|in the transcript]]
-
-> … Indian culture, less so the food. This is far nicer than just saying “but I am less interested in the food”. I´ll give you another example, I found the reading exercise quite easy, less …
+> … Indian culture, less so the food. This is far nicer than just saying “but I am less interested in the food”. I’ll give you another example, I found the reading exercise quite easy, less …
 >
 > — [[s03e09 Culture|S3 E9]], [Minute 3:24](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=204) · [[Transcript s03e09#Minute 3|in the transcript]]
 
-> … they believe in. Feast afterwards. Ok so just to pick out the expressions used to speculate, we had I would say, they seem to have, they don´t look happy, that´s my guess, looks like, …
+> … they believe in. Feast afterwards. Ok so just to pick out the expressions used to speculate, we had I would say, they seem to have, they don’t look happy, that’s my guess, looks like, …
 >
 > — [[s03e09 Culture|S3 E9]], [Minute 10:21](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=621) · [[Transcript s03e09#Minute 10|in the transcript]]
 
-> … about what they allow you to take in. We then heard another expression with the word all, well in fact it´s an adjective and that was one-size-fits-all, or more slowly…one-size-fits-all. This means it is …
+> … about what they allow you to take in. We then heard another expression with the word all, well in fact it’s an adjective and that was one-size-fits-all, or more slowly… one-size-fits-all. This means it …
 >
 > — [[s03e09 Culture|S3 E9]], [Minute 16:01](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=961) · [[Transcript s03e09#Minute 16|in the transcript]]
 
@@ -429,27 +429,23 @@ head*, *once in a blue moon*.
 >
 > — [[s03e10 Change|S3 E10]], [Minute 6:58](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=418) · [[Transcript s03e10#Minute 6|in the transcript]]
 
-> … she lives, Seville, which is in Spain. I think I´m right in saying this is the only city in Spain which has an English translation, from the Spanish Sevilla. But it´s a worthwhile point …
+> … she lives, Seville, which is in Spain. I think I’m right in saying this is the only city in Spain which has an English translation, from the Spanish Sevilla. But it’s a worthwhile point …
 >
 > — [[s03e10 Change|S3 E10]], [Minute 9:43](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=583) · [[Transcript s03e10#Minute 9|in the transcript]]
 
-> … says “what I mean by that is”, it´s definitely worthwhile having an expression like this, in real life as well as in an exam situation. I know myself from speaking Spanish that sometimes we …
+> … says “what I mean by that is”, it’s definitely worthwhile having an expression like this, in real life as well as in an exam situation. I know myself from speaking Spanish that sometimes we …
 >
 > — [[x2022-07-16 Short and sweet - Music|Bonus]], [Minute 3:46](https://open.spotify.com/episode/0bpjtRvhYcRAOnDCFmrBJE?t=226) · [[Transcript x2022-07-16#Minute 3|in the transcript]]
 
-> … will zone in on some of the impressive language that they use expressions and you can find the transcript over on the website, Realexamenglish.com. Ok, here we go: Will the things that are important …
+> … evolve as I evolve as well. And the question is, there's a saying that school days are the happiest days of your life. What do you think? This question of all the questions spoke …
 >
-> — [[x2022-10-14 Happiness|Bonus]], [Minute 0:25](https://open.spotify.com/episode/4A4thQQDgZ1KpSBMd8qsZN?t=25) · [[Transcript x2022-10-14#Minute 0|in the transcript]]
-
-> … fail, you're on your own. Things like this are much better, so saying at school is the best where you're under this period of control and you're doing things you have you hate, but …
->
-> — [[x2022-10-14 Happiness|Bonus]], [Minute 2:20](https://open.spotify.com/episode/4A4thQQDgZ1KpSBMd8qsZN?t=140) · [[Transcript x2022-10-14#Minute 2|in the transcript]]
+> — [[x2022-10-14 Happiness|Bonus]], [Minute 1:28](https://open.spotify.com/episode/4A4thQQDgZ1KpSBMd8qsZN?t=88) · [[Transcript x2022-10-14#Minute 1|in the transcript]]
 
 > … this way at all, like super nice or super important, and amazingly saying that you are super into something was only first used in 2009, but is really common these days, or super common …
 >
 > — [[x2022-10-14 Happiness|Bonus]], [Minute 5:02](https://open.spotify.com/episode/4A4thQQDgZ1KpSBMd8qsZN?t=302) · [[Transcript x2022-10-14#Minute 5|in the transcript]]
 
-> … look at, we have a bit of conditionals grammar, a couple of idioms, some camping vocab and an example of what is known is a portmanteau, nice. Ok here we go: Who would be …
+> … look at, we have a bit of conditionals grammar, a couple of idioms, some camping vocab and an example of what is known as a portmanteau, nice. Ok here we go: Who would be the ideal person …
 >
 > — [[x2023-01-27 Short and Sweet - Camping|Bonus]], [Minute 0:23](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=23) · [[Transcript x2023-01-27#Minute 0|in the transcript]]
 
@@ -457,7 +453,7 @@ head*, *once in a blue moon*.
 >
 > — [[x2023-01-27 Short and Sweet - Camping|Bonus]], [Minute 2:27](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=147) · [[Transcript x2023-01-27#Minute 2|in the transcript]]
 
-> … to somewhere like France, or similar to France. But this way of saying it is nicer isn´t it, unless you go to the likes of France. Other examples would be, I don’t think we´ll …
+> … to somewhere like France, or similar to France. But this way of saying it is nicer isn’t it, unless you go to the likes of France. Other examples would be, I don’t think we’ll …
 >
 > — [[x2023-01-27 Short and Sweet - Camping|Bonus]], [Minute 5:11](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=311) · [[Transcript x2023-01-27#Minute 5|in the transcript]]
 
@@ -465,7 +461,7 @@ head*, *once in a blue moon*.
 >
 > — [[s04e01 Crime|S4 E1]], [Minute 9:46](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=586) · [[Transcript s04e01#Minute 9|in the transcript]]
 
-> … adverb predominantly is nice isn´t it, it´s like a fancier way of saying mainly, or mostly. Like, India is a predominantly Hindu country, or the school focuses predominantly on science. Then we have this …
+> … adverb predominantly is nice isn’t it, it’s like a fancier way of saying mainly, or mostly. Like, India is a predominantly Hindu country, or the school focuses predominantly on science. Then we have this …
 >
 > — [[s04e01 Crime|S4 E1]], [Minute 12:01](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=721) · [[Transcript s04e01#Minute 12|in the transcript]]
 
@@ -473,7 +469,7 @@ head*, *once in a blue moon*.
 >
 > — [[s04e02 Languages|S4 E2]], [Minute 0:48](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=48) · [[Transcript s04e02#Minute 0|in the transcript]]
 
-> … but when you're an adult and you can see that, you're not saying it properly, you're not pronouncing properly and you're intonation is all wrong, then you feel more embarrassed about it and it …
+> … but when you're an adult and you can see that, you're not saying it properly, you're not pronouncing properly and your intonation is all wrong, then you feel more embarrassed about it and it sets …
 >
 > — [[s04e02 Languages|S4 E2]], [Minute 5:17](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=317) · [[Transcript s04e02#Minute 5|in the transcript]]
 
@@ -493,7 +489,7 @@ head*, *once in a blue moon*.
 >
 > — [[s04e03 Home|S4 E3]], [Minute 9:27](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=567) · [[Transcript s04e03#Minute 9|in the transcript]]
 
-> … some top adverbs, a few phrasal verbs and some great real English expressions to make you sound a little bit more like a native English speaker. As usual you can find the transcripts for …
+> … some top adverbs, a few phrasal verbs and some great real English expressions to make you sound a little bit more like a native English speaker. Oh, very much so. Especially I especially here …
 >
 > — [[s04e04 Weather|S4 E4]], [Minute 1:08](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=68) · [[Transcript s04e04#Minute 1|in the transcript]]
 
@@ -501,11 +497,11 @@ head*, *once in a blue moon*.
 >
 > — [[s04e04 Weather|S4 E4]], [Minute 3:59](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=239) · [[Transcript s04e04#Minute 3|in the transcript]]
 
-> … a holiday, or I could use a cup of a tea. This expression also has a slightly different meaning, which is that something or someone needs something. Like, the house could use a lick …
+> … a holiday, or I could use a cup of a tea. This expression also has a slightly different meaning, which is that something or someone needs something. Just to note as well that she …
 >
 > — [[s04e04 Weather|S4 E4]], [Minute 5:58](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=358) · [[Transcript s04e04#Minute 5|in the transcript]]
 
-> … to have some different ways to say your feeling bad, other great expressions are down in the dumps, down in the mouth, feeling blue or feel like shit if you want to be a …
+> … Really important to have some different ways to say you’re feeling bad, other great expressions are down in the dumps, down in the mouth, feeling blue or feel like shit if you want to be a …
 >
 > — [[s04e04 Weather|S4 E4]], [Minute 8:42](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=522) · [[Transcript s04e04#Minute 8|in the transcript]]
 
@@ -525,7 +521,7 @@ head*, *once in a blue moon*.
 >
 > — [[s04e05 Art|S4 E5]], [Minute 10:23](https://open.spotify.com/episode/0vR11wg4wOSgeAnjtWfWIQ?t=623) · [[Transcript s04e05#Minute 10|in the transcript]]
 
-> … good topic to cover. You´ll hear some great transport vocabulary, some nice idioms, tips on pronunciation and organizing your speech, plus a very interesting way of using the word really. As usual you will …
+> … good topic to cover. You’ll hear some great transport vocabulary, some nice idioms, tips on pronunciation and organizing your speech, plus a very interesting way of using the word really. I think, to be …
 >
 > — [[s04e06 Transport|S4 E6]], [Minute 0:31](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=31) · [[Transcript s04e06#Minute 0|in the transcript]]
 
@@ -533,7 +529,7 @@ head*, *once in a blue moon*.
 >
 > — [[s04e06 Transport|S4 E6]], [Minute 3:16](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=196) · [[Transcript s04e06#Minute 3|in the transcript]]
 
-> … is what you are aiming for make sure to study plenty of idioms and similes, as that is really one of the big differences between C1 and C2. Ok guys, that´s about all for …
+> … is what you are aiming for make sure to study plenty of idioms and similes, as that is really one of the big differences between C1 and C2. Ok guys, that’s about all for …
 >
 > — [[s04e06 Transport|S4 E6]], [Minute 14:23](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=863) · [[Transcript s04e06#Minute 14|in the transcript]]
 
@@ -541,15 +537,15 @@ head*, *once in a blue moon*.
 >
 > — [[s04e07 Parenting|S4 E7]], [Minute 2:49](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=169) · [[Transcript s04e07#Minute 2|in the transcript]]
 
-> … himself through university. In the second answer we heard a really handy expression to help organize your answer. He was talking for a while and then said “but I think going to back to …
+> … himself through university. In the second answer we heard a really handy expression to help organize your answer. He was talking for a while and then said “but I think going back to your question”. If you …
 >
 > — [[s04e07 Parenting|S4 E7]], [Minute 7:50](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=470) · [[Transcript s04e07#Minute 7|in the transcript]]
 
-> … going to hear plenty of fantastic vocabulary as well as some great expressions, phrasal verbs and fancy grammar. We hear a few different accents from the UK, also the US, Australia and Ireland and …
+> … going to hear plenty of fantastic vocabulary as well as some great expressions, phrasal verbs and fancy grammar. As well as copies of everything said in the podcast you get exercises to practice vocabulary …
 >
 > — [[s04e08 Holidays|S4 E8]], [Minute 0:26](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=26) · [[Transcript s04e08#Minute 0|in the transcript]]
 
-> … to that sort of things, I don´t particularly like and this handy expression, I wouldn´t be one for sunbathing. That´s a handy was of saying what you don´t like, I wouldn´t be one for …
+> … to that sort of things, I don’t particularly like and this handy expression, I wouldn’t be one for sunbathing. That’s a handy way of saying what you don’t like, I wouldn’t be one for city breaks, I …
 >
 > — [[s04e08 Holidays|S4 E8]], [Minute 3:51](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=231) · [[Transcript s04e08#Minute 3|in the transcript]]
 
@@ -557,7 +553,7 @@ head*, *once in a blue moon*.
 >
 > — [[s04e08 Holidays|S4 E8]], [Minute 11:04](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=664) · [[Transcript s04e08#Minute 11|in the transcript]]
 
-> … at some super fancy language in the form of rhetorical questions and idioms. If you would like a copy of the transcript for this episode so that you don´t miss any of the important …
+> … at some super fancy language in the form of rhetorical questions and idioms. Absolutely. Children should be expected to learn about history, but the way that history is taught is really important. They need …
 >
 > — [[s04e09 History|S4 E9]], [Minute 0:48](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=48) · [[Transcript s04e09#Minute 0|in the transcript]]
 
@@ -565,7 +561,7 @@ head*, *once in a blue moon*.
 >
 > — [[s04e09 History|S4 E9]], [Minute 6:01](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=361) · [[Transcript s04e09#Minute 6|in the transcript]]
 
-> … the first answer about how interested in history she was with this expression, yea pretty interested, to a certain degree. It´s a nice way of saying I´m kind of interested, but not soo much, …
+> … the first answer about how interested in history she was with this expression, yea pretty interested, to a certain degree. It’s a nice way of saying I’m kind of interested, but not soo much, …
 >
 > — [[s04e09 History|S4 E9]], [Minute 8:43](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=523) · [[Transcript s04e09#Minute 8|in the transcript]]
 
@@ -573,7 +569,7 @@ head*, *once in a blue moon*.
 >
 > — [[s04e09 History|S4 E9]], [Minute 11:53](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=713) · [[Transcript s04e09#Minute 11|in the transcript]]
 
-> … nice adverbs, phrasal verbs and some top-class vocabulary too, including some super-useful idioms. If you have difficulties following any of the speakers, or me for that matter, then you can find details of how …
+> … nice adverbs, phrasal verbs and some top-class vocabulary too, including some super-useful idioms. Is there anything I'd love to do in the future? Yeah, I'd like to retire right now, in the future, in …
 >
 > — [[s04e10 Future|S4 E10]], [Minute 0:45](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=45) · [[Transcript s04e10#Minute 0|in the transcript]]
 
@@ -605,7 +601,7 @@ head*, *once in a blue moon*.
 >
 > — [[x2024-06-29 Vietnam and IELTS|Bonus]], [Minute 3:23](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=203) · [[Transcript x2024-06-29#Minute 3|in the transcript]]
 
-> … imagine it´s raining tomorrow. So a few different uses of the same idiom there. One lovely piece of vocabulary to pick up on is a large breadth of, so he said Vietnamese students have …
+> … imagine it’s raining tomorrow. So a few different uses of the same idiom there. One lovely piece of vocabulary to pick up on is a large breadth of, so he said Vietnamese students have …
 >
 > — [[x2024-06-29 Vietnam and IELTS|Bonus]], [Minute 5:24](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=324) · [[Transcript x2024-06-29#Minute 5|in the transcript]]
 
@@ -613,7 +609,7 @@ head*, *once in a blue moon*.
 >
 > — [[x2024-06-29 Vietnam and IELTS|Bonus]], [Minute 8:51](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=531) · [[Transcript x2024-06-29#Minute 8|in the transcript]]
 
-> … a chat about that too, with loads of useful vocabulary and top-notch expressions. It´s a bit of a long episode, so let´s get going with the questions. Firstly, I ask Melina about her experience …
+> … a chat about that too, with loads of useful vocabulary and top-notch expressions. It’s a bit of a long episode, so let’s get going with the questions. Firstly, I ask Melina about her experience …
 >
 > — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 0:35](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=35) · [[Transcript x2024-08-02#Minute 0|in the transcript]]
 
@@ -628,10 +624,6 @@ head*, *once in a blue moon*.
 > … go to a new country, it really it's about learning those local expressions because it's even as an English speaker, I know when I went to America the first time I was saying things …
 >
 > — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 17:57](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1077) · [[Transcript x2024-08-02#Minute 17|in the transcript]]
-
-> … great for your listening practice. If you can´t understand everything they are saying then you can purchase the transcripts for this and all of the episodes over on the website realexamenglish.com Ok then, let’s …
->
-> — [[s05e01 Relaxing|S5 E1]], [Minute 0:56](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=56) · [[Transcript s05e01#Minute 0|in the transcript]]
 
 > … put his legs up on the couch. This reminds me of another idiom meaning to relax, which is to be put your feet up. Like, on Friday evenings I like to just go home …
 >
@@ -661,7 +653,11 @@ head*, *once in a blue moon*.
 >
 > — [[s05e02 Manners|S5 E2]], [Minute 9:21](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=561) · [[Transcript s05e02#Minute 9|in the transcript]]
 
-> … practice! We have some nice phrasal verbs too and quite a few idioms. Remember for the transcript for this, and all episodes, you can go to the Real Exam English webpage and subscribe there. …
+> … spending eternity floating in the ether. The ether is another way of saying the sky or the air, or I guess space in this context. Other skills they could have mentioned would be communication …
+>
+> — [[s05e03 Space|S5 E3]], [Minute 17:43](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=1063) · [[Transcript s05e03#Minute 17|in the transcript]]
+
+> … practice! We have some nice phrasal verbs too and quite a few idioms. Ok then, let’s go with the questions: What was your favorite subject at school? Well, I'm a music teacher now, so …
 >
 > — [[s05e04 School|S5 E4]], [Minute 0:45](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=45) · [[Transcript s05e04#Minute 0|in the transcript]]
 
@@ -677,7 +673,7 @@ head*, *once in a blue moon*.
 >
 > — [[s05e04 School|S5 E4]], [Minute 9:35](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=575) · [[Transcript s05e04#Minute 9|in the transcript]]
 
-> … Irish. And there really is a lot of nice vocabulary and useful idioms and expressions in this episode. For that reason, I highly recommend getting a copy of the transcript over on the Real …
+> … Irish. And there really is a lot of nice vocabulary and useful idioms and expressions in this episode. So, without further ado, here we go with the first question: Who do you get on …
 >
 > — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 0:38](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=38) · [[Transcript s05e05#Minute 0|in the transcript]]
 
@@ -733,15 +729,11 @@ head*, *once in a blue moon*.
 >
 > — [[s05e08 Internet|S5 E8]], [Minute 17:34](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=1054) · [[Transcript s05e08#Minute 17|in the transcript]]
 
-> … accents and would like to see in print form what they are saying then you can purchase the transcripts over on the Real Exam English website, realexamenglish.com Alright, first question, here we go: How …
->
-> — [[s05e09 Climate Change|S5 E9]], [Minute 0:52](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=52) · [[Transcript s05e09#Minute 0|in the transcript]]
-
 > … it is exactly that, the end all of life, but anyway. This expression, it’s not the be all and end all, we have had before, meaning it’s not the most important thing in life. …
 >
 > — [[s05e09 Climate Change|S5 E9]], [Minute 6:09](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=369) · [[Transcript s05e09#Minute 6|in the transcript]]
 
-> … vocabulary and grammar, but in particular there are lots of really useful idioms, handy ones for exam situations. You can get the written transcript for this and all episodes over on the Real Exam …
+> … vocabulary and grammar, but in particular there are lots of really useful idioms, handy ones for exam situations. And you can find information there too about classes, both individual and group ones. Ok but …
 >
 > — [[s05e10 Weekend|S5 E10]], [Minute 0:34](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=34) · [[Transcript s05e10#Minute 0|in the transcript]]
 
@@ -769,11 +761,11 @@ head*, *once in a blue moon*.
 >
 > — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 13:56](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=836) · [[Transcript x2025-11-21#Minute 13|in the transcript]]
 
-> … to practice, to talking to someone and you may end up not saying things just because of….y´know… of being afraid of making mistakes. Yeah, your self-esteem is so low. You're like, yeah, you don't …
+> … to practice, to talking to someone and you may end up not saying things just because of….y’know… of being afraid of making mistakes. Yeah, your self-esteem is so low. You're like, yeah, you don't …
 >
 > — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 16:54](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=1014) · [[Transcript x2025-11-21#Minute 16|in the transcript]]
 
-> … when you speak different languages, which is super-interesting. There are plenty of idioms, phrasal verbs and a special focus on different uses of the verb get. Remember you can get the transcripts for this …
+> … when you speak different languages, which is super-interesting. There are plenty of idioms, phrasal verbs and a special focus on different uses of the verb get. So where are you from? I'm from China. …
 >
 > — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 0:25](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=25) · [[Transcript x2025-12-16#Minute 0|in the transcript]]
 
@@ -833,7 +825,7 @@ head*, *once in a blue moon*.
 >
 > — [[s06e03 Complaining|S6 E3]], [Minute 6:22](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=382) · [[Transcript s06e03#Minute 6|in the transcript]]
 
-> … how they stay motivated. So you’re gonna hear some fantastic language, like idioms, phrasal verbs and top-level vocabulary. And there is a little word-formation quiz in the middle interval too. If you would like …
+> … how they stay motivated. So you’re gonna hear some fantastic language, like idioms, phrasal verbs and top-level vocabulary. And there is a little word-formation quiz in the middle interval too. How do you motivate …
 >
 > — [[s06e04 Motivation|S6 E4]], [Minute 0:32](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=32) · [[Transcript s06e04#Minute 0|in the transcript]]
 
@@ -849,7 +841,7 @@ head*, *once in a blue moon*.
 >
 > — [[s06e04 Motivation|S6 E4]], [Minute 17:39](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=1059) · [[Transcript s06e04#Minute 17|in the transcript]]
 
-> … general. It’s a super-rich episode in terms of vocabulary, phrasal verbs and idioms. If you would like to study that language in more detail then you can purchase the transcripts for this and all …
+> … general. It’s a super-rich episode in terms of vocabulary, phrasal verbs and idioms. Oh, that's a hard one. I think opportunity plays a bigger role in success and sometimes you are lucky to be …
 >
 > — [[s06e05 Luck|S6 E5]], [Minute 0:31](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=31) · [[Transcript s06e05#Minute 0|in the transcript]]
 
@@ -861,7 +853,7 @@ head*, *once in a blue moon*.
 >
 > — [[s06e05 Luck|S6 E5]], [Minute 5:01](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=301) · [[Transcript s06e05#Minute 5|in the transcript]]
 
-> … the do, I don’t like apples, but I do love bananas. This expression to rewire my brain is nice actually, isn’t in. Meaning to change how your brain functions, often to change habits or …
+> … the do, I don’t like apples, but I do love bananas. This expression to rewire my brain is nice actually, isn’t it. Meaning to change how your brain functions, often to change habits or learn new skills. For …
 >
 > — [[s06e05 Luck|S6 E5]], [Minute 7:25](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=445) · [[Transcript s06e05#Minute 7|in the transcript]]
 
@@ -876,18 +868,6 @@ head*, *once in a blue moon*.
 > … I hate to be, like, wishy-washy about it. Wishy-washy is a great expression, meaning to be unclear or vague or weak. Like, politicians make wishy-washy promises about how they will change the country. Or …
 >
 > — [[s06e06 Creativity|S6 E6]], [Minute 16:28](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=988) · [[Transcript s06e06#Minute 16|in the transcript]]
-
-> … what is happening now, and pay attention to what the examiner is saying as well as your partner. Speaking of your partner, try not to compare yourself to them. Sometimes when people have a …
->
-> — [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus]], [Minute 2:23](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=143) · [[Transcript x2026-06-24#Minute 2|in the transcript]]
-
-> … on what your partner has said. By all means, use a fancy expression but it must be used in a natural way and you should link your answer with your partners. To use the …
->
-> — [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus]], [Minute 3:58](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=238) · [[Transcript x2026-06-24#Minute 3|in the transcript]]
-
-> … In fact, last Saturday I heard one girl leaving the examining room saying I failed that, and I was just after giving her 75%. This is the same for all of the parts of …
->
-> — [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus]], [Minute 5:30](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=330) · [[Transcript x2026-06-24#Minute 5|in the transcript]]
 
 > … had picked it up and would not let any of the people saying, it's the woman who has with the red hair. And she wouldn't let any of them deliver it to me. She …
 >
@@ -925,7 +905,7 @@ head*, *once in a blue moon*.
 >
 > — [[s06e09 Children|S6 E9]], [Minute 18:15](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1095) · [[Transcript s06e09#Minute 18|in the transcript]]
 
-> … look at different uses of the passive voice and some useful decision-making idioms too. There’s speakers from different parts of the USA and the UK, also from Ireland. If you would like the transcripts …
+> … look at different uses of the passive voice and some useful decision-making idioms too. There’s speakers from different parts of the USA and the UK, also from Ireland. Alone. I am a very, my …
 >
 > — [[s06e10 Decisions|S6 E10]], [Minute 0:26](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=26) · [[Transcript s06e10#Minute 0|in the transcript]]
 
@@ -947,9 +927,10 @@ head*, *once in a blue moon*.
 - [[s01e03 Food|S1 E3 – Food]] (2020-08-30) — Minute [0:32](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=32), [5:41](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=341), [9:05](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=545), [15:00](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=900)
 - [[s01e04 Sport and exercise|S1 E4 – Sport and exercise]] (2020-08-30) — Minute [2:31](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=151), [5:59](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=359), [9:33](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=573), [11:11](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=671)
 - [[s01e05 Phrasal Verbs|S1 E5 – Phrasal Verbs]] (2020-09-04) — Minute [3:02](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=182), [5:26](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=326), [8:16](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=496), [14:47](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=887)
+- [[s01e09 Books|S1 E9 – Books]] (2020-10-02) — Minute [2:55](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=175), [8:37](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=517), [11:17](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=677)
 - [[s01e10 TV|S1 E10 – TV]] (2020-10-05) — Minute [1:48](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=108), [3:29](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=209), [10:26](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=626)
 - [[s02e01 Celebrations|S2 E1 – Celebrations]] (2021-01-21) — Show notes · Minute [1:13](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=73), [4:39](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=279), [6:52](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=412), [10:08](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=608)
-- [[s02e02 City and Country|S2 E2 – City and Country]] (2021-01-29) — Show notes · Minute [0:25](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=25), [2:23](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=143), [6:10](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=370), [10:20](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=620)
+- [[s02e02 City and Country|S2 E2 – City and Country]] (2021-01-29) — Show notes · Minute [0:25](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=25), [2:23](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=143), [6:10](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=370), [17:30](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=1050)
 - [[s02e04 Shopping|S2 E4 – Shopping]] (2021-02-12) — Show notes · Minute [0:45](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=45), [10:09](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=609), [13:14](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=794), [15:52](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=952)
 - [[s02e05 Health|S2 E5 – Health]] (2021-02-26) — Show notes · Minute [0:36](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=36), [3:09](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=189), [5:21](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=321), [9:57](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=597)
 - [[s02e06 Friends|S2 E6 – Friends]] (2021-03-06) — Minute [6:57](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=417), [10:18](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=618), [12:18](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=738), [13:55](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=835)
@@ -958,14 +939,13 @@ head*, *once in a blue moon*.
 - [[s02e10 Family|S2 E10 – Family]] (2021-04-07) — Show notes · Minute [0:47](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=47), [2:23](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=143), [3:59](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=239), [7:22](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=442)
 - [[s03e01 Humour|S3 E1 – Humour]] (2021-08-23) — Show notes · Minute [1:26](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=86), [3:59](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=239), [5:38](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=338), [7:24](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=444)
 - [[s03e02 Anger|S3 E2 – Anger]] (2021-09-16) — Show notes · Minute [0:49](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=49), [3:21](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=201), [7:03](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=423), [9:23](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=563)
-- [[s03e03 Photos|S3 E3 – Photos]] (2021-10-19) — Minute [0:31](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=31), [4:31](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=271), [7:25](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=445), [9:51](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=591)
+- [[s03e03 Photos|S3 E3 – Photos]] (2021-10-19) — Minute [4:31](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=271), [7:25](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=445), [9:51](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=591), [11:26](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=686)
 - [[s03e04 Money|S3 E4 – Money]] (2021-11-15) — Show notes · Minute [0:40](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=40), [3:16](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=196), [5:19](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=319), [10:53](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=653)
 - [[s03e05 Learning|S3 E5 – Learning]] (2021-12-11) — Show notes · Minute [0:29](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=29), [2:24](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=144), [5:59](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=359), [15:17](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=917)
 - [[s03e07 Animals|S3 E7 – Animals]] (2022-02-15) — Show notes · Minute [0:36](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=36), [7:03](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=423), [12:32](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=752), [14:41](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=881)
 - [[s03e08 Fame|S3 E8 – Fame]] (2022-04-07) — Minute [3:07](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=187), [6:08](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=368), [7:41](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=461), [10:33](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=633)
-- [[s03e09 Culture|S3 E9 – Culture]] (2022-05-27) — Show notes · Minute [0:46](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=46), [3:24](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=204), [10:21](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=621), [16:01](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=961)
+- [[s03e09 Culture|S3 E9 – Culture]] (2022-05-27) — Show notes · Minute [3:24](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=204), [10:21](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=621), [16:01](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=961)
 - [[s03e10 Change|S3 E10 – Change]] (2022-06-09) — Minute [4:26](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=266), [6:58](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=418), [9:43](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=583)
-- [[x2022-10-14 Happiness|Bonus – Happiness]] (2022-10-14) — Minute [0:25](https://open.spotify.com/episode/4A4thQQDgZ1KpSBMd8qsZN?t=25), [2:20](https://open.spotify.com/episode/4A4thQQDgZ1KpSBMd8qsZN?t=140), [5:02](https://open.spotify.com/episode/4A4thQQDgZ1KpSBMd8qsZN?t=302)
 - [[x2023-01-27 Short and Sweet - Camping|Bonus – Short and Sweet - Camping]] (2023-01-27) — Show notes · Minute [0:23](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=23), [2:27](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=147), [5:11](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=311)
 - [[s04e02 Languages|S4 E2 – Languages]] (2023-04-29) — Show notes · Minute [0:48](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=48), [5:17](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=317), [17:37](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=1057)
 - [[s04e03 Home|S4 E3 – Home]] (2023-06-01) — Show notes · Minute [0:28](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=28), [6:01](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=361), [9:27](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=567)
@@ -978,8 +958,9 @@ head*, *once in a blue moon*.
 - [[x2024-04-16 Martyna from Poland|Bonus – Martyna from Poland]] (2024-04-16) — Minute [5:15](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=315), [7:19](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=439), [21:25](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1285)
 - [[x2024-06-29 Vietnam and IELTS|Bonus – Vietnam and IELTS]] (2024-06-29) — Show notes · Minute [0:33](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=33), [3:23](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=203), [5:24](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=324), [8:51](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=531)
 - [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Show notes · Minute [0:35](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=35), [5:23](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=323), [16:04](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=964), [17:57](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1077)
-- [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Show notes · Minute [0:56](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=56), [5:54](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=354), [12:35](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=755), [15:48](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=948)
+- [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Show notes · Minute [5:54](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=354), [12:35](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=755), [15:48](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=948)
 - [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Show notes · Minute [0:43](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=43), [3:28](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=208), [6:06](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=366), [9:21](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=561)
+- [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Show notes · Minute [17:43](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=1063)
 - [[s05e04 School|S5 E4 – School]] (2025-02-07) — Show notes · Minute [0:45](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=45), [2:44](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=164), [6:47](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=407), [9:35](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=575)
 - [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Show notes · Minute [0:38](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=38), [2:36](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=156), [4:44](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=284), [8:14](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=494)
 - [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Show notes · Minute [0:51](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=51), [5:43](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=343), [9:18](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=558), [14:05](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=845)
@@ -992,7 +973,6 @@ head*, *once in a blue moon*.
 - [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Show notes · Minute [0:51](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=51), [2:59](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=179), [4:48](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=288), [6:22](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=382)
 - [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Show notes · Minute [0:32](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=32), [2:10](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=130), [6:33](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=393), [17:39](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=1059)
 - [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Show notes · Minute [0:31](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=31), [2:06](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=126), [5:01](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=301), [7:25](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=445)
-- [[x2026-06-24 Bonus - Speaking Exam Advice|Bonus – Bonus - Speaking Exam Advice]] (2026-06-24) — Minute [2:23](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=143), [3:58](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=238), [5:30](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF?t=330)
 - [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [15:06](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=906), [18:27](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1107)
 - [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Show notes · Minute [0:22](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=22), [7:03](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=423), [16:49](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=1009)
 - [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Show notes · Minute [3:19](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=199), [7:58](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=478), [13:15](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=795), [18:15](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1095)
@@ -1003,16 +983,16 @@ head*, *once in a blue moon*.
 - [[s01e01 Introductions|S1 E1 – Introductions]] (2020-08-30) — Minute [5:05](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=305), [10:50](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=650), [12:58](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=778)
 - [[s01e06 Technology|S1 E6 – Technology]] (2020-09-11) — Minute [2:56](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=176), [10:01](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=601)
 - [[s01e08 The Environment|S1 E8 – The Environment]] (2020-09-25) — Minute [5:49](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=349)
-- [[s01e09 Books|S1 E9 – Books]] (2020-10-02) — Minute [8:37](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=517), [11:17](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=677)
 - [[s02e03 Global Issues|S2 E3 – Global Issues]] (2021-02-05) — Minute [5:19](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=319), [7:29](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=449), [12:51](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=771), [17:38](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=1058)
 - [[x2021-02-19 Bonus Episode - Writing|Bonus – Bonus Episode - Writing]] (2021-02-19) — Minute [3:28](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=208)
 - [[s02e09 Communications|S2 E9 – Communications]] (2021-03-26) — Minute [5:16](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=316), [8:41](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=521)
 - [[x2021-06-20 Phrasal Verbs for Writing|Bonus – Phrasal Verbs for Writing]] (2021-06-20) — Minute [0:46](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=46), [8:38](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=518)
 - [[x2022-07-16 Short and sweet - Music|Bonus – Short and sweet - Music]] (2022-07-16) — Minute [3:46](https://open.spotify.com/episode/0bpjtRvhYcRAOnDCFmrBJE?t=226)
+- [[x2022-10-14 Happiness|Bonus – Happiness]] (2022-10-14) — Minute [1:28](https://open.spotify.com/episode/4A4thQQDgZ1KpSBMd8qsZN?t=88), [5:02](https://open.spotify.com/episode/4A4thQQDgZ1KpSBMd8qsZN?t=302)
 - [[s04e01 Crime|S4 E1 – Crime]] (2023-03-24) — Minute [9:46](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=586), [12:01](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=721)
 - [[s04e07 Parenting|S4 E7 – Parenting]] (2023-11-18) — Minute [2:49](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=169), [7:50](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=470)
 - [[s05e08 Internet|S5 E8 – Internet]] (2025-06-17) — Minute [4:34](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=274), [6:41](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=401), [17:34](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=1054)
-- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Minute [0:52](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=52), [6:09](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=369)
+- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Minute [6:09](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=369)
 - [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Minute [5:24](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=324), [14:21](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=861), [16:28](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=988)
 
 ---

@@ -28,7 +28,7 @@ Transport questions are common at B2 and C1 (*Should cars be banned from city ce
 >
 > — [[s01e01 Introductions|S1 E1]], [Minute 12:43](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=763) · [[Transcript s01e01#Minute 12|in the transcript]]
 
-> … people are sleeping in these little bubbles and shooting around on bullet trains and stuff. I think it´d be interesting to see that polarisation of culture in the same country. So 2 answers there …
+> … people are sleeping in these little bubbles and shooting around on bullet trains and stuff. I think it’d be interesting to see that polarisation of culture in the same country. So 2 answers there …
 >
 > — [[s01e02 Travel|S1 E2]], [Minute 11:43](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=703) · [[Transcript s01e02#Minute 11|in the transcript]]
 
@@ -56,7 +56,7 @@ Transport questions are common at B2 and C1 (*Should cars be banned from city ce
 >
 > — [[s01e08 The Environment|S1 E8]], [Minute 9:24](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=564) · [[Transcript s01e08#Minute 9|in the transcript]]
 
-> … Be prepared. Make sure wherever you choose to live has like garage parking because if you have to depend on on the Street park in you might have to sleep outside like I had …
+> … Be prepared. Make sure wherever you choose to live has like garage parking because if you have to depend on on the street parking you might have to sleep outside like I had to one night I was visiting my mom in New York and …
 >
 > — [[s02e02 City and Country|S2 E2]], [Minute 3:02](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=182) · [[Transcript s02e02#Minute 3|in the transcript]]
 
@@ -88,11 +88,11 @@ Transport questions are common at B2 and C1 (*Should cars be banned from city ce
 >
 > — [[s04e03 Home|S4 E3]], [Minute 10:36](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=636) · [[Transcript s04e03#Minute 10|in the transcript]]
 
-> … around, meaning to move from place to place. She has good public transport so can get around easily, that´s a handy phrasal verb for speaking about your hometown or maybe about a place you …
+> … around, meaning to move from place to place. She has good public transport so can get around easily, that’s a handy phrasal verb for speaking about your hometown or maybe about a place you …
 >
 > — [[s04e03 Home|S4 E3]], [Minute 12:52](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=772) · [[Transcript s04e03#Minute 12|in the transcript]]
 
-> … classic small talk subject, isn´t it. When you meet someone at the bus stop or in the elevator the first thing that people say to each is other is often about how hot it …
+> … classic small talk subject, isn’t it. When you meet someone at the bus stop or in the elevator the first thing that people say to each other is often about how hot it is, or …
 >
 > — [[s04e04 Weather|S4 E4]], [Minute 0:21](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=21) · [[Transcript s04e04#Minute 0|in the transcript]]
 
@@ -108,9 +108,9 @@ Transport questions are common at B2 and C1 (*Should cars be banned from city ce
 >
 > — [[s04e04 Weather|S4 E4]], [Minute 12:00](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=720) · [[Transcript s04e04#Minute 12|in the transcript]]
 
-> … and welcome to the Real Exam English podcast, this episode is about transport. It´s not the sexiest of topics this one, but it is definitely something that can come up in an exam and …
+> … exam and let’s face it, all of us use some form of transport in our day-to-day lives so it’s actually quite a good topic to cover. You’ll hear some great transport vocabulary, some nice …
 >
-> — [[s04e06 Transport|S4 E6]], [Minute 0:13](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=13) · [[Transcript s04e06#Minute 0|in the transcript]]
+> — [[s04e06 Transport|S4 E6]], [Minute 0:23](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=23) · [[Transcript s04e06#Minute 0|in the transcript]]
 
 > … great place to start off today. She said they have trams and buses and, of course, the tube, which is the name of the underground system there. At the start, she said, I think, …
 >
@@ -156,7 +156,7 @@ Transport questions are common at B2 and C1 (*Should cars be banned from city ce
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 4:47](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=287) · [[Transcript s06e02#Minute 4|in the transcript]]
 
-> … want to do like the jet skis, like jump out of the plane, bungee jumping. I want to do it all. It's,…I love it. I love it. I'm all about fun in life. Like …
+> … want to do like the jet skis, like jump out of the plane, bungee jumping. I want to do it all. It's,… I love it. I love it. I'm all about fun in life. …
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 10:06](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=606) · [[Transcript s06e02#Minute 10|in the transcript]]
 
@@ -164,7 +164,7 @@ Transport questions are common at B2 and C1 (*Should cars be banned from city ce
 
 - [[s02e02 City and Country|S2 E2 – City and Country]] (2021-01-29) — Minute [3:02](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=182), [8:11](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=491), [11:31](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=691), [13:15](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=795)
 - [[s04e04 Weather|S4 E4 – Weather]] (2023-07-12) — Minute [0:21](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=21), [4:09](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=249), [7:54](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=474), [12:00](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=720)
-- [[s04e06 Transport|S4 E6 – Transport]] (2023-10-19) — Show notes · Minute [0:13](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=13), [2:02](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=122), [3:33](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=213), [5:07](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=307)
+- [[s04e06 Transport|S4 E6 – Transport]] (2023-10-19) — Show notes · Minute [0:23](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=23), [2:02](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=122), [3:33](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=213), [5:07](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=307)
 
 ## Briefly mentioned (10)
 

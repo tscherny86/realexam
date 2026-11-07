@@ -19,13 +19,13 @@ A C1 classic: *Do celebrities deserve their privacy?*, *Would you like to be fam
 
 ## Said in the podcast
 
-> Real Exam English Season 3 Fame Hello and welcome to Real Exam English. Today´s episode is about fame. It´s quite common in English exams to see questions …
+> Real Exam English Season 3 Fame Hello and welcome to Real Exam English. Today’s episode is about fame. It’s quite common in English exams to see questions …
 >
 > — [[s03e08 Fame|S3 E8]], [Minute 0:05](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=5) · [[Transcript s03e08#Minute 0|in the transcript]]
 
-> … too easily influenced by people we have never met, such as sports stars or other famous people? Wholeheartedly, yes, I think we are. I think people get so obsessive with famous people, be it …
+> … by people we have never met, such as sports stars or other famous people? Wholeheartedly, yes, I think we are. I think people get so obsessive with famous people, be it people in sports, …
 >
-> — [[s03e08 Fame|S3 E8]], [Minute 1:43](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=103) · [[Transcript s03e08#Minute 1|in the transcript]]
+> — [[s03e08 Fame|S3 E8]], [Minute 1:44](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=104) · [[Transcript s03e08#Minute 1|in the transcript]]
 
 > … be it. The speaker said “I think people get so obsessive with famous people, be it people in sports, in movies, in bands.” So, using be it means we are creating a list of …
 >
@@ -34,18 +34,6 @@ A C1 classic: *Do celebrities deserve their privacy?*, *Would you like to be fam
 > … person, uh, that's you know, that's enough for me. It's just local fame, big fame, you know.If if I could be famous for anything that's not the point, the point would be to use …
 >
 > — [[s03e08 Fame|S3 E8]], [Minute 5:31](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=331) · [[Transcript s03e08#Minute 5|in the transcript]]
-
-> … Absolutely. I love astronomy. Anything to do with the night sky and stars I'm a big fan of, absolutely. We've lost touch with it, you know, like societies have lost touch with it. Our …
->
-> — [[s05e03 Space|S5 E3]], [Minute 1:12](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=72) · [[Transcript s05e03#Minute 1|in the transcript]]
-
-> … there. We had some useful space vocabulary with the night sky and stars and how they are affected by light pollution, which is the brightening of the night sky with manmade lights, like streetlights …
->
-> — [[s05e03 Space|S5 E3]], [Minute 2:53](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=173) · [[Transcript s05e03#Minute 2|in the transcript]]
-
-> … But I do like certain music. So for example, I like the Star Wars music, but I don't really watch Star Wars. And I like Star Trek, but I don't like watching Star Trek. …
->
-> — [[s05e03 Space|S5 E3]], [Minute 7:47](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=467) · [[Transcript s05e03#Minute 7|in the transcript]]
 
 > … you think more people are likely to buy a product if a celebrity recommends it? Generally, society, yes. Me no, I ignore celebrities and I can't stand them, so I avoid anything that is …
 >
@@ -61,12 +49,8 @@ A C1 classic: *Do celebrities deserve their privacy?*, *Would you like to be fam
 
 ## In these episodes (2)
 
-- [[s03e08 Fame|S3 E8 – Fame]] (2022-04-07) — Show notes · Minute [0:05](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=5), [1:43](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=103), [4:00](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=240), [5:31](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=331)
+- [[s03e08 Fame|S3 E8 – Fame]] (2022-04-07) — Show notes · Minute [0:05](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=5), [1:44](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=104), [4:00](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=240), [5:31](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=331)
 - [[s05e06 Advertising|S5 E6 – Advertising]] (2025-04-17) — Minute [1:39](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=99), [6:21](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=381), [8:38](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=518)
-
-## Briefly mentioned (1)
-
-- [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Minute [1:12](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=72), [2:53](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=173), [7:47](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=467)
 
 ---
 ← [[Topics]] · [[Real Exam English Wiki|Home]]

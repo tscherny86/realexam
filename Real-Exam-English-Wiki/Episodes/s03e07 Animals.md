@@ -20,10 +20,10 @@ tags: [episode, season-3]
 | **Listen** | [Spotify](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J) · [MP3](https://www.buzzsprout.com/1107956/episodes/10082055-s03-7-animals.mp3) |
 | **Transcript** | [[Transcript s03e07]] (word-level timestamps, aligned with the official transcript) |
 | **Topics** | [[Photography & Photos]], [[Animals & Pets]] |
-| **Language** | [[Idioms & Expressions]] |
-| **Exams** | [[Speaking Exam]] |
-| **Accents** | – |
-| **Briefly mentioned** | [[Health & Wellbeing]], [[Learning, School & Education]], [[Help & Kindness]], [[Modal Verbs]], [[USA]], [[New Zealand]] |
+| **Language** | [[Idioms & Expressions]], [[Speculating & Hedging]] |
+| **Exams** | – |
+| **Accents** | [[Ireland]], [[England]], [[USA]], [[Australia]], [[New Zealand]] |
+| **Briefly mentioned** | [[Health & Wellbeing]] |
 
 ## Show notes
 
@@ -42,7 +42,7 @@ Thanks to all of the contributors, including Ian from the We Dig Music podcast, 
 - [8:36](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=516) – So that's that's what it looks like to me. The woman has a little being minnillo, so I … ([[Transcript s03e07#Minute 8|transcript]])
 - [10:43](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=643) – Is it important to protect all animal species? Well, I guess yes. I mean it's my my thought … ([[Transcript s03e07#Minute 10|transcript]])
 - [12:49](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=769) – We then heard her using “used to”, “I’m so used to having abundant animals”. So earlier we said … ([[Transcript s03e07#Minute 12|transcript]])
-- [14:50](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=890) – Like, what is your opinion of kids using mobile phones. I´m not a fan of it. Nice, handy … ([[Transcript s03e07#Minute 14|transcript]])
+- [14:50](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=890) – Like, what is your opinion of kids using mobile phones. I’m not a fan of it. Nice, handy … ([[Transcript s03e07#Minute 14|transcript]])
 
 ---
 ← [[All Episodes]] · [[Real Exam English Wiki|Home]]

@@ -22,8 +22,8 @@ tags: [episode, season-3]
 | **Topics** | [[Anger & Emotions]], [[Relaxing & Stress]] |
 | **Language** | [[Idioms & Expressions]], [[Connectors & Linking Words]] |
 | **Exams** | – |
-| **Accents** | – |
-| **Briefly mentioned** | [[Work & Careers]], [[Communication]], [[Adjectives & Compound Adjectives]], [[Modal Verbs]], [[England]] |
+| **Accents** | [[England]], [[USA]], [[Australia]], [[New Zealand]] |
+| **Briefly mentioned** | [[Work & Careers]], [[Adjectives & Compound Adjectives]] |
 
 ## Show notes
 
@@ -35,7 +35,7 @@ Thanks to all of the contributors, including Ian from the We Dig Music podcast, 
 
 ## Chapters
 
-- [0:16](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=16) – Hello and welcome to Real Exam English. Today´s episode is about anger. This is a surprisingly common topic … ([[Transcript s03e02#Minute 0|transcript]])
+- [0:16](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=16) – Hello and welcome to Real Exam English. Today’s episode is about anger. This is a surprisingly common topic … ([[Transcript s03e02#Minute 0|transcript]])
 - [2:21](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=141) – I don't necessarily think the pace of life leads people to lose their temper, although I don't really … ([[Transcript s03e02#Minute 2|transcript]])
 - [4:22](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=262) – All bad things and, uh.Yeah, I don't believe anything good comes from anger. Anger is not a good … ([[Transcript s03e02#Minute 4|transcript]])
 - [6:40](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=400) – Uhm.Don't not necessarily being angry at people, but you know like having a little mutter to yourself in … ([[Transcript s03e02#Minute 6|transcript]])

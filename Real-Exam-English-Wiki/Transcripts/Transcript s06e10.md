@@ -5,7 +5,7 @@ tags: [transcript]
 ---
 # Transcript – S06 - 10 Decisions
 
-Episode: [[s06e10 Decisions]] · transcribed automatically, aligned with the official transcript (0 corrections); occasional hearing errors are possible.
+Episode: [[s06e10 Decisions]] · transcribed automatically, aligned with the official transcript (1 corrections); occasional hearing errors are possible.
 Click ▶ to open Spotify at exactly this point.
 
 ### Minute 0
@@ -50,7 +50,7 @@ Okay, best of six. Yeah, no, no, it's best of three. We're not gonna be there al
 
 ### Minute 10
 [▶ 10:55](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=655)  
-And I was ready to, like, it'd be all about me. And then it was like, want to move to Australia? And I'm like, no, sell it to me. And it was just like, Okay, all right, that was fine. So then we moved and the first year was, we used to move in, so it was okay. But I was like, still, I want to go home, want to go home, want to go home. But after year two, it was like, no, I don't think I want to go home. I think I found me a new home. Some great decision-making vocabulary here. Firstly, she said that they flip a coin, which is when you through a coin into the air and see what side it lands on. The two choices then are either heads or tails. The heads side has a head on it, like the president, queen or whatever and the other side is known as tails. The other option she mentioned was paper, rock, scissors, where you have to choose one of those items and hope you beat your opponent’s item. Ok, I think most countries in the world have a version of this game, in English, it’s with the words rock, scissors and paper but the order of the words varies in different English-speaking countries and regions.
+And I was ready to, like, it'd be all about me. And then it was like, want to move to Australia? And I'm like, no, sell it to me. And it was just like, Okay, all right, that was fine. So then we moved and the first year was, we used to move in, so it was okay. But I was like, still, I want to go home, want to go home, want to go home. But after year two, it was like, no, I don't think I want to go home. I think I found me a new home. Some great decision-making vocabulary here. Firstly, she said that they flip a coin, which is when you throw a coin into the air and see what side it lands on. The two choices then are either heads or tails. The heads side has a head on it, like the president, queen or whatever and the other side is known as tails. The other option she mentioned was paper, rock, scissors, where you have to choose one of those items and hope you beat your opponent’s item. Ok, I think most countries in the world have a version of this game, in English, it’s with the words rock, scissors and paper but the order of the words varies in different English-speaking countries and regions.
 
 ### Minute 12
 [▶ 12:03](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=723)  

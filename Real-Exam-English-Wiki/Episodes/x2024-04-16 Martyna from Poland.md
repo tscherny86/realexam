@@ -19,11 +19,11 @@ tags: [episode, season-0]
 | **Duration** | 24:59 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y) · [MP3](https://www.buzzsprout.com/1107956/episodes/14897812-martyna-from-poland.mp3) |
 | **Transcript** | [[Transcript x2024-04-16]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Travel, Holidays & Tourism]], [[Books & Reading]], [[TV, Film & Entertainment]], [[Work & Careers]], [[Learning, School & Education]], [[Languages & Language Learning]] |
-| **Language** | [[Idioms & Expressions]], [[Collocations]], [[Inversion]], [[Past Perfect & Narrative Tenses]], [[Common Mistakes]], [[Organising Your Answer]] |
+| **Topics** | [[Books & Reading]], [[TV, Film & Entertainment]], [[Languages & Language Learning]] |
+| **Language** | [[Idioms & Expressions]], [[Substitution & Ellipsis]] |
 | **Exams** | [[Cambridge C1 Advanced (CAE)]], [[Speaking Exam]] |
 | **Accents** | [[Non-Native Speakers]] |
-| **Briefly mentioned** | [[Communication]], [[Change & Life Changes]], [[Conditionals]], [[Cambridge C2 Proficiency (CPE)]], [[Listening & Reading]] |
+| **Briefly mentioned** | [[Work & Careers]], [[Learning, School & Education]], [[Change & Life Changes]], [[Listening & Reading]] |
 
 ## Show notes
 

@@ -5,7 +5,7 @@ tags: [transcript]
 ---
 # Transcript – S06 - 6 Creativity
 
-Episode: [[s06e06 Creativity]] · transcribed automatically, aligned with the official transcript (0 corrections); occasional hearing errors are possible.
+Episode: [[s06e06 Creativity]] · transcribed automatically, aligned with the official transcript (2 corrections); occasional hearing errors are possible.
 Click ▶ to open Spotify at exactly this point.
 
 ### Minute 0
@@ -26,7 +26,7 @@ Who is the most creative person you know personally? Oh, flippin’ ‘eck. What
 
 ### Minute 4
 [▶ 4:35](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=275)  
-Like genetics and stuff like that. I feel like you're either born with that creative mindset. Like it's the whole question of nature versus nurture though type thing, isn't it? The way it all boils down to it. I think you can, of learn it but there's always that that glimpse of it where you you've either got it or you don't, you know what I mean, like some of it can be learned. For example, like Ronaldo with Messi the big question like Messi is naturally gifted and Ronaldo is taught gifted is what I I compare them both to but yeah so I feel I feel like both you can do both but I feel being born with it has its slight advantages over being taught it. In the first answer we had the most British response to a hard question that you will ever here. He said oh flippin eck, what a question. Ok so flipping is a euphemism for fucking and heck is a euphemism for hell. Ok, so if you want to be more polite, instead of saying fucking hell, you can say flipping heck and it is much softer. Note the pronunciation too, it’s quite contracted, flippin eck.
+Like genetics and stuff like that. I feel like you're either born with that creative mindset. Like it's the whole question of nature versus nurture though type thing, isn't it? The way it all boils down to it. I think you can, of learn it but there's always that that glimpse of it where you you've either got it or you don't, you know what I mean, like some of it can be learned. For example, like Ronaldo with Messi the big question like Messi is naturally gifted and Ronaldo is taught gifted is what I I compare them both to but yeah so I feel I feel like both you can do both but I feel being born with it has its slight advantages over being taught it. In the first answer we had the most British response to a hard question that you will ever hear. He said oh flippin eck, what a question. Ok so flipping is a euphemism for fucking and heck is a euphemism for hell. Ok, so if you want to be more polite, instead of saying fucking hell, you can say flipping heck and it is much softer. Note the pronunciation too, it’s quite contracted, flippin eck.
 
 ### Minute 5
 [▶ 5:37](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=337)  
@@ -42,7 +42,7 @@ Really handy that one, for any of you who interact with international colleagues
 
 ### Minute 8
 [▶ 8:55](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=535)  
-3. Two different machines were being created at the same time. 4. A new crown was created for the king. 5. The video game was created with the newest technology. 6. The perfume was created from rare flowers and spices. 7. The vaccine was created under government supervision. 8. The tradition was created during the Middle Ages. 9. The handmade chair was created without using any machinery.
+Two different machines were being created blank the same time. Two different machines were being created at the same time. A new crown was created blank the king. A new crown was created for the king. The video game was created blank the newest technology. The video game was created with the newest technology. The perfume was created blank rare flowers and spices. The perfume was created from rare flowers and spices. 7. The vaccine was created under government supervision. The tradition was created blank the Middle Ages. The tradition was created during the Middle Ages. I guess you could say in as well for that one. The handmade chair was created blank using any machinery. The handmade chair was created without using any machinery.
 
 ### Minute 10
 [▶ 10:00](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=600)  
@@ -66,7 +66,7 @@ Fantastic verb this, meaning to sharpen or refine a skill or ability. For exampl
 
 ### Minute 15
 [▶ 15:33](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=933)  
-Totally. It doesn't mean like, but because it bothers me, it might not bother you. It might be the thing that drives you. My daughter loves deadlines. Like, tell me when it's got to be done, then I'll do it and I'll make it happen. And I'll do it early so I can feel good about myself. For me, if I don't have that deadline, I might push something back. Alright, a few phrasal verbs here to get into. Firstly, she said that deadlines speed her up, which is of course means they make her go faster, but also she said they can freak her out. Meaning they can cause her stress, maybe she gets a bit panicked by them. Then, at the end she said that without deadlines she might push something back, meaning to do it later. Another example welative ould be, hey I have to go to the doctor this morning so can we push our meeting back to this afternoon. As she was talking about different people’s reactions to deadlines she said, I hate to be, like, wishy-washy about it. Wishy-washy is a great expression, meaning to be unclear or vague or weak.
+Totally. It doesn't mean like, but because it bothers me, it might not bother you. It might be the thing that drives you. My daughter loves deadlines. Like, tell me when it's got to be done, then I'll do it and I'll make it happen. And I'll do it early so I can feel good about myself. For me, if I don't have that deadline, I might push something back. Alright, a few phrasal verbs here to get into. Firstly, she said that deadlines speed her up, which is of course means they make her go faster, but also she said they can freak her out. Meaning they can cause her stress, maybe she gets a bit panicked by them. Then, at the end she said that without deadlines she might push something back, meaning to do it later. Another example would be, hey I have to go to the doctor this morning so can we push our meeting back to this afternoon. As she was talking about different people’s reactions to deadlines she said, I hate to be, like, wishy-washy about it. Wishy-washy is a great expression, meaning to be unclear or vague or weak.
 
 ### Minute 16
 [▶ 16:35](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=995)  

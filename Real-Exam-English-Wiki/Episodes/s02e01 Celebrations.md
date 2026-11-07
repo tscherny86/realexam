@@ -19,11 +19,11 @@ tags: [episode, season-2]
 | **Duration** | 17:03 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU) · [MP3](https://www.buzzsprout.com/1107956/episodes/7409350-s02-1-celebrations.mp3) |
 | **Transcript** | [[Transcript s02e01]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Music]], [[Celebrations & Festivals]], [[Friends & Friendship]], [[Languages & Language Learning]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Past Perfect & Narrative Tenses]], [[Organising Your Answer]] |
+| **Topics** | [[Celebrations & Festivals]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |
 | **Exams** | – |
-| **Accents** | [[England]], [[USA]] |
-| **Briefly mentioned** | [[Food & Cooking]], [[Books & Reading]], [[Family & Relationships]], [[Humour & Comedy]], [[Fashion & Clothes]], [[Home & Housing]], [[Extremes & Adventure]], [[Scotland]] |
+| **Accents** | [[USA]] |
+| **Briefly mentioned** | [[Food & Cooking]], [[Technology & the Internet]], [[Books & Reading]], [[Family & Relationships]], [[Humour & Comedy]], [[Fashion & Clothes]], [[Home & Housing]], [[Covid & Lockdown]], [[England]] |
 
 ## Show notes
 
@@ -37,7 +37,7 @@ Thanks to all of the contributors, including Ian from the We Dig Music podcast, 
 
 - [0:11](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=11) – Hello and welcome to real exam English season 2! Firstly, thanks so much to everyone who downloaded and … ([[Transcript s02e01#Minute 0|transcript]])
 - [2:12](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=132) – Is there an event in your hometown which you particularly enjoy? I feel like we have had no … ([[Transcript s02e01#Minute 2|transcript]])
-- [4:18](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=258) – All of these are correct but it´s not showing much variety to the examiner. So alternatives you can … ([[Transcript s02e01#Minute 4|transcript]])
+- [4:18](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=258) – All of these are correct but it’s not showing much variety to the examiner. So alternatives you can … ([[Transcript s02e01#Minute 4|transcript]])
 - [6:20](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=380) – So it was a chance to give you the things that were utilitarian but also give you a … ([[Transcript s02e01#Minute 6|transcript]])
 - [8:23](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=503) – As far as costume parties, Halloween you know is one time of the year where .You know, it's … ([[Transcript s02e01#Minute 8|transcript]])
 - [10:25](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=625) – I frequently receive writings from my students, particularly my Spanish students, with something like this “I like pizza, … ([[Transcript s02e01#Minute 10|transcript]])

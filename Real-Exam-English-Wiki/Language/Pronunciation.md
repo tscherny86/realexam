@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 12
+episodes: 10
 tags: [language]
 ---
 # Pronunciation
@@ -30,23 +30,23 @@ Pronunciation is one of the four speaking criteria. Examiners look for **individ
 >
 > — [[s01e08 The Environment|S1 E8]], [Minute 6:47](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=407) · [[Transcript s01e08#Minute 6|in the transcript]]
 
-> … lot of urban vocabulary, we have amenities, or amenities as the speaker pronounced it in his US accent, we had grocery stores, hardware stores, facilities, gyms, swimming pools, parks and so forth. This expression …
+> … the future of books. We also speak about question tags, the English pronunciation of words that originate from French and different ways to say important. Ok then, let’s go with the questions. Trevor: What …
 >
-> — [[s02e02 City and Country|S2 E2]], [Minute 2:12](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=132) · [[Transcript s02e02#Minute 2|in the transcript]]
+> — [[s01e09 Books|S1 E9]], [Minute 0:32](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=32) · [[Transcript s01e09#Minute 0|in the transcript]]
 
-> … discussion. If we look at this from an examiner’s viewpoint obviously the pronunciation, intonation and vocabulary used is excellent. However, you are also usually marked on interaction and if you have a dialogue in …
+> … genre. So my favorite movie genre is horror, for example. And the pronunciation is a little bit tricky. It's one of these words that comes from French and is kind of pronounced in a …
 >
-> — [[s02e02 City and Country|S2 E2]], [Minute 17:13](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=1033) · [[Transcript s02e02#Minute 17|in the transcript]]
+> — [[s01e09 Books|S1 E9]], [Minute 3:21](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=201) · [[Transcript s01e09#Minute 3|in the transcript]]
 
 > … takes you. You know you can hear the sentence. It doesn't necessarily sound like it's a joke.But you know, it's a joke because culturally, you get it. Also, there's a lot of, UM, really, …
 >
 > — [[s03e01 Humour|S3 E1]], [Minute 2:05](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=125) · [[Transcript s03e01#Minute 2|in the transcript]]
 
-> … to me! Ok, the first thing to comment on here is the pronunciation of the word parent. Quite a few of my students are from Spain and Italy and it´s quite common to hear …
+> … to me! Ok, the first thing to comment on here is the pronunciation of the word parent. Quite a few of my students are from Spain and Italy and it’s quite common to hear …
 >
 > — [[s03e04 Money|S3 E4]], [Minute 2:42](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=162) · [[Transcript s03e04#Minute 2|in the transcript]]
 
-> … means to owe money, usually to the bank. Be careful with the pronunciation here too, debt is spelled debt, but the B is silent, so it´s det, not debt, det. He also spoke about …
+> … means to owe money, usually to the bank. Be careful with the pronunciation here too, debt is spelled debt, but the B is silent, so it’s det, not debt, det. He also spoke about …
 >
 > — [[s03e04 Money|S3 E4]], [Minute 7:03](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=423) · [[Transcript s03e04#Minute 7|in the transcript]]
 
@@ -58,15 +58,7 @@ Pronunciation is one of the four speaking criteria. Examiners look for **individ
 >
 > — [[s03e09 Culture|S3 E9]], [Minute 6:48](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=408) · [[Transcript s03e09#Minute 6|in the transcript]]
 
-> … aspect of English a lot of you find most difficult, along with pronunciation maybe. Anyway, we have a nice variety of accents today, and some fascinating opinions and tips too, so let’s crack on …
->
-> — [[s04e02 Languages|S4 E2]], [Minute 0:56](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=56) · [[Transcript s04e02#Minute 0|in the transcript]]
-
-> … in your ways and you find it more difficult to learn to pronounce when you're a child. And that's why I think it's fundamental and you know, as a teacher I….anybody who has small …
->
-> — [[s04e02 Languages|S4 E2]], [Minute 4:08](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=248) · [[Transcript s04e02#Minute 4|in the transcript]]
-
-> … of useful adjectives and idioms, we will also focus a bit on pronunciation, as well as some top tips about what not to do in exams. As usual, the transcript for this episode can …
+> … of useful adjectives and idioms, we will also focus a bit on pronunciation, as well as some top tips about what not to do in exams. In my house it's the kitchen because it …
 >
 > — [[s04e03 Home|S4 E3]], [Minute 0:30](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=30) · [[Transcript s04e03#Minute 0|in the transcript]]
 
@@ -78,7 +70,7 @@ Pronunciation is one of the four speaking criteria. Examiners look for **individ
 >
 > — [[s04e03 Home|S4 E3]], [Minute 12:24](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=744) · [[Transcript s04e03#Minute 12|in the transcript]]
 
-> … cover. You´ll hear some great transport vocabulary, some nice idioms, tips on pronunciation and organizing your speech, plus a very interesting way of using the word really. As usual you will hear a bunch …
+> … cover. You’ll hear some great transport vocabulary, some nice idioms, tips on pronunciation and organizing your speech, plus a very interesting way of using the word really. I think, to be fair, London is …
 >
 > — [[s04e06 Transport|S4 E6]], [Minute 0:32](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=32) · [[Transcript s04e06#Minute 0|in the transcript]]
 
@@ -90,11 +82,11 @@ Pronunciation is one of the four speaking criteria. Examiners look for **individ
 >
 > — [[s04e07 Parenting|S4 E7]], [Minute 2:16](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=136) · [[Transcript s04e07#Minute 2|in the transcript]]
 
-> … I think that’s outrageous. This means shocking, or really unacceptable, and the intonation is super important here. You can´t say, I think it´s outrageous, you have to really emphasise it, what the government is …
+> … I think that’s outrageous. This means shocking, or really unacceptable, and the intonation is super important here. You can’t say, I think it’s outrageous, you have to really emphasise it, what the government is …
 >
 > — [[s04e07 Parenting|S4 E7]], [Minute 11:15](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=675) · [[Transcript s04e07#Minute 11|in the transcript]]
 
-> … benefits of spending some time in an English speaking countryand challenges with pronunciation. As Melina is currently researching the effect of eating meat on climate change we have a chat about that too, with …
+> … benefits of spending some time in an English speaking country and challenges with pronunciation. As Melina is currently researching the effect of eating meat on climate change we have a chat about that too, with …
 >
 > — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 0:25](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=25) · [[Transcript x2024-08-02#Minute 0|in the transcript]]
 
@@ -114,7 +106,7 @@ Pronunciation is one of the four speaking criteria. Examiners look for **individ
 >
 > — [[s05e08 Internet|S5 E8]], [Minute 0:37](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=37) · [[Transcript s05e08#Minute 0|in the transcript]]
 
-> … Other internet vocabulary was video chat, group chats and memes, remember that pronunciation guys, memes, not me-mes. What do you spend most of your time online doing? I have to say that I use …
+> … Other internet vocabulary was video chat, group chats and memes, remember that pronunciation guys, memes, not me-mes. What do you spend most of your time online doing? And watching TV, I don't own a …
 >
 > — [[s05e08 Internet|S5 E8]], [Minute 5:04](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=304) · [[Transcript s05e08#Minute 5|in the transcript]]
 
@@ -138,14 +130,6 @@ Pronunciation is one of the four speaking criteria. Examiners look for **individ
 >
 > — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 16:09](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=969) · [[Transcript x2025-12-16#Minute 16|in the transcript]]
 
-> … exercises, where you get instant feedback from the AI coach, about your pronunciation, language, task achievement and bunch of other stuff. And the best thing is that it is designed specifically for you and …
->
-> — [[s06e01 News|S6 E1]], [Minute 10:50](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=650) · [[Transcript s06e01#Minute 10|in the transcript]]
-
-> … they edited it, the BBC edited it. So like it made it sound like he said, let's go to the, let's go to the, where was it they went to when we raided it? …
->
-> — [[s06e01 News|S6 E1]], [Minute 17:36](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=1056) · [[Transcript s06e01#Minute 17|in the transcript]]
-
 > … second one is spelt sew, and this second one is very often mispronounced by English learners. People usually say sew, the same way you would pronounce few or new, ok so that’s not correct, …
 >
 > — [[s06e06 Creativity|S6 E6]], [Minute 3:17](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=197) · [[Transcript s06e06#Minute 3|in the transcript]]
@@ -166,10 +150,9 @@ Pronunciation is one of the four speaking criteria. Examiners look for **individ
 >
 > — [[s06e08 Priorities|S6 E8]], [Minute 7:53](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=473) · [[Transcript s06e08#Minute 7|in the transcript]]
 
-## In these episodes (12)
+## In these episodes (10)
 
-- [[s02e02 City and Country|S2 E2 – City and Country]] (2021-01-29) — Minute [2:12](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=132), [17:13](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=1033)
-- [[s04e02 Languages|S4 E2 – Languages]] (2023-04-29) — Minute [0:56](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=56), [4:08](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=248)
+- [[s01e09 Books|S1 E9 – Books]] (2020-10-02) — Show notes · Minute [0:32](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=32), [3:21](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=201)
 - [[s04e03 Home|S4 E3 – Home]] (2023-06-01) — Show notes · Minute [0:30](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=30), [2:54](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=174), [12:24](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=744)
 - [[s04e06 Transport|S4 E6 – Transport]] (2023-10-19) — Show notes · Minute [0:32](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=32), [6:59](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=419)
 - [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Show notes · Minute [0:25](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=25), [19:18](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1158), [21:08](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1268), [23:06](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1386)
@@ -177,7 +160,6 @@ Pronunciation is one of the four speaking criteria. Examiners look for **individ
 - [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Minute [3:23](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=203)
 - [[x2025-11-21 Helena - Barcelona|Bonus – Helena - Barcelona]] (2025-11-21) — Minute [7:56](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=476)
 - [[x2025-12-16 Xing - Tokyo|Bonus – Xing - Tokyo]] (2025-12-16) — Minute [2:57](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=177), [16:09](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=969)
-- [[s06e01 News|S6 E1 – News]] (2026-01-24) — Minute [10:50](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=650), [17:36](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=1056)
 - [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Minute [3:17](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=197), [5:30](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=330)
 - [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Show notes · Minute [0:22](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=22), [2:25](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=145), [7:53](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=473)
 

@@ -22,8 +22,8 @@ tags: [episode, season-0]
 | **Topics** | [[Travel, Holidays & Tourism]] |
 | **Language** | [[Idioms & Expressions]], [[Conditionals]], [[Word Formation]] |
 | **Exams** | – |
-| **Accents** | – |
-| **Briefly mentioned** | [[Friends & Friendship]], [[Australia]] |
+| **Accents** | [[Ireland]], [[Australia]] |
+| **Briefly mentioned** | [[Friends & Friendship]], [[England]] |
 
 ## Show notes
 

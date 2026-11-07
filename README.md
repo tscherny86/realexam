@@ -1,10 +1,10 @@
 # Real Exam English Fanwiki 🎧
 
-## Version: 1.0.0
+## Version: 1.1.0
 
-Live: https://tscherny86.github.io/realexam/ · Changes: [CHANGELOG.md](CHANGELOG.md) · Latest release: [v1.0.0](https://github.com/tscherny86/realexam/releases/latest) (07.11.2026)
+Live: https://tscherny86.github.io/realexam/ · Changes: [CHANGELOG.md](CHANGELOG.md) · Latest release: [v1.1.0](https://github.com/tscherny86/realexam/releases/latest) (07.11.2026)
 
-**State of 1.0.0:** all 75 episodes with transcripts (68 aligned with the official Buzzsprout transcript, 7 proofread by hand), 96 articles (50 topics, 27 language points, 9 exams, 10 accents), 3,314 quotes linked to the exact minute, all Spotify episode IDs mapped.
+**State of 1.1.0:** all 75 episodes with transcripts (68 aligned with the official Buzzsprout transcript, all 75 proofread by hand, 205 corrections), 106 articles (53 topics, 34 language points, 9 exams, 10 accents), every topic assignment reviewed (186 removed), audio marks verified against the audio, all Spotify episode IDs mapped.
 
 Fanwiki for the [Real Exam English podcast](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW)
 (B2, C1, C2) by Trevor – native speakers answer exam-style questions, Trevor picks out the best

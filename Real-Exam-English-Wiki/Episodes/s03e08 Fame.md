@@ -19,11 +19,11 @@ tags: [episode, season-3]
 | **Duration** | 13:41 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5) · [MP3](https://www.buzzsprout.com/1107956/episodes/10399151-s03-8-fame.mp3) |
 | **Transcript** | [[Transcript s03e08]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Music]], [[Fame & Celebrity]] |
+| **Topics** | [[Fame & Celebrity]] |
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |
-| **Exams** | [[Speaking Exam]] |
-| **Accents** | – |
-| **Briefly mentioned** | [[Sport & Exercise]], [[Technology & the Internet]], [[TV, Film & Entertainment]], [[Photography & Photos]], [[Learning, School & Education]], [[Space & Science]], [[Manners & Politeness]], [[News & Media]], [[Help & Kindness]], [[Adjectives & Compound Adjectives]], [[Writing Exam]], [[Listening & Reading]], [[Non-Native Speakers]] |
+| **Exams** | – |
+| **Accents** | [[England]], [[USA]], [[Australia]], [[New Zealand]] |
+| **Briefly mentioned** | [[Technology & the Internet]], [[TV, Film & Entertainment]], [[Manners & Politeness]], [[Adjectives & Compound Adjectives]], [[Writing Exam]] |
 
 ## Show notes
 
@@ -35,11 +35,11 @@ Thanks to all of the contributors, including Ian from the We Dig Music podcast, 
 
 ## Chapters
 
-- [0:05](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=5) – Real Exam English Season 3 Fame Hello and welcome to Real Exam English. Today´s episode is about fame. … ([[Transcript s03e08#Minute 0|transcript]])
+- [0:05](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=5) – Real Exam English Season 3 Fame Hello and welcome to Real Exam English. Today’s episode is about fame. … ([[Transcript s03e08#Minute 0|transcript]])
 - [2:14](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=134) – This K pop army it's insanity. And I don't actually think it's healthy. I think it's quite bad … ([[Transcript s03e08#Minute 2|transcript]])
 - [4:15](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=255) – An example would be I love all types of international cuisine, be it Chinese, Italian, Turkish or whatever, … ([[Transcript s03e08#Minute 4|transcript]])
-- [6:18](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=378) – Like, hey Trevor, I only have potatoes and butter for dinner, that´s good enough for me. I am … ([[Transcript s03e08#Minute 6|transcript]])
-- [8:22](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=502) – Like I dig what you did for me man, or I dig your new shoes, they´re really cool. … ([[Transcript s03e08#Minute 8|transcript]])
+- [6:18](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=378) – Like, hey Trevor, I only have potatoes and butter for dinner, that’s good enough for me. I am … ([[Transcript s03e08#Minute 6|transcript]])
+- [8:22](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=502) – Like I dig what you did for me man, or I dig your new shoes, they’re really cool. … ([[Transcript s03e08#Minute 8|transcript]])
 - [10:27](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=627) – If not, then it's fine too.But if I had to pick someone, probably somebody like Nelson Mandela. Nice. … ([[Transcript s03e08#Minute 10|transcript]])
 - [12:33](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=753) – Which famous person would you like to meet? Why Oh gosh, I've never really thought about it. Famous … ([[Transcript s03e08#Minute 12|transcript]])
 

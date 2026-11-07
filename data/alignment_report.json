@@ -1,331 +1,378 @@
 {
  "s01e02": {
-  "ratio": 0.765,
-  "replaced": 82,
-  "inserted": 20,
-  "deleted": 16,
+  "ratio": 0.782,
+  "replaced": 36,
+  "inserted": 25,
+  "deleted": 22,
+  "kept_whisper": 493,
   "used": true
  },
  "s01e03": {
-  "ratio": 0.911,
-  "replaced": 139,
-  "inserted": 46,
-  "deleted": 91,
+  "ratio": 0.927,
+  "replaced": 98,
+  "inserted": 49,
+  "deleted": 96,
+  "kept_whisper": 0,
   "used": true
  },
  "s01e04": {
-  "ratio": 0.927,
-  "replaced": 58,
+  "ratio": 0.938,
+  "replaced": 40,
   "inserted": 35,
   "deleted": 33,
+  "kept_whisper": 51,
   "used": true
  },
  "s01e06": {
-  "ratio": 0.917,
-  "replaced": 77,
-  "inserted": 22,
-  "deleted": 71,
+  "ratio": 0.927,
+  "replaced": 57,
+  "inserted": 23,
+  "deleted": 73,
+  "kept_whisper": 0,
   "used": true
  },
  "s01e07": {
-  "ratio": 0.915,
-  "replaced": 106,
-  "inserted": 36,
-  "deleted": 32,
+  "ratio": 0.938,
+  "replaced": 66,
+  "inserted": 38,
+  "deleted": 41,
+  "kept_whisper": 0,
   "used": true
  },
  "s01e09": {
-  "ratio": 0.754,
-  "replaced": 121,
-  "inserted": 34,
-  "deleted": 61,
+  "ratio": 0.775,
+  "replaced": 77,
+  "inserted": 36,
+  "deleted": 67,
+  "kept_whisper": 291,
   "used": true
  },
  "s02e01": {
-  "ratio": 0.759,
-  "replaced": 100,
+  "ratio": 0.765,
+  "replaced": 81,
   "inserted": 25,
-  "deleted": 93,
+  "deleted": 94,
+  "kept_whisper": 443,
   "used": true
  },
  "s02e02": {
-  "ratio": 0.891,
-  "replaced": 183,
+  "ratio": 0.896,
+  "replaced": 118,
   "inserted": 48,
-  "deleted": 56,
+  "deleted": 57,
+  "kept_whisper": 156,
   "used": true
  },
  "s02e03": {
-  "ratio": 0.893,
-  "replaced": 115,
-  "inserted": 37,
-  "deleted": 34,
+  "ratio": 0.9,
+  "replaced": 63,
+  "inserted": 40,
+  "deleted": 33,
+  "kept_whisper": 177,
   "used": true
  },
  "s02e04": {
-  "ratio": 0.926,
-  "replaced": 147,
+  "ratio": 0.934,
+  "replaced": 121,
   "inserted": 56,
-  "deleted": 45,
+  "deleted": 47,
+  "kept_whisper": 60,
   "used": true
  },
  "s02e05": {
-  "ratio": 0.889,
-  "replaced": 117,
+  "ratio": 0.898,
+  "replaced": 92,
   "inserted": 15,
-  "deleted": 73,
+  "deleted": 74,
+  "kept_whisper": 61,
   "used": true
  },
  "s02e06": {
-  "ratio": 0.798,
-  "replaced": 285,
-  "inserted": 43,
-  "deleted": 61,
+  "ratio": 0.805,
+  "replaced": 142,
+  "inserted": 44,
+  "deleted": 62,
+  "kept_whisper": 320,
   "used": true
  },
  "s02e07": {
-  "ratio": 0.886,
-  "replaced": 173,
+  "ratio": 0.893,
+  "replaced": 154,
   "inserted": 38,
   "deleted": 39,
+  "kept_whisper": 38,
   "used": true
  },
  "s02e08": {
-  "ratio": 0.906,
-  "replaced": 85,
+  "ratio": 0.914,
+  "replaced": 69,
   "inserted": 38,
   "deleted": 22,
+  "kept_whisper": 108,
   "used": true
  },
  "s02e09": {
-  "ratio": 0.91,
-  "replaced": 139,
+  "ratio": 0.919,
+  "replaced": 81,
   "inserted": 37,
-  "deleted": 32,
+  "deleted": 33,
+  "kept_whisper": 61,
   "used": true
  },
  "s02e10": {
-  "ratio": 0.937,
-  "replaced": 117,
-  "inserted": 61,
+  "ratio": 0.948,
+  "replaced": 73,
+  "inserted": 63,
   "deleted": 42,
+  "kept_whisper": 43,
   "used": true
  },
  "s03e01": {
-  "ratio": 0.913,
-  "replaced": 179,
+  "ratio": 0.919,
+  "replaced": 136,
   "inserted": 43,
   "deleted": 35,
+  "kept_whisper": 1,
   "used": true
  },
  "s03e02": {
-  "ratio": 0.939,
-  "replaced": 84,
+  "ratio": 0.946,
+  "replaced": 71,
   "inserted": 36,
   "deleted": 21,
+  "kept_whisper": 0,
   "used": true
  },
  "s03e03": {
-  "ratio": 0.949,
-  "replaced": 86,
+  "ratio": 0.952,
+  "replaced": 66,
   "inserted": 53,
   "deleted": 35,
+  "kept_whisper": 1,
   "used": true
  },
  "s03e04": {
-  "ratio": 0.963,
-  "replaced": 74,
-  "inserted": 41,
+  "ratio": 0.968,
+  "replaced": 63,
+  "inserted": 43,
   "deleted": 7,
+  "kept_whisper": 0,
   "used": true
  },
  "s03e05": {
-  "ratio": 0.937,
-  "replaced": 96,
+  "ratio": 0.941,
+  "replaced": 87,
   "inserted": 69,
   "deleted": 38,
+  "kept_whisper": 24,
   "used": true
  },
  "s03e06": {
-  "ratio": 0.943,
-  "replaced": 112,
+  "ratio": 0.95,
+  "replaced": 96,
   "inserted": 69,
-  "deleted": 20,
+  "deleted": 21,
+  "kept_whisper": 0,
   "used": true
  },
  "s03e07": {
-  "ratio": 0.929,
-  "replaced": 131,
+  "ratio": 0.933,
+  "replaced": 107,
   "inserted": 40,
-  "deleted": 50,
+  "deleted": 51,
+  "kept_whisper": 6,
   "used": true
  },
  "s03e08": {
-  "ratio": 0.955,
-  "replaced": 73,
+  "ratio": 0.962,
+  "replaced": 58,
   "inserted": 45,
-  "deleted": 12,
+  "deleted": 13,
+  "kept_whisper": 0,
   "used": true
  },
  "s03e09": {
-  "ratio": 0.932,
-  "replaced": 132,
+  "ratio": 0.942,
+  "replaced": 108,
   "inserted": 31,
-  "deleted": 27,
+  "deleted": 28,
+  "kept_whisper": 0,
   "used": true
  },
  "s03e10": {
-  "ratio": 0.943,
-  "replaced": 87,
+  "ratio": 0.947,
+  "replaced": 78,
   "inserted": 26,
-  "deleted": 25,
+  "deleted": 26,
+  "kept_whisper": 0,
   "used": true
  },
  "s04e01": {
-  "ratio": 0.955,
-  "replaced": 71,
+  "ratio": 0.965,
+  "replaced": 42,
   "inserted": 42,
   "deleted": 32,
+  "kept_whisper": 1,
   "used": true
  },
  "s04e02": {
-  "ratio": 0.95,
-  "replaced": 97,
-  "inserted": 21,
+  "ratio": 0.957,
+  "replaced": 73,
+  "inserted": 22,
   "deleted": 70,
+  "kept_whisper": 0,
   "used": true
  },
  "s04e03": {
-  "ratio": 0.949,
-  "replaced": 51,
-  "inserted": 22,
-  "deleted": 38,
+  "ratio": 0.958,
+  "replaced": 30,
+  "inserted": 24,
+  "deleted": 39,
+  "kept_whisper": 22,
   "used": true
  },
  "s04e04": {
-  "ratio": 0.934,
-  "replaced": 80,
-  "inserted": 25,
-  "deleted": 20,
+  "ratio": 0.942,
+  "replaced": 59,
+  "inserted": 26,
+  "deleted": 19,
+  "kept_whisper": 77,
   "used": true
  },
  "s04e06": {
-  "ratio": 0.959,
-  "replaced": 82,
-  "inserted": 38,
+  "ratio": 0.97,
+  "replaced": 55,
+  "inserted": 40,
   "deleted": 21,
+  "kept_whisper": 0,
   "used": true
  },
  "s04e07": {
-  "ratio": 0.931,
-  "replaced": 60,
-  "inserted": 43,
-  "deleted": 25,
+  "ratio": 0.937,
+  "replaced": 48,
+  "inserted": 44,
+  "deleted": 26,
+  "kept_whisper": 67,
   "used": true
  },
  "s04e08": {
-  "ratio": 0.957,
-  "replaced": 60,
-  "inserted": 22,
-  "deleted": 24,
+  "ratio": 0.968,
+  "replaced": 40,
+  "inserted": 23,
+  "deleted": 26,
+  "kept_whisper": 0,
   "used": true
  },
  "s04e09": {
-  "ratio": 0.944,
-  "replaced": 105,
-  "inserted": 25,
-  "deleted": 29,
+  "ratio": 0.954,
+  "replaced": 78,
+  "inserted": 30,
+  "deleted": 33,
+  "kept_whisper": 13,
   "used": true
  },
  "s04e10": {
-  "ratio": 0.961,
-  "replaced": 89,
+  "ratio": 0.97,
+  "replaced": 66,
   "inserted": 25,
-  "deleted": 30,
+  "deleted": 29,
+  "kept_whisper": 0,
   "used": true
  },
  "s05e01": {
-  "ratio": 0.947,
-  "replaced": 91,
-  "inserted": 30,
+  "ratio": 0.952,
+  "replaced": 76,
+  "inserted": 31,
   "deleted": 50,
+  "kept_whisper": 0,
   "used": true
  },
  "s05e02": {
-  "ratio": 0.961,
-  "replaced": 101,
-  "inserted": 40,
-  "deleted": 36,
+  "ratio": 0.964,
+  "replaced": 93,
+  "inserted": 41,
+  "deleted": 37,
+  "kept_whisper": 0,
   "used": true
  },
  "s05e03": {
-  "ratio": 0.951,
-  "replaced": 102,
-  "inserted": 36,
-  "deleted": 27,
+  "ratio": 0.957,
+  "replaced": 88,
+  "inserted": 39,
+  "deleted": 28,
+  "kept_whisper": 0,
   "used": true
  },
  "s05e04": {
-  "ratio": 0.969,
-  "replaced": 77,
-  "inserted": 32,
+  "ratio": 0.97,
+  "replaced": 75,
+  "inserted": 33,
   "deleted": 25,
+  "kept_whisper": 0,
   "used": true
  },
  "s05e05": {
-  "ratio": 0.956,
-  "replaced": 77,
-  "inserted": 32,
+  "ratio": 0.959,
+  "replaced": 71,
+  "inserted": 33,
   "deleted": 61,
+  "kept_whisper": 0,
   "used": true
  },
  "s05e06": {
-  "ratio": 0.954,
-  "replaced": 98,
-  "inserted": 26,
+  "ratio": 0.955,
+  "replaced": 97,
+  "inserted": 27,
   "deleted": 31,
+  "kept_whisper": 0,
   "used": true
  },
  "s05e07": {
-  "ratio": 0.966,
-  "replaced": 72,
-  "inserted": 45,
+  "ratio": 0.968,
+  "replaced": 70,
+  "inserted": 31,
   "deleted": 19,
+  "kept_whisper": 2,
   "used": true
  },
  "s05e08": {
-  "ratio": 0.955,
-  "replaced": 104,
-  "inserted": 36,
-  "deleted": 31,
+  "ratio": 0.958,
+  "replaced": 98,
+  "inserted": 40,
+  "deleted": 33,
+  "kept_whisper": 0,
   "used": true
  },
  "s05e09": {
-  "ratio": 0.95,
-  "replaced": 122,
-  "inserted": 28,
+  "ratio": 0.953,
+  "replaced": 116,
+  "inserted": 34,
   "deleted": 35,
+  "kept_whisper": 0,
   "used": true
  },
  "s05e10": {
-  "ratio": 0.955,
-  "replaced": 112,
-  "inserted": 27,
+  "ratio": 0.957,
+  "replaced": 109,
+  "inserted": 31,
   "deleted": 16,
+  "kept_whisper": 0,
   "used": true
  },
  "s06e01": {
-  "ratio": 0.97,
-  "replaced": 77,
-  "inserted": 17,
+  "ratio": 0.971,
+  "replaced": 75,
+  "inserted": 18,
   "deleted": 27,
+  "kept_whisper": 0,
   "used": true
  },
  "s06e02": {
-  "ratio": 0.964,
-  "replaced": 82,
-  "inserted": 27,
-  "deleted": 42,
+  "ratio": 0.965,
+  "replaced": 81,
+  "inserted": 28,
+  "deleted": 44,
+  "kept_whisper": 0,
   "used": true
  },
  "s06e03": {
@@ -333,13 +380,15 @@
   "replaced": 64,
   "inserted": 44,
   "deleted": 20,
+  "kept_whisper": 0,
   "used": true
  },
  "s06e04": {
-  "ratio": 0.973,
-  "replaced": 57,
+  "ratio": 0.974,
+  "replaced": 56,
   "inserted": 11,
   "deleted": 22,
+  "kept_whisper": 0,
   "used": true
  },
  "s06e05": {
@@ -347,13 +396,15 @@
   "replaced": 86,
   "inserted": 28,
   "deleted": 52,
+  "kept_whisper": 0,
   "used": true
  },
  "s06e06": {
   "ratio": 0.936,
-  "replaced": 75,
+  "replaced": 69,
   "inserted": 19,
   "deleted": 22,
+  "kept_whisper": 64,
   "used": true
  },
  "s06e07": {
@@ -361,13 +412,15 @@
   "replaced": 86,
   "inserted": 43,
   "deleted": 18,
+  "kept_whisper": 0,
   "used": true
  },
  "s06e08": {
-  "ratio": 0.966,
+  "ratio": 0.967,
   "replaced": 63,
-  "inserted": 20,
+  "inserted": 21,
   "deleted": 29,
+  "kept_whisper": 0,
   "used": true
  },
  "s06e09": {
@@ -375,6 +428,7 @@
   "replaced": 70,
   "inserted": 16,
   "deleted": 21,
+  "kept_whisper": 0,
   "used": true
  },
  "s06e10": {
@@ -382,69 +436,79 @@
   "replaced": 83,
   "inserted": 16,
   "deleted": 19,
+  "kept_whisper": 0,
   "used": true
  },
  "x2021-02-19": {
-  "ratio": 0.931,
-  "replaced": 73,
+  "ratio": 0.949,
+  "replaced": 49,
   "inserted": 6,
-  "deleted": 13,
+  "deleted": 32,
+  "kept_whisper": 0,
   "used": true
  },
  "x2021-06-20": {
-  "ratio": 0.944,
-  "replaced": 101,
+  "ratio": 0.962,
+  "replaced": 61,
   "inserted": 13,
   "deleted": 30,
+  "kept_whisper": 0,
   "used": true
  },
  "x2022-07-16": {
-  "ratio": 0.91,
-  "replaced": 49,
+  "ratio": 0.923,
+  "replaced": 37,
   "inserted": 11,
-  "deleted": 2,
+  "deleted": 3,
+  "kept_whisper": 8,
   "used": true
  },
  "x2022-10-14": {
-  "ratio": 0.952,
-  "replaced": 54,
-  "inserted": 38,
+  "ratio": 0.957,
+  "replaced": 44,
+  "inserted": 39,
   "deleted": 36,
+  "kept_whisper": 0,
   "used": true
  },
  "x2023-01-27": {
-  "ratio": 0.943,
-  "replaced": 40,
+  "ratio": 0.954,
+  "replaced": 28,
   "inserted": 9,
-  "deleted": 18,
+  "deleted": 19,
+  "kept_whisper": 0,
   "used": true
  },
  "x2024-04-16": {
-  "ratio": 0.968,
-  "replaced": 109,
-  "inserted": 124,
+  "ratio": 0.972,
+  "replaced": 95,
+  "inserted": 127,
   "deleted": 25,
+  "kept_whisper": 0,
   "used": true
  },
  "x2024-05-01": {
-  "ratio": 0.954,
-  "replaced": 32,
+  "ratio": 0.956,
+  "replaced": 30,
   "inserted": 2,
   "deleted": 9,
+  "kept_whisper": 0,
   "used": true
  },
  "x2024-06-29": {
-  "ratio": 0.962,
-  "replaced": 122,
+  "ratio": 0.966,
+  "replaced": 108,
   "inserted": 84,
   "deleted": 18,
+  "kept_whisper": 0,
   "used": true
  },
  "x2024-08-02": {
-  "ratio": 0.953,
-  "replaced": 144,
-  "inserted": 73,
-  "deleted": 33,
+  "ratio": 0.958,
+  "replaced": 126,
+  "inserted": 75,
+  "deleted": 34,
+  "kept_whisper": 0,
   "used": true
  },
  "x2025-09-22": {
@@ -452,20 +516,23 @@
   "replaced": 82,
   "inserted": 3,
   "deleted": 2,
+  "kept_whisper": 0,
   "used": true
  },
  "x2025-11-21": {
-  "ratio": 0.96,
-  "replaced": 85,
-  "inserted": 48,
+  "ratio": 0.961,
+  "replaced": 71,
+  "inserted": 50,
   "deleted": 47,
+  "kept_whisper": 1,
   "used": true
  },
  "x2025-12-16": {
-  "ratio": 0.934,
-  "replaced": 115,
+  "ratio": 0.935,
+  "replaced": 113,
   "inserted": 32,
-  "deleted": 161,
+  "deleted": 162,
+  "kept_whisper": 0,
   "used": true
  },
  "x2026-06-24": {
@@ -473,6 +540,7 @@
   "replaced": 44,
   "inserted": 10,
   "deleted": 2,
+  "kept_whisper": 0,
   "used": true
  }
 }

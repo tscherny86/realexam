@@ -19,11 +19,11 @@ tags: [episode, season-0]
 | **Duration** | 27:28 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq) · [MP3](https://www.buzzsprout.com/1107956/episodes/18362938-xing-tokyo.mp3) |
 | **Transcript** | [[Transcript x2025-12-16]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Communication]], [[Humour & Comedy]], [[Learning, School & Education]], [[Languages & Language Learning]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Collocations]], [[Connectors & Linking Words]], [[Pronunciation]], [[Common Mistakes]] |
+| **Topics** | [[Humour & Comedy]], [[Learning, School & Education]], [[Languages & Language Learning]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Pronunciation]], [[British vs American English]], [[Verbs with Many Meanings (get, do, make, take)]] |
 | **Exams** | – |
-| **Accents** | [[USA]], [[Non-Native Speakers]] |
-| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Books & Reading]], [[Health & Wellbeing]], [[Anger & Emotions]], [[Culture & Traditions]], [[Crime & Law]], [[Relaxing & Stress]], [[Adjectives & Compound Adjectives]], [[Prepositions]], [[Verbs with Many Meanings (get, do, make, take)]], [[Cambridge C2 Proficiency (CPE)]], [[England]] |
+| **Accents** | [[Non-Native Speakers]] |
+| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Books & Reading]], [[Health & Wellbeing]], [[Culture & Traditions]], [[Crime & Law]], [[Relaxing & Stress]], [[Adjectives & Compound Adjectives]], [[England]] |
 
 ## Show notes
 

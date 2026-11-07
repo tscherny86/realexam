@@ -19,11 +19,11 @@ tags: [episode, season-0]
 | **Duration** | 5:55 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/78k4YxQJ89E66sFTzzqLlz) · [MP3](https://www.buzzsprout.com/1107956/episodes/14988663-monologue-marijuana.mp3) |
 | **Transcript** | [[Transcript x2024-05-01]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | – |
-| **Language** | [[Inversion]], [[Connectors & Linking Words]], [[Organising Your Answer]] |
-| **Exams** | – |
+| **Topics** | [[Drugs & Legalisation]] |
+| **Language** | [[Organising Your Answer]] |
+| **Exams** | [[Speaking Exam]] |
 | **Accents** | – |
-| **Briefly mentioned** | [[Health & Wellbeing]], [[Languages & Language Learning]], [[Other Exams (TOEFL, Trinity, Aptis, EOI)]], [[USA]] |
+| **Briefly mentioned** | [[Health & Wellbeing]], [[Connectors & Linking Words]], [[Other Exams (TOEFL, Trinity, Aptis, EOI)]], [[USA]] |
 
 ## Show notes
 

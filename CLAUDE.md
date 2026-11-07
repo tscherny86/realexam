@@ -22,20 +22,27 @@ Alex only writes the keyword. Do not ask questions – run the whole procedure a
    - Then **all quality checks as for "quality"** for this episode.
 
 ### "quality" – check everything unchecked
-Applies to every episode with a transcript that is neither aligned with an official transcript
-(`data/alignment_report.json`, `"used": true`) nor listed in `data/proofread.txt`:
-1. **Polish the transcript:** read it completely line by line (helpers, 2–3 episodes each), find hearing errors in
-   names, places, idioms **and everyday words**. Rules in `data/corrections.tsv` (global only when certain
-   everywhere, otherwise local with the episode ID), no smoothing of dialect or grammar. Then add the ID with the
-   date to `data/proofread.txt`. Check how many rules fire (`data/corrections_report.json`), fix the ones that don't.
-   For aligned episodes only spot-check the alignment ratio (below 0.9 → look at the transcript).
-2. **Topic assignment:** check every assignment topic/language/exam/accent of the episode against the quotes:
-   real subject or false hit / passing remark? False assignments with a reason in `data/topic_exclusions.tsv`.
-   Systematic false hits → sharpen the patterns in `scripts/topics.py` (or raise `min`). Add new topics or
-   language points that occur several times.
-3. **Build and check:** `python scripts/build_wiki.py`, `python scripts/build_site.py <scratchpad>/site/index.html`,
+Applies to every episode with a transcript that is not listed in `data/proofread.txt` (the official-transcript
+alignment does not replace the reading: the official texts contain typos and sometimes lack passages):
+1. **Polish the transcript:** `python scripts/qa_scan.py` writes `data/review/scan.md` with suspicious spots per
+   episode; then read the transcript completely line by line (helpers, up to 15 episodes each, output as TSV
+   `WRONG<TAB>RIGHT<TAB>local<TAB><id><TAB>reason` in `data/review/out/proof-N.tsv`), find hearing errors in names,
+   places, idioms **and everyday words**; no smoothing of dialect or grammar. `python scripts/apply_review.py --write`
+   validates the rules against the transcripts and appends them to `data/corrections.tsv` (corrections run after the
+   alignment, so they also fix the official text). Then add the ID with the date to `data/proofread.txt`. Check
+   `data/alignment_report.json`: a large `kept_whisper` value means Whisper passages inside an aligned transcript –
+   read those too (they are what `qa_scan` cannot see).
+2. **Topic assignment:** `python scripts/review_assignments.py` writes one review file per episode
+   (`data/review/assignments/<id>.md`, every assignment with evidence and quotes). Judge every MAIN assignment:
+   real subject or false hit / passing remark? Removals as `NAME<TAB><id><TAB>reason` in
+   `data/review/out/assign-N.tsv`, merged by `apply_review.py --write` into `data/topic_exclusions.tsv`.
+   Systematic false hits → sharpen the patterns in `scripts/topics.py` (or raise `min`); words from Trevor's plugs
+   are already ignored (`PLUG` in `build_wiki.py`). Add new topics or language points that occur several times.
+3. **Audio marks:** `python scripts/check_marks.py <id>` (GPU) transcribes clips at sample marks and compares them with
+   the transcript (`data/review/marks.md`); a mismatch means wrong timestamps or missing text there.
+4. **Build and check:** `python scripts/build_wiki.py`, `python scripts/build_site.py <scratchpad>/site/index.html`,
    look at the pages in the browser (desktop and 390 px) without JS errors and without overflow.
-4. **Deliver** (order below), republish the artifact (`build_site.py … --fragment`) and send Alex a table
+5. **Deliver** (order below), republish the artifact (`build_site.py … --fragment`) and send Alex a table
    **corrections per episode** and the removed assignments.
 
 If nothing is unchecked: answer "alles geprüft, nichts offen".

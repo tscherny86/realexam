@@ -21,7 +21,7 @@ Task 2 essay) and a one-to-one Speaking interview (11–14 min, three parts).
 
 ## Said in the podcast
 
-> … sentences and participle clauses, particularly at a C1 or C2 level, or IELTS band 7. For B2 level you need to know the passive voice well as you´ll need it in your formal writings …
+> … sentences and participle clauses, particularly at a C1 or C2 level, or IELTS band 7. For B2 level you need to know the passive voice well as you’ll need it in your formal writings …
 >
 > — [[s02e03 Global Issues|S2 E3]], [Minute 18:04](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=1084) · [[Transcript s02e03#Minute 18|in the transcript]]
 
@@ -33,7 +33,7 @@ Task 2 essay) and a one-to-one Speaking interview (11–14 min, three parts).
 >
 > — [[x2024-06-29 Vietnam and IELTS|Bonus]], [Minute 0:13](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=13) · [[Transcript x2024-06-29#Minute 0|in the transcript]]
 
-> … Real Exam English podcast! Ok, so next I ask Konner about the IELTS English exam, which has two types Academic and General and here he talks about some of the differences. The academic and …
+> … kind of means wide. Ok, so next I ask Konner about the IELTS English exam, which has two types Academic and General and here he talks about some of the differences. The academic and …
 >
 > — [[x2024-06-29 Vietnam and IELTS|Bonus]], [Minute 5:57](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=357) · [[Transcript x2024-06-29#Minute 5|in the transcript]]
 

@@ -20,19 +20,19 @@ New Zealand and South Africa answer the same questions very differently.
 
 ## Said in the podcast
 
-> … English. My name is Trevor. Today´s topic is travel. Holidays, sunshine, adventure, culture, cocktails by the swimming pool, what´s not to love about travel! This is a very common topic in English exams, it …
+> … English. My name is Trevor. Today’s topic is travel. Holidays, sunshine, adventure, culture, cocktails by the swimming pool, what’s not to love about travel! You will need to get yourself some nice expressions, vocabulary …
 >
 > — [[s01e02 Travel|S1 E2]], [Minute 0:16](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=16) · [[Transcript s01e02#Minute 0|in the transcript]]
 
-> … part of my activity. I´m not a big one any more for cultural activities exactly. I mean, I don´t really go to museums or any of that stuff. I have done in the past …
+> … part of my activity. I’m not a big one any more for cultural activities exactly. I mean, I don’t really go to museums or any of that stuff. I have done in the past …
 >
 > — [[s01e02 Travel|S1 E2]], [Minute 8:47](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=527) · [[Transcript s01e02#Minute 8|in the transcript]]
 
-> … and stuff. I think it´d be interesting to see that polarisation of culture in the same country. So 2 answers there from Ade who is from Bolton in the north of England. In this …
+> … and stuff. I think it’d be interesting to see that polarisation of culture in the same country. So 2 answers there from Ade who is from Bolton in the north of England. In this …
 >
 > — [[s01e02 Travel|S1 E2]], [Minute 11:49](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=709) · [[Transcript s01e02#Minute 11|in the transcript]]
 
-> … opportunities to try those types of dishes, those authentic dishes from different cultures and things so yea I´ve been very exposed to different types of food. Answers there from that speaker who is from …
+> … opportunities to try those types of dishes, those authentic dishes from different cultures and things so yea I’ve been very exposed to different types of food. Answers there from that speaker who is from …
 >
 > — [[s01e03 Food|S1 E3]], [Minute 8:32](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=512) · [[Transcript s01e03#Minute 8|in the transcript]]
 
@@ -48,7 +48,7 @@ New Zealand and South Africa answer the same questions very differently.
 >
 > — [[s02e03 Global Issues|S2 E3]], [Minute 0:35](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=35) · [[Transcript s02e03#Minute 0|in the transcript]]
 
-> … one to know. How important is it for us to understand different cultures and customs? Very important. I would recommend traveling to anybody and it's like the best education I think I´ve ever given …
+> … one to know. How important is it for us to understand different cultures and customs? Very important. I would recommend traveling to anybody and it's like the best education I think I’ve ever given …
 >
 > — [[s02e03 Global Issues|S2 E3]], [Minute 6:01](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=361) · [[Transcript s02e03#Minute 6|in the transcript]]
 
@@ -84,7 +84,7 @@ New Zealand and South Africa answer the same questions very differently.
 >
 > — [[s03e06 Fashion|S3 E6]], [Minute 11:08](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU?t=668) · [[Transcript s03e06#Minute 11|in the transcript]]
 
-> … an article about your fashion sense and the impact it has, socially, culturally and economically, there are so many different facets to discuss. Also, remember to keep an eye out on Instagram and Facebook …
+> … an article about your fashion sense and the impact it has, socially, culturally and economically, there are so many different facets to discuss. Ok folks, that’s it, all the best, Trevor
 >
 > — [[s03e06 Fashion|S3 E6]], [Minute 14:50](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU?t=890) · [[Transcript s03e06#Minute 14|in the transcript]]
 
@@ -96,7 +96,7 @@ New Zealand and South Africa answer the same questions very differently.
 >
 > — [[s03e09 Culture|S3 E9]], [Minute 1:46](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=106) · [[Transcript s03e09#Minute 1|in the transcript]]
 
-> … this brilliant comparative structure in the first answer I´m interested in Indian culture, less so the food. This is far nicer than just saying “but I am less interested in the food”. I´ll give …
+> … this brilliant comparative structure in the first answer I’m interested in Indian culture, less so the food. This is far nicer than just saying “but I am less interested in the food”. I’ll give …
 >
 > — [[s03e09 Culture|S3 E9]], [Minute 3:20](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=200) · [[Transcript s03e09#Minute 3|in the transcript]]
 
@@ -128,7 +128,7 @@ New Zealand and South Africa answer the same questions very differently.
 >
 > — [[s05e07 Hometown|S5 E7]], [Minute 6:03](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=363) · [[Transcript s05e07#Minute 6|in the transcript]]
 
-> … rounded person to live in different places because you're open to new cultures and you analyse your….basically how your…how your mind was before and how you grew up, everything that you thought was the …
+> … rounded person to live in different places because you're open to new cultures and you analyse your….basically how your… how your mind was before and how you grew up, everything that you thought was …
 >
 > — [[s05e07 Hometown|S5 E7]], [Minute 11:56](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=716) · [[Transcript s05e07#Minute 11|in the transcript]]
 

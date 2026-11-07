@@ -19,11 +19,11 @@ tags: [episode, season-5]
 | **Duration** | 20:27 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg) · [MP3](https://www.buzzsprout.com/1107956/episodes/16758874-s05-5-phrasal-verbs.mp3) |
 | **Transcript** | [[Transcript s05e05]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Health & Wellbeing]], [[Communication]], [[Family & Relationships]], [[Learning, School & Education]], [[News & Media]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Adjectives & Compound Adjectives]] |
+| **Topics** | [[Family & Relationships]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |
 | **Exams** | – |
-| **Accents** | [[Australia]], [[Non-Native Speakers]] |
-| **Briefly mentioned** | [[Food & Cooking]], [[Technology & the Internet]], [[Books & Reading]], [[City & Country Life]], [[Friends & Friendship]], [[Anger & Emotions]], [[Languages & Language Learning]], [[Home & Housing]], [[Luck & Chance]], [[Help & Kindness]], [[Inversion]], [[Passive Voice]], [[Slang & Informal English]], [[England]] |
+| **Accents** | [[Ireland]], [[England]], [[Wales]], [[Canada]], [[Australia]] |
+| **Briefly mentioned** | [[Food & Cooking]], [[Technology & the Internet]], [[Books & Reading]], [[City & Country Life]], [[Friends & Friendship]], [[Communication]], [[Anger & Emotions]], [[Home & Housing]], [[News & Media]], [[Luck & Chance]], [[Help & Kindness]], [[Passive Voice]], [[Past Perfect & Narrative Tenses]] |
 
 ## Show notes
 

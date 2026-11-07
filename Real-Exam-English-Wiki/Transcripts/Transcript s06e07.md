@@ -5,7 +5,7 @@ tags: [transcript]
 ---
 # Transcript – S06 - 7 Help
 
-Episode: [[s06e07 Help]] · transcribed automatically, aligned with the official transcript (0 corrections); occasional hearing errors are possible.
+Episode: [[s06e07 Help]] · transcribed automatically, aligned with the official transcript (2 corrections); occasional hearing errors are possible.
 Click ▶ to open Spotify at exactly this point.
 
 ### Minute 0
@@ -62,7 +62,7 @@ Is it something you know that I'm not really sure why my partner is behaving tha
 
 ### Minute 14
 [▶ 14:48](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=888)  
-So thaxºt's probably the most dramatic event of being helped by a stranger. And just the other day I was in an airport and like an idiot, I left my phone plugged into the wall and then I went to board the plane. and went back, my phone wasn't there, but a lovely flight attendant had picked it up and would not let any of the people saying, it's the woman who has with the red hair. And she wouldn't let any of them deliver it to me. She wanted to make sure that it got delivered safely to me before I boarded the plane. So yeah, a lot of help from strangers. Yeah. It’s nice to know there are lots of kind strangers still out there. She was saying her horse took off. You all know take off, I guess, from flying in airplanes. So take off can also be used when something starts to move very quickly, like the horse in her example, or also something like sales of a product or popularity of a TV series, or even about your career. For instance, when the footballer started playing for Barcelona his career really took off.
+So that's probably the most dramatic event of being helped by a stranger. And just the other day I was in an airport and like an idiot, I left my phone plugged into the wall and then I went to board the plane. and went back, my phone wasn't there, but a lovely flight attendant had picked it up and would not let any of the people saying, it's the woman who has with the red hair. And she wouldn't let any of them deliver it to me. She wanted to make sure that it got delivered safely to me before I boarded the plane. So yeah, a lot of help from strangers. Yeah. It’s nice to know there are lots of kind strangers still out there. She was saying her horse took off. You all know take off, I guess, from flying in airplanes. So take off can also be used when something starts to move very quickly, like the horse in her example, or also something like sales of a product or popularity of a TV series, or even about your career. For instance, when the footballer started playing for Barcelona his career really took off.
 
 ### Minute 15
 [▶ 15:51](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=951)  
@@ -82,7 +82,7 @@ Or I wouldn’t dream of getting a dog, they are too much responsibility. Lastly
 
 ### Minute 20
 [▶ 20:09](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1209)  
-They just want to buy liquor. That's what they told you back chance circumstances. You don't know what your next decision or not even your decision, something that could happen to you that has nothing to do with anything that you've done. And you're ending up there. So I think overall, the world has become more polarized. I think there's more people that will help more. It's like this like line, like this is the world where it was. Now there's more people that will do nothing and more people that would do more. So it's still balanced in a sense. But there's still these people over here that are just like, I can't even believe you're not being helpful. I can't like have you no heart or soul or anything. Like no, no, no heart, no love, nothing. And then there's the people that like make up for it. Alright, we had another example of back in the day.
+They just want to buy liquor. That's what they told you back in the day. Chance circumstances. You don't know what your next decision or not even your decision, something that could happen to you that has nothing to do with anything that you've done. And you're ending up there. So I think overall, the world has become more polarized. I think there's more people that will help more. It's like this like line, like this is the world where it was. Now there's more people that will do nothing and more people that would do more. So it's still balanced in a sense. But there's still these people over here that are just like, I can't even believe you're not being helpful. I can't like have you no heart or soul or anything. Like no, no, no heart, no love, nothing. And then there's the people that like make up for it. Alright, we had another example of back in the day.
 
 ### Minute 21
 [▶ 21:10](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1270)  

@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 2
+episodes: 1
 tags: [topics]
 ---
 # Health & Wellbeing
@@ -33,11 +33,11 @@ the cost of public health care (C1/C2).
 >
 > — [[s01e05 Phrasal Verbs|S1 E5]], [Minute 8:04](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=484) · [[Transcript s01e05#Minute 8|in the transcript]]
 
-> Hello and welcome to Real Exam English. Today´s topic is health. If ever there was a trending topic, it was health. We have all been bombarded by news about viruses, immune systems, …
+> Hello and welcome to Real Exam English. Today’s topic is health. If ever there was a trending topic, it was health. We have all been bombarded by news about viruses, immune systems, …
 >
 > — [[s02e05 Health|S2 E5]], [Minute 0:12](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=12) · [[Transcript s02e05#Minute 0|in the transcript]]
 
-> … world, but I´m a bit biased. Do you think our attitudes to healthy living change as we age? I think so. I think Particularly in finding work life balance. There is a shifting ideology …
+> … world, but I’m a bit biased. Do you think our attitudes to healthy living change as we age? I think so. I think Particularly in finding work life balance. There is a shifting ideology …
 >
 > — [[s02e05 Health|S2 E5]], [Minute 1:45](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=105) · [[Transcript s02e05#Minute 1|in the transcript]]
 
@@ -49,25 +49,9 @@ the cost of public health care (C1/C2).
 >
 > — [[s02e05 Health|S2 E5]], [Minute 5:50](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=350) · [[Transcript s02e05#Minute 5|in the transcript]]
 
-> … not think is so cool. Like, don´t judge me but I still sleep with a teddy bear. We had a really useful adjective too which was avid, she is an avid runner, which is …
->
-> — [[s02e07 Free time|S2 E7]], [Minute 9:04](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=544) · [[Transcript s02e07#Minute 9|in the transcript]]
-
-> … that that the plants and the crops that I've. Sown previously are healthy and then you know sort of propagating them. And I'm really, really quite enjoying that and sort of stepping into the …
->
-> — [[s02e07 Free time|S2 E7]], [Minute 12:27](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=747) · [[Transcript s02e07#Minute 12|in the transcript]]
-
-> … us that we need to rest. That's one of the reasons we sleep and we don't function so well if we don't sleep. But also our mental health needs that to process things an …
->
-> — [[s02e07 Free time|S2 E7]], [Minute 14:39](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=879) · [[Transcript s02e07#Minute 14|in the transcript]]
-
 > … knowledge and from what I feel also is that having rich and healthy and abundant wildlife. And means basically the earth is healthy itself and humans whether we like it or not, are animals. …
 >
 > — [[s03e07 Animals|S3 E7]], [Minute 5:10](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=310) · [[Transcript s03e07#Minute 5|in the transcript]]
-
-> … Middle East and I didn't require any luxury at that point. I'd sleep on floors, I would sleep on the deck, I could just take my sleeping bag and put myself anywhere. What activities …
->
-> — [[s04e08 Holidays|S4 E8]], [Minute 5:24](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=324) · [[Transcript s04e08#Minute 5|in the transcript]]
 
 > … in IT as a developer, whether you are an engineer or a doctor, uhm, it really doesn't matter or a cleaning lady, anybody, to know exactly what people need from you is very important, …
 >
@@ -77,7 +61,7 @@ the cost of public health care (C1/C2).
 >
 > — [[s04e10 Future|S4 E10]], [Minute 6:31](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=391) · [[Transcript s04e10#Minute 6|in the transcript]]
 
-> … to do in the future? I'd love to have a long and healthy existence, life. You know, the older I can get, would be great to enjoy the family and the grandkids and things, …
+> … in touch for some classes! I'd love to have a long and healthy existence, life. You know, the older I can get, would be great to enjoy the family and the grandkids and things, …
 >
 > — [[s04e10 Future|S4 E10]], [Minute 9:12](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=552) · [[Transcript s04e10#Minute 9|in the transcript]]
 
@@ -96,18 +80,6 @@ the cost of public health care (C1/C2).
 > … excellent way to say you like to relax after being busy or stressed. Like After I finished my final exams, I took some time off to unwind. What is your favourite way to relax? …
 >
 > — [[s05e01 Relaxing|S5 E1]], [Minute 13:05](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=785) · [[Transcript s05e01#Minute 13|in the transcript]]
-
-> … you usually drop off quickly at night? So I drop off to sleep quickly. Yes, I go to sleep very quickly. I trained myself to do it. I didn't used to. I used to …
->
-> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 4:54](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=294) · [[Transcript s05e05#Minute 4|in the transcript]]
-
-> … making a point of reading the news, but it can affect your mental health. And that….sort of how you're feeling on a day-to-day, all the terrible things happening. And nowadays, I effectively almost never …
->
-> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 17:23](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1043) · [[Transcript s05e05#Minute 17|in the transcript]]
-
-> … and I feel better for it. Or I got a good night’s sleep for the first time in ages, and I feel much better for it. Or I listened to a whole podcast in …
->
-> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 19:32](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1172) · [[Transcript s05e05#Minute 19|in the transcript]]
 
 > … One, ironically, was with the words perfectionist and perfectionism. Ok, so the stress here should be on the second syllable, perfectionist, perfectionism. The other one was with mechanism, this one should be stressed on …
 >
@@ -129,17 +101,14 @@ the cost of public health care (C1/C2).
 >
 > — [[s06e10 Decisions|S6 E10]], [Minute 7:54](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=474) · [[Transcript s06e10#Minute 7|in the transcript]]
 
-## In these episodes (2)
+## In these episodes (1)
 
 - [[s02e05 Health|S2 E5 – Health]] (2021-02-26) — Show notes · Minute [0:12](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=12), [1:45](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=105), [4:10](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=250), [5:50](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=350)
-- [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Minute [4:54](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=294), [17:23](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1043), [19:32](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1172)
 
-## Briefly mentioned (10)
+## Briefly mentioned (8)
 
 - [[s01e05 Phrasal Verbs|S1 E5 – Phrasal Verbs]] (2020-09-04) — Minute [4:07](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=247), [5:41](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=341), [8:04](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=484)
-- [[s02e07 Free time|S2 E7 – Free time]] (2021-03-12) — Minute [9:04](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=544), [12:27](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=747), [14:39](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=879)
 - [[s03e07 Animals|S3 E7 – Animals]] (2022-02-15) — Minute [5:10](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=310)
-- [[s04e08 Holidays|S4 E8 – Holidays]] (2023-12-21) — Minute [5:24](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=324)
 - [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Minute [4:53](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=293), [6:31](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=391), [9:12](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=552), [11:15](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=675)
 - [[x2024-05-01 Monologue - Marijuana|Bonus – Monologue - Marijuana]] (2024-05-01) — Minute [2:23](https://open.spotify.com/episode/78k4YxQJ89E66sFTzzqLlz?t=143)
 - [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Minute [1:30](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=90), [13:05](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=785)

@@ -19,11 +19,11 @@ tags: [episode, season-2]
 | **Duration** | 18:21 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB) · [MP3](https://www.buzzsprout.com/1107956/episodes/8289920-s02-10-family.mp3) |
 | **Transcript** | [[Transcript s02e10]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Technology & the Internet]], [[Family & Relationships]], [[Languages & Language Learning]], [[Parenting & Children]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Comparatives & Superlatives]] |
-| **Exams** | [[Speaking Exam]], [[Listening & Reading]] |
-| **Accents** | [[Ireland]], [[Scotland]] |
-| **Briefly mentioned** | [[Money & Finance]], [[Learning, School & Education]], [[Culture & Traditions]], [[Change & Life Changes]], [[Home & Housing]], [[News & Media]], [[Help & Kindness]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]], [[Cambridge C1 Advanced (CAE)]], [[USA]] |
+| **Topics** | [[Technology & the Internet]], [[Family & Relationships]], [[Parenting & Children]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |
+| **Exams** | – |
+| **Accents** | [[Ireland]], [[England]], [[Scotland]], [[USA]], [[Australia]] |
+| **Briefly mentioned** | [[Culture & Traditions]], [[Change & Life Changes]], [[Home & Housing]], [[Help & Kindness]], [[Adjectives & Compound Adjectives]] |
 
 ## Show notes
 
@@ -35,7 +35,7 @@ Thanks to all of the contributors, including Ian from the We Dig Music podcast, 
 
 ## Chapters
 
-- [0:12](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=12) – Hello and welcome to Real Exam English. Today´s episode is about family. It´s been a tough time for … ([[Transcript s02e10#Minute 0|transcript]])
+- [0:12](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=12) – Hello and welcome to Real Exam English. Today’s episode is about family. It’s been a tough time for … ([[Transcript s02e10#Minute 0|transcript]])
 - [2:17](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=137) – Grinding away means working hard over a long period of time, often doing something that is boring or … ([[Transcript s02e10#Minute 2|transcript]])
 - [4:24](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=264) – Is our access to social media and the permanence of the Internet, Even……… so, I've got children They … ([[Transcript s02e10#Minute 4|transcript]])
 - [6:36](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=396) – How are the lives of young people today different from those of their parents? I think that online … ([[Transcript s02e10#Minute 6|transcript]])

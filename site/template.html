@@ -534,7 +534,9 @@ function route(){
   else if ((m = h.match(/^episode-([a-z0-9-]+)$/))) { html = viewEpisode(m[1]); section = "episodes"; }
   else if ((m = h.match(/^transcript-(.+?)(?:-m(\d+))?$/))) {
     html = viewTranscript(m[1], m[2]); section = "episodes";
-    if (m[2]) after = () => { const el = document.getElementById("m" + m[2]); if (el) { el.classList.add("hl"); el.scrollIntoView({block:"center"}); } };
+    if (m[2]) after = () => { let k = +m[2], el = null;   // no row for that exact minute: take the nearest earlier one
+      while (k >= 0 && !(el = document.getElementById("m" + k))) k--;
+      if (el) { el.classList.add("hl"); el.scrollIntoView({block:"center"}); } };
   }
   else if (ENTRY[h]) { html = viewEntry(h); section = KIND[ENTRY[h].kind][0]; }
   else html = viewMissing();

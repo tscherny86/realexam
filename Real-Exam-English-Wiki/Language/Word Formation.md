@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 1
+episodes: 2
 tags: [language]
 ---
 # Word Formation
@@ -22,9 +22,9 @@ _Prefixes, suffixes and word families – tested directly in Use of English Part
 
 ## Said in the podcast
 
-> … some camping vocab and an example of what is known is a portmanteau, nice. Ok here we go: Who would be the ideal person to go on a holiday with and why? Probably my …
+> … couple of idioms, some camping vocab and an example of what is known as a portmanteau, nice. Ok here we go: Who would be the ideal person to go on a holiday with and why? Probably my …
 >
-> — [[x2023-01-27 Short and Sweet - Camping|Bonus]], [Minute 0:27](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=27) · [[Transcript x2023-01-27#Minute 0|in the transcript]]
+> — [[x2023-01-27 Short and Sweet - Camping|Bonus]], [Minute 0:26](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=26) · [[Transcript x2023-01-27#Minute 0|in the transcript]]
 
 > … a bit of glamping. So glamping is what is known as a portmanteau in English, when you blend two words together to make a new word. So for glamping, the words glamourous and camping …
 >
@@ -34,9 +34,14 @@ _Prefixes, suffixes and word families – tested directly in Use of English Part
 >
 > — [[s05e09 Climate Change|S5 E9]], [Minute 11:08](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=668) · [[Transcript s05e09#Minute 11|in the transcript]]
 
-## In these episodes (1)
+> … like idioms, phrasal verbs and top-level vocabulary. And there is a little word-formation quiz in the middle interval too. How do you motivate yourself to do tasks you don't enjoy? Food. Food helps. Resting …
+>
+> — [[s06e04 Motivation|S6 E4]], [Minute 0:36](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=36) · [[Transcript s06e04#Minute 0|in the transcript]]
 
-- [[x2023-01-27 Short and Sweet - Camping|Bonus – Short and Sweet - Camping]] (2023-01-27) — Show notes · Minute [0:27](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=27), [3:04](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=184)
+## In these episodes (2)
+
+- [[x2023-01-27 Short and Sweet - Camping|Bonus – Short and Sweet - Camping]] (2023-01-27) — Show notes · Minute [0:26](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=26), [3:04](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=184)
+- [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Show notes · Minute [0:36](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=36)
 
 ## Briefly mentioned (1)
 

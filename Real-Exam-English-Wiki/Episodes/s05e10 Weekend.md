@@ -19,11 +19,11 @@ tags: [episode, season-5]
 | **Duration** | 19:49 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9) · [MP3](https://www.buzzsprout.com/1107956/episodes/17687036-s05-10-weekend.mp3) |
 | **Transcript** | [[Transcript s05e10]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Friends & Friendship]], [[Free Time & Hobbies]], [[Work & Careers]], [[Culture & Traditions]] |
-| **Language** | [[Idioms & Expressions]], [[Past Perfect & Narrative Tenses]], [[Comparatives & Superlatives]], [[Common Mistakes]] |
+| **Topics** | [[Free Time & Hobbies]], [[Work & Careers]], [[Culture & Traditions]] |
+| **Language** | [[Idioms & Expressions]], [[Comparatives & Superlatives]] |
 | **Exams** | – |
-| **Accents** | [[Wales]], [[Australia]], [[New Zealand]] |
-| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Food & Cooking]], [[TV, Film & Entertainment]], [[Celebrations & Festivals]], [[Change & Life Changes]], [[Weather & Seasons]], [[Parenting & Children]], [[Adjectives & Compound Adjectives]], [[Modal Verbs]], [[England]], [[USA]] |
+| **Accents** | [[England]], [[Wales]], [[Australia]] |
+| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Food & Cooking]], [[TV, Film & Entertainment]], [[Celebrations & Festivals]], [[Change & Life Changes]], [[Weather & Seasons]], [[Parenting & Children]], [[Adjectives & Compound Adjectives]], [[USA]] |
 
 ## Show notes
 
@@ -45,7 +45,7 @@ Thanks to all of the contributors, including Emma, Mike, Noel, Konner, Jen, Dan 
 - [10:26](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=626) – Are there interesting things to do in your hometown at the weekend? Our. UM, yes, there are. If … ([[Transcript s05e10#Minute 10|transcript]])
 - [12:27](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=747) – So remember the structure is the plus comparative adjective and then another the plus comparative adjective. The cooler … ([[Transcript s05e10#Minute 12|transcript]])
 - [14:32](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=872) – So we try to stay out of the sun as much as possible and we go on longer … ([[Transcript s05e10#Minute 14|transcript]])
-- [16:33](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=993) – Got loads of castles. Wales has the most castles per…well, in the area, in the world. Yeah, in … ([[Transcript s05e10#Minute 16|transcript]])
+- [16:33](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=993) – Got loads of castles. Wales has the most castles per… well, in the area, in the world. Yeah, … ([[Transcript s05e10#Minute 16|transcript]])
 - [18:38](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=1118) – So when they said your other half and my other half, they are talking about their husbands or … ([[Transcript s05e10#Minute 18|transcript]])
 
 ---

@@ -53,7 +53,7 @@ perfect (*If I had known…*).
 >
 > — [[s05e06 Advertising|S5 E6]], [Minute 14:21](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=861) · [[Transcript s05e06#Minute 14|in the transcript]]
 
-> … and welcome to the Real Exam English podcast. This episode is about priorities and has a fantastic mix of adverbs, spelling, idioms, pronunciation, collocations, common mistakes, connectors and a fancy grammatical structure that we …
+> This episode is about priorities and has a fantastic mix of adverbs, spelling, idioms, pronunciation, collocations, common mistakes, connectors and a fancy grammatical structure that we …
 >
 > — [[s06e08 Priorities|S6 E8]], [Minute 0:16](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=16) · [[Transcript s06e08#Minute 0|in the transcript]]
 
@@ -69,9 +69,9 @@ perfect (*If I had known…*).
 >
 > — [[s06e08 Priorities|S6 E8]], [Minute 7:44](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=464) · [[Transcript s06e08#Minute 7|in the transcript]]
 
-> … and welcome to the Real Exam English podcast, this episode is about decisions. We have lots of advanced vocabulary for speaking about making decisions, we take a look at different uses of the passive …
+> We have lots of advanced vocabulary for speaking about making decisions, we take a look at different uses of the passive voice and some useful decision-making idioms too. There’s speakers from different …
 >
-> — [[s06e10 Decisions|S6 E10]], [Minute 0:15](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=15) · [[Transcript s06e10#Minute 0|in the transcript]]
+> — [[s06e10 Decisions|S6 E10]], [Minute 0:20](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=20) · [[Transcript s06e10#Minute 0|in the transcript]]
 
 > … school but he doesn’t really know where he’s at. He’s trying to decide between university or being a policeman or being a chef. After that the speaker said she is very gut oriented. This …
 >
@@ -88,7 +88,7 @@ perfect (*If I had known…*).
 ## In these episodes (2)
 
 - [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Show notes · Minute [0:16](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=16), [2:54](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=174), [5:43](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=343), [7:44](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=464)
-- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Show notes · Minute [0:15](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=15), [2:06](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=126), [5:02](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=302), [7:24](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=444)
+- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Show notes · Minute [0:20](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=20), [2:06](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=126), [5:02](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=302), [7:24](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=444)
 
 ## Briefly mentioned (4)
 

@@ -19,11 +19,11 @@ tags: [episode, season-3]
 | **Duration** | 15:53 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg) · [MP3](https://www.buzzsprout.com/1107956/episodes/9071368-s03-1-humour.mp3) |
 | **Transcript** | [[Transcript s03e01]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Music]], [[TV, Film & Entertainment]], [[Friends & Friendship]], [[Humour & Comedy]], [[Culture & Traditions]] |
-| **Language** | [[Idioms & Expressions]] |
-| **Exams** | [[Speaking Exam]] |
-| **Accents** | [[Ireland]], [[England]], [[USA]], [[New Zealand]] |
-| **Briefly mentioned** | [[Family & Relationships]], [[Learning, School & Education]], [[Modal Verbs]], [[Pronunciation]], [[Australia]] |
+| **Topics** | [[TV, Film & Entertainment]], [[Humour & Comedy]], [[Culture & Traditions]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |
+| **Exams** | – |
+| **Accents** | [[Ireland]], [[England]], [[USA]], [[Australia]], [[New Zealand]] |
+| **Briefly mentioned** | [[Family & Relationships]], [[Pronunciation]], [[Speaking Exam]] |
 
 ## Show notes
 
@@ -42,7 +42,7 @@ Thanks to all of the contributors, including Ian from the We Dig Music podcast, 
 - [8:35](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=515) – In addition to regular classes all of my students can attend free conversation classes and I sometimes have … ([[Transcript s03e01#Minute 8|transcript]])
 - [10:38](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=638) – We heard slapstick once again, then we heard about word play, which is using the different meanings of … ([[Transcript s03e01#Minute 10|transcript]])
 - [12:51](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=771) – So yeah, so I like that it's trying to be something that you're not.And you know, making fun … ([[Transcript s03e01#Minute 12|transcript]])
-- [15:00](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=900) – Who would have thought that the topic of humour would give so much brilliant vocabulary, I think it´s … ([[Transcript s03e01#Minute 15|transcript]])
+- [15:00](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=900) – Who would have thought that the topic of humour would give so much brilliant vocabulary, I think it’s … ([[Transcript s03e01#Minute 15|transcript]])
 
 ---
 ← [[All Episodes]] · [[Real Exam English Wiki|Home]]

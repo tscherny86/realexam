@@ -19,11 +19,11 @@ tags: [episode, season-2]
 | **Duration** | 22:46 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y) · [MP3](https://www.buzzsprout.com/1107956/episodes/7823197-s02-4-shopping.mp3) |
 | **Transcript** | [[Transcript s02e04]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Food & Cooking]], [[Shopping & Consumerism]], [[Money & Finance]], [[Fashion & Clothes]] |
-| **Language** | [[Idioms & Expressions]] |
+| **Topics** | [[Shopping & Consumerism]], [[Money & Finance]], [[Fashion & Clothes]] |
+| **Language** | [[Idioms & Expressions]], [[Buying Time & Fillers]], [[British vs American English]], [[Likes, Dislikes & Preferences]] |
 | **Exams** | – |
-| **Accents** | [[Ireland]], [[England]], [[USA]] |
-| **Briefly mentioned** | [[Technology & the Internet]], [[Books & Reading]], [[Art & Creativity]], [[Transport & Traffic]], [[Phrasal Verbs]], [[Conditionals]], [[Prepositions]], [[Slang & Informal English]], [[Exam Tips & Preparation]], [[Australia]] |
+| **Accents** | [[Ireland]], [[England]], [[USA]], [[Australia]], [[South Africa]] |
+| **Briefly mentioned** | [[Technology & the Internet]], [[Books & Reading]], [[Art & Creativity]], [[Transport & Traffic]], [[Covid & Lockdown]], [[Phrasal Verbs]], [[Gerund or Infinitive]] |
 
 ## Show notes
 
@@ -40,7 +40,7 @@ Thanks to all of the contributors, including Ian from the We Dig Music podcast, 
 - [4:28](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=268) – But yeah, I think definitely outdoor markets are becoming more popular on the kind of Um, you know … ([[Transcript s02e04#Minute 4|transcript]])
 - [6:36](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=396) – Do you think people should borrow money to buy something they want? I suppose there's a. There's a … ([[Transcript s02e04#Minute 6|transcript]])
 - [8:37](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=517) – What do you think? Oh my God totally all the time. And I know I do it myself … ([[Transcript s02e04#Minute 8|transcript]])
-- [10:43](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=643) – So the speaker said I don´t think like say….buying a new outfit. We actually hear our next speaker … ([[Transcript s02e04#Minute 10|transcript]])
+- [10:43](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=643) – So the speaker said I don’t think like say….buying a new outfit. We actually hear our next speaker … ([[Transcript s02e04#Minute 10|transcript]])
 - [12:45](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=765) – So it depends what you're going shopping for. For food shopping, I absolutely prefer to go on my … ([[Transcript s02e04#Minute 12|transcript]])
 - [14:49](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=889) – Because of these new new models that are more of like open concept. No well. But grocery shopping? … ([[Transcript s02e04#Minute 14|transcript]])
 - [16:50](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=1010) – What do you think? Yeah, I think that is a definite advantage for me. The advantage of a … ([[Transcript s02e04#Minute 16|transcript]])

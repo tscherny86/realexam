@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 2
+episodes: 1
 tags: [topics]
 ---
 # Crime & Law
@@ -54,22 +54,6 @@ Crime is a frequent C1 Advanced topic with a lot of specific vocabulary to learn
 >
 > — [[s04e07 Parenting|S4 E7]], [Minute 8:16](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=496) · [[Transcript s04e07#Minute 8|in the transcript]]
 
-> … super interesting chat with a Brazilian lady, Melina, who is an international law professor and researcher and has an excellent level of English. We speak about learning English in Brazil, the benefits of spending …
->
-> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 0:11](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=11) · [[Transcript x2024-08-02#Minute 0|in the transcript]]
-
-> … swear to you. I didn't learn. And then when I was in law school. So during law school, I think I was 20-21 maybe. I just thought that I would really need it when …
->
-> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 2:02](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=122) · [[Transcript x2024-08-02#Minute 2|in the transcript]]
-
-> … months and a half like an exchange program on my vacations, like law school vacation. I would go there. It's called work experience. And then I think I did maybe three job interviews over …
->
-> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 3:47](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=227) · [[Transcript x2024-08-02#Minute 3|in the transcript]]
-
-> … life! Alright, so next I ask Melina about her job in international law and whether she uses English in it. Yeah. Yes, I do. Actually. Uh. Originally I'm an international law professor, so to …
->
-> — [[x2024-08-02 Melina from Brazil|Bonus]], [Minute 7:06](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=426) · [[Transcript x2024-08-02#Minute 7|in the transcript]]
-
 > … like, hey guys, I don't know it. And it's like, okay, it's fine. Like you don't know everything in Chinese I'm sure, there's some words that you don't know or whatever. And that's fine, …
 >
 > — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 11:19](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=679) · [[Transcript x2025-12-16#Minute 11|in the transcript]]
@@ -122,10 +106,9 @@ Crime is a frequent C1 Advanced topic with a lot of specific vocabulary to learn
 >
 > — [[s06e09 Children|S6 E9]], [Minute 16:17](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=977) · [[Transcript s06e09#Minute 16|in the transcript]]
 
-## In these episodes (2)
+## In these episodes (1)
 
 - [[s04e01 Crime|S4 E1 – Crime]] (2023-03-24) — Show notes · Minute [0:04](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=4), [2:25](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=145), [4:14](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=254), [5:47](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=347)
-- [[x2024-08-02 Melina from Brazil|Bonus – Melina from Brazil]] (2024-08-02) — Show notes · Minute [0:11](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=11), [2:02](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=122), [3:47](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=227), [7:06](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=426)
 
 ## Briefly mentioned (6)
 

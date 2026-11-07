@@ -19,11 +19,11 @@ tags: [episode, season-5]
 | **Duration** | 21:28 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl) · [MP3](https://www.buzzsprout.com/1107956/episodes/16580306-s05-4-school.mp3) |
 | **Transcript** | [[Transcript s05e04]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Music]], [[The Environment & Climate Change]], [[Learning, School & Education]], [[Parenting & Children]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Cleft Sentences]], [[Question Tags]], [[Prepositions]], [[Emphasis & Auxiliaries]], [[Organising Your Answer]] |
-| **Exams** | – |
+| **Topics** | [[Music]], [[Learning, School & Education]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Cleft Sentences]], [[Question Tags]], [[Emphasis & Auxiliaries]] |
+| **Exams** | [[Cambridge B2 First (FCE)]], [[Cambridge C1 Advanced (CAE)]] |
 | **Accents** | – |
-| **Briefly mentioned** | [[Sport & Exercise]], [[Books & Reading]], [[Anger & Emotions]], [[Photography & Photos]], [[Art & Creativity]], [[Space & Science]], [[Help & Kindness]], [[Collocations]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]], [[Slang & Informal English]], [[Cambridge B2 First (FCE)]], [[Cambridge C2 Proficiency (CPE)]], [[Australia]] |
+| **Briefly mentioned** | [[Sport & Exercise]], [[Books & Reading]], [[Anger & Emotions]], [[Art & Creativity]], [[Space & Science]], [[Help & Kindness]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]], [[England]], [[Australia]] |
 
 ## Show notes
 

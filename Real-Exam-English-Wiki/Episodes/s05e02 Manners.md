@@ -20,10 +20,10 @@ tags: [episode, season-5]
 | **Listen** | [Spotify](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6) · [MP3](https://www.buzzsprout.com/1107956/episodes/16266692-s05-2-manners.mp3) |
 | **Transcript** | [[Transcript s05e02]] (word-level timestamps, aligned with the official transcript) |
 | **Topics** | [[Learning, School & Education]], [[Culture & Traditions]], [[Parenting & Children]], [[Manners & Politeness]] |
-| **Language** | [[Idioms & Expressions]], [[Past Perfect & Narrative Tenses]], [[Connectors & Linking Words]], [[Organising Your Answer]], [[Slang & Informal English]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Connectors & Linking Words]] |
 | **Exams** | – |
-| **Accents** | [[Ireland]], [[England]], [[Canada]], [[Non-Native Speakers]] |
-| **Briefly mentioned** | [[Work & Careers]], [[Family & Relationships]], [[Fashion & Clothes]], [[Change & Life Changes]], [[Languages & Language Learning]], [[Transport & Traffic]], [[Conditionals]], [[Passive Voice]], [[Adjectives & Compound Adjectives]], [[Writing Exam]], [[Australia]], [[South Africa]] |
+| **Accents** | [[Ireland]], [[England]], [[Wales]], [[Canada]], [[Australia]], [[South Africa]] |
+| **Briefly mentioned** | [[Work & Careers]], [[Family & Relationships]], [[Fashion & Clothes]], [[Transport & Traffic]], [[Passive Voice]], [[Adjectives & Compound Adjectives]], [[Writing Exam]] |
 
 ## Show notes
 
@@ -39,7 +39,7 @@ Thanks to all of the contributors, including Emma, Mike, Noel, Konner, Jen, Dan 
 - [2:15](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=135) – Are bad manners, a sign of rudeness and arrogance, or simply ignorance? Very loaded question. Very loaded question. … ([[Transcript s05e02#Minute 2|transcript]])
 - [4:19](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=259) – And if I give it to you, say thank you. Yeah. I'm trying to raise my son that … ([[Transcript s05e02#Minute 4|transcript]])
 - [6:28](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=388) – If you are a business person who interacts with British people a lot then this is essential, this … ([[Transcript s05e02#Minute 6|transcript]])
-- [8:38](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=518) – Ok, nice to have a contrasting viewpoint, as he said I´m not one for no elbows on the … ([[Transcript s05e02#Minute 8|transcript]])
+- [8:38](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=518) – Ok, nice to have a contrasting viewpoint, as he said I’m not one for no elbows on the … ([[Transcript s05e02#Minute 8|transcript]])
 - [11:33](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=693) – Right now, let’s get back to the questions How would you define good manners? Respecting other people is … ([[Transcript s05e02#Minute 11|transcript]])
 - [13:37](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=817) – So I think it's also a cultural thing. So manners it depends on the culture. But please, thank … ([[Transcript s05e02#Minute 13|transcript]])
 - [15:41](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=941) – Ok, we all know in my opinion, but in my humble opinion is a bit fancier and a … ([[Transcript s05e02#Minute 15|transcript]])

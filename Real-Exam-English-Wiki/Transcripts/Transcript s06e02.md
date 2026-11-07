@@ -5,7 +5,7 @@ tags: [transcript]
 ---
 # Transcript – S06 - 2 Extremes
 
-Episode: [[s06e02 Extremes]] · transcribed automatically, aligned with the official transcript (0 corrections); occasional hearing errors are possible.
+Episode: [[s06e02 Extremes]] · transcribed automatically, aligned with the official transcript (1 corrections); occasional hearing errors are possible.
 Click ▶ to open Spotify at exactly this point.
 
 ### Minute 0
@@ -46,7 +46,7 @@ To praise someone means to tell them they are doing something well. Like the mot
 
 ### Minute 10
 [▶ 10:00](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=600)  
-Yes, massively. I'm super activity friendly. Like whenever I go on holiday with us, I always want to do like the jet skis, like jump out of the plane, bungee jumping. I want to do it all. It's,…I love it. I love it. I'm all about fun in life. Like when I'm in England, in the UK, so I work remotely. So I work from here. I'm actually at my desk now. And like, I don't mind just knuckling down, cracking on with work. But when we go on holiday, I'm like, I want to go on the, I want to go on the quad bikes. I want to go on the, I want to do everything. And lucky enough, my wife is the same. She doesn't mind coming along and doing the things. We took a, we took a scuba diving and like she hated it. She hated it. The instructor had to stay with her the whole time, like underwater. And I loved it, like I'm spinning around. loads of stuff. I love it. I love being out there and doing crazy get those endorphins going. Wow, what a great list of extreme activities. We had jet skis, which are like these motorised vehicles that zoom across the top of the water.
+Yes, massively. I'm super activity friendly. Like whenever I go on holiday with us, I always want to do like the jet skis, like jump out of the plane, bungee jumping. I want to do it all. It's,… I love it. I love it. I'm all about fun in life. Like when I'm in England, in the UK, so I work remotely. So I work from here. I'm actually at my desk now. And like, I don't mind just knuckling down, cracking on with work. But when we go on holiday, I'm like, I want to go on the, I want to go on the quad bikes. I want to go on the, I want to do everything. And lucky enough, my wife is the same. She doesn't mind coming along and doing the things. We took a, we took a scuba diving and like she hated it. She hated it. The instructor had to stay with her the whole time, like underwater. And I loved it, like I'm spinning around. loads of stuff. I love it. I love being out there and doing crazy get those endorphins going. Wow, what a great list of extreme activities. We had jet skis, which are like these motorised vehicles that zoom across the top of the water.
 
 ### Minute 11
 [▶ 11:02](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=662)  
@@ -54,7 +54,7 @@ We had bungee jumping, which is jumping from bridges, attached with a bouncy rop
 
 ### Minute 12
 [▶ 12:05](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=725)  
-For example, let’s crack on with the homework, we need to finish today. What is the most extreme weather you have experienced? I can't believe you asked me that because I'm an extreme weather fan a little bit. So it's a little bit of a pastime of mine. Extreme weather. Wow. There's been a lot of extreme weather. Probably the most recent extreme weather that I have experienced would have been last spring, I was hiking the fisherman trail through Portugal. And we were just plummeted with wind and rain and just torrential downpours and things like that. Had I not been a fan of extreme weather, I don't think I would have enjoyed it as much. Have you ever pushed yourself to an extreme limit? Extreme limit. I wouldn't say extreme, extreme. I mean, I don't you know, I'm not…I'm not hiking, you know, a trail in, you know, to the top of the Himalayas or something like that.
+For example, let’s crack on with the homework, we need to finish today. What is the most extreme weather you have experienced? I can't believe you asked me that because I'm an extreme weather fan a little bit. So it's a little bit of a pastime of mine. Extreme weather. Wow. There's been a lot of extreme weather. Probably the most recent extreme weather that I have experienced would have been last spring, I was hiking the fisherman trail through Portugal. And we were just plummeted with wind and rain and just torrential downpours and things like that. Had I not been a fan of extreme weather, I don't think I would have enjoyed it as much. Have you ever pushed yourself to an extreme limit? Extreme limit. I wouldn't say extreme, extreme. I mean, I don't you know, I'm not… I'm not hiking, you know, a trail in, you know, to the top of the Himalayas or something like that.
 
 ### Minute 13
 [▶ 13:11](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=791)  
@@ -66,7 +66,7 @@ So, we have a 3rd conditional here and the first part of it has been inverted. S
 
 ### Minute 15
 [▶ 15:13](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=913)  
-Really easy to use that one. In terms of vocabulary she said they were plummeted with rain and wind and that they had torrential downpours. So this verb plummeted implies something falling very quickly, like the rain here. Another example of how to use it is, after the scandal, the company’s share price plummeted. Ok, it dropped very quickly. So when the rain is plummeting down you can call it a torrential downpour, useful language these days as extreme weather becomes ever more common. Do you enjoy extreme sports or activities? Not so much anymore. I'm older. I don't want to break nothing. I'm pretty active, as in like, I'll hike, I'll dance, I'll, you know, rock climb, I'll do that kind of stuff, you know. I'm gonna think twice before I repel, but I have repelled. I probably would have been skydiving in my 20s or 30s. Now it's like I got too much to live for.
+Really easy to use that one. In terms of vocabulary she said they were plummeted with rain and wind and that they had torrential downpours. So this verb plummeted implies something falling very quickly, like the rain here. Another example of how to use it is, after the scandal, the company’s share price plummeted. Ok, it dropped very quickly. So when the rain is plummeting down you can call it a torrential downpour, useful language these days as extreme weather becomes ever more common. Do you enjoy extreme sports or activities? Not so much anymore. I'm older. I don't want to break nothing. I'm pretty active, as in like, I'll hike, I'll dance, I'll, you know, rock climb, I'll do that kind of stuff, you know. I'm gonna think twice before I rappel, but I have rappelled. I probably would have been skydiving in my 20s or 30s. Now it's like I got too much to live for.
 
 ### Minute 16
 [▶ 16:14](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=974)  

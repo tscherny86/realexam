@@ -1,6 +1,6 @@
 ---
 type: accents
-episodes: 16
+episodes: 28
 tags: [accents]
 ---
 # Ireland
@@ -19,6 +19,18 @@ vocabulary of its own: *grand* (fine), *craic* (fun, good atmosphere), *yer man*
 
 ## Said in the podcast
 
+> … welcome to Real Exam English. My name is Trevor and I'm from Ireland. So who and what is this podcast for? Well, it's primarily aimed at upper intermediate or advanced English speakers and particularly …
+>
+> — [[s01e01 Introductions|S1 E1]], [Minute 0:15](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=15) · [[Transcript s01e01#Minute 0|in the transcript]]
+
+> … so many different reasons. You know, you know, not for nothing, but Ireland is so beautiful. Like when the sun shines there, it is like some of the most beautiful country like anywhere. I …
+>
+> — [[s01e02 Travel|S1 E2]], [Minute 4:33](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=273) · [[Transcript s01e02#Minute 4|in the transcript]]
+
+> … In the first answer here, we heard some nice adjectives to describe Ireland, beautiful and stunning. And I totally agree, by the way. Go to Ireland. It's amazing. And it's really essential to have …
+>
+> — [[s01e02 Travel|S1 E2]], [Minute 6:15](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=375) · [[Transcript s01e02#Minute 6|in the transcript]]
+
 > … would consider to be very typical British dishes and the same in Ireland, where this speaker Mary lives. So she mentioned curries, chilies, stir fries, pasta. Uh, what else did she have? She had …
 >
 > — [[s01e03 Food|S1 E3]], [Minute 2:48](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=168) · [[Transcript s01e03#Minute 2|in the transcript]]
@@ -35,7 +47,7 @@ vocabulary of its own: *grand* (fine), *craic* (fun, good atmosphere), *yer man*
 >
 > — [[s01e04 Sport and exercise|S1 E4]], [Minute 3:00](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=180) · [[Transcript s01e04#Minute 3|in the transcript]]
 
-> … way to introduce an explanation. Trevor: Who is your favourite sports personality? Emma(Ireland): Hmm, that´s a difficult question. I don´t know. I´m going to say Jackie Charlton because he´s just the first person that …
+> … way to introduce an explanation. Trevor: Who is your favourite sports personality? Emma(Ireland): Hmm, that’s a difficult question. I don’t know. I’m going to say Jackie Charlton because he’s just the first person that …
 >
 > — [[s01e04 Sport and exercise|S1 E4]], [Minute 9:54](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=594) · [[Transcript s01e04#Minute 9|in the transcript]]
 
@@ -55,15 +67,19 @@ vocabulary of its own: *grand* (fine), *craic* (fun, good atmosphere), *yer man*
 >
 > — [[s01e08 The Environment|S1 E8]], [Minute 1:07](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=67) · [[Transcript s01e08#Minute 1|in the transcript]]
 
-> … Do you think it´s important for parents to read to their children? Emma(Ireland): Absolutely, 100%. They’re like sponges. The vocabulary that they are exposed to in books is crucial to their development so yes …
+> … Do you think it’s important for parents to read to their children? Emma(Ireland): Absolutely, 100%. They’re like sponges. The vocabulary that they are exposed to in books is crucial to their development so yes …
 >
 > — [[s01e09 Books|S1 E9]], [Minute 4:27](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=267) · [[Transcript s01e09#Minute 4|in the transcript]]
 
-> … important with one of these other words. Trevor: Do you like reading? Diarmuid(Ireland): I do, but I don´t read as much as I should. I generally read factual historical books and I don’t read …
+> … substituting important with one of these other words. Do you like reading? Diarmuid(Ireland): I do, but I don’t read as much as I should. I generally read factual historical books and I don’t read …
 >
 > — [[s01e09 Books|S1 E9]], [Minute 7:34](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=454) · [[Transcript s01e09#Minute 7|in the transcript]]
 
-> … between US, Australian and British English and we also have speakers from Ireland and South Africa so lots of accent practice for you as usual. In addition, we have a dialogue so you´ll hear …
+> … and one from the north of England. We also have one from Ireland. So a super mix of accents for you to practice listening to. OK, then let's go with the questions. What kind …
+>
+> — [[s01e10 TV|S1 E10]], [Minute 0:43](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=43) · [[Transcript s01e10#Minute 0|in the transcript]]
+
+> … between US, Australian and British English and we also have speakers from Ireland and South Africa so lots of accent practice for you as usual. In addition, we have a dialogue so you’ll hear …
 >
 > — [[s02e04 Shopping|S2 E4]], [Minute 0:36](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=36) · [[Transcript s02e04#Minute 0|in the transcript]]
 
@@ -71,15 +87,27 @@ vocabulary of its own: *grand* (fine), *craic* (fun, good atmosphere), *yer man*
 >
 > — [[s02e04 Shopping|S2 E4]], [Minute 3:17](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=197) · [[Transcript s02e04#Minute 3|in the transcript]]
 
-> … I´d rather drink tea than coffee or I´d prefer to go to Ireland than to England. So make sure you get plenty of practice with this type of language, particularly with prefer and rather, …
+> … I’d rather drink tea than coffee or I’d prefer to go to Ireland than to England. So make sure you get plenty of practice with this type of language, particularly with prefer and rather, …
 >
 > — [[s02e04 Shopping|S2 E4]], [Minute 13:30](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=810) · [[Transcript s02e04#Minute 13|in the transcript]]
 
-> … Scotland. You will hear speakers from England, the USA, Australia, Scotland and Ireland so a wide variety of accents for you, as usual. And not only will listening to this podcast improve your listening, …
+> … friends too. So today we have people from the USA, Australia, Scotland, Ireland and England speaking about their buddies, their pals, their mates. We will hear some great vocabulary relating to friendships and we …
+>
+> — [[s02e06 Friends|S2 E6]], [Minute 0:24](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=24) · [[Transcript s02e06#Minute 0|in the transcript]]
+
+> … midlands of England, the North of England, and London, and myself from Ireland. So you’re going to get loads of exposure to different accents, which is exactly what you need when preparing for an …
+>
+> — [[s02e07 Free time|S2 E7]], [Minute 0:45](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=45) · [[Transcript s02e07#Minute 0|in the transcript]]
+
+> … answer them. We have speakers from the USA, England, Scotland, Australia and Ireland today so it’s super to get these different perspectives from around the globe. Ok then, let’s go with the questions. How …
+>
+> — [[s02e09 Communications|S2 E9]], [Minute 0:45](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=45) · [[Transcript s02e09#Minute 0|in the transcript]]
+
+> … Scotland. You will hear speakers from England, the USA, Australia, Scotland and Ireland so a wide variety of accents for you, as usual. So you can improve all of your skills by listening here …
 >
 > — [[s02e10 Family|S2 E10]], [Minute 1:01](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=61) · [[Transcript s02e10#Minute 1|in the transcript]]
 
-> … it means having really good fun. You can hear this expression in Ireland too but I think outside of those two countries it´s not too common. Then we heard THE most typical Scottish word …
+> … it means having really good fun. You can hear this expression in Ireland too but I think outside of those two countries it’s not too common. Then we heard THE most typical Scottish word …
 >
 > — [[s02e10 Family|S2 E10]], [Minute 13:04](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=784) · [[Transcript s02e10#Minute 13|in the transcript]]
 
@@ -87,25 +115,41 @@ vocabulary of its own: *grand* (fine), *craic* (fun, good atmosphere), *yer man*
 >
 > — [[s02e10 Family|S2 E10]], [Minute 16:16](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=976) · [[Transcript s02e10#Minute 16|in the transcript]]
 
-> … and really cool expressions. In terms of accents we have US, English, Irish, Australian and New Zealand so superb listening practice for your advanced English exams! Right then, let´s go with the questions: Describe …
+> … and really cool expressions. In terms of accents we have US, English, Irish, Australian and New Zealand so superb listening practice for your advanced English exams! Right then, let’s go with the questions: Describe …
 >
 > — [[s03e01 Humour|S3 E1]], [Minute 1:33](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=93) · [[Transcript s03e01#Minute 1|in the transcript]]
 
-> … joking with them. This is very typical in the UK, or in Ireland, where I am from. What´s funny with this kind of humour is that American’s don’t use it as much and very …
+> … joking with them. This is very typical in the UK, or in Ireland, where I am from. What’s funny with this kind of humour is that Americans don’t use it as much and very often don’t understand …
 >
 > — [[s03e01 Humour|S3 E1]], [Minute 3:32](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=212) · [[Transcript s03e01#Minute 3|in the transcript]]
 
-> … Haha, I can totally relate to this speaker, it’s quite similar in Ireland, if you’re friends aren’t taking the piss out of you, or making jokes at your expense then something isn´t right. The …
+> … Haha, I can totally relate to this speaker, it’s quite similar in Ireland, if your friends aren’t taking the piss out of you, or making jokes at your expense then something isn’t right. The best of friends tend …
 >
 > — [[s03e01 Humour|S3 E1]], [Minute 7:43](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=463) · [[Transcript s03e01#Minute 7|in the transcript]]
 
-> … episode is about crime. We have speakers from the US, the UK, Ireland, Australia and from Spain, all answering questions about their countries and what crimes are committed there. It´s amazing how different it …
+> … another really common topic in English exams. We have speakers from England, Ireland, Australia, New Zealand and the United States, all answering questions about learning. You will hear loads of useful expressions and idioms, …
+>
+> — [[s03e05 Learning|S3 E5]], [Minute 0:22](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=22) · [[Transcript s03e05#Minute 0|in the transcript]]
+
+> … wildlife and all things animal, and of course you have me, from Ireland, picking out the best bits. And today those best bits include different ways to express habits, you will hear some super …
+>
+> — [[s03e07 Animals|S3 E7]], [Minute 0:26](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=26) · [[Transcript s03e07#Minute 0|in the transcript]]
+
+> … other time was I did a bit of glamping at festivals in Ireland. Uh, actually this summer I did a couple of festivals, but we actually had tents that were already made-up for us …
+>
+> — [[x2023-01-27 Short and Sweet - Camping|Bonus]], [Minute 1:26](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=86) · [[Transcript x2023-01-27#Minute 1|in the transcript]]
+
+> … episode is about crime. We have speakers from the US, the UK, Ireland, Australia and from Spain, all answering questions about their countries and what crimes are committed there. Is your country a safe …
 >
 > — [[s04e01 Crime|S4 E1]], [Minute 0:19](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=19) · [[Transcript s04e01#Minute 0|in the transcript]]
 
-> … if at all possible. This speaker said that her country, which is Ireland by the way, is predominantly a safe country. This adverb predominantly is nice isn´t it, it´s like a fancier way of …
+> … if at all possible. This speaker said that her country, which is Ireland by the way, is predominantly a safe country. This adverb predominantly is nice isn’t it, it’s like a fancier way of …
 >
 > — [[s04e01 Crime|S4 E1]], [Minute 11:54](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=714) · [[Transcript s04e01#Minute 11|in the transcript]]
+
+> … do you have of your first foreign language lessons? Oh awful. In Ireland the way they teach foreign languages is not, uhm, conducive to really learning the language. So in school, uh, you would …
+>
+> — [[s04e02 Languages|S4 E2]], [Minute 15:39](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=939) · [[Transcript s04e02#Minute 15|in the transcript]]
 
 > … kitchen because it gets a lot of sunlight and I live in Ireland, so sun, sun isn't plentiful all year round and I have a really comfortable chair that sits right inside the window …
 >
@@ -119,7 +163,7 @@ vocabulary of its own: *grand* (fine), *craic* (fun, good atmosphere), *yer man*
 >
 > — [[s04e03 Home|S4 E3]], [Minute 10:54](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=654) · [[Transcript s04e03#Minute 10|in the transcript]]
 
-> … you pardon the pun. Today we have speakers from the US, Australia, Ireland and three different speakers from the UK. So we have a nice variety of types of weather, you´re gonna hear loads …
+> … you pardon the pun. Today we have speakers from the US, Australia, Ireland and three different speakers from the UK. So we have a nice variety of types of weather, you’re gonna hear loads …
 >
 > — [[s04e04 Weather|S4 E4]], [Minute 0:55](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=55) · [[Transcript s04e04#Minute 0|in the transcript]]
 
@@ -131,15 +175,11 @@ vocabulary of its own: *grand* (fine), *craic* (fun, good atmosphere), *yer man*
 >
 > — [[s04e06 Transport|S4 E6]], [Minute 5:37](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=337) · [[Transcript s04e06#Minute 5|in the transcript]]
 
-> … say schedule and in the US schedule, schedule. This speaker is from Ireland and says schedule, however I´m from Ireland and say schedule. To make it even weirder she is actually my sister so …
+> … say schedule and in the US schedule, schedule. This speaker is from Ireland and says schedule, however I’m from Ireland and say schedule. To make it even weirder she is actually my sister so …
 >
 > — [[s04e06 Transport|S4 E6]], [Minute 7:12](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=432) · [[Transcript s04e06#Minute 7|in the transcript]]
 
-> … a few different accents from the UK, also the US, Australia and Ireland and remember you can access the transcripts for the podcast over on the website realexamenglish.com. As well as copies of everything …
->
-> — [[s04e08 Holidays|S4 E8]], [Minute 0:35](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=35) · [[Transcript s04e08#Minute 0|in the transcript]]
-
-> … there is no connection whatsoever between the number of tourists that visit Ireland and the weather, it´s just not a factor. Do you think your hometown is a good place for a holiday? I …
+> … there is no connection whatsoever between the number of tourists that visit Ireland and the weather, it’s just not a factor. Do you think your hometown is a good place for a holiday? I …
 >
 > — [[s04e08 Holidays|S4 E8]], [Minute 11:36](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=696) · [[Transcript s04e08#Minute 11|in the transcript]]
 
@@ -163,9 +203,9 @@ vocabulary of its own: *grand* (fine), *craic* (fun, good atmosphere), *yer man*
 >
 > — [[s05e02 Manners|S5 E2]], [Minute 21:33](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1293) · [[Transcript s05e02#Minute 21|in the transcript]]
 
-> … exam English website, realexamenglish.com Ok, let’s kick off with a speaker from Ireland. What negative effects has the Internet had on our social lives? There are many negative effects from the Internet. People spend …
+> … we have a super mix of accents, Australian, Canadian, Welsh, English and Irish. And there really is a lot of nice vocabulary and useful idioms and expressions in this episode. So, without further ado, …
 >
-> — [[s05e08 Internet|S5 E8]], [Minute 0:57](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=57) · [[Transcript s05e08#Minute 0|in the transcript]]
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 0:34](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=34) · [[Transcript s05e05#Minute 0|in the transcript]]
 
 > … and neighbours. Having said that, this is changing a little bit in Ireland and many of the younger generations prefer to meet up in coffee shops rather than the pub, times, they are a-changing. …
 >
@@ -175,7 +215,7 @@ vocabulary of its own: *grand* (fine), *craic* (fun, good atmosphere), *yer man*
 >
 > — [[s05e08 Internet|S5 E8]], [Minute 15:46](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=946) · [[Transcript s05e08#Minute 15|in the transcript]]
 
-> … and Wales, so lots of different accents for you, and me from Ireland too! Remember if you can’t follow all of the accents and would like to see in print form what they are …
+> … and Wales, so lots of different accents for you, and me from Ireland too! Well, I think we will probably eventually be dead if we don't do something about it. So that's a pretty …
 >
 > — [[s05e09 Climate Change|S5 E9]], [Minute 0:46](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=46) · [[Transcript s05e09#Minute 0|in the transcript]]
 
@@ -199,11 +239,11 @@ vocabulary of its own: *grand* (fine), *craic* (fun, good atmosphere), *yer man*
 >
 > — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 6:10](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=370) · [[Transcript x2025-11-21#Minute 6|in the transcript]]
 
-> … what's the biggest challenge with learning English? You mentioned phrasal verbs in Ireland earlier. Any other big challenges? Oh, I… to be honest, I don't know. I'm trying…..on the top of my head, being …
+> … what's the biggest challenge with learning English? You mentioned phrasal verbs in Ireland earlier. Any other big challenges? On the top of my head, being able, being fluent, being able to speak fluently. I …
 >
 > — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 10:24](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=624) · [[Transcript x2025-11-21#Minute 10|in the transcript]]
 
-> … the US today, a couple from the UK and a couple from Ireland too, so lots of different accents for you to practice listening to. For transcripts of the episode, go to realexamenglish.com or …
+> … the US today, a couple from the UK and a couple from Ireland too, so lots of different accents for you to practice listening to. Here we go with the first question: What was …
 >
 > — [[s06e01 News|S6 E1]], [Minute 0:49](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=49) · [[Transcript s06e01#Minute 0|in the transcript]]
 
@@ -219,7 +259,7 @@ vocabulary of its own: *grand* (fine), *craic* (fun, good atmosphere), *yer man*
 >
 > — [[s06e01 News|S6 E1]], [Minute 19:24](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=1164) · [[Transcript s06e01#Minute 19|in the transcript]]
 
-> … of speakers today, from snowstorms in Boston, to helping pregnant woman in Ireland to doing a dance marathon in New York. As usual if you would like the transcripts for this and all episodes …
+> … of speakers today, from snowstorms in Boston, to helping pregnant woman in Ireland to doing a dance marathon in New York. Blizzard of 1978 in the Boston area where it just dumped snow. We …
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 0:48](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=48) · [[Transcript s06e02#Minute 0|in the transcript]]
 
@@ -255,33 +295,49 @@ vocabulary of its own: *grand* (fine), *craic* (fun, good atmosphere), *yer man*
 >
 > — [[s06e09 Children|S6 E9]], [Minute 18:07](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1087) · [[Transcript s06e09#Minute 18|in the transcript]]
 
-## In these episodes (16)
+> … speakers from different parts of the USA and the UK, also from Ireland. Alone. I am a very, my kindergarten report card said Annie is a good little decision maker who knows where she's …
+>
+> — [[s06e10 Decisions|S6 E10]], [Minute 0:32](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=32) · [[Transcript s06e10#Minute 0|in the transcript]]
 
+## In these episodes (28)
+
+- [[s01e01 Introductions|S1 E1 – Introductions]] (2020-08-30) — Show notes · Minute [0:15](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=15)
 - [[s01e03 Food|S1 E3 – Food]] (2020-08-30) — Minute [2:48](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=168), [10:21](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=621), [12:11](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=731)
-- [[s01e04 Sport and exercise|S1 E4 – Sport and exercise]] (2020-08-30) — Minute [3:00](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=180), [9:54](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=594), [11:58](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=718)
-- [[s01e09 Books|S1 E9 – Books]] (2020-10-02) — Minute [4:27](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=267), [7:34](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=454)
+- [[s01e08 The Environment|S1 E8 – The Environment]] (2020-09-25) — Show notes · Minute [1:07](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=67)
+- [[s01e10 TV|S1 E10 – TV]] (2020-10-05) — Show notes · Minute [0:43](https://open.spotify.com/episode/3lUll9Vtdu3ZRHK5DmSbRZ?t=43)
 - [[s02e04 Shopping|S2 E4 – Shopping]] (2021-02-12) — Show notes · Minute [0:36](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=36), [3:17](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=197), [13:30](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=810)
+- [[s02e06 Friends|S2 E6 – Friends]] (2021-03-06) — Show notes · Minute [0:24](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=24)
+- [[s02e07 Free time|S2 E7 – Free time]] (2021-03-12) — Show notes · Minute [0:45](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=45)
+- [[s02e09 Communications|S2 E9 – Communications]] (2021-03-26) — Show notes · Minute [0:45](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=45)
 - [[s02e10 Family|S2 E10 – Family]] (2021-04-07) — Show notes · Minute [1:01](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=61), [13:04](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=784), [16:16](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=976)
 - [[s03e01 Humour|S3 E1 – Humour]] (2021-08-23) — Show notes · Minute [1:33](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=93), [3:32](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=212), [7:43](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=463)
-- [[s04e03 Home|S4 E3 – Home]] (2023-06-01) — Minute [0:48](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=48), [3:00](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=180), [10:54](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=654)
+- [[s03e05 Learning|S3 E5 – Learning]] (2021-12-11) — Show notes · Minute [0:22](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=22)
+- [[s03e07 Animals|S3 E7 – Animals]] (2022-02-15) — Show notes · Minute [0:26](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=26)
+- [[x2023-01-27 Short and Sweet - Camping|Bonus – Short and Sweet - Camping]] (2023-01-27) — Show notes · Minute [1:26](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=86)
+- [[s04e01 Crime|S4 E1 – Crime]] (2023-03-24) — Show notes · Minute [0:19](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=19), [11:54](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=714)
+- [[s04e02 Languages|S4 E2 – Languages]] (2023-04-29) — Show notes · Minute [15:39](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=939)
+- [[s04e03 Home|S4 E3 – Home]] (2023-06-01) — Show notes · Minute [0:48](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=48), [3:00](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=180), [10:54](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=654)
 - [[s04e04 Weather|S4 E4 – Weather]] (2023-07-12) — Show notes · Minute [0:55](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=55), [13:05](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=785)
-- [[s04e06 Transport|S4 E6 – Transport]] (2023-10-19) — Minute [5:37](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=337), [7:12](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=432)
+- [[s04e08 Holidays|S4 E8 – Holidays]] (2023-12-21) — Show notes · Minute [11:36](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=696)
+- [[s04e09 History|S4 E9 – History]] (2024-01-19) — Show notes · Minute [0:25](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=25), [11:59](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=719)
 - [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Show notes · Minute [0:32](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=32), [19:48](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1188), [21:33](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1293)
-- [[s05e08 Internet|S5 E8 – Internet]] (2025-06-17) — Minute [0:57](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=57), [2:39](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=159), [15:46](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=946)
+- [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Show notes · Minute [0:34](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=34)
+- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Show notes · Minute [0:46](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=46), [14:55](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=895)
 - [[x2025-09-22 Monologue - Tourism|Bonus – Monologue - Tourism]] (2025-09-22) — Minute [3:41](https://open.spotify.com/episode/68nqAB1GPAn6ltd20VCmKH?t=221)
 - [[x2025-11-21 Helena - Barcelona|Bonus – Helena - Barcelona]] (2025-11-21) — Minute [2:07](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=127), [4:14](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=254), [6:10](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=370), [10:24](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=624)
 - [[s06e01 News|S6 E1 – News]] (2026-01-24) — Show notes · Minute [0:49](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=49), [4:29](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=269), [6:06](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=366), [19:24](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=1164)
 - [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Show notes · Minute [0:48](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=48), [4:25](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=265), [6:45](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=405)
 - [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Show notes · Minute [0:43](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=43), [13:04](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=784)
+- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Show notes · Minute [0:32](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=32)
 
 ## Briefly mentioned (8)
 
+- [[s01e02 Travel|S1 E2 – Travel]] (2020-08-30) — Minute [4:33](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=273), [6:15](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=375)
+- [[s01e04 Sport and exercise|S1 E4 – Sport and exercise]] (2020-08-30) — Minute [3:00](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=180), [9:54](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=594), [11:58](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=718)
 - [[s01e05 Phrasal Verbs|S1 E5 – Phrasal Verbs]] (2020-09-04) — Minute [13:57](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=837), [15:36](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=936)
-- [[s01e08 The Environment|S1 E8 – The Environment]] (2020-09-25) — Minute [1:07](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=67)
-- [[s04e01 Crime|S4 E1 – Crime]] (2023-03-24) — Minute [0:19](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=19), [11:54](https://open.spotify.com/episode/6rrGnl8dC5pbtXa5jNOnHM?t=714)
-- [[s04e08 Holidays|S4 E8 – Holidays]] (2023-12-21) — Minute [0:35](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=35), [11:36](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=696)
-- [[s04e09 History|S4 E9 – History]] (2024-01-19) — Minute [0:25](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=25), [11:59](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=719)
-- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Minute [0:46](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=46), [14:55](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=895)
+- [[s01e09 Books|S1 E9 – Books]] (2020-10-02) — Minute [4:27](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=267), [7:34](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=454)
+- [[s04e06 Transport|S4 E6 – Transport]] (2023-10-19) — Minute [5:37](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=337), [7:12](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=432)
+- [[s05e08 Internet|S5 E8 – Internet]] (2025-06-17) — Minute [2:39](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=159), [15:46](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=946)
 - [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [10:28](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=628), [21:22](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1282)
 - [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [14:58](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=898), [18:07](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1087)
 

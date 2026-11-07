@@ -21,9 +21,9 @@ tags: [episode, season-1]
 | **Transcript** | [[Transcript s01e08]] (word-level timestamps, fully proofread) |
 | **Topics** | [[The Environment & Climate Change]] |
 | **Language** | [[Inversion]], [[Adjectives & Compound Adjectives]] |
-| **Exams** | [[Cambridge C1 Advanced (CAE)]], [[Speaking Exam]] |
-| **Accents** | [[England]], [[USA]] |
-| **Briefly mentioned** | [[Books & Reading]], [[TV, Film & Entertainment]], [[Shopping & Consumerism]], [[Photography & Photos]], [[Money & Finance]], [[Learning, School & Education]], [[Change & Life Changes]], [[Transport & Traffic]], [[Priorities & Decisions]], [[Phrasal Verbs]], [[Idioms & Expressions]], [[Past Perfect & Narrative Tenses]], [[Modal Verbs]], [[Pronunciation]], [[Exam Tips & Preparation]], [[Ireland]] |
+| **Exams** | – |
+| **Accents** | [[Ireland]], [[England]] |
+| **Briefly mentioned** | [[TV, Film & Entertainment]], [[Money & Finance]], [[Learning, School & Education]], [[Transport & Traffic]], [[Priorities & Decisions]], [[Phrasal Verbs]], [[Idioms & Expressions]], [[Pronunciation]], [[British vs American English]], [[Cambridge C1 Advanced (CAE)]], [[USA]] |
 
 ## Show notes
 

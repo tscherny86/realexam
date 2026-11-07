@@ -19,11 +19,11 @@ tags: [episode, season-0]
 | **Duration** | 11:54 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/4A4thQQDgZ1KpSBMd8qsZN) · [MP3](https://www.buzzsprout.com/1107956/episodes/11501665-happiness.mp3) |
 | **Transcript** | [[Transcript x2022-10-14]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Music]], [[Learning, School & Education]], [[Happiness]] |
-| **Language** | [[Idioms & Expressions]] |
+| **Topics** | [[Learning, School & Education]], [[Happiness]] |
+| **Language** | – |
 | **Exams** | – |
-| **Accents** | – |
-| **Briefly mentioned** | [[Adjectives & Compound Adjectives]], [[Prepositions]], [[Australia]] |
+| **Accents** | [[England]], [[USA]], [[Australia]], [[New Zealand]] |
+| **Briefly mentioned** | [[Idioms & Expressions]], [[Adjectives & Compound Adjectives]] |
 
 ## Show notes
 

@@ -24,7 +24,7 @@ Fashion lets examiners test descriptive vocabulary and opinions on consumer cult
 >
 > — [[s02e01 Celebrations|S2 E1]], [Minute 6:01](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=361) · [[Transcript s02e01#Minute 6|in the transcript]]
 
-> … or speak about technology too. Have you ever been to a fancy dress party? Well, you know, yes. As far as costume parties, Halloween you know is one time of the year where .You …
+> … information there about online classes. Have you ever been to a fancy dress party? Well, you know, yes. As far as costume parties, Halloween you know is one time of the year where .You …
 >
 > — [[s02e01 Celebrations|S2 E1]], [Minute 8:16](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=496) · [[Transcript s02e01#Minute 8|in the transcript]]
 
@@ -48,11 +48,11 @@ Fashion lets examiners test descriptive vocabulary and opinions on consumer cult
 >
 > — [[s02e04 Shopping|S2 E4]], [Minute 8:30](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=510) · [[Transcript s02e04#Minute 8|in the transcript]]
 
-> … say. So the speaker said I don´t think like say….buying a new outfit. We actually hear our next speaker too using say in the exact same way, you´ll notice that there´s normally a little …
+> … say. So the speaker said I don’t think like say….buying a new outfit. We actually hear our next speaker too using say in the exact same way, you’ll notice that there’s normally a little …
 >
 > — [[s02e04 Shopping|S2 E4]], [Minute 10:44](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=644) · [[Transcript s02e04#Minute 10|in the transcript]]
 
-> … waste time playing computer games, some people can´t stop spending money on clothes, or maybe new gadgets, the list is endless. So if you have to speak, or write, about any of these things …
+> … waste time playing computer games, some people can’t stop spending money on clothes, or maybe new gadgets, the list is endless. So if you have to speak, or write, about any of these things …
 >
 > — [[x2021-06-20 Phrasal Verbs for Writing|Bonus]], [Minute 6:06](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=366) · [[Transcript x2021-06-20#Minute 6|in the transcript]]
 
@@ -60,11 +60,11 @@ Fashion lets examiners test descriptive vocabulary and opinions on consumer cult
 >
 > — [[x2021-06-20 Phrasal Verbs for Writing|Bonus]], [Minute 8:24](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=504) · [[Transcript x2021-06-20#Minute 8|in the transcript]]
 
-> … finding it difficult to come up with a new name for it´s brand of toilet paper. Phrasal verb number nine is to put off, meaning to postpone. This is another one that appears in …
+> … the company is finding it difficult to come up with a new name for its brand of toilet paper. Phrasal verb number nine is to put off, meaning to postpone. This is another one that appears in …
 >
-> — [[x2021-06-20 Phrasal Verbs for Writing|Bonus]], [Minute 11:12](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=672) · [[Transcript x2021-06-20#Minute 11|in the transcript]]
+> — [[x2021-06-20 Phrasal Verbs for Writing|Bonus]], [Minute 11:11](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=671) · [[Transcript x2021-06-20#Minute 11|in the transcript]]
 
-> Hello and welcome to Real Exam English. Today’s topic is fashion. I must confess it´s not my area of expertise, but it is quite a common topic in English exams. As well …
+> Hello and welcome to Real Exam English. Today’s topic is fashion. I must confess it’s not my area of expertise, but it is quite a common topic in English exams. As well …
 >
 > — [[s03e06 Fashion|S3 E6]], [Minute 0:14](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU?t=14) · [[Transcript s03e06#Minute 0|in the transcript]]
 
@@ -76,7 +76,7 @@ Fashion lets examiners test descriptive vocabulary and opinions on consumer cult
 >
 > — [[s03e06 Fashion|S3 E6]], [Minute 3:37](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU?t=217) · [[Transcript s03e06#Minute 3|in the transcript]]
 
-> … like I think formal occasions.Uhm, I find it quite stressful finding acceptable clothes or ratherClothes that other people would consider acceptable. And I also think are acceptableI'm not scruffy, but.I'm also not that smart.Fashion-wise. …
+> … like I think formal occasions.Uhm, I find it quite stressful finding acceptable clothes or rather clothes that other people would consider acceptable. And I also think are acceptable I'm not scruffy, but.I'm also not that smart.Fashion-wise. …
 >
 > — [[s03e06 Fashion|S3 E6]], [Minute 5:17](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU?t=317) · [[Transcript s03e06#Minute 5|in the transcript]]
 
@@ -97,7 +97,7 @@ Fashion lets examiners test descriptive vocabulary and opinions on consumer cult
 
 - [[s02e01 Celebrations|S2 E1 – Celebrations]] (2021-01-21) — Minute [6:01](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=361), [8:16](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=496), [9:56](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=596)
 - [[s02e03 Global Issues|S2 E3 – Global Issues]] (2021-02-05) — Minute [6:27](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=387)
-- [[x2021-06-20 Phrasal Verbs for Writing|Bonus – Phrasal Verbs for Writing]] (2021-06-20) — Minute [6:06](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=366), [8:24](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=504), [11:12](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=672)
+- [[x2021-06-20 Phrasal Verbs for Writing|Bonus – Phrasal Verbs for Writing]] (2021-06-20) — Minute [6:06](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=366), [8:24](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=504), [11:11](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=671)
 - [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Minute [11:45](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=705), [14:47](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=887)
 
 ---

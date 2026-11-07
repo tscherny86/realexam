@@ -5,7 +5,7 @@ tags: [transcript]
 ---
 # Transcript – S06 - 9 Children
 
-Episode: [[s06e09 Children]] · transcribed automatically, aligned with the official transcript (0 corrections); occasional hearing errors are possible.
+Episode: [[s06e09 Children]] · transcribed automatically, aligned with the official transcript (3 corrections); occasional hearing errors are possible.
 Click ▶ to open Spotify at exactly this point.
 
 ### Minute 0
@@ -18,7 +18,7 @@ So I feel like the hobbies haven't really changed all that much, it's just they'
 
 ### Minute 2
 [▶ 2:31](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=151)  
-And this is where I learned part of my personality was through my siblings, through my sisters and my brothers. But it was very different because I had one sister who was close in age to me and all of my other brothers and sisters. were much, much older than me, so they weren't really interested in me when I was a child. It was only when I was older that they showed a bit more interest. And so for shaping and influencing a child's personality, I can only talk about how I was with my closest sister. Alright, in the first answer she said hobbies haven’t really changed all that much, meaning they have stayed mostly the same. This expression all that much is usually used negatively and has some common collocations, such as with change, like in our example they haven’t changed all that much, also with help, as in this medication doesn’t help all that much, or with differ, like the new car doesn’t differ all the much from the old one.
+And this is where I learned part of my personality was through my siblings, through my sisters and my brothers. But it was very different because I had one sister who was close in age to me and all of my other brothers and sisters. were much, much older than me, so they weren't really interested in me when I was a child. It was only when I was older that they showed a bit more interest. And so for shaping and influencing a child's personality, I can only talk about how I was with my closest sister. Alright, in the first answer she said hobbies haven’t really changed all that much, meaning they have stayed mostly the same. This expression all that much is usually used negatively and has some common collocations, such as with change, like in our example they haven’t changed all that much, also with help, as in this medication doesn’t help all that much, or with differ, like the new car doesn’t differ all that much from the old one.
 
 ### Minute 3
 [▶ 3:42](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=222)  
@@ -78,7 +78,7 @@ But it has to be a good village, a safe one. And those are hard to find. But onc
 
 ### Minute 18
 [▶ 18:31](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1111)  
-To speak your mind then is similar but is more about someone who stands up for themselves, let’s people know what they are thinking. I liked her used of repetition after that, she said it’s okay not to be okay, and it’s okay to be different, and it’s okay to be creative and fail. It’s like the anaphora we spoke about in the last episode, repeating the beginning of a clause in order to sound more emphatic. In the second answer then she had some essential vocabulary for talking about very young kids. Firstly, there was toilet trained, which as the name suggests, is when a child is able to go to the toilet themselves, without having to wear a nappy or a diaper. Nappy is British English by the way, and diaper American English. Then she spoke about co-sleeping, which is where the baby sleeps beside the parents, often in the same bed. After that, she mentioned breastfeeding, and the adjective breastfed. And lastly, she said she believes in the village. This comes from the proverb; it takes a village to raise a child. So, the village is the supportive community who help the parents to raise a child, that’s family, friends, neighbours, teachers and anyone else who helps out.
+To speak your mind then is similar but is more about someone who stands up for themselves, lets people know what they are thinking. I liked her use of repetition after that, she said it’s okay not to be okay, and it’s okay to be different, and it’s okay to be creative and fail. It’s like the anaphora we spoke about in the last episode, repeating the beginning of a clause in order to sound more emphatic. In the second answer then she had some essential vocabulary for talking about very young kids. Firstly, there was toilet trained, which as the name suggests, is when a child is able to go to the toilet themselves, without having to wear a nappy or a diaper. Nappy is British English by the way, and diaper American English. Then she spoke about co-sleeping, which is where the baby sleeps beside the parents, often in the same bed. After that, she mentioned breastfeeding, and the adjective breastfed. And lastly, she said she believes in the village. This comes from the proverb; it takes a village to raise a child. So, the village is the supportive community who help the parents to raise a child, that’s family, friends, neighbours, teachers and anyone else who helps out.
 
 ### Minute 19
 [▶ 19:40](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1180)  

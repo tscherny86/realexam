@@ -19,11 +19,11 @@ tags: [episode, season-6]
 | **Duration** | 19:18 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn) · [MP3](https://www.buzzsprout.com/1107956/episodes/19195278-s06-5-luck.mp3) |
 | **Transcript** | [[Transcript s06e05]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Work & Careers]], [[Family & Relationships]], [[Parenting & Children]], [[Luck & Chance]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Reported Speech]], [[Emphasis & Auxiliaries]] |
+| **Topics** | [[Work & Careers]], [[Family & Relationships]], [[Luck & Chance]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Inversion]], [[Emphasis & Auxiliaries]] |
 | **Exams** | – |
 | **Accents** | – |
-| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Shopping & Consumerism]], [[Health & Wellbeing]], [[Friends & Friendship]], [[Money & Finance]], [[Learning, School & Education]], [[Change & Life Changes]], [[Languages & Language Learning]], [[Help & Kindness]], [[Conditionals]] |
+| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Health & Wellbeing]], [[Friends & Friendship]], [[Learning, School & Education]], [[Change & Life Changes]], [[Languages & Language Learning]], [[Help & Kindness]] |
 
 ## Show notes
 

@@ -19,11 +19,11 @@ tags: [episode, season-1]
 | **Duration** | 13:25 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho) · [MP3](https://www.buzzsprout.com/1107956/episodes/5706010-s01-9-books.mp3) |
 | **Transcript** | [[Transcript s01e09]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Books & Reading]] |
-| **Language** | [[Question Tags]] |
-| **Exams** | [[Speaking Exam]] |
-| **Accents** | [[Ireland]], [[Non-Native Speakers]] |
-| **Briefly mentioned** | [[TV, Film & Entertainment]], [[Family & Relationships]], [[Anger & Emotions]], [[Parenting & Children]], [[Extremes & Adventure]], [[Idioms & Expressions]], [[Connectors & Linking Words]] |
+| **Topics** | [[Books & Reading]], [[TV, Film & Entertainment]] |
+| **Language** | [[Idioms & Expressions]], [[Question Tags]], [[Pronunciation]] |
+| **Exams** | – |
+| **Accents** | [[England]] |
+| **Briefly mentioned** | [[Family & Relationships]], [[Parenting & Children]], [[Adverbs]], [[Ireland]] |
 
 ## Show notes
 
@@ -35,13 +35,13 @@ This episode also speaks about question tags, pronouncing French-origin words in
 
 ## Chapters
 
-- [0:07](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=7) – Hello and welcome to Real Exam English, my name is Trevor. Today we are talking about books. It´s … ([[Transcript s01e09#Minute 0|transcript]])
+- [0:07](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=7) – Hello and welcome to Real Exam English, my name is Trevor. Today we are talking about books. It’s … ([[Transcript s01e09#Minute 0|transcript]])
 - [2:12](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=132) – And that's a fantastic word to have for your speaking test, or perhaps even if you're writing a … ([[Transcript s01e09#Minute 2|transcript]])
-- [4:30](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=270) – Emma(Ireland): Absolutely, 100%. They’re like sponges. The vocabulary that they are exposed to in books is crucial to … ([[Transcript s01e09#Minute 4|transcript]])
-- [6:37](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=397) – For that reason, it is essential to have a few different ways to say important, so you can … ([[Transcript s01e09#Minute 6|transcript]])
-- [8:39](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=519) – We had an excellent idiom here in the last answer, swings and roundabouts. So we had an excellent … ([[Transcript s01e09#Minute 8|transcript]])
-- [10:48](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=648) – Trevor: We had a couple of question tags in these answers. The first one was I think it´s … ([[Transcript s01e09#Minute 10|transcript]])
-- [12:53](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=773) – Alrighty then, as usual I´d love to hear from you on Facebook or Instagram, look up Real Exam … ([[Transcript s01e09#Minute 12|transcript]])
+- [4:13](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=253) – Of course, you can say, for example, or for instance, or a case in point. Okay, but it's … ([[Transcript s01e09#Minute 4|transcript]])
+- [6:18](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=378) – A lot of the time in English exams the question includes the word important and very often students … ([[Transcript s01e09#Minute 6|transcript]])
+- [8:21](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=501) – Trevor: Do you think in the future people probably won’t read books any more? Diarmuid: No, I don’t. … ([[Transcript s01e09#Minute 8|transcript]])
+- [10:25](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=625) – Often when you try to describe a film or a documentary to somebody. You don’t remember all those … ([[Transcript s01e09#Minute 10|transcript]])
+- [12:30](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=750) – Ok guys, that’s all the questions for today. Have a think about what kind of books you would … ([[Transcript s01e09#Minute 12|transcript]])
 
 ---
 ← [[All Episodes]] · [[Real Exam English Wiki|Home]]

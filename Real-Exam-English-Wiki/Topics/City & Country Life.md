@@ -22,7 +22,7 @@ invites comparatives, conditionals and plenty of descriptive vocabulary.
 
 ## Said in the podcast
 
-> … Today’s topic is city versus country. You´re going to hear loads of urban and rural vocabulary, we analyse the language used to give a speculative opinion and we have some great words and expressions …
+> … Today’s topic is city versus country. You’re going to hear loads of urban and rural vocabulary, we analyse the language used to give a speculative opinion and we have some great words and expressions …
 >
 > — [[s02e02 City and Country|S2 E2]], [Minute 0:17](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=17) · [[Transcript s02e02#Minute 0|in the transcript]]
 
@@ -30,11 +30,11 @@ invites comparatives, conditionals and plenty of descriptive vocabulary.
 >
 > — [[s02e02 City and Country|S2 E2]], [Minute 1:56](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=116) · [[Transcript s02e02#Minute 1|in the transcript]]
 
-> … touch with nature, particularly in the built up environment, are very, very urban environment. So, for example, in central London, where you got A proliferation of high rise buildings and not a huge amount …
+> … in a megacity to be in touch with nature, particularly in the built up environment, a very, very urban environment. So, for example, in central London, where you got A proliferation of high rise buildings and not a huge amount of …
 >
-> — [[s02e02 City and Country|S2 E2]], [Minute 4:50](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=290) · [[Transcript s02e02#Minute 4|in the transcript]]
+> — [[s02e02 City and Country|S2 E2]], [Minute 4:48](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=288) · [[Transcript s02e02#Minute 4|in the transcript]]
 
-> … the website for more information. realexamenglish.com. Would you rather live in the countryside or in a town or city? I'd rather live in the countryside, but not too far from a town, so you …
+> … find information there about online classes. Would you rather live in the countryside or in a town or city? I'd rather live in the countryside, but not too far from a town, so you …
 >
 > — [[s02e02 City and Country|S2 E2]], [Minute 7:24](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=444) · [[Transcript s02e02#Minute 7|in the transcript]]
 
@@ -76,7 +76,7 @@ invites comparatives, conditionals and plenty of descriptive vocabulary.
 
 ## In these episodes (2)
 
-- [[s02e02 City and Country|S2 E2 – City and Country]] (2021-01-29) — Show notes · Minute [0:17](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=17), [1:56](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=116), [4:50](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=290), [7:24](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=444)
+- [[s02e02 City and Country|S2 E2 – City and Country]] (2021-01-29) — Show notes · Minute [0:17](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=17), [1:56](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=116), [4:48](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=288), [7:24](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=444)
 - [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Show notes · Minute [0:27](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=27), [9:11](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=551)
 
 ## Briefly mentioned (4)

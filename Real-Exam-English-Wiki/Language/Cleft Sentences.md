@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 3
+episodes: 5
 tags: [language]
 ---
 # Cleft Sentences
@@ -25,7 +25,7 @@ _What I love about English is… – sentences that put emphasis on one part._
 >
 > — [[s01e06 Technology|S1 E6]], [Minute 7:07](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=427) · [[Transcript s01e06#Minute 7|in the transcript]]
 
-> … analyse some fancy grammar in the form of the passive voice and cleft sentences. We are some excellent vocabulary about globalization and we take a look at how to improve your speaking with discourse …
+> … analyse some fancy grammar in the form of the passive voice and cleft sentences. We have some excellent vocabulary about globalization and we take a look at how to improve your speaking with discourse markers. As usual we have a …
 >
 > — [[s02e03 Global Issues|S2 E3]], [Minute 0:47](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=47) · [[Transcript s02e03#Minute 0|in the transcript]]
 
@@ -33,7 +33,7 @@ _What I love about English is… – sentences that put emphasis on one part._
 >
 > — [[s02e03 Global Issues|S2 E3]], [Minute 5:32](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=332) · [[Transcript s02e03#Minute 5|in the transcript]]
 
-> … And that´s it for today folks. Remember to revise your passive voice, cleft sentences and participle clauses, particularly at a C1 or C2 level, or IELTS band 7. For B2 level you need to …
+> … And that’s it for today folks. Remember to revise your passive voice, cleft sentences and participle clauses, particularly at a C1 or C2 level, or IELTS band 7. For B2 level you need to …
 >
 > — [[s02e03 Global Issues|S2 E3]], [Minute 17:58](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=1078) · [[Transcript s02e03#Minute 17|in the transcript]]
 
@@ -57,16 +57,13 @@ _What I love about English is… – sentences that put emphasis on one part._
 >
 > — [[s06e09 Children|S6 E9]], [Minute 4:38](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=278) · [[Transcript s06e09#Minute 4|in the transcript]]
 
-## In these episodes (3)
+## In these episodes (5)
 
+- [[s01e06 Technology|S1 E6 – Technology]] (2020-09-11) — Show notes · Minute [7:07](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=427)
 - [[s02e03 Global Issues|S2 E3 – Global Issues]] (2021-02-05) — Show notes · Minute [0:47](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=47), [5:32](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=332), [17:58](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=1078)
 - [[s05e04 School|S5 E4 – School]] (2025-02-07) — Minute [16:24](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=984), [18:44](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=1124)
+- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Show notes · Minute [0:35](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=35), [18:12](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=1092)
 - [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Show notes · Minute [4:38](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=278)
-
-## Briefly mentioned (2)
-
-- [[s01e06 Technology|S1 E6 – Technology]] (2020-09-11) — Minute [7:07](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=427)
-- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Minute [0:35](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=35), [18:12](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=1092)
 
 ---
 ← [[Language]] · [[Real Exam English Wiki|Home]]

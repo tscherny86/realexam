@@ -19,6 +19,7 @@ from pathlib import Path
 OFFICIAL = Path(__file__).resolve().parent.parent / "data" / "official"
 MIN_RATIO = 0.6  # below this the official text is ignored
 LONG_RUN = 25  # runs longer than this are passages the official text lacks or moved, not hearing errors
+UNEQUAL_MIN = 8  # from this size on, a replace block whose sides differ more than 2:1 keeps the Whisper words
 
 _NORM = re.compile(r"[^a-z0-9']+")
 
@@ -33,7 +34,14 @@ def tokens(text: str) -> list[str]:
 
 def official_text(ep_id: str) -> str | None:
     f = OFFICIAL / f"{ep_id}.txt"
-    return f.read_text(encoding="utf-8") if f.exists() else None
+    if not f.exists():
+        return None
+    text = f.read_text(encoding="utf-8")
+    # the official transcripts were typed on a Spanish keyboard: acute accent as apostrophe, ellipsis glued to the next word
+    text = text.replace("´", "’").replace("`", "’")
+    text = re.sub(r"…(?=\w)", "… ", text)
+    text = re.sub(r"(?<=\w)\.\.\.(?=\w)", "... ", text)
+    return text
 
 
 def _spread(items: list[str], start: float, end: float) -> list[dict]:
@@ -57,13 +65,20 @@ def apply(words: list[dict], text: str):
     a = [norm(w["text"]) for w in words]
     b = [norm(t) for t in off]
     sm = difflib.SequenceMatcher(None, a, b, autojunk=False)
-    out, matched, rep, ins, dele = [], 0, 0, 0, 0
+    out, matched, rep, ins, dele, kept = [], 0, 0, 0, 0, 0
     for tag, i1, i2, j1, j2 in sm.get_opcodes():
         if tag == "equal":
             for i, j in zip(range(i1, i2), range(j1, j2)):
                 out.append({**words[i], "text": off[j]})
             matched += i2 - i1
         elif tag == "replace":
+            wi, oj = i2 - i1, j2 - j1
+            # very unequal blocks are not the same passage (the official text has it elsewhere or not at all):
+            # keep what Whisper heard instead of squeezing a few official words over a long stretch of audio
+            if max(wi, oj) >= UNEQUAL_MIN and (wi > 2 * oj or oj > 2 * wi):
+                out.extend({**w, "src": "whisper"} for w in words[i1:i2])
+                kept += wi
+                continue
             out.extend(_spread(off[j1:j2], words[i1]["start"], words[i2 - 1]["end"]))
             rep += j2 - j1
         elif tag == "insert":
@@ -75,10 +90,11 @@ def apply(words: list[dict], text: str):
             ins += j2 - j1
         elif tag == "delete":
             if i2 - i1 > LONG_RUN:  # a whole passage missing from the official text: keep what Whisper heard
-                out.extend(words[i1:i2])
+                out.extend({**w, "src": "whisper"} for w in words[i1:i2])
+                kept += i2 - i1
                 continue
             dele += i2 - i1
     ratio = matched / max(1, len(a))
     if ratio < MIN_RATIO:
         return words, {"ratio": round(ratio, 3), "used": False}
-    return out, {"ratio": round(ratio, 3), "replaced": rep, "inserted": ins, "deleted": dele, "used": True}
+    return out, {"ratio": round(ratio, 3), "replaced": rep, "inserted": ins, "deleted": dele, "kept_whisper": kept, "used": True}

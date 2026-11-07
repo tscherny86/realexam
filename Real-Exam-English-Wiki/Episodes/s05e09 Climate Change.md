@@ -19,11 +19,11 @@ tags: [episode, season-5]
 | **Duration** | 19:59 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p) · [MP3](https://www.buzzsprout.com/1107956/episodes/17501807-s05-9-climate-change.mp3) |
 | **Transcript** | [[Transcript s05e09]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[The Environment & Climate Change]], [[Change & Life Changes]] |
-| **Language** | [[Phrasal Verbs]], [[Conditionals]], [[Inversion]], [[Pronunciation]] |
-| **Exams** | [[Speaking Exam]] |
-| **Accents** | – |
-| **Briefly mentioned** | [[Food & Cooking]], [[Learning, School & Education]], [[Animals & Pets]], [[Weather & Seasons]], [[Transport & Traffic]], [[News & Media]], [[Idioms & Expressions]], [[Collocations]], [[Cleft Sentences]], [[Modal Verbs]], [[Word Formation]], [[Prepositions]], [[Emphasis & Auxiliaries]], [[Ireland]], [[Wales]], [[Non-Native Speakers]] |
+| **Topics** | [[The Environment & Climate Change]] |
+| **Language** | [[Phrasal Verbs]], [[Conditionals]], [[Cleft Sentences]], [[Inversion]], [[Pronunciation]] |
+| **Exams** | [[Exam Tips & Preparation]] |
+| **Accents** | [[Ireland]], [[England]], [[Wales]], [[Canada]], [[Australia]], [[South Africa]] |
+| **Briefly mentioned** | [[Food & Cooking]], [[Learning, School & Education]], [[Animals & Pets]], [[Weather & Seasons]], [[Transport & Traffic]], [[News & Media]], [[Globalisation]], [[Idioms & Expressions]], [[Collocations]], [[Word Formation]], [[Emphasis & Auxiliaries]] |
 
 ## Show notes
 
@@ -39,7 +39,7 @@ Thanks to all of the contributors, including Emma, Mike, Noel, Konner, Jen, Dan 
 
 - [0:14](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=14) – Hello and welcome to the Real Exam English podcast. This episode is about climate change, which is a … ([[Transcript s05e09#Minute 0|transcript]])
 - [2:22](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=142) – On the other hand, he said big companies pump out millions of people’s worth of carbon dioxide every … ([[Transcript s05e09#Minute 2|transcript]])
-- [4:24](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=264) – I'm…I'm not one of these people who are like an ostrich and live my life with my head … ([[Transcript s05e09#Minute 4|transcript]])
+- [4:24](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=264) – I'm… I'm not one of these people who are like an ostrich and live my life with my … ([[Transcript s05e09#Minute 4|transcript]])
 - [6:31](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=391) – He said we have so many more important things that we could change in the short term, had … ([[Transcript s05e09#Minute 6|transcript]])
 - [8:31](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=511) – Like Taylor Swift taking a private jet to her bloody bedside table to get a glass of water … ([[Transcript s05e09#Minute 8|transcript]])
 - [10:36](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=636) – Going left, right and centre means they were going all over the place, a lot. Another example is … ([[Transcript s05e09#Minute 10|transcript]])

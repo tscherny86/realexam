@@ -19,11 +19,11 @@ tags: [episode, season-0]
 | **Duration** | 21:12 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU) · [MP3](https://www.buzzsprout.com/1107956/episodes/18230212-helena-barcelona.mp3) |
 | **Transcript** | [[Transcript x2025-11-21]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Work & Careers]], [[Learning, School & Education]], [[Languages & Language Learning]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Past Perfect & Narrative Tenses]], [[Pronunciation]], [[Common Mistakes]], [[Organising Your Answer]], [[Slang & Informal English]] |
+| **Topics** | [[Work & Careers]], [[Languages & Language Learning]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Past Perfect & Narrative Tenses]], [[Adjectives & Compound Adjectives]], [[Pronunciation]] |
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[Non-Native Speakers]] |
-| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Friends & Friendship]], [[Communication]], [[Money & Finance]], [[Transport & Traffic]], [[Relaxing & Stress]], [[Extremes & Adventure]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]], [[Emphasis & Auxiliaries]] |
+| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Friends & Friendship]], [[Communication]], [[Learning, School & Education]], [[Transport & Traffic]], [[Relaxing & Stress]], [[Emphasis & Auxiliaries]] |
 
 ## Show notes
 

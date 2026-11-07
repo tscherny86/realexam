@@ -4,6 +4,36 @@ Newest version on top. Every delivered version gets an entry here and a GitHub r
 (created automatically by `.github/workflows/release.yml`). Times are CET.
 New transcripts (commits "Transcript <id>") are content, not a version of their own.
 
+## 1.1.0 – 07.11.2026
+- **Full quality pass over all 75 transcripts** (Alex: "der DICKE Qualitätscheck"). Five helpers read every transcript
+  line by line: 197 new rules in `data/corrections.tsv`, 205 corrections in 60 episodes (misheard names and
+  idioms such as "Queen Bee" → "Queanbeyan", "part run" → "parkrun", "repel" → "rappel", "Santa Paula" → "Santa Pola",
+  typos and wrong apostrophes in the official transcripts, glued sentence boundaries). Corrections now run **after**
+  the alignment, so they also fix the official text. Every episode is listed in `data/proofread.txt`.
+- **Alignment with the official transcripts made safe.** Passages that the official text has elsewhere or not at all
+  were squeezed into one word and content went missing (S1 E2 minutes 4–7, S1 E9 minute 3, S2 E6 duplicate answer).
+  Unequal blocks now keep the Whisper words (`kept_whisper` in `data/alignment_report.json`); those passages were
+  proofread separately. Acute accents from a Spanish keyboard (`´`) in the official text become apostrophes.
+- **Topic assignment reviewed for every episode.** Three helpers judged all 1,259 assignments against the quotes:
+  186 removed (`data/topic_exclusions.tsv`). Systematic causes fixed in `scripts/topics.py` and `build_wiki.py`:
+  Trevor's recurring plugs (website, classes, Facebook/Instagram, app, coffee) and the show-notes credits ("Thanks to
+  all of the contributors", "We Dig Music podcast", "Music: Wholesome by Kevin MacLeod") no longer count; grammar
+  points only count when Trevor actually names them (no more "used to", "however", "not only", "interested in" from
+  natural speech); "of course", "spend time", "law professor", "climate change" → Change, "IELTS band" → Music, country
+  names as examples → Non-Native Speakers and similar false senses removed; language points, exams and accents
+  announced in the show notes or in Trevor's intro count straight away. New entries: Drugs & Legalisation,
+  Globalisation, Covid & Lockdown, Buying Time & Fillers, Substitution & Ellipsis, Gerund or Infinitive,
+  Intensifiers, British vs American English, Likes, Dislikes & Preferences, Speculating & Hedging (106 articles).
+  Result: on average 6.8 main tags per episode, all backed by the transcript.
+- **Audio marks tested against the audio.** `scripts/check_marks.py` cuts 8 seconds at a sample of minute marks,
+  transcribes the clip and compares it with the transcript: 296 samples over all episodes, 5 mismatches (all
+  explained by the alignment gaps above); after the fix 100 further samples on the affected episodes, 0 mismatches.
+  Player checked on the live site (click at 4:24 plays from 4:24).
+- **New quality tools** for the "quality" command: `qa_scan.py` (flags odd tokens and rare words),
+  `review_assignments.py` (one review file per episode with the evidence), `check_marks.py`, `apply_review.py`
+  (merges helpers' findings after validating them against the transcripts).
+- Transcript page: a minute link whose exact row does not exist now jumps to the nearest earlier row.
+
 ## 1.0.0 – 07.11.2026
 - **All 75 episodes transcribed** overnight on the GPU (faster-whisper `large-v3-turbo`, about 15× real time); 68 of them
   merged with the official Buzzsprout transcript (word match 96–98 %, `data/alignment_report.json`), the 7 episodes

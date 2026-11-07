@@ -20,10 +20,10 @@ tags: [episode, season-4]
 | **Listen** | [Spotify](https://open.spotify.com/episode/0vR11wg4wOSgeAnjtWfWIQ) · [MP3](https://www.buzzsprout.com/1107956/episodes/13640110-s04-5-art.mp3) |
 | **Transcript** | [[Transcript s04e05]] (word-level timestamps, fully proofread) |
 | **Topics** | [[Art & Creativity]] |
-| **Language** | [[Idioms & Expressions]], [[Organising Your Answer]] |
+| **Language** | [[Idioms & Expressions]] |
 | **Exams** | – |
 | **Accents** | – |
-| **Briefly mentioned** | [[Music]], [[History & the Past]], [[Connectors & Linking Words]], [[Relative Clauses]], [[Writing Exam]], [[England]] |
+| **Briefly mentioned** | [[Music]], [[History & the Past]], [[Relative Clauses]], [[British vs American English]], [[Likes, Dislikes & Preferences]], [[Writing Exam]], [[England]] |
 
 ## Show notes
 

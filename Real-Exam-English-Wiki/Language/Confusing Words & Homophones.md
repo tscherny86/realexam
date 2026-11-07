@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 0
+episodes: 2
 tags: [language]
 ---
 # Confusing Words & Homophones
@@ -21,7 +21,11 @@ _Either/neither, affect/effect, false friends and words that sound the same._
 
 ## Said in the podcast
 
-> … collocations, a bunch of phrasal verbs, some super-useful verbs and a lovely homophone. As usual, you can get the transcripts for this episode on the Real Exam English website, realexamenglish.com Let’s getting going with …
+> … we have inverted conditionals and we also look at how to use either and neither. There’s input from quite a diverse bunch of speakers today, from snowstorms in Boston, to helping pregnant woman in …
+>
+> — [[s06e02 Extremes|S6 E2]], [Minute 0:39](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=39) · [[Transcript s06e02#Minute 0|in the transcript]]
+
+> … collocations, a bunch of phrasal verbs, some super-useful verbs and a lovely homophone. I played outside a lot. We had a lot of trees in our yard, and I would create houses or little …
 >
 > — [[s06e06 Creativity|S6 E6]], [Minute 0:33](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=33) · [[Transcript s06e06#Minute 0|in the transcript]]
 
@@ -29,13 +33,10 @@ _Either/neither, affect/effect, false friends and words that sound the same._
 >
 > — [[s06e06 Creativity|S6 E6]], [Minute 2:54](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=174) · [[Transcript s06e06#Minute 2|in the transcript]]
 
-## In these episodes (0)
+## In these episodes (2)
 
-_no episode yet where this was a main topic_
-
-## Briefly mentioned (1)
-
-- [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Minute [0:33](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=33), [2:54](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=174)
+- [[s06e02 Extremes|S6 E2 – Extremes]] (2026-02-18) — Show notes · Minute [0:39](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=39)
+- [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Show notes · Minute [0:33](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=33), [2:54](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=174)
 
 ---
 ← [[Language]] · [[Real Exam English Wiki|Home]]

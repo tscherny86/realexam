@@ -20,10 +20,10 @@ tags: [episode, season-5]
 | **Listen** | [Spotify](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19) · [MP3](https://www.buzzsprout.com/1107956/episodes/17350997-s05-8-internet.mp3) |
 | **Transcript** | [[Transcript s05e08]] (word-level timestamps, aligned with the official transcript) |
 | **Topics** | [[Technology & the Internet]], [[News & Media]] |
-| **Language** | [[Pronunciation]], [[Binomial Pairs]], [[Slang & Informal English]] |
-| **Exams** | [[Cambridge C2 Proficiency (CPE)]] |
-| **Accents** | [[Ireland]] |
-| **Briefly mentioned** | [[Books & Reading]], [[TV, Film & Entertainment]], [[Friends & Friendship]], [[Work & Careers]], [[Humour & Comedy]], [[Money & Finance]], [[Change & Life Changes]], [[Phrasal Verbs]], [[Idioms & Expressions]], [[Conditionals]], [[Past Perfect & Narrative Tenses]], [[Emphasis & Auxiliaries]] |
+| **Language** | [[Phrasal Verbs]], [[Pronunciation]], [[Emphasis & Auxiliaries]], [[Common Mistakes]], [[Binomial Pairs]] |
+| **Exams** | – |
+| **Accents** | – |
+| **Briefly mentioned** | [[Books & Reading]], [[TV, Film & Entertainment]], [[Friends & Friendship]], [[Work & Careers]], [[Humour & Comedy]], [[Idioms & Expressions]], [[Ireland]] |
 
 ## Show notes
 

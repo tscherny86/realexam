@@ -20,10 +20,10 @@ tags: [episode, season-0]
 | **Listen** | [Spotify](https://open.spotify.com/episode/2xw2Dy9xfpLUKASlqkF6fF) · [MP3](https://www.buzzsprout.com/1107956/episodes/19397304-bonus-speaking-exam-advice.mp3) |
 | **Transcript** | [[Transcript x2026-06-24]] (word-level timestamps, aligned with the official transcript) |
 | **Topics** | – |
-| **Language** | [[Idioms & Expressions]], [[Common Mistakes]] |
+| **Language** | – |
 | **Exams** | [[Speaking Exam]], [[Exam Tips & Preparation]] |
 | **Accents** | – |
-| **Briefly mentioned** | [[Learning, School & Education]], [[Past Perfect & Narrative Tenses]], [[Prepositions]], [[Organising Your Answer]] |
+| **Briefly mentioned** | – |
 
 ## Show notes
 

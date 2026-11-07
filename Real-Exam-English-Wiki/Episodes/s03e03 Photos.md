@@ -19,11 +19,11 @@ tags: [episode, season-3]
 | **Duration** | 14:54 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr) · [MP3](https://www.buzzsprout.com/1107956/episodes/9393943-s03-3-photos.mp3) |
 | **Transcript** | [[Transcript s03e03]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Anger & Emotions]], [[Photography & Photos]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]] |
-| **Exams** | [[Speaking Exam]] |
-| **Accents** | – |
-| **Briefly mentioned** | [[Technology & the Internet]], [[TV, Film & Entertainment]], [[Shopping & Consumerism]], [[Happiness]], [[Languages & Language Learning]], [[Collocations]], [[Conditionals]], [[Organising Your Answer]], [[Slang & Informal English]], [[Scotland]] |
+| **Topics** | [[Photography & Photos]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Collocations]], [[Adjectives & Compound Adjectives]], [[Speculating & Hedging]] |
+| **Exams** | – |
+| **Accents** | [[Australia]] |
+| **Briefly mentioned** | [[Technology & the Internet]], [[Happiness]], [[Speaking Exam]], [[Scotland]] |
 
 ## Show notes
 

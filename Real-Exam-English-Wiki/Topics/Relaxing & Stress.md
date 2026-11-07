@@ -27,11 +27,11 @@ A gentle B2/C1 topic with plenty of phrasal verbs.
 >
 > — [[s01e05 Phrasal Verbs|S1 E5]], [Minute 8:04](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=484) · [[Transcript s01e05#Minute 8|in the transcript]]
 
-> … reads the world news every day. What is your favourite way to relax? I I like going.I like to have a bath.Anneli lighting the candles put in light bubbles in the bath.And reading basically …
+> … reads the world news every day. What is your favourite way to relax? I I like going.I like to have a bath.Anneli lighting the candles put in like bubbles in the bath.And reading basically like reading in …
 >
 > — [[s02e07 Free time|S2 E7]], [Minute 4:03](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=243) · [[Transcript s02e07#Minute 4|in the transcript]]
 
-> … and individual classes are available also. What is your favorite way to relax? OK, don't judge me, but going for a long run. I enjoy running if I can get like a good 5 …
+> … your stereo or speakers or whatever. What is your favorite way to relax? OK, don't judge me, but going for a long run. I enjoy running if I can get like a good 5 …
 >
 > — [[s02e07 Free time|S2 E7]], [Minute 8:27](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=507) · [[Transcript s02e07#Minute 8|in the transcript]]
 
@@ -39,7 +39,7 @@ A gentle B2/C1 topic with plenty of phrasal verbs.
 >
 > — [[s02e07 Free time|S2 E7]], [Minute 12:10](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=730) · [[Transcript s02e07#Minute 12|in the transcript]]
 
-> … think there's something quite important about. Just taking time out and and meditating or being mindful of where you are and stopping so that actually you're able to order your your your thoughts Anne …
+> … process things and I think there's something quite important about. Just taking time out and and meditating or being mindful of where you are and stopping so that actually you're able to order your your your thoughts and and actually your …
 >
 > — [[s02e07 Free time|S2 E7]], [Minute 14:51](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=891) · [[Transcript s02e07#Minute 14|in the transcript]]
 
@@ -55,7 +55,7 @@ A gentle B2/C1 topic with plenty of phrasal verbs.
 >
 > — [[s03e02 Anger|S3 E2]], [Minute 8:53](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=533) · [[Transcript s03e02#Minute 8|in the transcript]]
 
-> … mad. And…that´s all for today folks, hopefully it didn´t cause you any stress or anxiety listening to all of this anger chat. Make sure to get a bit of downtime now, then make a …
+> … And… that’s all for today folks, hopefully it didn’t cause you any stress or anxiety listening to all of this anger chat. Make sure to get a bit of downtime now, then make a …
 >
 > — [[s03e02 Anger|S3 E2]], [Minute 12:18](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=738) · [[Transcript s03e02#Minute 12|in the transcript]]
 
@@ -63,11 +63,11 @@ A gentle B2/C1 topic with plenty of phrasal verbs.
 >
 > — [[s04e03 Home|S4 E3]], [Minute 1:04](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=64) · [[Transcript s04e03#Minute 1|in the transcript]]
 
-> … quite a popular choice. For adjectives she used plentiful, comfortable and then relaxing three times. As you know by now, we don´t want much repetition in exam answers as you need to show a …
+> … quite a popular choice. For adjectives she used plentiful, comfortable and then relaxing three times. As you know by now, we don’t want much repetition in exam answers as you need to show a …
 >
 > — [[s04e03 Home|S4 E3]], [Minute 2:40](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=160) · [[Transcript s04e03#Minute 2|in the transcript]]
 
-> … It´s also organized in a simple but effective way, sometimes muted colors relax me, but mostly I enjoy when there are bright and saturated colours and then she gives the reason because I feel …
+> … It’s also organized in a simple but effective way, sometimes muted colors relax me, but mostly I enjoy when there are bright and saturated colours and then she gives the reason because I feel …
 >
 > — [[s04e03 Home|S4 E3]], [Minute 4:17](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=257) · [[Transcript s04e03#Minute 4|in the transcript]]
 
@@ -79,7 +79,7 @@ A gentle B2/C1 topic with plenty of phrasal verbs.
 >
 > — [[s04e08 Holidays|S4 E8]], [Minute 12:02](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=722) · [[Transcript s04e08#Minute 12|in the transcript]]
 
-> … here we go. In this episode we are going to talk about relaxation. It’s a great topic to cover as we all love to relax, or should I say, need to relax. So you’re …
+> In this episode we are going to talk about relaxation. It’s a great topic to cover as we all love to relax, or should I say, need to relax. So you’re …
 >
 > — [[s05e01 Relaxing|S5 E1]], [Minute 0:21](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=21) · [[Transcript s05e01#Minute 0|in the transcript]]
 
@@ -87,7 +87,7 @@ A gentle B2/C1 topic with plenty of phrasal verbs.
 >
 > — [[s05e01 Relaxing|S5 E1]], [Minute 2:01](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=121) · [[Transcript s05e01#Minute 2|in the transcript]]
 
-> … she followed up with some contrast, However, it can be difficult to relax depending on the type of book. Then she explained in sore more detail, For example, if the book is very exciting, …
+> … she followed up with some contrast, However, it can be difficult to relax depending on the type of book. Then she explained in some more detail, For example, if the book is very exciting, or I should …
 >
 > — [[s05e01 Relaxing|S5 E1]], [Minute 3:36](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=216) · [[Transcript s05e01#Minute 3|in the transcript]]
 

@@ -19,11 +19,11 @@ tags: [episode, season-6]
 | **Duration** | 19:30 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l) · [MP3](https://www.buzzsprout.com/1107956/episodes/18698305-s06-2-extremes.mp3) |
 | **Transcript** | [[Transcript s06e02]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Learning, School & Education]], [[Weather & Seasons]], [[Extremes & Adventure]], [[Help & Kindness]] |
-| **Language** | [[Idioms & Expressions]], [[Conditionals]], [[Inversion]], [[Past Perfect & Narrative Tenses]], [[Emphasis & Auxiliaries]] |
-| **Exams** | [[Cambridge C1 Advanced (CAE)]] |
+| **Topics** | [[Weather & Seasons]], [[Extremes & Adventure]] |
+| **Language** | [[Idioms & Expressions]], [[Conditionals]], [[Inversion]], [[Past Perfect & Narrative Tenses]], [[Emphasis & Auxiliaries]], [[Confusing Words & Homophones]] |
+| **Exams** | – |
 | **Accents** | [[Ireland]], [[USA]] |
-| **Briefly mentioned** | [[TV, Film & Entertainment]], [[Work & Careers]], [[Money & Finance]], [[Happiness]], [[Languages & Language Learning]], [[Home & Housing]], [[Transport & Traffic]], [[Parenting & Children]], [[Collocations]], [[Passive Voice]], [[Prepositions]], [[Slang & Informal English]], [[Cambridge B2 First (FCE)]], [[Cambridge C2 Proficiency (CPE)]] |
+| **Briefly mentioned** | [[TV, Film & Entertainment]], [[Work & Careers]], [[Languages & Language Learning]], [[Home & Housing]], [[Transport & Traffic]], [[Parenting & Children]], [[Collocations]], [[Passive Voice]], [[Common Mistakes]], [[England]] |
 
 ## Show notes
 

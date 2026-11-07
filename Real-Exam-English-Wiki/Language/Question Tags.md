@@ -21,11 +21,11 @@ have you?*
 
 ## Said in the podcast
 
-> … benefits of reading and the future of books. We also speak about question tags, the English pronunciation of words that originate from French and different ways to say important. Ok then, let´s go with …
+> … benefits of reading and the future of books. We also speak about question tags, the English pronunciation of words that originate from French and different ways to say important. Ok then, let’s go with …
 >
 > — [[s01e09 Books|S1 E9]], [Minute 0:30](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=30) · [[Transcript s01e09#Minute 0|in the transcript]]
 
-> … always get those details across properly. Trevor: We had a couple of question tags in these answers. The first one was I think it´s like music, isn´t it and the second one was they´re …
+> … always get those details across properly. Trevor: We had a couple of question tags in these answers. The first one was I think it’s like music, isn’t it and the second one was they’re …
 >
 > — [[s01e09 Books|S1 E9]], [Minute 10:47](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=647) · [[Transcript s01e09#Minute 10|in the transcript]]
 
@@ -37,7 +37,7 @@ have you?*
 >
 > — [[s05e04 School|S5 E4]], [Minute 0:38](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=38) · [[Transcript s05e04#Minute 0|in the transcript]]
 
-> … grammar, as should you! Also, she started he first answer with a question tag, I have to say English, don’t I. So, remember that with question tags you use the same auxiliary verb that …
+> … I should study more grammar, as should you! Also, she started her first answer with a question tag, I have to say English, don’t I. So, remember that with question tags you use the same auxiliary verb that …
 >
 > — [[s05e04 School|S5 E4]], [Minute 11:11](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=671) · [[Transcript s05e04#Minute 11|in the transcript]]
 

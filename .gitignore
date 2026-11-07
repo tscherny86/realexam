@@ -1,7 +1,8 @@
-__pycache__/
-.obsidian/workspace*.json
-.obsidian/cache
 .DS_Store
-data/transcripts/partial/
-_site/
 .claude/
+.obsidian/cache
+.obsidian/workspace*.json
+__pycache__/
+_site/
+data/review/audio/
+data/transcripts/partial/

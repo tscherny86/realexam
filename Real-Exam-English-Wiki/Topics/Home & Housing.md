@@ -1,6 +1,6 @@
 ---
 type: topics
-episodes: 4
+episodes: 2
 tags: [topics]
 ---
 # Home & Housing
@@ -20,22 +20,6 @@ leave home early?*).
 > each passage linked to the exact minute.
 
 ## Said in the podcast
-
-> … dinners. Yummy. I think I'd like to go for dinner in that house. There's a lot of dishes there that you would consider to be very typical British dishes and the same in Ireland, …
->
-> — [[s01e03 Food|S1 E3]], [Minute 2:39](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=159) · [[Transcript s01e03#Minute 2|in the transcript]]
-
-> … from a restaurant or you get it delivered to your to your house. And I would also just like to mention this expression that she used in the first answer about dessert. She said …
->
-> — [[s01e03 Food|S1 E3]], [Minute 5:38](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=338) · [[Transcript s01e03#Minute 5|in the transcript]]
-
-> … be with my Friends and spend some quality time out of the house. So, the atmosphere is definitely more important for me. Trevor: What differences are there between what young people and older people …
->
-> — [[s01e03 Food|S1 E3]], [Minute 11:11](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=671) · [[Transcript s01e03#Minute 11|in the transcript]]
-
-> … get them into your answers, writing or speaking, that's great. OK, so home grown means that they are grown at home. Usually that means in your own house, but in this case it refers …
->
-> — [[s01e03 Food|S1 E3]], [Minute 12:52](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=772) · [[Transcript s01e03#Minute 12|in the transcript]]
 
 > … put off for another day? Maybe cleaning in some cases. Because my house is already clean, but sometimes I want it to be much better. Or maybe food shopping can be something I put …
 >
@@ -69,7 +53,7 @@ leave home early?*).
 >
 > — [[s02e05 Health|S2 E5]], [Minute 1:11](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=71) · [[Transcript s02e05#Minute 1|in the transcript]]
 
-> … way that isn´t serious, so you could say the two brothers were roughhousing in the park. In British English you would call it horse play. Then we had two awesome American English word to …
+> … way that isn’t serious, so you could say the two brothers were roughhousing in the park. In British English you would call it horse play. Then we had two awesome American English word to …
 >
 > — [[s02e05 Health|S2 E5]], [Minute 3:33](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=213) · [[Transcript s02e05#Minute 3|in the transcript]]
 
@@ -105,39 +89,27 @@ leave home early?*).
 >
 > — [[s02e10 Family|S2 E10]], [Minute 15:02](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=902) · [[Transcript s02e10#Minute 15|in the transcript]]
 
-> … know in Spanish there is a similar expression, the person who brings home the bread and I´m sure in other languages you can find expressions like this too. In the last answer there was …
+> … know in Spanish there is a similar expression, the person who brings home the bread and I’m sure in other languages you can find expressions like this too. In the last answer there was …
 >
 > — [[s02e10 Family|S2 E10]], [Minute 16:33](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=993) · [[Transcript s02e10#Minute 16|in the transcript]]
 
-> Real Exam English Season 4 Home Hello and welcome to the Real Exam English podcast, this episode is about the home. Most exam text books have a …
+> Most exam text books have a chapter about houses in them, so you should have some nice vocabulary to describe rooms and neighbourhoods. In this episode there are plenty of …
 >
-> — [[s04e03 Home|S4 E3]], [Minute 0:06](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=6) · [[Transcript s04e03#Minute 0|in the transcript]]
+> — [[s04e03 Home|S4 E3]], [Minute 0:19](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=19) · [[Transcript s04e03#Minute 0|in the transcript]]
 
-> … it definitely affects the way you feel in a room. In my house I have a lot of muted colours because I think that's quite relaxing and it's a relaxing space to be when …
+> … unusual use of would have here. In choosing the colours for my house I would have thought a lot about it. Normally we would use the past simple here right, I thought a lot …
 >
-> — [[s04e03 Home|S4 E3]], [Minute 1:40](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=100) · [[Transcript s04e03#Minute 1|in the transcript]]
+> — [[s04e03 Home|S4 E3]], [Minute 1:56](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=116) · [[Transcript s04e03#Minute 1|in the transcript]]
 
 > … Loli Which would be the most important factors when choosing your ideal home? I think I have an ideal home now. I live in the middle of the country. So I don't have very …
 >
 > — [[s04e03 Home|S4 E3]], [Minute 4:46](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=286) · [[Transcript s04e03#Minute 4|in the transcript]]
 
-> … don't know, maybe they were out…maybe they were living outside of their home more time, maybe they were working longer hours and didn't have time to be in the house and think about what …
+> … know, maybe they were out… maybe they were living outside of their home more time, maybe they were working longer hours and didn't have time to be in the house and think about what …
 >
 > — [[s04e03 Home|S4 E3]], [Minute 6:24](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=384) · [[Transcript s04e03#Minute 6|in the transcript]]
 
-> … different meaning, which is that something or someone needs something. Like, the house could use a lick of paint, or I could use some English classes with Trevor. Just to note as well that …
->
-> — [[s04e04 Weather|S4 E4]], [Minute 6:04](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=364) · [[Transcript s04e04#Minute 6|in the transcript]]
-
-> … to talk about events that are negative or not desired. Like my house got flooded last year or I got sunburned on the beach. Just a reminder that if you are looking for English …
->
-> — [[s04e04 Weather|S4 E4]], [Minute 9:11](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=551) · [[Transcript s04e04#Minute 9|in the transcript]]
-
-> … be, so like, so you can sort of dress and heat your home or not heat your home accordingly. Yeah, I'd say it's fairly important. Which country do you think has the perfect weather? …
->
-> — [[s04e04 Weather|S4 E4]], [Minute 14:02](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=842) · [[Transcript s04e04#Minute 14|in the transcript]]
-
-> … as you've got, you know, I think…there's a 6-year-old in in the house at the moment. Well, he's, I say, at the moment he's supposed to be here most of the time, I suppose. …
+> … you've got, you know, I think… there's a 6-year-old in in the house at the moment. Well, he's, I say, at the moment he's supposed to be here most of the time, I suppose. …
 >
 > — [[s04e07 Parenting|S4 E7]], [Minute 1:05](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=65) · [[Transcript s04e07#Minute 1|in the transcript]]
 
@@ -193,25 +165,9 @@ leave home early?*).
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 6:35](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=395) · [[Transcript s06e02#Minute 6|in the transcript]]
 
-> … my new yoga group straight away, they made me feel right at home. If you would like to fit in with some like-minded students, then why not sign up for group classes with me. …
+> … my new yoga group straight away, they made me feel right at home. I have small groups, maximum 6 people, usually with a mix of people preparing for exams and others just attending to …
 >
 > — [[s06e02 Extremes|S6 E2]], [Minute 9:21](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=561) · [[Transcript s06e02#Minute 9|in the transcript]]
-
-> … difficult situations. Sometimes I turn to my husband when it's help at home, things that we need to work on together. If it's in my business, I usually turn to my daughter because she …
->
-> — [[s06e07 Help|S6 E7]], [Minute 1:23](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=83) · [[Transcript s06e07#Minute 1|in the transcript]]
-
-> … of hugs and cuddles. Another example is as soon as I come home from work, I spend some time loving on my cats. So she explained these kids were afraid and had people delving …
->
-> — [[s06e07 Help|S6 E7]], [Minute 5:58](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=358) · [[Transcript s06e07#Minute 5|in the transcript]]
-
-> … or urban setting, it may be harder to get to know your neighbors. I think there's a lot more people in a tighter space. And you may be more reluctant to step in to …
->
-> — [[s06e07 Help|S6 E7]], [Minute 9:39](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=579) · [[Transcript s06e07#Minute 9|in the transcript]]
-
-> … if it's You know, I need something done at the around the house. I might just call a handyman. Handy person, handy person, handy person. Oh, wow. Really? I haven't heard that yet. Yeah, …
->
-> — [[s06e07 Help|S6 E7]], [Minute 14:01](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=841) · [[Transcript s06e07#Minute 14|in the transcript]]
 
 > … in life. And now that I'm in my 30s, it's more the house, the wife, the kids, the settle down. And I don't drink anymore. I don't even smoke anymore. So I've given up …
 >
@@ -237,38 +193,18 @@ leave home early?*).
 >
 > — [[s06e09 Children|S6 E9]], [Minute 14:05](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=845) · [[Transcript s06e09#Minute 14|in the transcript]]
 
-> … making decisions actually, to come into play. For example, when buying a house, price is definitely the main factor to consider, but personal preference comes into play too. Or when deciding when to do …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 5:25](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=325) · [[Transcript s06e10#Minute 5|in the transcript]]
+## In these episodes (2)
 
-> … years. And it was time to settle down. And we had the house, and I put pictures up on the wall. And I’d just finished my master's. And I was, you know, doing my …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 10:45](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=645) · [[Transcript s06e10#Minute 10|in the transcript]]
-
-> … likes! The other example is I think I found me a new home. Ok in standard, or should I say grammatically correct, English this sentence should be I found a new home for myself. …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 13:39](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=819) · [[Transcript s06e10#Minute 13|in the transcript]]
-
-> … is a greater quantity of one thing than another. Like in my neighbourhood dogs outnumber cats or the pros of this decision greatly outnumber the cons. Then later on he said you have to …
->
-> — [[s06e10 Decisions|S6 E10]], [Minute 15:18](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=918) · [[Transcript s06e10#Minute 15|in the transcript]]
-
-## In these episodes (4)
-
-- [[s04e03 Home|S4 E3 – Home]] (2023-06-01) — Show notes · Minute [0:06](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=6), [1:40](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=100), [4:46](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=286), [6:24](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=384)
-- [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Minute [1:23](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=83), [5:58](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=358), [9:39](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=579), [14:01](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=841)
+- [[s04e03 Home|S4 E3 – Home]] (2023-06-01) — Show notes · Minute [0:19](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=19), [1:56](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=116), [4:46](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=286), [6:24](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=384)
 - [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Show notes · Minute [0:29](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=29), [6:12](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=372), [8:00](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=480), [14:05](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=845)
-- [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [5:25](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=325), [10:45](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=645), [13:39](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=819), [15:18](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=918)
 
-## Briefly mentioned (14)
+## Briefly mentioned (12)
 
-- [[s01e03 Food|S1 E3 – Food]] (2020-08-30) — Minute [2:39](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=159), [5:38](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=338), [11:11](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=671), [12:52](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=772)
 - [[s01e05 Phrasal Verbs|S1 E5 – Phrasal Verbs]] (2020-09-04) — Minute [3:36](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=216), [6:52](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=412), [8:40](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=520)
 - [[s02e01 Celebrations|S2 E1 – Celebrations]] (2021-01-21) — Minute [6:25](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=385), [8:42](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=522), [13:28](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=808), [15:53](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=953)
 - [[s02e05 Health|S2 E5 – Health]] (2021-02-26) — Minute [1:11](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=71), [3:33](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=213), [6:24](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=384), [8:40](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=520)
 - [[s02e07 Free time|S2 E7 – Free time]] (2021-03-12) — Minute [7:12](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=432), [11:11](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=671), [12:41](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=761)
 - [[s02e10 Family|S2 E10 – Family]] (2021-04-07) — Minute [0:28](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=28), [12:57](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=777), [15:02](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=902), [16:33](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=993)
-- [[s04e04 Weather|S4 E4 – Weather]] (2023-07-12) — Minute [6:04](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=364), [9:11](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=551), [14:02](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=842)
 - [[s04e07 Parenting|S4 E7 – Parenting]] (2023-11-18) — Minute [1:05](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=65), [2:41](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=161)
 - [[s04e08 Holidays|S4 E8 – Holidays]] (2023-12-21) — Minute [1:21](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=81), [3:02](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=182)
 - [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Minute [4:20](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=260), [6:00](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=360), [7:52](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=472)

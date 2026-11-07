@@ -33,7 +33,7 @@ _Strong adjectives and compound adjectives (time-consuming, well-off, mouth-wate
 >
 > — [[s01e08 The Environment|S1 E8]], [Minute 12:36](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=756) · [[Transcript s01e08#Minute 12|in the transcript]]
 
-> … for lunch today. In the second answer we had a slew of adjectives, kind, caring, considerate, respectful, mean and likeable. Remember it´s important to show a range of language in your answers so an …
+> … for lunch today. In the second answer we had a slew of adjectives, kind, caring, considerate, respectful, mean and likeable. Remember it’s important to show a range of language in your answers so an …
 >
 > — [[s02e06 Friends|S2 E6]], [Minute 2:58](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=178) · [[Transcript s02e06#Minute 2|in the transcript]]
 
@@ -41,11 +41,11 @@ _Strong adjectives and compound adjectives (time-consuming, well-off, mouth-wate
 >
 > — [[s02e08 Work|S2 E8]], [Minute 2:03](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=123) · [[Transcript s02e08#Minute 2|in the transcript]]
 
-> … what all the native speakers are using guys! We had plenty of adjectives here too. Introverted and shy, which are words for someone who likes to spend time alone and doesn´t enjoy mixing with …
+> … what all the native speakers are using guys! We had plenty of adjectives here too. Introverted and shy, which are words for someone who likes to spend time alone and doesn’t enjoy mixing with …
 >
 > — [[s02e09 Communications|S2 E9]], [Minute 7:14](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=434) · [[Transcript s02e09#Minute 7|in the transcript]]
 
-> … don´t impress examiners so you have to learn and practice using better adjectives, and it makes your language more colourful and interesting for the listener or reader. Have you got any brother or sisters? …
+> … don’t impress examiners so you have to learn and practice using better adjectives, and it makes your language more colourful and interesting for the listener or reader. Have you got any brother or sisters? …
 >
 > — [[s02e10 Family|S2 E10]], [Minute 5:55](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=355) · [[Transcript s02e10#Minute 5|in the transcript]]
 
@@ -53,13 +53,13 @@ _Strong adjectives and compound adjectives (time-consuming, well-off, mouth-wate
 >
 > — [[s02e10 Family|S2 E10]], [Minute 10:25](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=625) · [[Transcript s02e10#Minute 10|in the transcript]]
 
-> … a short answer here, from the United States. Nevertheless, we heard the adjective bad being used twice and the adjective good five times. So, as with my introduction earlier this wouldn´t be a great …
+> … a short answer here, from the United States. Nevertheless, we heard the adjective bad being used twice and the adjective good five times. So, as with my introduction earlier this wouldn’t be a great …
 >
 > — [[s03e02 Anger|S3 E2]], [Minute 4:51](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=291) · [[Transcript s03e02#Minute 4|in the transcript]]
 
-> … Today you are going to here lots of photography vocabulary, some amazing adjectives and expressions and for the first time ever on the Real Exam English podcast you can hear people speculating about photographs, …
+> … it as much. Ok, so we’re just going to focus on the adjectives here. We heard frustrating, satisfying, gratifying and challenging. These are super examples of how to upgrade your adjectives in your writings …
 >
-> — [[s03e03 Photos|S3 E3]], [Minute 0:30](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=30) · [[Transcript s03e03#Minute 0|in the transcript]]
+> — [[s03e03 Photos|S3 E3]], [Minute 1:30](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=90) · [[Transcript s03e03#Minute 1|in the transcript]]
 
 > … that place when I look at it in the future. Some awesome adjectives here from Australia. We heard the speaker talking about how bad he feels he looks in photos and he used three …
 >
@@ -73,19 +73,19 @@ _Strong adjectives and compound adjectives (time-consuming, well-off, mouth-wate
 >
 > — [[s03e05 Learning|S3 E5]], [Minute 9:38](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=578) · [[Transcript s03e05#Minute 9|in the transcript]]
 
-> … I´m not a big fan of using good too much as an adjective in English exams, particularly when describing pictures or how people are feeling. For higher level exams you really should be using …
+> … I’m not a big fan of using good too much as an adjective in English exams, particularly when describing pictures or how people are feeling. For higher level exams you really should be using …
 >
 > — [[s03e08 Fame|S3 E8]], [Minute 2:52](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=172) · [[Transcript s03e08#Minute 2|in the transcript]]
 
-> … old and wise saying, nice expression that, particularly as age-old is a compound adjective, age hyphen old, and remember examiners like compound words so it´s nice way to get more marks in your exam. …
+> … old and wise saying, nice expression that, particularly as age-old is a compound adjective, age hyphen old, and remember examiners like compound words so it’s nice way to get more marks in your exam. …
 >
 > — [[s03e08 Fame|S3 E8]], [Minute 11:29](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=689) · [[Transcript s03e08#Minute 11|in the transcript]]
 
-> … heard another expression with the word all, well in fact it´s an adjective and that was one-size-fits-all, or more slowly…one-size-fits-all. This means it is suitable for everyone or every purpose. For instance, the government …
+> … heard another expression with the word all, well in fact it’s an adjective and that was one-size-fits-all, or more slowly… one-size-fits-all. This means it is suitable for everyone or every purpose. For instance, the …
 >
 > — [[s03e09 Culture|S3 E9]], [Minute 16:04](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=964) · [[Transcript s03e09#Minute 16|in the transcript]]
 
-> … is really or very important. This use of super, to intensify an adjective, has become much more common in recent times. When I was a kid back in 1980s Ireland we didn´t use super …
+> … is really or very important. This use of super, to intensify an adjective, has become much more common in recent times. When I was a kid back in 1980s Ireland we didn’t use super …
 >
 > — [[x2022-10-14 Happiness|Bonus]], [Minute 4:50](https://open.spotify.com/episode/4A4thQQDgZ1KpSBMd8qsZN?t=290) · [[Transcript x2022-10-14#Minute 4|in the transcript]]
 
@@ -93,7 +93,7 @@ _Strong adjectives and compound adjectives (time-consuming, well-off, mouth-wate
 >
 > — [[s04e03 Home|S4 E3]], [Minute 0:27](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=27) · [[Transcript s04e03#Minute 0|in the transcript]]
 
-> … muted colours, so it seems to be quite a popular choice. For adjectives she used plentiful, comfortable and then relaxing three times. As you know by now, we don´t want much repetition in exam …
+> … muted colours, so it seems to be quite a popular choice. For adjectives she used plentiful, comfortable and then relaxing three times. As you know by now, we don’t want much repetition in exam …
 >
 > — [[s04e03 Home|S4 E3]], [Minute 2:36](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=156) · [[Transcript s04e03#Minute 2|in the transcript]]
 
@@ -105,7 +105,7 @@ _Strong adjectives and compound adjectives (time-consuming, well-off, mouth-wate
 >
 > — [[s04e03 Home|S4 E3]], [Minute 11:54](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=714) · [[Transcript s04e03#Minute 11|in the transcript]]
 
-> … our energy level and our relationships with others. A nice mix of adjectives here, warm, cool, sadder, energetic, depressed, dark and dreary. These last ones came together, dark and dreary. It´s useful to learn …
+> … our energy level and our relationships with others. A nice mix of adjectives here, warm, cool, sadder, energetic, depressed, dark and dreary. These last ones came together, dark and dreary. It’s useful to learn …
 >
 > — [[s04e04 Weather|S4 E4]], [Minute 5:22](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=322) · [[Transcript s04e04#Minute 5|in the transcript]]
 
@@ -133,7 +133,7 @@ _Strong adjectives and compound adjectives (time-consuming, well-off, mouth-wate
 >
 > — [[s05e03 Space|S5 E3]], [Minute 10:08](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=608) · [[Transcript s05e03#Minute 10|in the transcript]]
 
-> … how you did on Spotify or on social media. These types of adjectives are really important for things like describing photos and for any descriptive writing, like a review or an article, so make …
+> … there are more answers than those possible as well. These types of adjectives are really important for things like describing photos and for any descriptive writing, like a review or an article, so make …
 >
 > — [[s05e03 Space|S5 E3]], [Minute 12:13](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=733) · [[Transcript s05e03#Minute 12|in the transcript]]
 
@@ -145,19 +145,11 @@ _Strong adjectives and compound adjectives (time-consuming, well-off, mouth-wate
 >
 > — [[s05e04 School|S5 E4]], [Minute 19:31](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=1171) · [[Transcript s05e04#Minute 19|in the transcript]]
 
-> … or a mixture. He then had a couple of nice clauses with adjectives, it’s big enough that we have events on and it’s not so massive that I’m waiting in rush hour traffic. Ok, …
->
-> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 3:16](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=196) · [[Transcript s05e05#Minute 3|in the transcript]]
-
-> … for it, sadly. Great answers there. The first one had so many adjectives, I love the one where he said the cost of living is insane, meaning it is outrageous or really shocking. Like, …
->
-> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 17:54](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1074) · [[Transcript s05e05#Minute 17|in the transcript]]
-
 > … double comparative like this. So remember the structure is the plus comparative adjective and then another the plus comparative adjective. The cooler it is, the fresher I feel. The bigger the hamburger, the better. …
 >
 > — [[s05e10 Weekend|S5 E10]], [Minute 12:28](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=748) · [[Transcript s05e10#Minute 12|in the transcript]]
 
-> … hear a bunch of those, there’s plenty of phrasal verbs too, some compound adjectives and lots of nice organization to admire. Remember you can get the transcript for this and all episodes over on …
+> … hear a bunch of those, there’s plenty of phrasal verbs too, some compound adjectives and lots of nice organization to admire. It was a long time ago, indeed. I started learning English when I …
 >
 > — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 0:27](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=27) · [[Transcript x2025-11-21#Minute 0|in the transcript]]
 
@@ -169,7 +161,7 @@ _Strong adjectives and compound adjectives (time-consuming, well-off, mouth-wate
 >
 > — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 5:40](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=340) · [[Transcript x2025-12-16#Minute 5|in the transcript]]
 
-> … of. Ok so we have the feed mentioned again and then this adjective suspect. Ok so suspect can be a verb or a noun too but here is it used as an adjective. You …
+> … available. Ok so we have the feed mentioned again and then this adjective suspect. Ok so suspect can be a verb or a noun too but here is it used as an adjective. You …
 >
 > — [[s06e01 News|S6 E1]], [Minute 13:18](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=798) · [[Transcript s06e01#Minute 13|in the transcript]]
 
@@ -200,12 +192,12 @@ _Strong adjectives and compound adjectives (time-consuming, well-off, mouth-wate
 ## In these episodes (5)
 
 - [[s01e08 The Environment|S1 E8 – The Environment]] (2020-09-25) — Show notes · Minute [12:36](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=756)
-- [[s03e03 Photos|S3 E3 – Photos]] (2021-10-19) — Show notes · Minute [0:30](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=30), [6:03](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=363), [9:36](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=576)
+- [[s03e03 Photos|S3 E3 – Photos]] (2021-10-19) — Show notes · Minute [1:30](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=90), [6:03](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=363), [9:36](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=576)
 - [[s04e03 Home|S4 E3 – Home]] (2023-06-01) — Show notes · Minute [0:27](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=27), [2:36](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=156), [10:04](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=604), [11:54](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=714)
 - [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Show notes · Minute [0:35](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=35), [5:42](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=342), [10:08](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=608), [12:13](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=733)
-- [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Minute [3:16](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=196), [17:54](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1074)
+- [[x2025-11-21 Helena - Barcelona|Bonus – Helena - Barcelona]] (2025-11-21) — Show notes · Minute [0:27](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=27), [19:52](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=1192)
 
-## Briefly mentioned (20)
+## Briefly mentioned (19)
 
 - [[s01e03 Food|S1 E3 – Food]] (2020-08-30) — Minute [0:46](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=46), [12:41](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=761)
 - [[s02e06 Friends|S2 E6 – Friends]] (2021-03-06) — Minute [2:58](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=178)
@@ -221,7 +213,6 @@ _Strong adjectives and compound adjectives (time-consuming, well-off, mouth-wate
 - [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Minute [3:18](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=198), [9:33](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=573)
 - [[s05e04 School|S5 E4 – School]] (2025-02-07) — Minute [6:16](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=376), [19:31](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=1171)
 - [[s05e10 Weekend|S5 E10 – Weekend]] (2025-08-18) — Minute [12:28](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=748)
-- [[x2025-11-21 Helena - Barcelona|Bonus – Helena - Barcelona]] (2025-11-21) — Minute [0:27](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=27), [19:52](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=1192)
 - [[x2025-12-16 Xing - Tokyo|Bonus – Xing - Tokyo]] (2025-12-16) — Minute [5:40](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=340)
 - [[s06e01 News|S6 E1 – News]] (2026-01-24) — Minute [13:18](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=798)
 - [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Minute [8:08](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=488), [12:00](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=720), [15:47](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=947)

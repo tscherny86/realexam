@@ -19,11 +19,11 @@ tags: [episode, season-0]
 | **Duration** | 20:27 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1) · [MP3](https://www.buzzsprout.com/1107956/episodes/15331574-vietnam-and-ielts.mp3) |
 | **Transcript** | [[Transcript x2024-06-29]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Communication]], [[Learning, School & Education]], [[Languages & Language Learning]] |
-| **Language** | [[Idioms & Expressions]], [[Connectors & Linking Words]], [[Organising Your Answer]] |
+| **Topics** | [[Learning, School & Education]], [[Languages & Language Learning]] |
+| **Language** | [[Idioms & Expressions]], [[Connectors & Linking Words]] |
 | **Exams** | [[IELTS]], [[Writing Exam]] |
-| **Accents** | [[Non-Native Speakers]] |
-| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Music]], [[Books & Reading]], [[Work & Careers]], [[Inversion]], [[Passive Voice]], [[Comparatives & Superlatives]], [[Australia]] |
+| **Accents** | [[USA]], [[Australia]], [[Non-Native Speakers]] |
+| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Books & Reading]], [[Work & Careers]], [[Passive Voice]], [[Past Perfect & Narrative Tenses]], [[Adverbs]] |
 
 ## Show notes
 
@@ -44,7 +44,7 @@ Link for Konner's website: theenglishevolution.com - NO LONGER ACTIVE
 - [8:16](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=496) – And then I get these students writing these ridiculous passages that no one ever has written or spoken, … ([[Transcript x2024-06-29#Minute 8|transcript]])
 - [10:18](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=618) – And then the second part then is the essay, OK? So like you said, really just clarity like … ([[Transcript x2024-06-29#Minute 10|transcript]])
 - [12:19](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=739) – I love this idiom. The best bet is the action that is most likely to have a successful … ([[Transcript x2024-06-29#Minute 12|transcript]])
-- [14:26](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=866) – Just to be clear, I´m not saying don´t ever write long sentences, I´m just saying be super careful … ([[Transcript x2024-06-29#Minute 14|transcript]])
+- [14:26](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=866) – Just to be clear, I’m not saying don’t ever write long sentences, I’m just saying be super careful … ([[Transcript x2024-06-29#Minute 14|transcript]])
 - [16:30](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=990) – I really like that word range with that, because that's really what they're looking for. And it's a … ([[Transcript x2024-06-29#Minute 16|transcript]])
 - [18:31](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=1111) – Lasts about two weeks, and then there's also a question bank that has 50 questions and exams specific … ([[Transcript x2024-06-29#Minute 18|transcript]])
 

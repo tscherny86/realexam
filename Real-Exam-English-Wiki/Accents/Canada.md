@@ -1,6 +1,6 @@
 ---
 type: accents
-episodes: 2
+episodes: 5
 tags: [accents]
 ---
 # Canada
@@ -18,7 +18,7 @@ centre*) and vocabulary (*washroom, toque, loonie*). *Canadian raising* makes *a
 
 ## Said in the podcast
 
-> … Australian English, yes we have some Australians this season, and also a Canadian too actually for the first time, and some Welsh people, so a few next accents for you to contend with. So …
+> … Australian English, yes we have some Australians this season, and also a Canadian too actually for the first time, and some Welsh people, so a few new accents for you to contend with. So it’s gonna be …
 >
 > — [[s05e01 Relaxing|S5 E1]], [Minute 0:44](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=44) · [[Transcript s05e01#Minute 0|in the transcript]]
 
@@ -42,10 +42,25 @@ centre*) and vocabulary (*washroom, toque, loonie*). *Canadian raising* makes *a
 >
 > — [[s05e02 Manners|S5 E2]], [Minute 21:16](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1276) · [[Transcript s05e02#Minute 21|in the transcript]]
 
-## In these episodes (2)
+> … listening skills. Ok then, let’s start off with our first speaker, from Canada. Do you find astronomy interesting? Absolutely. I love astronomy. Anything to do with the night sky and stars I'm a big …
+>
+> — [[s05e03 Space|S5 E3]], [Minute 1:03](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=63) · [[Transcript s05e03#Minute 1|in the transcript]]
 
-- [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Minute [0:44](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=44), [13:19](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=799), [15:03](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=903)
+> … it again. As usual we have a super mix of accents, Australian, Canadian, Welsh, English and Irish. And there really is a lot of nice vocabulary and useful idioms and expressions in this episode. …
+>
+> — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 0:31](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=31) · [[Transcript s05e05#Minute 0|in the transcript]]
+
+> … the form of mixed conditionals and cleft sentences. The speakers are from Canada, Australia, South Africa, England and Wales, so lots of different accents for you, and me from Ireland too! Well, I think …
+>
+> — [[s05e09 Climate Change|S5 E9]], [Minute 0:38](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=38) · [[Transcript s05e09#Minute 0|in the transcript]]
+
+## In these episodes (5)
+
+- [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Show notes · Minute [0:44](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=44), [13:19](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=799), [15:03](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=903)
 - [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Show notes · Minute [0:29](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=29), [19:43](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1183), [21:16](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1276)
+- [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Show notes · Minute [1:03](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=63)
+- [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Show notes · Minute [0:31](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=31)
+- [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Show notes · Minute [0:38](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=38)
 
 ---
 ← [[Accents]] · [[Real Exam English Wiki|Home]]

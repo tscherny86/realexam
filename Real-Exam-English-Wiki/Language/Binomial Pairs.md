@@ -20,7 +20,7 @@ _Fixed pairs like 'safe and sound', 'sick and tired', 'ups and downs'._
 
 ## Said in the podcast
 
-> … verbs, some ways to add emphasis and we have a quiz about binomial pairs. As usual, you can get the transcript for this podcast on the real exam English website, realexamenglish.com Ok, let’s kick …
+> … verbs, some ways to add emphasis and we have a quiz about binomial pairs. What negative effects has the Internet had on our social lives? There are many negative effects from the Internet. People …
 >
 > — [[s05e08 Internet|S5 E8]], [Minute 0:45](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=45) · [[Transcript s05e08#Minute 0|in the transcript]]
 

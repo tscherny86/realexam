@@ -32,7 +32,7 @@ Art appears in C1 and C2 speaking tests and in reading texts; creativity is a po
 >
 > — [[s02e07 Free time|S2 E7]], [Minute 6:07](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=367) · [[Transcript s02e07#Minute 6|in the transcript]]
 
-> … I wouldn´t have it any other way just now. Is there something creative you would like to be able to do but can't? I would love to be able to draw paint that kind …
+> … I wouldn’t have it any other way just now. Is there something creative you would like to be able to do but can't? I would love to be able to draw paint that kind …
 >
 > — [[s02e07 Free time|S2 E7]], [Minute 10:41](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=641) · [[Transcript s02e07#Minute 10|in the transcript]]
 
@@ -48,7 +48,7 @@ Art appears in C1 and C2 speaking tests and in reading texts; creativity is a po
 >
 > — [[s04e03 Home|S4 E3]], [Minute 11:28](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=688) · [[Transcript s04e03#Minute 11|in the transcript]]
 
-> Season 4, Art. Hello and welcome to the Real Exam English podcast. This episode is about art. You're going to hear loads of art …
+> Season 4, Art. This episode is about art. You're going to hear loads of art vocabulary, as well as some super ways of expressing …
 >
 > — [[s04e05 Art|S4 E5]], [Minute 0:04](https://open.spotify.com/episode/0vR11wg4wOSgeAnjtWfWIQ?t=4) · [[Transcript s04e05#Minute 0|in the transcript]]
 
@@ -72,7 +72,7 @@ Art appears in C1 and C2 speaking tests and in reading texts; creativity is a po
 >
 > — [[s05e04 School|S5 E4]], [Minute 10:35](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=635) · [[Transcript s05e04#Minute 10|in the transcript]]
 
-> … and welcome to the Real Exam English podcast. This episode is about creativity. It’s a great topic to cover as it touches so many other topics like art, childhood, work, psychology, loads. We have …
+> This episode is about creativity. It’s a great topic to cover as it touches so many other topics like art, childhood, work, psychology, loads. We have …
 >
 > — [[s06e06 Creativity|S6 E6]], [Minute 0:15](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=15) · [[Transcript s06e06#Minute 0|in the transcript]]
 

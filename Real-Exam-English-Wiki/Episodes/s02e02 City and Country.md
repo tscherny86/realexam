@@ -19,11 +19,11 @@ tags: [episode, season-2]
 | **Duration** | 18:54 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD) · [MP3](https://www.buzzsprout.com/1107956/episodes/7551790-s02-2-city-and-country.mp3) |
 | **Transcript** | [[Transcript s02e02]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[City & Country Life]], [[Work & Careers]], [[Languages & Language Learning]], [[Transport & Traffic]] |
-| **Language** | [[Idioms & Expressions]], [[Past Perfect & Narrative Tenses]], [[Connectors & Linking Words]], [[Pronunciation]] |
-| **Exams** | [[Speaking Exam]] |
-| **Accents** | [[USA]] |
-| **Briefly mentioned** | [[Technology & the Internet]], [[The Environment & Climate Change]], [[Free Time & Hobbies]], [[Communication]], [[Photography & Photos]], [[Money & Finance]], [[Parenting & Children]], [[Phrasal Verbs]], [[Prepositions]], [[Organising Your Answer]], [[Slang & Informal English]], [[Exam Tips & Preparation]], [[England]] |
+| **Topics** | [[City & Country Life]], [[Work & Careers]], [[Transport & Traffic]] |
+| **Language** | [[Idioms & Expressions]], [[Likes, Dislikes & Preferences]], [[Speculating & Hedging]] |
+| **Exams** | – |
+| **Accents** | – |
+| **Briefly mentioned** | [[Technology & the Internet]], [[Free Time & Hobbies]], [[Parenting & Children]], [[Phrasal Verbs]], [[Connectors & Linking Words]], [[England]], [[USA]] |
 
 ## Show notes
 
@@ -35,7 +35,7 @@ Thanks to all of the contributors, including Ian from the We Dig Music podcast, 
 
 ## Chapters
 
-- [0:12](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=12) – Hello and welcome to real exam English. Today’s topic is city versus country. You´re going to hear loads … ([[Transcript s02e02#Minute 0|transcript]])
+- [0:12](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=12) – Hello and welcome to real exam English. Today’s topic is city versus country. You’re going to hear loads … ([[Transcript s02e02#Minute 0|transcript]])
 - [2:25](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=145) – This expression and so forth is a great way to finish giving a list of items, it basically … ([[Transcript s02e02#Minute 2|transcript]])
 - [4:28](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=268) – Remember that discourse markers like this are essential to give your answers a nice structure and keep the … ([[Transcript s02e02#Minute 4|transcript]])
 - [6:44](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=404) – Awesome stuff there! I love it. For transcripts of the podcast, please go to the Real Exam English … ([[Transcript s02e02#Minute 6|transcript]])

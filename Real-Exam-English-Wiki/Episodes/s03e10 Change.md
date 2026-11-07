@@ -20,10 +20,10 @@ tags: [episode, season-3]
 | **Listen** | [Spotify](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB) · [MP3](https://www.buzzsprout.com/1107956/episodes/10763420-s03-10-change.mp3) |
 | **Transcript** | [[Transcript s03e10]] (word-level timestamps, aligned with the official transcript) |
 | **Topics** | [[Change & Life Changes]] |
-| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Modal Verbs]], [[Organising Your Answer]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |
 | **Exams** | – |
-| **Accents** | [[England]], [[USA]], [[Non-Native Speakers]] |
-| **Briefly mentioned** | [[Shopping & Consumerism]], [[Friends & Friendship]], [[Family & Relationships]], [[Happiness]], [[Languages & Language Learning]], [[Collocations]], [[Connectors & Linking Words]], [[Slang & Informal English]], [[Cambridge C2 Proficiency (CPE)]] |
+| **Accents** | [[England]], [[USA]], [[Australia]] |
+| **Briefly mentioned** | [[Shopping & Consumerism]], [[Friends & Friendship]], [[Family & Relationships]], [[Happiness]], [[Cambridge C2 Proficiency (CPE)]] |
 
 ## Show notes
 
@@ -35,7 +35,7 @@ Thanks to all of the contributors, including Ian from the We Dig Music podcast, 
 
 ## Chapters
 
-- [0:14](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=14) – Hello and welcome to Real exam English, my name is Trevor, today´s episode is about change. Things change, … ([[Transcript s03e10#Minute 0|transcript]])
+- [0:14](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=14) – Hello and welcome to Real exam English, my name is Trevor, today’s episode is about change. Things change, … ([[Transcript s03e10#Minute 0|transcript]])
 - [2:25](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=145) – I think the younger sort of generation like millennials and below are really starting to understand that life … ([[Transcript s03e10#Minute 2|transcript]])
 - [4:29](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=269) – One last expression to pick up on here is along those lines. So he said his friends are … ([[Transcript s03e10#Minute 4|transcript]])
 - [6:32](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=392) – You know, in good directions and in bad directions. Interesting answer there from smelly New York. So he … ([[Transcript s03e10#Minute 6|transcript]])

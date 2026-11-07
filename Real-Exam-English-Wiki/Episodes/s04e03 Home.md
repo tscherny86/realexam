@@ -20,10 +20,10 @@ tags: [episode, season-4]
 | **Listen** | [Spotify](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI) · [MP3](https://www.buzzsprout.com/1107956/episodes/12959107-s04-3-home.mp3) |
 | **Transcript** | [[Transcript s04e03]] (word-level timestamps, aligned with the official transcript) |
 | **Topics** | [[Home & Housing]] |
-| **Language** | [[Idioms & Expressions]], [[Past Perfect & Narrative Tenses]], [[Adjectives & Compound Adjectives]], [[Pronunciation]] |
-| **Exams** | – |
+| **Language** | [[Idioms & Expressions]], [[Adjectives & Compound Adjectives]], [[Pronunciation]] |
+| **Exams** | [[Exam Tips & Preparation]] |
 | **Accents** | [[Ireland]] |
-| **Briefly mentioned** | [[Work & Careers]], [[Money & Finance]], [[Art & Creativity]], [[Transport & Traffic]], [[Relaxing & Stress]], [[Phrasal Verbs]], [[Connectors & Linking Words]], [[Organising Your Answer]], [[Speaking Exam]], [[England]], [[USA]], [[Non-Native Speakers]] |
+| **Briefly mentioned** | [[Work & Careers]], [[Art & Creativity]], [[Transport & Traffic]], [[Relaxing & Stress]], [[Phrasal Verbs]], [[England]], [[USA]] |
 
 ## Show notes
 
@@ -39,7 +39,7 @@ Thanks to all of the contributors, including Matt, Leah Ann, Stephanie, Loli, Em
 - [2:17](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=137) – Another example would be, when I was a kid, we would have gone to the beach a lot … ([[Transcript s04e03#Minute 2|transcript]])
 - [4:28](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=268) – You can use this same structure in other answers too, like sometimes I do exercise alone, but mostly … ([[Transcript s04e03#Minute 4|transcript]])
 - [6:36](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=396) – You know, people maybe didn't sit in front of the telly. It's a very strange question, that one. … ([[Transcript s04e03#Minute 6|transcript]])
-- [8:42](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=522) – There's no…I'm in the middle of nowhere, so there's no bars or anything else around here. There's just … ([[Transcript s04e03#Minute 8|transcript]])
+- [8:41](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=521) – There's no… I'm in the middle of nowhere, so there's no bars or anything else around here. There's … ([[Transcript s04e03#Minute 8|transcript]])
 - [10:57](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=657) – Is it easy to have your own unique decorating style nowadays? Oh, yes it is. However, I think … ([[Transcript s04e03#Minute 10|transcript]])
 - [13:03](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=783) – So hopefully you found some other handy language in this episode too and could understand the various accents. … ([[Transcript s04e03#Minute 13|transcript]])
 

@@ -21,7 +21,7 @@ From *Do you have a pet?* to C2 debates on animal testing and zoos – animals c
 
 ## Said in the podcast
 
-> … and sympathy towards others, you often hear it used when speaking about animals. For example, in the 21st century the way animals are transported has become much more humane. For transcripts of the podcast, …
+> … and sympathy towards others, you often hear it used when speaking about animals. For example, in the 21st century the way animals are transported has become much more humane. As well as the transcripts, …
 >
 > — [[s02e05 Health|S2 E5]], [Minute 7:20](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=440) · [[Transcript s02e05#Minute 7|in the transcript]]
 

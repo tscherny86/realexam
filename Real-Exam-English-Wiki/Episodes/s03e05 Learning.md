@@ -19,11 +19,11 @@ tags: [episode, season-3]
 | **Duration** | 16:11 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0) · [MP3](https://www.buzzsprout.com/1107956/episodes/9701635-s03-5-learning.mp3) |
 | **Transcript** | [[Transcript s03e05]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[Photography & Photos]], [[Learning, School & Education]], [[Happiness]], [[Languages & Language Learning]] |
-| **Language** | [[Idioms & Expressions]], [[Connectors & Linking Words]], [[Common Mistakes]], [[Organising Your Answer]] |
-| **Exams** | [[Speaking Exam]] |
-| **Accents** | – |
-| **Briefly mentioned** | [[Priorities & Decisions]], [[Adjectives & Compound Adjectives]], [[New Zealand]], [[Non-Native Speakers]] |
+| **Topics** | [[Photography & Photos]], [[Learning, School & Education]] |
+| **Language** | [[Idioms & Expressions]], [[Organising Your Answer]], [[Speculating & Hedging]] |
+| **Exams** | – |
+| **Accents** | [[Ireland]], [[England]], [[USA]], [[Australia]], [[New Zealand]] |
+| **Briefly mentioned** | [[Priorities & Decisions]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]] |
 
 ## Show notes
 

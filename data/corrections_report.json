@@ -6,28 +6,43 @@
   }
  },
  "s01e02": {
-  "total": 0,
-  "rules": {}
+  "total": 1,
+  "rules": {
+   "In Ades second answer → In Ade's second answer": 1
+  }
  },
  "s01e03": {
-  "total": 0,
-  "rules": {}
+  "total": 5,
+  "rules": {
+   "welcome to read exam English → welcome to Real Exam English": 1,
+   "What is you favourite dessert → What is your favourite dessert": 1,
+   "on the condition that are providing that → on the condition that or providing that": 1,
+   "the cutlery table, clothes → the cutlery, tablecloths": 1,
+   "thank you very much. You're listening → thank you very much for listening": 1
+  }
  },
  "s01e04": {
-  "total": 0,
-  "rules": {}
+  "total": 1,
+  "rules": {
+   "he first question here has a phrasal verb → The first question here has a phrasal verb": 1
+  }
  },
  "s01e05": {
   "total": 0,
   "rules": {}
  },
  "s01e06": {
-  "total": 0,
-  "rules": {}
+  "total": 2,
+  "rules": {
+   "although it’s principles are a bit mixed → although its principles are a bit mixed": 1,
+   "My house if just full of things → My house is just full of things": 1
+  }
  },
  "s01e07": {
-  "total": 0,
-  "rules": {}
+  "total": 1,
+  "rules": {
+   "Marc Ribellet → Marc Rebillet": 1
+  }
  },
  "s01e08": {
   "total": 1,
@@ -36,108 +51,245 @@
   }
  },
  "s01e09": {
-  "total": 0,
-  "rules": {}
+  "total": 3,
+  "rules": {
+   "documentaryt → documentary": 2,
+   "but its too hot → but it's too hot": 1
+  }
  },
  "s01e10": {
   "total": 0,
   "rules": {}
  },
  "s02e01": {
-  "total": 0,
-  "rules": {}
+  "total": 9,
+  "rules": {
+   "you havent seen for some time → you haven't seen for some time": 1,
+   "lets catch up over a beer → let's catch up over a beer": 1,
+   "my town Queen Bee → my town Queanbeyan": 1,
+   "like its extremely easy → like it's extremely easy": 1,
+   "camping gear i one that → camping gear is one that": 1,
+   "I do get the experiment with it → I do get to experiment with it": 1,
+   "you know it' fun → you know it's fun": 1,
+   "Realexam English → Real Exam English": 1,
+   "in it’s place put and so on → in its place put and so on": 1
+  }
  },
  "s02e02": {
-  "total": 0,
-  "rules": {}
+  "total": 4,
+  "rules": {
+   "depend on on the Street park in you → depend on on the street parking you": 1,
+   "like I had two one night → like I had to one night": 1,
+   "be prepared for the business and people always zooming past you → be prepared for the busyness and people always zooming past you": 1,
+   "built up environment, are very, very urban environment → built up environment, a very, very urban environment": 1
+  }
  },
  "s02e03": {
-  "total": 0,
-  "rules": {}
+  "total": 7,
+  "rules": {
+   "We are some excellent vocabulary about globalization → We have some excellent vocabulary about globalization": 1,
+   "hat do you think we as individuals → What do you think we as individuals": 1,
+   "That sentence lived by itAnd that will improve → That sentence, live by it. And that will improve": 1,
+   "what you made Receive when → what you may receive when": 1,
+   "additoinally → additionally": 1,
+   "What do tou think → What do you think": 1,
+   "I would stay social media → I would say social media": 1
+  }
  },
  "s02e04": {
-  "total": 0,
-  "rules": {}
+  "total": 8,
+  "rules": {
+   "I think its true We too often → I think it's true. We too often": 1,
+   "during the Christmas in New Year period → during the Christmas and New Year period": 1,
+   "we keep re buying stuff → we keep rebuying stuff": 1,
+   "go to the Realexam English website → go to the Real Exam English website": 1,
+   "There are quite impersonal and tends → They're quite impersonal and tends": 1,
+   "looking at different. Projects and I love that → looking at different products and I love that": 1,
+   "getting worse quality an → getting worse quality and": 1,
+   "it's less personal and then a small clothes shop an you still get → it's less personal than a small clothes shop and you still get": 1
+  }
  },
  "s02e05": {
-  "total": 0,
-  "rules": {}
+  "total": 2,
+  "rules": {
+   "eating an my lifestyle → eating and my lifestyle": 1,
+   "change an food to change → change and food to change": 1
+  }
  },
  "s02e06": {
-  "total": 0,
-  "rules": {}
+  "total": 4,
+  "rules": {
+   "adjectives likes this is great → adjectives like this is great": 1,
+   "the make sure you try → then make sure you try": 1,
+   "large groups of teams or dressing → large groups of teens all dressing": 1,
+   "An I guess personality type → And I guess personality type": 1
+  }
  },
  "s02e07": {
-  "total": 0,
-  "rules": {}
+  "total": 10,
+  "rules": {
+   "put in light bubbles → put in like bubbles": 1,
+   "so will roast marshmallows → so we'll roast marshmallows": 1,
+   "follow the baseline → follow the bassline": 1,
+   "1516 years ago → 15, 16 years ago": 1,
+   "he a had a new puppy → he had a new puppy": 1,
+   "interested int → interested in": 1,
+   "take stock an you know → take stock and you know": 1,
+   "process things an I think → process things and I think": 1,
+   "thoughts Anne and actually → thoughts and and actually": 1,
+   "of the flowers or whatever → or the flowers or whatever": 1
+  }
  },
  "s02e08": {
-  "total": 0,
-  "rules": {}
+  "total": 5,
+  "rules": {
+   "need to meet projects → neat to me projects": 1,
+   "1 Would you mind a job → Would you mind a job": 1,
+   "I not keen on cleaning → I'm not keen on cleaning": 1,
+   "head about the parapet → head above the parapet": 1,
+   "formalized process is → formalized processes": 1
+  }
  },
  "s02e09": {
-  "total": 0,
-  "rules": {}
+  "total": 6,
+  "rules": {
+   "kovid → Covid": 1,
+   "we hear absolutely hear again → we hear absolutely here again": 1,
+   "people sort of Sharon and → people sort of share and": 1,
+   "the Independence Online → the Independent Online": 1,
+   "here we head about search engines → here we heard about search engines": 1,
+   "celebrity new and publications → celebrity news and publications": 1
+  }
  },
  "s02e10": {
-  "total": 0,
-  "rules": {}
+  "total": 7,
+  "rules": {
+   "ThenThere should be → Then there should be": 1,
+   "will change overtime as far as → will change over time as far as": 1,
+   "Which it was and when I was young → Which it wasn't when I was young": 1,
+   "if that got muted again → if that got mooted again": 1,
+   "talk of 1 new year → talk of one new year": 1,
+   "get up to an what they are → get up to and what they are": 1,
+   "come under an just in → come under and just in": 1
+  }
  },
  "s03e01": {
-  "total": 0,
-  "rules": {}
+  "total": 7,
+  "rules": {
+   "Transfers ors translates → Transfers or translates": 1,
+   "here are out first few types → here are our first few types": 1,
+   "if you friend has bought → if your friend has bought": 1,
+   "American’s don’t use it → Americans don’t use it": 1,
+   "the word has cancelled has emerged → the word cancelled has emerged": 1,
+   "if you’re friends aren’t taking → if your friends aren’t taking": 1,
+   "about someone race → about someone's race": 1
+  }
  },
  "s03e02": {
-  "total": 0,
-  "rules": {}
+  "total": 2,
+  "rules": {
+   "which of course if when you are → which of course is when you are": 1,
+   "opnion → opinion": 1
+  }
  },
  "s03e03": {
-  "total": 0,
-  "rules": {}
+  "total": 4,
+  "rules": {
+   "going to here lots of photography → going to hear lots of photography": 1,
+   "photos to you like to keep → photos do you like to keep": 1,
+   "why I'm dating somebody → invading somebody's": 1,
+   "dinner party 1 evening → dinner party one evening": 1
+  }
  },
  "s03e04": {
-  "total": 0,
-  "rules": {}
+  "total": 1,
+  "rules": {
+   "look at it a pair of inversions → look at is a pair of inversions": 1
+  }
  },
  "s03e05": {
-  "total": 0,
-  "rules": {}
+  "total": 4,
+  "rules": {
+   "go to round to speak → go round to speak": 1,
+   "You can also you keep or have → You can also say keep or have": 1,
+   "sounds much better to us less likely instead or there is → sounds much better to use less likely instead of there is": 1,
+   "engineering 2 completely different → engineering two completely different": 1
+  }
  },
  "s03e06": {
-  "total": 0,
-  "rules": {}
+  "total": 11,
+  "rules": {
+   "it’s positive and negative aspects → its positive and negative aspects": 1,
+   "facets with it comes to clothes → facets when it comes to clothes": 1,
+   "T shirt or a band I like → T shirt of a band I like": 1,
+   "ratherClothes → rather clothes": 1,
+   "acceptableI'm → acceptable I'm": 1,
+   "get away something risky → get away with something risky": 1,
+   "We also the opposite → We also had the opposite": 1,
+   "from someone voice → from someone's voice": 1,
+   "sew close together → sew clothes together": 1,
+   "and them throw them away → and then throw them away": 1,
+   "we covid don't have → with covid don't have": 1
+  }
  },
  "s03e07": {
-  "total": 0,
-  "rules": {}
+  "total": 1,
+  "rules": {
+   "the woman hand is cut → the woman's hand is cupped": 1
+  }
  },
  "s03e08": {
-  "total": 0,
-  "rules": {}
+  "total": 3,
+  "rules": {
+   "Anther useful → Another useful": 1,
+   "their concerned → they're concerned": 1,
+   "manThat → man That": 1
+  }
  },
  "s03e09": {
-  "total": 0,
-  "rules": {}
+  "total": 4,
+  "rules": {
+   "It’s use here → Its use here": 1,
+   "photogragh → photograph": 1,
+   "one of the watts → one of the wats": 1,
+   "Shree Lanka → Sri Lanka": 1
+  }
  },
  "s03e10": {
   "total": 0,
   "rules": {}
  },
  "s04e01": {
-  "total": 0,
-  "rules": {}
+  "total": 5,
+  "rules": {
+   "And too many places → In too many places": 1,
+   "where some takes → where someone takes": 1,
+   "starts here second → starts her second": 1,
+   "where true or not → whether true or not": 1,
+   "for most episodes → for more episodes": 1
+  }
  },
  "s04e02": {
-  "total": 0,
-  "rules": {}
+  "total": 4,
+  "rules": {
+   "you're intonation → your intonation": 1,
+   "want to here → want to hear": 1,
+   "meaning if can → meaning it can": 1,
+   "for todays folks → for today folks": 1
+  }
  },
  "s04e03": {
-  "total": 0,
-  "rules": {}
+  "total": 1,
+  "rules": {
+   "not ok it comfortable → not ok is comfortable": 1
+  }
  },
  "s04e04": {
-  "total": 0,
-  "rules": {}
+  "total": 2,
+  "rules": {
+   "each is other → each other": 1,
+   "your feeling bad → you’re feeling bad": 1
+  }
  },
  "s04e05": {
   "total": 6,
@@ -146,44 +298,83 @@
   }
  },
  "s04e06": {
-  "total": 0,
-  "rules": {}
+  "total": 1,
+  "rules": {
+   "one hours sleep → one hour’s sleep": 1
+  }
  },
  "s04e07": {
-  "total": 0,
-  "rules": {}
+  "total": 6,
+  "rules": {
+   "child is going something → child is doing something": 1,
+   "in terms or distance → in terms of distance": 1,
+   "the parents job → the parents’ job": 1,
+   "a minute of two → a minute or two": 1,
+   "going to back to your → going back to your": 1,
+   "what your promised → what you promised": 1
+  }
  },
  "s04e08": {
-  "total": 0,
-  "rules": {}
+  "total": 4,
+  "rules": {
+   "thany → than": 1,
+   "handy was of saying → handy way of saying": 1,
+   "often used a phrasal → often used as a phrasal": 1,
+   "warm or could it → warm or cold it": 1
+  }
  },
  "s04e09": {
-  "total": 0,
-  "rules": {}
+  "total": 7,
+  "rules": {
+   "countries mythology → country's mythology": 1,
+   "like 911 → like 9/11": 1,
+   "Saint Patricks Day → Saint Patrick’s Day": 1,
+   "inititially → initially": 1,
+   "catches you surprise → catches you by surprise": 1,
+   "of it’s smart → of its smart": 1,
+   "exactlywhat → exactly what": 1
+  }
  },
  "s04e10": {
-  "total": 0,
-  "rules": {}
+  "total": 3,
+  "rules": {
+   "would love to do able to do → would love to be able to do": 1,
+   "Santa Paula → Santa Pola": 1,
+   "that’s not the say → that’s not to say": 1
+  }
  },
  "s05e01": {
-  "total": 0,
-  "rules": {}
+  "total": 4,
+  "rules": {
+   "a few next accents → a few new accents": 1,
+   "in sore more detail → in some more detail": 1,
+   "grammatical rule her → grammatical rule here": 1,
+   "the reading the next baits you → reading the news baits you": 1
+  }
  },
  "s05e02": {
   "total": 0,
   "rules": {}
  },
  "s05e03": {
-  "total": 0,
-  "rules": {}
+  "total": 2,
+  "rules": {
+   "funky old paper → funky wallpaper": 1,
+   "He said we would be in awe if he went → He said he would be in awe if he went": 1
+  }
  },
  "s05e04": {
-  "total": 0,
-  "rules": {}
+  "total": 2,
+  "rules": {
+   "easier than done → easier said than done": 1,
+   "she started he first answer → she started her first answer": 1
+  }
  },
  "s05e05": {
-  "total": 0,
-  "rules": {}
+  "total": 1,
+  "rules": {
+   "comes from the work ache → comes from the word ache": 1
+  }
  },
  "s05e06": {
   "total": 0,
@@ -194,96 +385,150 @@
   "rules": {}
  },
  "s05e08": {
-  "total": 0,
-  "rules": {}
+  "total": 1,
+  "rules": {
+   "It really enjoyed it → I really enjoyed it": 1
+  }
  },
  "s05e09": {
-  "total": 0,
-  "rules": {}
+  "total": 2,
+  "rules": {
+   "like out speaker here → like our speaker here": 1,
+   "left, right and Center in jets → left, right and centre in jets": 1
+  }
  },
  "s05e10": {
-  "total": 0,
-  "rules": {}
+  "total": 6,
+  "rules": {
+   "more commonly here lots of fun → more commonly hear lots of fun": 1,
+   "heard of part run → heard of parkrun": 1,
+   "you need to used the verb → you need to use the verb": 1,
+   "more things to do that you initially think → more things to do than you initially think": 1,
+   "more than meets to eye → more than meets the eye": 1,
+   "I was really nice, wasn't it → It was really nice, wasn't it": 1
+  }
  },
  "s06e01": {
   "total": 0,
   "rules": {}
  },
  "s06e02": {
-  "total": 0,
-  "rules": {}
+  "total": 1,
+  "rules": {
+   "before I repel, but I have repelled → before I rappel, but I have rappelled": 1
+  }
  },
  "s06e03": {
   "total": 0,
   "rules": {}
  },
  "s06e04": {
-  "total": 0,
-  "rules": {}
+  "total": 2,
+  "rules": {
+   "her usually energy → her usual energy": 1,
+   "The he said he had to go through → Then he said he had to go through": 1
+  }
  },
  "s06e05": {
-  "total": 0,
-  "rules": {}
+  "total": 1,
+  "rules": {
+   "is nice actually, isn’t in → is nice actually, isn’t it": 1
+  }
  },
  "s06e06": {
-  "total": 0,
-  "rules": {}
+  "total": 2,
+  "rules": {
+   "that you will ever here → that you will ever hear": 1,
+   "Another example welative ould be → Another example would be": 1
+  }
  },
  "s06e07": {
-  "total": 0,
-  "rules": {}
+  "total": 2,
+  "rules": {
+   "thaxºt's → that's": 1,
+   "told you back chance circumstances → told you back in the day. Chance circumstances": 1
+  }
  },
  "s06e08": {
   "total": 0,
   "rules": {}
  },
  "s06e09": {
-  "total": 0,
-  "rules": {}
+  "total": 3,
+  "rules": {
+   "differ all the much → differ all that much": 1,
+   "let’s people know → lets people know": 1,
+   "her used of repetition → her use of repetition": 1
+  }
  },
  "s06e10": {
-  "total": 0,
-  "rules": {}
+  "total": 1,
+  "rules": {
+   "when you through a coin → when you throw a coin": 1
+  }
  },
  "x2020-12-07": {
   "total": 0,
   "rules": {}
  },
  "x2021-02-19": {
-  "total": 0,
-  "rules": {}
+  "total": 1,
+  "rules": {
+   "you’re exam is in the distant future → your exam is in the distant future": 1
+  }
  },
  "x2021-06-20": {
-  "total": 0,
-  "rules": {}
+  "total": 4,
+  "rules": {
+   "interlocuter → interlocutor": 2,
+   "demands for it’s products → demands for its products": 1,
+   "name for it’s brand → name for its brand": 1
+  }
  },
  "x2022-07-16": {
   "total": 0,
   "rules": {}
  },
  "x2022-10-14": {
-  "total": 0,
-  "rules": {}
+  "total": 2,
+  "rules": {
+   "peoples fitness → people’s fitness": 1,
+   "peoples lives → people’s lives": 1
+  }
  },
  "x2023-01-27": {
-  "total": 0,
-  "rules": {}
+  "total": 1,
+  "rules": {
+   "known is a portmanteau → known as a portmanteau": 1
+  }
  },
  "x2024-04-16": {
-  "total": 0,
-  "rules": {}
+  "total": 1,
+  "rules": {
+   "refreshing star grammar → refreshing your grammar": 1
+  }
  },
  "x2024-05-01": {
   "total": 0,
   "rules": {}
  },
  "x2024-06-29": {
-  "total": 0,
-  "rules": {}
+  "total": 3,
+  "rules": {
+   "such an A natural way → such an unnatural way": 1,
+   "your best it to take classes → your best bet is to take classes": 1,
+   "Image when we speak → Imagine when we speak": 1
+  }
  },
  "x2024-08-02": {
-  "total": 0,
-  "rules": {}
+  "total": 8,
+  "rules": {
+   "C02 → CO2": 4,
+   "countryand → country and": 1,
+   "You often also here people saying → You often also hear people saying": 1,
+   "you and agencies → UN agencies": 1,
+   "you and women, you and DP → UN Women, UNDP": 1
+  }
  },
  "x2025-09-22": {
   "total": 0,
@@ -294,12 +539,16 @@
   "rules": {}
  },
  "x2025-11-21": {
-  "total": 0,
-  "rules": {}
+  "total": 1,
+  "rules": {
+   "You often here this one → You often hear this one": 1
+  }
  },
  "x2025-12-16": {
-  "total": 0,
-  "rules": {}
+  "total": 1,
+  "rules": {
+   "speakin was never a thing → speaking was never a thing": 1
+  }
  },
  "x2026-06-24": {
   "total": 0,

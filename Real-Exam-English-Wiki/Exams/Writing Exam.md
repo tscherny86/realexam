@@ -1,6 +1,6 @@
 ---
 type: exams
-episodes: 4
+episodes: 3
 tags: [exams]
 ---
 # Writing Exam
@@ -40,7 +40,7 @@ Cambridge writing is marked on **Content**, **Communicative Achievement**, **Org
 >
 > — [[x2021-02-19 Bonus Episode - Writing|Bonus]], [Minute 4:45](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=285) · [[Transcript x2021-02-19#Minute 4|in the transcript]]
 
-> … of the exam. That way when you have to write, say, an essay about technology, then you know ok I´m going to write these ten words, those 2 phrasal verbs, that conditional, this inversion, …
+> … of the exam. That way when you have to write, say, an essay about technology, then you know ok I’m going to write these ten words, those 2 phrasal verbs, that conditional, this inversion, …
 >
 > — [[x2021-02-19 Bonus Episode - Writing|Bonus]], [Minute 6:33](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=393) · [[Transcript x2021-02-19#Minute 6|in the transcript]]
 
@@ -48,7 +48,7 @@ Cambridge writing is marked on **Content**, **Communicative Achievement**, **Org
 >
 > — [[x2021-06-20 Phrasal Verbs for Writing|Bonus]], [Minute 3:43](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=223) · [[Transcript x2021-06-20#Minute 3|in the transcript]]
 
-> … seen each other so we´re really looking forward to it. In a writing exam this could be used in a letter, either informal or formal and in fact is a very typical way to …
+> … seen each other so we’re really looking forward to it. In a writing exam this could be used in a letter, either informal or formal and in fact is a very typical way to …
 >
 > — [[x2021-06-20 Phrasal Verbs for Writing|Bonus]], [Minute 5:17](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=317) · [[Transcript x2021-06-20#Minute 5|in the transcript]]
 
@@ -64,21 +64,13 @@ Cambridge writing is marked on **Content**, **Communicative Achievement**, **Org
 >
 > — [[s03e08 Fame|S3 E8]], [Minute 10:46](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=646) · [[Transcript s03e08#Minute 10|in the transcript]]
 
-> … mind that this is informal, so you couldn´t use it in an essay or other formal writing, but writing or chatting informally…absolutely. We also had this brilliant comparative structure in the first answer I´m …
+> … mind that this is informal, so you couldn’t use it in an essay or other formal writing, but writing or chatting informally… absolutely. We also had this brilliant comparative structure in the first answer …
 >
 > — [[s03e09 Culture|S3 E9]], [Minute 3:07](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=187) · [[Transcript s03e09#Minute 3|in the transcript]]
 
 > … particularly if you are writing something like an article, a story, an informal letter or a review. Some people say that these days there aren't many big cultural differences between countries. Do you agree? …
 >
 > — [[s03e09 Culture|S3 E9]], [Minute 14:15](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=855) · [[Transcript s03e09#Minute 14|in the transcript]]
-
-> … had a lot of exams where you would learn off a full essay in a specific language without actually knowing what the essay was about but you would get, you could get an A …
->
-> — [[s04e02 Languages|S4 E2]], [Minute 16:01](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=961) · [[Transcript s04e02#Minute 16|in the transcript]]
-
-> … to reel off. She said that she would learn off a full essay. This means that she would learn every word by memory or to use another expression, she would learn it by heart. …
->
-> — [[s04e02 Languages|S4 E2]], [Minute 17:32](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=1052) · [[Transcript s04e02#Minute 17|in the transcript]]
 
 > … for this. If you look at the marking scales for a Cambridge writing exam, this is one of the examples they give in how to get maximum marks in your C1 writing for organisations, …
 >
@@ -116,11 +108,10 @@ Cambridge writing is marked on **Content**, **Communicative Achievement**, **Org
 >
 > — [[s05e02 Manners|S5 E2]], [Minute 21:12](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1272) · [[Transcript s05e02#Minute 21|in the transcript]]
 
-## In these episodes (4)
+## In these episodes (3)
 
 - [[x2021-02-19 Bonus Episode - Writing|Bonus – Bonus Episode - Writing]] (2021-02-19) — Show notes · Minute [0:13](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=13), [4:45](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=285), [6:33](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=393)
 - [[x2021-06-20 Phrasal Verbs for Writing|Bonus – Phrasal Verbs for Writing]] (2021-06-20) — Show notes · Minute [3:43](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=223), [5:17](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=317), [7:46](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=466), [9:26](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=566)
-- [[s04e02 Languages|S4 E2 – Languages]] (2023-04-29) — Minute [16:01](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=961), [17:32](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=1052)
 - [[x2024-06-29 Vietnam and IELTS|Bonus – Vietnam and IELTS]] (2024-06-29) — Show notes · Minute [0:15](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=15), [6:16](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=376), [8:44](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=524), [10:17](https://open.spotify.com/episode/2OCy86b2AhICkYvbObbsl1?t=617)
 
 ## Briefly mentioned (6)

@@ -19,11 +19,11 @@ tags: [episode, season-1]
 | **Duration** | 16:56 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd) · [MP3](https://www.buzzsprout.com/1107956/episodes/5297023-s01-5-phrasal-verbs.mp3) |
 | **Transcript** | [[Transcript s01e05]] (word-level timestamps, fully proofread) |
-| **Topics** | [[Food & Cooking]] |
+| **Topics** | – |
 | **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]] |
-| **Exams** | [[Exam Tips & Preparation]] |
-| **Accents** | [[England]] |
-| **Briefly mentioned** | [[Technology & the Internet]], [[Health & Wellbeing]], [[Family & Relationships]], [[Money & Finance]], [[Learning, School & Education]], [[Home & Housing]], [[Parenting & Children]], [[Relaxing & Stress]], [[News & Media]], [[Passive Voice]], [[Prepositions]], [[Ireland]], [[Non-Native Speakers]] |
+| **Exams** | – |
+| **Accents** | – |
+| **Briefly mentioned** | [[Technology & the Internet]], [[Health & Wellbeing]], [[Family & Relationships]], [[Home & Housing]], [[Parenting & Children]], [[Relaxing & Stress]], [[Passive Voice]], [[Ireland]], [[England]] |
 
 ## Show notes
 

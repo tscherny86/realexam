@@ -1,6 +1,6 @@
 ---
 type: language
-episodes: 32
+episodes: 36
 tags: [language]
 ---
 # Phrasal Verbs
@@ -35,11 +35,11 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s01e01 Introductions|S1 E1]], [Minute 11:43](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=703) · [[Transcript s01e01#Minute 11|in the transcript]]
 
-> … wherever. You will need to get yourself some nice expressions, vocabulary and phrasal verbs that you will be able to use in the exam. And basically there are two types of questions relating to …
+> … travel! You will need to get yourself some nice expressions, vocabulary and phrasal verbs that you will be able to use in the exam. And basically there are two types of questions relating to …
 >
 > — [[s01e02 Travel|S1 E2]], [Minute 0:46](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=46) · [[Transcript s01e02#Minute 0|in the transcript]]
 
-> … but I think I´ve seen enough museums. Just to comment on the phrasal verb in this answer, so the sentence was I just like to wander around basically and to wander around means to …
+> … but I think I’ve seen enough museums. Just to comment on the phrasal verb in this answer, so the sentence was I just like to wander around basically and to wander around means to …
 >
 > — [[s01e02 Travel|S1 E2]], [Minute 8:59](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=539) · [[Transcript s01e02#Minute 8|in the transcript]]
 
@@ -51,9 +51,9 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s01e04 Sport and exercise|S1 E4]], [Minute 0:33](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=33) · [[Transcript s01e04#Minute 0|in the transcript]]
 
-> … something first thing in the morning. he first question here has a phrasal verb within the question. It was have you ever taken part in a sports competition and to take part in means …
+> … and I feel like I’ve achieved something first thing in the morning. The first question here has a phrasal verb within the question. It was have you ever taken part in a sports competition and to take part in means to …
 >
-> — [[s01e04 Sport and exercise|S1 E4]], [Minute 3:29](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=209) · [[Transcript s01e04#Minute 3|in the transcript]]
+> — [[s01e04 Sport and exercise|S1 E4]], [Minute 3:27](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=207) · [[Transcript s01e04#Minute 3|in the transcript]]
 
 > … mention is to work out, OK, so you you probably know this phrasal verb before, but it really is the most important phrasal verb when you're talking about exercising and gyms in particular. So …
 >
@@ -87,7 +87,7 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s01e06 Technology|S1 E6]], [Minute 12:08](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=728) · [[Transcript s01e06#Minute 12|in the transcript]]
 
-> … difference between classic and classical music and we also have some great phrasal verbs. We have a super mix of accents for you today and in case you can´t follow everything the speakers say …
+> … difference between classic and classical music and we also have some great phrasal verbs. Ok then, let’s go with the questions. Trevor: What kind of music do you enjoy most? Karen: Well, it’s easier …
 >
 > — [[s01e07 Music|S1 E7]], [Minute 0:29](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=29) · [[Transcript s01e07#Minute 0|in the transcript]]
 
@@ -107,7 +107,7 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s01e08 The Environment|S1 E8]], [Minute 13:03](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=783) · [[Transcript s01e08#Minute 13|in the transcript]]
 
-> … super language to describe partying and enjoying yourself, we have some nice phrasal verbs and lots of great real-English idioms! So let´s go! Which do you prefer? Celebrations with family or with friends? I'm …
+> … super language to describe partying and enjoying yourself, we have some nice phrasal verbs and lots of great real-English idioms! So let’s go! Which do you prefer? Celebrations with family or with friends? I'm …
 >
 > — [[s02e01 Celebrations|S2 E1]], [Minute 1:10](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=70) · [[Transcript s02e01#Minute 1|in the transcript]]
 
@@ -135,7 +135,7 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[x2021-02-19 Bonus Episode - Writing|Bonus]], [Minute 3:30](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=210) · [[Transcript x2021-02-19#Minute 3|in the transcript]]
 
-> … you know ok I´m going to write these ten words, those 2 phrasal verbs, that conditional, this inversion, 4 paragraphs, this opening sentence, that conclusion, those connectors, and it´s just a matter of piecing …
+> … you know ok I’m going to write these ten words, those 2 phrasal verbs, that conditional, this inversion, 4 paragraphs, this opening sentence, that conclusion, those connectors, and it’s just a matter of piecing …
 >
 > — [[x2021-02-19 Bonus Episode - Writing|Bonus]], [Minute 6:39](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=399) · [[Transcript x2021-02-19#Minute 6|in the transcript]]
 
@@ -147,19 +147,15 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s02e06 Friends|S2 E6]], [Minute 6:35](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=395) · [[Transcript s02e06#Minute 6|in the transcript]]
 
-> … oh.Actually, that's really useful.That would be useful for us. A classic friendship phrasal verb here, which is to hang out with friends. We also heard the speaker say she agrees to a certain extent, …
->
-> — [[s02e06 Friends|S2 E6]], [Minute 9:21](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=561) · [[Transcript s02e06#Minute 9|in the transcript]]
-
 > … have been done to death. We had a couple of B2 level phrasal verbs too, to look up information which is to search for information and to find out things which means to discover …
 >
 > — [[s02e07 Free time|S2 E7]], [Minute 3:15](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=195) · [[Transcript s02e07#Minute 3|in the transcript]]
 
-> … is to talk about things that aren´t very important. We had a phrasal verb here which comes up all the time in Cambridge exams and that is to set up. So to set up …
+> … is to talk about things that aren’t very important. We had a phrasal verb here which comes up all the time in Cambridge exams and that is to set up. So to set up …
 >
 > — [[s02e07 Free time|S2 E7]], [Minute 5:41](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=341) · [[Transcript s02e07#Minute 5|in the transcript]]
 
-> … English exams. It´s also a subject that has a lot of specific phrasal verbs and you are going to hear loads of them today. All of the questions today, and every day, are from …
+> … English exams. It’s also a subject that has a lot of specific phrasal verbs and you are going to hear loads of them today. All of the questions today, and every day, are from …
 >
 > — [[s02e09 Communications|S2 E9]], [Minute 0:27](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=27) · [[Transcript s02e09#Minute 0|in the transcript]]
 
@@ -167,7 +163,7 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s02e09 Communications|S2 E9]], [Minute 2:57](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=177) · [[Transcript s02e09#Minute 2|in the transcript]]
 
-> … for today. Make sure to make a note of all of the phrasal verbs you heard today. It´s a good idea to make a list of all of the new phrasal verbs you come …
+> … for today. Make sure to make a note of all of the phrasal verbs you heard today. It’s a good idea to make a list of all of the new phrasal verbs you come …
 >
 > — [[s02e09 Communications|S2 E9]], [Minute 12:44](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=764) · [[Transcript s02e09#Minute 12|in the transcript]]
 
@@ -179,11 +175,11 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s02e10 Family|S2 E10]], [Minute 4:08](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=248) · [[Transcript s02e10#Minute 4|in the transcript]]
 
-> … have information about new classes and I have a list of great phrasal verbs to use in writings So, with regards to the next season of the podcast, I´m busy recording answers from around …
+> … have information about new classes and I have a list of great phrasal verbs to use in writings So, with regards to the next season of the podcast, I’m busy recording answers from around …
 >
 > — [[x2021-06-20 Phrasal Verbs for Writing|Bonus]], [Minute 0:20](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=20) · [[Transcript x2021-06-20#Minute 0|in the transcript]]
 
-> … add a link in the show notes too. Ok, on to the phrasal verbs. So, one of my C1 students, Amaya, asked me for a list of phrasal verbs that would be good to …
+> … off for B2, C1 and C2 in September. Ok, on to the phrasal verbs. So, one of my C1 students, Amaya, asked me for a list of phrasal verbs that would be good to …
 >
 > — [[x2021-06-20 Phrasal Verbs for Writing|Bonus]], [Minute 3:34](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=214) · [[Transcript x2021-06-20#Minute 3|in the transcript]]
 
@@ -191,9 +187,13 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[x2021-06-20 Phrasal Verbs for Writing|Bonus]], [Minute 6:20](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=380) · [[Transcript x2021-06-20#Minute 6|in the transcript]]
 
-> … for all of you grammar junkies!) If you haven´t been using this phrasal verb before then make sure you learn it as it´s very versatile and will lead to more marks for you in …
+> … for all of you grammar junkies!) If you haven’t been using this phrasal verb before then make sure you learn it as it’s very versatile and will lead to more marks for you in …
 >
 > — [[x2021-06-20 Phrasal Verbs for Writing|Bonus]], [Minute 8:02](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=482) · [[Transcript x2021-06-20#Minute 8|in the transcript]]
+
+> … vocabulary about humour in general as well as a bunch of idioms, phrasal verbs and really cool expressions. In terms of accents we have US, English, Irish, Australian and New Zealand so superb listening …
+>
+> — [[s03e01 Humour|S3 E1]], [Minute 1:27](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=87) · [[Transcript s03e01#Minute 1|in the transcript]]
 
 > … answer, which was a perfect length by the way, we heard this phrasal verb, to lug around a camera. To lug around means to carry something heavy with you, like after shopping you might …
 >
@@ -203,7 +203,7 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s03e03 Photos|S3 E3]], [Minute 11:42](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=702) · [[Transcript s03e03#Minute 11|in the transcript]]
 
-> … which is a colloquial way of saying photos and we heard this phrasal verb to show off, meaning to boast about something or show everyone how great you are, in an annoying way. Like, …
+> … shop to get your images printed. in photos and we heard this phrasal verb to show off, meaning to boast about something or show everyone how great you are, in an annoying way. Like, …
 >
 > — [[s03e03 Photos|S3 E3]], [Minute 14:06](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=846) · [[Transcript s03e03#Minute 14|in the transcript]]
 
@@ -231,7 +231,7 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s03e08 Fame|S3 E8]], [Minute 11:40](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=700) · [[Transcript s03e08#Minute 11|in the transcript]]
 
-> … New York to London to Spain to Australia. We hear some lovely phrasal verbs, we look at a great way to structure monologues and of course we have plenty of top vocabulary too. You …
+> … New York to London to Spain to Australia. We hear some lovely phrasal verbs, we look at a great way to structure monologues and of course we have plenty of top vocabulary too. Ok …
 >
 > — [[s03e10 Change|S3 E10]], [Minute 0:35](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=35) · [[Transcript s03e10#Minute 0|in the transcript]]
 
@@ -251,7 +251,7 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s04e02 Languages|S4 E2]], [Minute 13:07](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=787) · [[Transcript s04e02#Minute 13|in the transcript]]
 
-> … I can stay injury-free I´ll do it. Once again we heard this phrasal verb to pick up, in this case he said that he picks up the odd sentence. Odd in this respect means …
+> … I can stay injury-free I’ll do it. Once again we heard this phrasal verb to pick up, in this case he said that he picks up the odd sentence. Odd in this respect means …
 >
 > — [[s04e02 Languages|S4 E2]], [Minute 14:48](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=888) · [[Transcript s04e02#Minute 14|in the transcript]]
 
@@ -259,7 +259,7 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s04e03 Home|S4 E3]], [Minute 12:47](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=767) · [[Transcript s04e03#Minute 12|in the transcript]]
 
-> … loads of weather vocabulary, as well as some top adverbs, a few phrasal verbs and some great real English expressions to make you sound a little bit more like a native English speaker. As …
+> … loads of weather vocabulary, as well as some top adverbs, a few phrasal verbs and some great real English expressions to make you sound a little bit more like a native English speaker. Oh, …
 >
 > — [[s04e04 Weather|S4 E4]], [Minute 1:05](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=65) · [[Transcript s04e04#Minute 1|in the transcript]]
 
@@ -275,11 +275,11 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s04e06 Transport|S4 E6]], [Minute 2:54](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=174) · [[Transcript s04e06#Minute 2|in the transcript]]
 
-> … the way I see it, really handy that one. She had this phrasal verb, to move around a country, it´s quite literal this one, to move from place to place within a country. Another …
+> … the way I see it, really handy that one. She had this phrasal verb, to move around a country, it’s quite literal this one, to move from place to place within a country. Another …
 >
 > — [[s04e06 Transport|S4 E6]], [Minute 4:51](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=291) · [[Transcript s04e06#Minute 4|in the transcript]]
 
-> … lovely grammar and vocabulary to take a look at, including a few phrasal verbs, a couple of tricky adverbs, and some curious usage of the word good. For details of the transcript for this …
+> … lovely grammar and vocabulary to take a look at, including a few phrasal verbs, a couple of tricky adverbs, and some curious usage of the word good. Violence….no, I think patience and understanding. As …
 >
 > — [[s04e07 Parenting|S4 E7]], [Minute 0:34](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=34) · [[Transcript s04e07#Minute 0|in the transcript]]
 
@@ -291,15 +291,15 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s04e07 Parenting|S4 E7]], [Minute 7:41](https://open.spotify.com/episode/5TPnkW3amEmenLfLPvun3t?t=461) · [[Transcript s04e07#Minute 7|in the transcript]]
 
-> … to hear plenty of fantastic vocabulary as well as some great expressions, phrasal verbs and fancy grammar. We hear a few different accents from the UK, also the US, Australia and Ireland and remember …
+> … to hear plenty of fantastic vocabulary as well as some great expressions, phrasal verbs and fancy grammar. As well as copies of everything said in the podcast you get exercises to practice vocabulary and …
 >
 > — [[s04e08 Holidays|S4 E8]], [Minute 0:28](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=28) · [[Transcript s04e08#Minute 0|in the transcript]]
 
-> … a relaxed or lazy way, chilling basically. This is often used a phrasal verb too, to lounge around, like we spent our holidays lounging around the pool. She had another nice holiday verb, which …
+> … the time in a relaxed or lazy way, chilling basically. This is often used as a phrasal verb too, to lounge around, like we spent our holidays lounging around the pool. She had another nice holiday verb, which …
 >
 > — [[s04e08 Holidays|S4 E8]], [Minute 6:22](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=382) · [[Transcript s04e08#Minute 6|in the transcript]]
 
-> … country I think than…rather than stay in a fancy hotel. Really common phrasal verb in the first answer, I just turn up in countries. To turn up means to arrive or to put in …
+> … I think than… rather than stay in a fancy hotel. Really common phrasal verb in the first answer, I just turn up in countries. To turn up means to arrive or to put in …
 >
 > — [[s04e08 Holidays|S4 E8]], [Minute 10:48](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=648) · [[Transcript s04e08#Minute 10|in the transcript]]
 
@@ -311,11 +311,11 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s04e09 History|S4 E9]], [Minute 7:01](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=421) · [[Transcript s04e09#Minute 7|in the transcript]]
 
-> … Then you´d better study rhetorical questions. Nice. He also used a lovely phrasal verb, to get behind. If the England football is doing well the whole country gets behind them, meaning the whole country …
+> … Then you’d better study rhetorical questions. Nice. He also used a lovely phrasal verb, to get behind. If the England football is doing well the whole country gets behind them, meaning the whole country …
 >
 > — [[s04e09 History|S4 E9]], [Minute 11:20](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=680) · [[Transcript s04e09#Minute 11|in the transcript]]
 
-> … skills will be useful for the future, we have some nice adverbs, phrasal verbs and some top-class vocabulary too, including some super-useful idioms. If you have difficulties following any of the speakers, or me …
+> … skills will be useful for the future, we have some nice adverbs, phrasal verbs and some top-class vocabulary too, including some super-useful idioms. Is there anything I'd love to do in the future? Yeah, …
 >
 > — [[s04e10 Future|S4 E10]], [Minute 0:40](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=40) · [[Transcript s04e10#Minute 0|in the transcript]]
 
@@ -331,6 +331,10 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s05e01 Relaxing|S5 E1]], [Minute 15:17](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=917) · [[Transcript s05e01#Minute 15|in the transcript]]
 
+> … English-speaking countries. You’re gonna hear plenty of useful vocabulary, some top idioms, phrasal verbs, connectors, loads of great language, but more than anything I think it’s really interesting from a cultural viewpoint. So enjoy! …
+>
+> — [[s05e02 Manners|S5 E2]], [Minute 0:44](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=44) · [[Transcript s05e02#Minute 0|in the transcript]]
+
 > … speaking today. So there’s plenty of space vocabulary, lots of adjectives, some phrasal verbs and a wide variety of accents, including quite a funny conversation between two Welsh ladies that is sure to test …
 >
 > — [[s05e03 Space|S5 E3]], [Minute 0:36](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=36) · [[Transcript s05e03#Minute 0|in the transcript]]
@@ -339,7 +343,7 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s05e03 Space|S5 E3]], [Minute 8:55](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=535) · [[Transcript s05e03#Minute 8|in the transcript]]
 
-> … which are always in need of some practice! We have some nice phrasal verbs too and quite a few idioms. Remember for the transcript for this, and all episodes, you can go to the …
+> … which are always in need of some practice! We have some nice phrasal verbs too and quite a few idioms. Ok then, let’s go with the questions: What was your favorite subject at school? …
 >
 > — [[s05e04 School|S5 E4]], [Minute 0:42](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=42) · [[Transcript s05e04#Minute 0|in the transcript]]
 
@@ -347,7 +351,7 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s05e04 School|S5 E4]], [Minute 5:07](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=307) · [[Transcript s05e04#Minute 5|in the transcript]]
 
-> … and welcome to the Real Exam English podcast. Today’s episode is about phrasal verbs. We did actually have a phrasal verbs episode way back in season 1 but it is such a rich area …
+> Today’s episode is about phrasal verbs. We did actually have a phrasal verbs episode way back in season 1 but it is such a rich area …
 >
 > — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 0:16](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=16) · [[Transcript s05e05#Minute 0|in the transcript]]
 
@@ -363,7 +367,7 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s05e05 Phrasal Verbs|S5 E5]], [Minute 13:08](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=788) · [[Transcript s05e05#Minute 13|in the transcript]]
 
-> … too, particularly with pronunciation. On top of that, we have some lovely phrasal verbs, some ways to add emphasis and we have a quiz about binomial pairs. As usual, you can get the transcript …
+> … too, particularly with pronunciation. On top of that, we have some lovely phrasal verbs, some ways to add emphasis and we have a quiz about binomial pairs. What negative effects has the Internet had …
 >
 > — [[s05e08 Internet|S5 E8]], [Minute 0:40](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=40) · [[Transcript s05e08#Minute 0|in the transcript]]
 
@@ -387,7 +391,7 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s05e09 Climate Change|S5 E9]], [Minute 14:58](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=898) · [[Transcript s05e09#Minute 14|in the transcript]]
 
-> … idioms so you’re gonna hear a bunch of those, there’s plenty of phrasal verbs too, some compound adjectives and lots of nice organization to admire. Remember you can get the transcript for this and …
+> … idioms so you’re gonna hear a bunch of those, there’s plenty of phrasal verbs too, some compound adjectives and lots of nice organization to admire. It was a long time ago, indeed. I started …
 >
 > — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 0:25](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=25) · [[Transcript x2025-11-21#Minute 0|in the transcript]]
 
@@ -399,11 +403,11 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 6:34](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=394) · [[Transcript x2025-11-21#Minute 6|in the transcript]]
 
-> … big challenges or what's the biggest challenge with learning English? You mentioned phrasal verbs in Ireland earlier. Any other big challenges? Oh, I… to be honest, I don't know. I'm trying…..on the top of …
+> … big challenges or what's the biggest challenge with learning English? You mentioned phrasal verbs in Ireland earlier. Any other big challenges? On the top of my head, being able, being fluent, being able to …
 >
 > — [[x2025-11-21 Helena - Barcelona|Bonus]], [Minute 10:22](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=622) · [[Transcript x2025-11-21#Minute 10|in the transcript]]
 
-> … you speak different languages, which is super-interesting. There are plenty of idioms, phrasal verbs and a special focus on different uses of the verb get. Remember you can get the transcripts for this and …
+> … you speak different languages, which is super-interesting. There are plenty of idioms, phrasal verbs and a special focus on different uses of the verb get. So where are you from? I'm from China. Okay, …
 >
 > — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 0:26](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=26) · [[Transcript x2025-12-16#Minute 0|in the transcript]]
 
@@ -414,6 +418,10 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 > … English. As she said, English brings out the extrovert in her. This phrasal verb to bring out, in this context, means to draw out or to produce a certain quality. Like, teaching teenagers brings …
 >
 > — [[x2025-12-16 Xing - Tokyo|Bonus]], [Minute 24:17](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=1457) · [[Transcript x2025-12-16#Minute 24|in the transcript]]
+
+> … medical test I was on edge 24/7. We also had a nice phrasal verb, to stay over. Her friend was staying over when they heard the news about princess Diana. So to stay over …
+>
+> — [[s06e01 News|S6 E1]], [Minute 3:52](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=232) · [[Transcript s06e01#Minute 3|in the transcript]]
 
 > … and Chester, in England. As usual we have plenty of top vocabulary, phrasal verbs and idioms. So let’s kick off with the first question: What's something people often complain about these days? Higher prices …
 >
@@ -431,7 +439,7 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s06e03 Complaining|S6 E3]], [Minute 9:36](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=576) · [[Transcript s06e03#Minute 9|in the transcript]]
 
-> … they stay motivated. So you’re gonna hear some fantastic language, like idioms, phrasal verbs and top-level vocabulary. And there is a little word-formation quiz in the middle interval too. If you would like printed …
+> … they stay motivated. So you’re gonna hear some fantastic language, like idioms, phrasal verbs and top-level vocabulary. And there is a little word-formation quiz in the middle interval too. How do you motivate yourself …
 >
 > — [[s06e04 Motivation|S6 E4]], [Minute 0:32](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=32) · [[Transcript s06e04#Minute 0|in the transcript]]
 
@@ -443,7 +451,7 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s06e04 Motivation|S6 E4]], [Minute 11:31](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=691) · [[Transcript s06e04#Minute 11|in the transcript]]
 
-> … in life in general. It’s a super-rich episode in terms of vocabulary, phrasal verbs and idioms. If you would like to study that language in more detail then you can purchase the transcripts for …
+> … in life in general. It’s a super-rich episode in terms of vocabulary, phrasal verbs and idioms. Oh, that's a hard one. I think opportunity plays a bigger role in success and sometimes you are …
 >
 > — [[s06e05 Luck|S6 E5]], [Minute 0:30](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=30) · [[Transcript s06e05#Minute 0|in the transcript]]
 
@@ -455,7 +463,7 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s06e05 Luck|S6 E5]], [Minute 15:17](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=917) · [[Transcript s06e05#Minute 15|in the transcript]]
 
-> … work, psychology, loads. We have lots of top-notch collocations, a bunch of phrasal verbs, some super-useful verbs and a lovely homophone. As usual, you can get the transcripts for this episode on the Real …
+> … work, psychology, loads. We have lots of top-notch collocations, a bunch of phrasal verbs, some super-useful verbs and a lovely homophone. I played outside a lot. We had a lot of trees in our …
 >
 > — [[s06e06 Creativity|S6 E6]], [Minute 0:29](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=29) · [[Transcript s06e06#Minute 0|in the transcript]]
 
@@ -467,7 +475,7 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s06e06 Creativity|S6 E6]], [Minute 15:52](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=952) · [[Transcript s06e06#Minute 15|in the transcript]]
 
-> … the present and also between different countries. This episode is flooded with phrasal verbs so if that is what you like to learn then you are in the right place. If you would like …
+> … the present and also between different countries. This episode is flooded with phrasal verbs so if that is what you like to learn then you are in the right place. Who do you usually …
 >
 > — [[s06e07 Help|S6 E7]], [Minute 0:34](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=34) · [[Transcript s06e07#Minute 0|in the transcript]]
 
@@ -483,21 +491,9 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s06e07 Help|S6 E7]], [Minute 10:15](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=615) · [[Transcript s06e07#Minute 10|in the transcript]]
 
-> … wife, the kids, the settle down. To settle down is a handy phrasal verb for any of you in your late twenties or thirties, I guess that’s when most people settle down, and it …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 6:32](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=392) · [[Transcript s06e08#Minute 6|in the transcript]]
-
-> … beneficial for practicing writing and speaking as well as picking up new phrasal verbs, idioms and topical vocabulary. If you would like to check it out then you can get a one week trial …
->
-> — [[s06e08 Priorities|S6 E8]], [Minute 8:21](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=501) · [[Transcript s06e08#Minute 8|in the transcript]]
-
 > … Or she is adept at solving financial crimes. Then we had a phrasal verb, to tip over. She said the children’s block towers tip over, meaning they fall onto their side. Or a tree …
 >
 > — [[s06e09 Children|S6 E9]], [Minute 10:06](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=606) · [[Transcript s06e09#Minute 10|in the transcript]]
-
-> … peanuts and whatnot. Or the Real Exam English podcast talks about idioms, phrasal verbs and whatnot. It’s kind of casual that one so it would be fine to use in a speaking exam or …
->
-> — [[s06e09 Children|S6 E9]], [Minute 13:54](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=834) · [[Transcript s06e09#Minute 13|in the transcript]]
 
 > … thanks to Carla Jayne for sharing that with us. She used this phrasal verb going through some health problems and as we have mentioned a few times before, when the particle through is used …
 >
@@ -507,17 +503,17 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 >
 > — [[s06e10 Decisions|S6 E10]], [Minute 12:15](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=735) · [[Transcript s06e10#Minute 12|in the transcript]]
 
-## In these episodes (32)
+## In these episodes (36)
 
 - [[s01e01 Introductions|S1 E1 – Introductions]] (2020-08-30) — Minute [1:21](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=81), [6:06](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=366), [11:43](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=703)
-- [[s01e04 Sport and exercise|S1 E4 – Sport and exercise]] (2020-08-30) — Show notes · Minute [0:33](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=33), [3:29](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=209), [6:38](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=398), [11:29](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=689)
+- [[s01e04 Sport and exercise|S1 E4 – Sport and exercise]] (2020-08-30) — Show notes · Minute [0:33](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=33), [3:27](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=207), [6:38](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=398), [11:29](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=689)
 - [[s01e05 Phrasal Verbs|S1 E5 – Phrasal Verbs]] (2020-09-04) — Show notes · Minute [0:04](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=4), [1:38](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=98), [4:37](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=277), [10:09](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=609)
 - [[s01e07 Music|S1 E7 – Music]] (2020-09-17) — Show notes · Minute [0:29](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=29), [7:05](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=425), [9:47](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=587)
 - [[s02e01 Celebrations|S2 E1 – Celebrations]] (2021-01-21) — Show notes · Minute [1:10](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=70), [4:51](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=291), [10:52](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=652)
-- [[s02e06 Friends|S2 E6 – Friends]] (2021-03-06) — Minute [4:52](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=292), [6:35](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=395), [9:21](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=561)
 - [[s02e09 Communications|S2 E9 – Communications]] (2021-03-26) — Show notes · Minute [0:27](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=27), [2:57](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=177), [12:44](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=764)
 - [[s02e10 Family|S2 E10 – Family]] (2021-04-07) — Show notes · Minute [0:46](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=46), [4:08](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=248)
 - [[x2021-06-20 Phrasal Verbs for Writing|Bonus – Phrasal Verbs for Writing]] (2021-06-20) — Show notes · Minute [0:20](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=20), [3:34](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=214), [6:20](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=380), [8:02](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=482)
+- [[s03e01 Humour|S3 E1 – Humour]] (2021-08-23) — Show notes · Minute [1:27](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=87)
 - [[s03e03 Photos|S3 E3 – Photos]] (2021-10-19) — Show notes · Minute [4:06](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=246), [11:42](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=702), [14:06](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=846)
 - [[s03e04 Money|S3 E4 – Money]] (2021-11-15) — Show notes · Minute [0:41](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=41), [13:04](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=784)
 - [[s03e08 Fame|S3 E8 – Fame]] (2022-04-07) — Show notes · Minute [0:32](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=32), [4:44](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=284), [7:51](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=471), [11:40](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=700)
@@ -529,20 +525,24 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 - [[s04e09 History|S4 E9 – History]] (2024-01-19) — Show notes · Minute [0:28](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=28), [7:01](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=421), [11:20](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=680)
 - [[s04e10 Future|S4 E10 – Future]] (2024-03-05) — Show notes · Minute [0:40](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=40), [10:35](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=635)
 - [[s05e01 Relaxing|S5 E1 – Relaxing]] (2024-11-07) — Show notes · Minute [0:33](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=33), [15:17](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=917)
+- [[s05e02 Manners|S5 E2 – Manners]] (2024-12-12) — Show notes · Minute [0:44](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=44)
 - [[s05e03 Space|S5 E3 – Space]] (2025-01-18) — Show notes · Minute [0:36](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=36), [8:55](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=535)
 - [[s05e04 School|S5 E4 – School]] (2025-02-07) — Show notes · Minute [0:42](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=42), [5:07](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=307)
 - [[s05e05 Phrasal Verbs|S5 E5 – Phrasal Verbs]] (2025-03-11) — Show notes · Minute [0:16](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=16), [5:44](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=344), [9:02](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=542), [13:08](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=788)
+- [[s05e08 Internet|S5 E8 – Internet]] (2025-06-17) — Show notes · Minute [0:40](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=40), [2:12](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=132)
 - [[s05e09 Climate Change|S5 E9 – Climate Change]] (2025-07-14) — Show notes · Minute [0:29](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=29), [2:25](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=145), [5:40](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=340), [14:58](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=898)
 - [[x2025-11-21 Helena - Barcelona|Bonus – Helena - Barcelona]] (2025-11-21) — Show notes · Minute [0:25](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=25), [5:03](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=303), [6:34](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=394), [10:22](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=622)
 - [[x2025-12-16 Xing - Tokyo|Bonus – Xing - Tokyo]] (2025-12-16) — Show notes · Minute [0:26](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=26), [14:42](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=882), [24:17](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=1457)
+- [[s06e01 News|S6 E1 – News]] (2026-01-24) — Show notes · Minute [3:52](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=232)
 - [[s06e03 Complaining|S6 E3 – Complaining]] (2026-03-20) — Show notes · Minute [0:50](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=50), [4:24](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=264), [8:05](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=485), [9:36](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=576)
 - [[s06e04 Motivation|S6 E4 – Motivation]] (2026-04-20) — Show notes · Minute [0:32](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=32), [3:42](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=222), [11:31](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=691)
 - [[s06e05 Luck|S6 E5 – Luck]] (2026-05-18) — Show notes · Minute [0:30](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=30), [4:41](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=281), [15:17](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=917)
 - [[s06e06 Creativity|S6 E6 – Creativity]] (2026-06-10) — Show notes · Minute [0:29](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=29), [2:07](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=127), [15:52](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=952)
 - [[s06e07 Help|S6 E7 – Help]] (2026-07-20) — Show notes · Minute [0:34](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=34), [4:13](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=253), [6:42](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=402), [10:15](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=615)
+- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Show notes · Minute [10:06](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=606)
 - [[s06e10 Decisions|S6 E10 – Decisions]] (2026-10-21) — Minute [6:41](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=401), [12:15](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=735)
 
-## Briefly mentioned (13)
+## Briefly mentioned (11)
 
 - [[s01e02 Travel|S1 E2 – Travel]] (2020-08-30) — Minute [0:46](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=46), [8:59](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=539)
 - [[s01e03 Food|S1 E3 – Food]] (2020-08-30) — Minute [3:56](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=236)
@@ -551,12 +551,10 @@ often not obvious from the parts: *put up with* = tolerate, *come up with* = thi
 - [[s02e02 City and Country|S2 E2 – City and Country]] (2021-01-29) — Minute [8:00](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=480)
 - [[s02e04 Shopping|S2 E4 – Shopping]] (2021-02-12) — Minute [2:52](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=172), [7:22](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=442)
 - [[x2021-02-19 Bonus Episode - Writing|Bonus – Bonus Episode - Writing]] (2021-02-19) — Minute [3:30](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=210), [6:39](https://open.spotify.com/episode/5FMeI6YlYfkITMxXRFxSZe?t=399)
+- [[s02e06 Friends|S2 E6 – Friends]] (2021-03-06) — Minute [4:52](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=292), [6:35](https://open.spotify.com/episode/3bJyhzjjx1sSEuSbfcu6FP?t=395)
 - [[s02e07 Free time|S2 E7 – Free time]] (2021-03-12) — Minute [3:15](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=195), [5:41](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=341)
 - [[s04e03 Home|S4 E3 – Home]] (2023-06-01) — Minute [12:47](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=767)
 - [[s04e06 Transport|S4 E6 – Transport]] (2023-10-19) — Minute [2:54](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=174), [4:51](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=291)
-- [[s05e08 Internet|S5 E8 – Internet]] (2025-06-17) — Minute [0:40](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=40), [2:12](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=132)
-- [[s06e08 Priorities|S6 E8 – Priorities]] (2026-08-24) — Minute [6:32](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=392), [8:21](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=501)
-- [[s06e09 Children|S6 E9 – Children]] (2026-09-10) — Minute [10:06](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=606), [13:54](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=834)
 
 ---
 ← [[Language]] · [[Real Exam English Wiki|Home]]

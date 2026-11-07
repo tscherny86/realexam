@@ -19,11 +19,11 @@ tags: [episode, season-5]
 | **Duration** | 18:50 |
 | **Listen** | [Spotify](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so) · [MP3](https://www.buzzsprout.com/1107956/episodes/16458940-s05-3-space.mp3) |
 | **Transcript** | [[Transcript s05e03]] (word-level timestamps, aligned with the official transcript) |
-| **Topics** | [[TV, Film & Entertainment]], [[Humour & Comedy]], [[Learning, School & Education]], [[Space & Science]] |
-| **Language** | [[Phrasal Verbs]], [[Adjectives & Compound Adjectives]] |
-| **Exams** | – |
-| **Accents** | [[USA]], [[Australia]] |
-| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Music]], [[Money & Finance]], [[Fame & Celebrity]], [[Languages & Language Learning]], [[Weather & Seasons]], [[Extremes & Adventure]], [[Prepositions]], [[Slang & Informal English]], [[Wales]] |
+| **Topics** | [[TV, Film & Entertainment]], [[Space & Science]] |
+| **Language** | [[Phrasal Verbs]], [[Idioms & Expressions]], [[Adjectives & Compound Adjectives]] |
+| **Exams** | [[Listening & Reading]] |
+| **Accents** | [[Wales]], [[Canada]] |
+| **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Music]], [[Weather & Seasons]], [[Extremes & Adventure]], [[England]], [[Australia]] |
 
 ## Show notes
 
@@ -39,7 +39,7 @@ Thanks to all of the contributors, including Emma, Mike, Noel, Konner, Jen, Dan 
 - [2:15](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=135) – And there's at the same time the Aztecs had the same thing. You know what I mean? Like … ([[Transcript s05e03#Minute 2|transcript]])
 - [4:20](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=260) – Do you find astronomy interesting? Extremely, I studied physics and astronomy for my undergraduate degree. I did some … ([[Transcript s05e03#Minute 4|transcript]])
 - [6:21](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=381) – Or preparing for the C2 exam is one of the most difficult things I have undertaken, very appropriate … ([[Transcript s05e03#Minute 6|transcript]])
-- [8:21](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=501) – Alright, another space fan there. Her favourite colour is galaxy blue purple, I must confess that I didn´t … ([[Transcript s05e03#Minute 8|transcript]])
+- [8:21](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=501) – Alright, another space fan there. Her favourite colour is galaxy blue purple, I must confess that I didn’t … ([[Transcript s05e03#Minute 8|transcript]])
 - [10:24](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=624) – The extreme adjective of tired is exhausted, or knackered in the UK. Ok, so I will give you … ([[Transcript s05e03#Minute 10|transcript]])
 - [12:28](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=748) – Ok, back to the questions, with a speaker from Australia. How would you feel if you travelled in … ([[Transcript s05e03#Minute 12|transcript]])
 - [14:30](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=870) – This last one, funner, is not actually a correct word in English. The comparative of fun is more … ([[Transcript s05e03#Minute 14|transcript]])
