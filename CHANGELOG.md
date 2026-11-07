@@ -6,6 +6,7 @@ New transcripts (commits "Transcript <id>") are content, not a version of their 
 
 ## Unreleased
 
+- Decision Alex (07.11.2026): stays private, data supplier for Shamrock Script only; no public hosting, no GitLab Pages. GitHub Pages stays off.
 - Operations (07.11.2026, GitHub suspension): `scripts/ci.py` and `scripts/release.mjs`; `release.yml` and the new `.gitlab-ci.yml` (runner acespc) only call these scripts. `pages.yml` no longer runs on push, only manually with `PAGES_FREIGABE=ja` (publishing blocked until Alex decides). No new version, the site is unchanged.
 
 ## 1.4.0 – 07.11.2026
