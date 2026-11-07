@@ -4,6 +4,14 @@ Newest version on top. Every delivered version gets an entry here and a GitHub r
 (created automatically by `.github/workflows/release.yml`). Times are CET.
 New transcripts (commits "Transcript <id>") are content, not a version of their own.
 
+## 1.4.0 – 07.11.2026
+- **Open data for other apps.** Every site build now also writes `data.json` (episodes with vocabulary box, exam
+  questions and minute marks; all entries with quotes, level and exams) and `transcripts.json` (all transcripts,
+  minute by minute) next to the page: https://tscherny86.github.io/realexam/data.json and `…/transcripts.json`.
+  Format `schema: 1` with `version` and `built` (UTC) on top, the same content the page itself uses. The first
+  reader is Shamrock Script (Alex' C2 writing trainer), which shows the archive as its own "Podcast" menu; the
+  fanwiki itself does not change and keeps running on its own.
+
 ## 1.3.0 – 07.11.2026
 - **Four expansions of the site** (Alex: "Ausbaustufen einbauen"), all generated from the transcripts by the new
   `scripts/extract.py`:

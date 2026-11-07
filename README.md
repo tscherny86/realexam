@@ -1,6 +1,6 @@
 # Real Exam English Fanwiki 🎧
 
-## Version: 1.3.0
+## Version: 1.4.0
 
 Live: https://tscherny86.github.io/realexam/ · Changes: [CHANGELOG.md](CHANGELOG.md) · Latest release: [v1.3.0](https://github.com/tscherny86/realexam/releases/latest) (07.11.2026)
 
@@ -48,6 +48,8 @@ New topics or language points: `scripts/topics.py`.
 
 The website is rebuilt automatically on every push (`.github/workflows/pages.yml`):
 `scripts/build_site.py` turns the vault into a single page (`site/template.html` is the template).
+Since 1.4.0 it also writes `data.json` and `transcripts.json` (format `schema: 1`, with `version` and `built`) for
+other apps; Shamrock Script reads them. Keep the format backwards compatible: add fields, never rename or remove.
 Test locally: `python scripts/build_site.py` → open `_site/index.html` in the browser.
 
 One-time setup: GitHub → repo → **Settings → Pages → Source: "GitHub Actions"**.

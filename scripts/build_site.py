@@ -14,6 +14,7 @@ import json
 import re
 import sys
 import unicodedata
+from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -280,6 +281,14 @@ def main() -> None:
     out.write_text(page, encoding="utf-8")
     if not fragment:
         (out.parent / ".nojekyll").touch()
+        # Open data for other apps (Shamrock Script reads it): same content as the page, versioned format.
+        # schema 1: {schema, version, built, eps, entries, hours}; transcripts separately because of their size.
+        built = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        meta = {"schema": 1, "version": version, "built": built}
+        (out.parent / "data.json").write_text(json.dumps({**meta, "eps": eps, "entries": data["entries"], "hours": data["hours"]},
+                                                         ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        (out.parent / "transcripts.json").write_text(json.dumps({**meta, "tx": data["tx"]}, ensure_ascii=False, separators=(",", ":")),
+                                                     encoding="utf-8")
     print(f"{len(eps)} episodes, {len(data['entries'])} entries, {len(data['tx'])} transcripts -> {out} "
           f"({out.stat().st_size // 1024} KB)")
 
