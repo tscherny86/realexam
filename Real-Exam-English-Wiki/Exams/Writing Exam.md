@@ -1,11 +1,15 @@
 ---
 type: exams
 episodes: 3
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [exams]
 ---
 # Writing Exam
 
 _Essays, letters, reports, reviews and articles – what each task needs._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Cambridge writing is marked on **Content**, **Communicative Achievement**, **Organisation** and

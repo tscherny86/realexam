@@ -24,12 +24,27 @@ tags: [episode, season-6]
 | **Exams** | – |
 | **Accents** | – |
 | **Briefly mentioned** | [[Sport & Exercise]], [[Work & Careers]], [[Learning, School & Education]], [[Complaining & Customer Service]], [[Question Tags]], [[Adverbs]], [[Adjectives & Compound Adjectives]], [[Emphasis & Auxiliaries]], [[Listening & Reading]] |
+| **Speakers from** | – |
 
 ## Show notes
 
 Native English speakers answer exam-style questions about motivation.
 
 7 different speakers, with different accents, talk about how they stay motivated. So you’re gonna hear some fantastic language, like idioms, phrasal verbs and top-level vocabulary. And there is a little word-formation quiz in the middle interval too. Trevor picks out the best bits and gives useful tips for exams. As usual we have plenty of top vocabulary, phrasal verbs and natural idioms.
+
+## Language from this episode
+
+- **around your goals** (structure) – [8:16](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=496) · [[Transcript s06e04#Minute 8|transcript]]
+- **go through something** (expression) – [11:53](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=713) · [[Transcript s06e04#Minute 11|transcript]]
+
+## Exam questions
+
+- [0:53](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=53) How do you motivate yourself to do tasks you don't enjoy?
+- [1:39](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=99) What makes certain motivational speeches, books, or videos effective whilst others fail?
+- [4:04](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=244) Do you find it easy to stay motivated?
+- [10:57](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=657) Do you enjoy motivational talks or books?
+- [14:36](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=876) How do failure and mistakes affect a person's motivation?
+- [16:15](https://open.spotify.com/episode/012WYeoFClLqB2ZzHQq6oa?t=975) How can teamwork increase or decrease motivation?
 
 ## Chapters
 

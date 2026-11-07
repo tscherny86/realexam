@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 2
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # City & Country Life
 
 _Living in a big city versus living in the countryside._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 *Would you rather live in a city or in the countryside?* is a question at every level, and it

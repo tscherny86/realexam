@@ -24,6 +24,7 @@ tags: [episode, season-0]
 | **Exams** | – |
 | **Accents** | [[Non-Native Speakers]] |
 | **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Books & Reading]], [[Health & Wellbeing]], [[Culture & Traditions]], [[Crime & Law]], [[Relaxing & Stress]], [[Adjectives & Compound Adjectives]], [[England]] |
+| **Speakers from** | [[Non-Native Speakers]] |
 
 ## Show notes
 
@@ -36,6 +37,26 @@ Also, we talk about the pros and cons of being a non-native English teacher.
 You will learn plenty of idioms, phrasal verbs and there is a special focus on different uses of the verb get. 
 
 Thanks so much to Xing for contributing!
+
+## Language from this episode
+
+- **comes from** (expression) – [14:54](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=894) · [[Transcript x2025-12-16#Minute 14|transcript]]
+- **tone something down** (expression) – [14:54](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=894) · [[Transcript x2025-12-16#Minute 14|transcript]]
+- **go with the flow** (idiom) – [15:49](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=949) · [[Transcript x2025-12-16#Minute 15|transcript]]
+- **bring out** (phrasal verb) – [24:20](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=1460) · [[Transcript x2025-12-16#Minute 24|transcript]]
+
+## Exam questions
+
+- [0:55](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=55) Is English widely spoken in those countries?
+- [1:53](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=113) Why do you think there has been an increase in the level of English recently?
+- [3:24](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=204) Is that not a similar challenge for Chinese learners?
+- [4:16](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=256) Is that the same in China or just to a lesser degree or what?
+- [8:22](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=502) Did you learn that in the school system in China?
+- [9:49](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=589) Does that bring any advantages or disadvantages, do you think?
+- [12:26](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=746) Do you have an advantage in that?
+- [16:52](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=1012) Do you have a favorite word or expression in English?
+- [18:54](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=1134) When it comes to learning English, because you need to know why people, why is it funny?
+- [21:43](https://open.spotify.com/episode/69eqdZph1mHKizHAe5bQgq?t=1303) Do you feel different in the three different languages?
 
 ## Chapters
 

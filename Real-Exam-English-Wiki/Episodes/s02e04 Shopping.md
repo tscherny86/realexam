@@ -24,6 +24,7 @@ tags: [episode, season-2]
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[USA]], [[Australia]], [[South Africa]] |
 | **Briefly mentioned** | [[Technology & the Internet]], [[Books & Reading]], [[Art & Creativity]], [[Transport & Traffic]], [[Covid & Lockdown]], [[Nature & Outdoors]], [[Phrasal Verbs]], [[Gerund or Infinitive]] |
+| **Speakers from** | [[Ireland]], [[England]], [[USA]], [[Australia]], [[South Africa]] |
 
 ## Show notes
 
@@ -32,6 +33,19 @@ Native English speakers answer questions about shopping. 
 You´ll hear plenty of shopping vocabulary today as well as a variety of ways to express preferences. We will take a look at some differences between US, Australian and British English and we also have speakers from Ireland and South Africa so lots of accent practice for you as usual. In addition, we have a dialogue so you´ll hear some great expressions for interacting and giving opinions. 
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Arianwen from the In Mothering podast, Trisha from Conversations with a Random Nobody, Chris, Barbara, Ronny, Zoe, Ofordi, Karen, Keith, Mary, Emma and Ursula.
+
+## Language from this episode
+
+- **comes down to** (phrasal verb) – [7:25](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=445) · [[Transcript s02e04#Minute 7|transcript]]
+
+## Exam questions
+
+- [0:57](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=57) How important is it to follow trends in fashion?
+- [1:40](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=100) Do you think online shopping will ever replace going to the shops?
+- [6:36](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=396) Do you think people should borrow money to buy something they want?
+- [7:59](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=479) What is your ideal shopping experience?
+- [11:44](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=704) When is the best time to go shopping?
+- [12:14](https://open.spotify.com/episode/7k60Mfhbdmr3Fxgw8dxS7y?t=734) Is it better to go shopping alone or with friends?
 
 ## Chapters
 

@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 4
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Music
 
 _Musical taste, concerts and playing an instrument._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Music is a classic B2 speaking topic and a good source of personal examples for *Part 1* questions.

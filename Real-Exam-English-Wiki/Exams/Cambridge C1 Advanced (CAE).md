@@ -1,11 +1,15 @@
 ---
 type: exams
 episodes: 2
+level: [C1]
+exams: [Cambridge]
 tags: [exams]
 ---
 # Cambridge C1 Advanced (CAE)
 
 _The Cambridge exam most universities and employers ask for._
+
+**Level:** C1 · **Exams:** Cambridge
 
 ## Background
 **C1 Advanced** (formerly CAE) proves you can follow academic study and professional life in English.

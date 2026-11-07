@@ -24,6 +24,7 @@ tags: [episode, season-6]
 | **Exams** | – |
 | **Accents** | – |
 | **Briefly mentioned** | [[Food & Cooking]], [[Books & Reading]], [[City & Country Life]], [[Money & Finance]], [[Crime & Law]], [[Hometown & Places]], [[Adjectives & Compound Adjectives]], [[British vs American English]], [[Ireland]], [[England]], [[USA]] |
+| **Speakers from** | – |
 
 ## Show notes
 
@@ -34,6 +35,23 @@ Native English speakers answer exam-style questions about children.
 We speak about hobbies, chores, technology, siblings and how childhood today compares to the past. There is lots of advanced English vocabulary, including idioms and phrasal verbs. We have some natural English expressions and some advanced grammar too in the form of cleft sentences.
 
 Thanks to all of the contributors, including Paddy, Mike, Melissa, Lori, Jay, Carla Jayne, Annie and Mary Alice.
+
+## Language from this episode
+
+- **tip over** (phrasal verb) – [10:08](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=608) · [[Transcript s06e09#Minute 10|transcript]]
+
+## Exam questions
+
+- [0:53](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=53) How have children's hobbies changed compared to when you were younger?
+- [1:52](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=112) How do siblings influence a child's personality?
+- [5:20](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=320) How do you think technology affects children's behaviour?
+- [6:14](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=374) Should children be given chores at home?
+- [6:57](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=417) Should that be, help out with cooking dinner?
+- [8:35](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=515) Why do some people say children grow up quickly nowadays?
+- [15:14](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=914) How has childhood changed compared to the past?
+- [15:17](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=917) How has childhood, what do you mean by how has childhood changed?
+- [15:23](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=923) Is it different to growing up?
+- [16:42](https://open.spotify.com/episode/478ZbDeKIB2oa95MZP27OS?t=1002) What ways can communities support families with young children?
 
 ## Chapters
 

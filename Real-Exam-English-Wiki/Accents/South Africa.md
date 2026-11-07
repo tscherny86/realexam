@@ -1,11 +1,15 @@
 ---
 type: accents
 episodes: 3
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [accents]
 ---
 # South Africa
 
 _South African English, shaped by Afrikaans and Zulu._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 **South African English** has clipped vowels (*yes* → "yis"), a *kit–bit* split and borrowings from

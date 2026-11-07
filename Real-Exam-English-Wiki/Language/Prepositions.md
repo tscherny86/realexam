@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 3
+level: [B2, C1]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Prepositions
 
 _Dependent prepositions and the small words that cause big mistakes._
+
+**Level:** B2 · C1 · **Exams:** Cambridge, IELTS
 
 ## Background
 Prepositions are a constant source of errors, and **dependent prepositions** (*depend on*,

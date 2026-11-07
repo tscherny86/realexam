@@ -24,6 +24,7 @@ tags: [episode, season-5]
 | **Exams** | – |
 | **Accents** | [[England]], [[Wales]], [[Canada]], [[Australia]] |
 | **Briefly mentioned** | [[Health & Wellbeing]], [[Free Time & Hobbies]], [[Work & Careers]], [[Languages & Language Learning]], [[Home & Housing]], [[News & Media]], [[Nature & Outdoors]], [[Prepositions]], [[USA]] |
+| **Speakers from** | [[England]], [[Wales]], [[Canada]], [[Australia]] |
 
 ## Show notes
 
@@ -32,6 +33,17 @@ Native English speakers answer questions about relaxing.
 It’s a great topic to cover as we all love to relax. So you’re gonna hear loads of different ways to talk about relaxing. There’s also a bunch of new phrasal verbs, there’s some stuff about comparatives, the differences between British and Australian English. As usual we have plenty of real life English expressions and advanced vocabulary too.
 
 Thanks to all of the contributors, including Emma, Mike, Noel, Konner, Jen, Dan from the Roar and Score Trivia Podcast
+
+## Exam questions
+
+- [0:57](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=57) How important is it to find time to relax?
+- [2:02](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=122) Do you find reading a good way to relax?
+- [4:19](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=259) When do you feel most relaxed?
+- [4:32](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=272) Which is the most comfortable room in your house and why?
+- [6:47](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=407) Which is the most comfortable room in your house?
+- [11:30](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=690) What has been the most uncomfortable place you've been in?
+- [13:14](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=794) What is your favourite way to relax?
+- [14:03](https://open.spotify.com/episode/66W1xsnv0ACfWgwuy32pWI?t=843) Do you get past more than half a page?
 
 ## Chapters
 

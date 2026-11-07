@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 4
+level: [B2, C1]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Past Perfect & Narrative Tenses
 
 _Telling stories: past simple, past continuous, past perfect and used to / would._
+
+**Level:** B2 · C1 · **Exams:** Cambridge, IELTS
 
 ## Background
 Exam stories (*Tell us about a time when…*) are judged on how well you handle the **narrative tenses**:

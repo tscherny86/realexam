@@ -24,12 +24,30 @@ tags: [episode, season-6]
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[USA]] |
 | **Briefly mentioned** | [[Anger & Emotions]], [[Change & Life Changes]], [[Happiness]], [[Manners & Politeness]], [[Social Media]], [[Adjectives & Compound Adjectives]], [[Prepositions]] |
+| **Speakers from** | [[Ireland]], [[England]], [[USA]] |
 
 ## Show notes
 
 Native English speakers answer exam-style questions about complaining.
 
 Today we have American speakers from the Texas, Pennsylvania, New Hampshire and New York, and we also have speakers from Limerick, in Ireland, and Chester, in England. Trevor picks out the best bits and gives useful tips for exams. As usual we have plenty of top vocabulary, phrasal verbs and idioms.
+
+## Language from this episode
+
+- **read the room** (idiom) – [4:49](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=289) · [[Transcript s06e03#Minute 4|transcript]]
+- **effect change** (collocation) – [11:06](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=666) · [[Transcript s06e03#Minute 11|transcript]]
+- **affect** (verb) – [11:36](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=696) · [[Transcript s06e03#Minute 11|transcript]]
+
+## Exam questions
+
+- [2:06](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=126) Why are some cultures more direct than others when it comes to complaining?
+- [3:27](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=207) What is the last thing you complained about?
+- [3:41](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=221) Does that count as a complaint?
+- [6:27](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=387) Is it possible to express dissatisfaction without sounding rude?
+- [7:19](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=439) How has social media changed the way people complain about companies or public services?
+- [10:01](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=601) Do you think people today complain more than previous generations?
+- [13:25](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=805) Do you consider yourself someone who complains often or do you usually stay quiet?
+- [16:17](https://open.spotify.com/episode/5zmIMhrUdIOICBbHdJpg9X?t=977) What is something people often complain about these days?
 
 ## Chapters
 

@@ -24,6 +24,7 @@ tags: [episode, season-0]
 | **Exams** | [[Writing Exam]] |
 | **Accents** | – |
 | **Briefly mentioned** | [[Food & Cooking]], [[The Environment & Climate Change]], [[Learning, School & Education]], [[Languages & Language Learning]], [[Phrasal Verbs]], [[Idioms & Expressions]], [[Slang & Informal English]] |
+| **Speakers from** | – |
 
 ## Show notes
 

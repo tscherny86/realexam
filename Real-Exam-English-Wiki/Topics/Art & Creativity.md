@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 3
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Art & Creativity
 
 _Art, museums and whether creativity can be taught._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Art appears in C1 and C2 speaking tests and in reading texts; creativity is a popular essay angle

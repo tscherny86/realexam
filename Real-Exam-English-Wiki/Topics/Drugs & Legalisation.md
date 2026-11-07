@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Drugs & Legalisation
 
 _Drugs, addiction and whether soft drugs should be legalised – a classic C1/C2 discussion._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 A sensitive but frequent discussion topic at C1 and C2 level: *Should cannabis be legalised?*, *How

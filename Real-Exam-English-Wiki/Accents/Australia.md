@@ -1,11 +1,15 @@
 ---
 type: accents
 episodes: 26
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [accents]
 ---
 # Australia
 
 _Australian English – shortened words, rising intonation and plenty of slang._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 **Australian English** is non-rhotic, with a rising intonation at the end of statements (*high rising

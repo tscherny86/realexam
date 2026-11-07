@@ -24,6 +24,7 @@ tags: [episode, season-3]
 | **Exams** | – |
 | **Accents** | – |
 | **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Technology & the Internet]], [[Money & Finance]], [[Learning, School & Education]], [[Languages & Language Learning]], [[Globalisation]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]], [[Pronunciation]], [[Emphasis & Auxiliaries]], [[Slang & Informal English]], [[Writing Exam]] |
+| **Speakers from** | – |
 
 ## Show notes
 
@@ -34,6 +35,17 @@ If you are a real culture vulture then you will enjoy this episode. In this epis
 To see the photo in the blog go to https://wordpress.com/post/realexamenglish.com/654
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Konner from The Blunt Report podcast(https://www.thebluntreport.com), Rosemary, David, Mary Alice, Ofordi and Ursula.
+
+## Language from this episode
+
+- **notwithstanding** (connector) – [16:38](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=998) · [[Transcript s03e09#Minute 16|transcript]]
+
+## Exam questions
+
+- [1:18](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=78) Are you interested in the cultures of other countries?
+- [2:03](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=123) Is this a good thing to do?
+- [11:11](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=671) What do you think contributes most to globalization?
+- [14:46](https://open.spotify.com/episode/0KCQcXPBZKW89wnygf0b3e?t=886) What do you think contributes most to globalisation?
 
 ## Chapters
 

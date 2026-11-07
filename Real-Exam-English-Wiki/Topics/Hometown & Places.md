@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Hometown & Places
 
 _Describing where you come from – one of the first questions in any speaking exam._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 *Where are you from?* opens almost every speaking test, so a confident, detailed answer makes a

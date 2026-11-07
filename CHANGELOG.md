@@ -4,6 +4,25 @@ Newest version on top. Every delivered version gets an entry here and a GitHub r
 (created automatically by `.github/workflows/release.yml`). Times are CET.
 New transcripts (commits "Transcript <id>") are content, not a version of their own.
 
+## 1.3.0 – 07.11.2026
+- **Four expansions of the site** (Alex: "Ausbaustufen einbauen"), all generated from the transcripts by the new
+  `scripts/extract.py`:
+  - **Language from this episode:** the expressions Trevor picks out by name ("the phrasal verb to put off means…",
+    "we had the expression a blast from the past") as a box on every episode page, each with the minute it is
+    explained at – 117 expressions in 56 episodes. Deliberately strict: only what is named as a phrasal verb,
+    idiom, expression, collocation or explained word counts, so the box stays clean.
+  - **Exam questions:** the questions Trevor asks the native speakers (453 in 68 episodes), listed on the episode
+    page with the minute the answers start, plus a new **Practice** page with a random question ("Another
+    question"), the full question bank with a filter, and the same questions in the search. The home page shows
+    one random question too.
+  - **Speakers from:** the accents Trevor announces in the intro (first two minutes) or the show notes as a line
+    of their own on the episode page (48 episodes) – different from the Accents tags, which also cover accents
+    that are only talked about.
+  - **Level and exam filter:** every topic, language point and exam is rated B2/C1/C2 and Cambridge/IELTS
+    (`LEVELS` and `EXAMS` in `scripts/topics.py`); the Topics, Language and Exams pages filter by level (Exams also
+    by exam), the tiles and article pages show the level badges.
+- Mobile navigation holds the seventh item (narrower spacing, scrolls if a phone is narrower than 375 px).
+
 ## 1.2.0 – 07.11.2026
 - **Four new topics** that the reviewers' counts showed to carry real weight across the episodes: **Nature &
   Outdoors** (9 episodes), **Social Media** (8, taken out of Technology & the Internet), **Politics & Government** (5)

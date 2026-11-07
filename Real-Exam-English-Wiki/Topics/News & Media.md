@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 4
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # News & Media
 
 _How we get the news, fake news and the role of journalists._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 News and media are frequent C1/C2 topics, including the reliability of social media as a news source.

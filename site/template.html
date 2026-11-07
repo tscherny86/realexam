@@ -208,6 +208,30 @@ main{padding-block:40px 80px}
 .topics a.k-accent{border-color:var(--accent)}
 .minor{margin:14px 0 0;font-size:.88rem;color:var(--muted);line-height:1.7}.minor span{font-weight:600;margin-right:4px}.minor a{color:inherit}
 .minorhits .hit{opacity:.85}
+/* level badges, speakers line, vocabulary box, exam questions */
+.lvl{display:inline-flex;gap:3px;margin-top:4px}
+.lvl i{font:600 .66rem/1 var(--mono);font-style:normal;letter-spacing:.04em;border:1px solid var(--line);border-radius:6px;padding:3px 6px;color:var(--muted);background:var(--sunk)}
+.lvl i.on{color:var(--accent-ink);border-color:var(--accent);background:var(--accent-soft)}
+.pagehead .lvl{margin:0 0 10px}.pagehead .lvl i{font-size:.78rem;padding:4px 9px}
+.spk{display:flex;flex-wrap:wrap;align-items:center;gap:6px 8px;font-size:.92rem;color:var(--muted);margin:14px 0 0}
+.spk b{color:var(--ink);font-weight:600}
+.spk a{text-decoration:none;color:var(--ink);border:1px solid var(--accent);border-radius:999px;padding:2px 11px;font-weight:500;font-size:.85rem}
+.spk a:hover{background:var(--accent-soft);color:var(--accent-ink)}
+.vocab{display:grid;grid-template-columns:repeat(auto-fill,minmax(14rem,1fr));gap:10px}
+.vocab div{display:flex;align-items:center;justify-content:space-between;gap:10px;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:10px 12px 10px 14px}
+.vocab b{font-weight:600;line-height:1.3}
+.vocab small{display:block;font-size:.76rem;color:var(--muted);font-weight:500;margin-top:2px}
+.qlist{display:grid;border-top:1px solid var(--line)}
+.qlist .mark p{color:var(--ink);font-family:var(--quote);font-style:italic;font-size:1.08rem}
+.qa{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:26px 28px;display:grid;gap:16px;max-width:52rem}
+.qa .question{font-family:var(--quote);font-style:italic;font-size:clamp(1.3rem,2.6vw,1.75rem);line-height:1.4;margin:0;text-wrap:pretty}
+.qa .question::before{content:"“";color:var(--accent);margin-right:2px}.qa .question::after{content:"”";color:var(--accent)}
+.qa .from{display:flex;flex-wrap:wrap;align-items:center;gap:8px 14px;font-size:.9rem;color:var(--muted)}
+.qa .from a{color:var(--ink);font-weight:600;text-decoration:none}.qa .from a:hover{color:var(--accent-ink)}
+.qa .btns{display:flex;flex-wrap:wrap;gap:10px}.qa .btns .btn{display:inline-flex;width:auto}
+.qbank .mark{grid-template-columns:5.5rem minmax(0,1fr)}
+.qbank .mark p{color:var(--ink)}.qbank .mark p a{display:block;font-size:.82rem;color:var(--muted);margin-top:2px;white-space:normal;text-decoration:none}
+.qbank .mark p a:hover{color:var(--accent-ink)}
 .crumbs{font-size:.88rem;color:var(--muted);display:flex;gap:8px;flex-wrap:wrap}
 .crumbs a{color:var(--muted);text-decoration:none;font-weight:600}
 .crumbs a:hover{color:var(--accent-ink)}
@@ -265,8 +289,9 @@ footer a{color:var(--muted)}
   .logo .t{font-size:1.15rem}
   .find{margin-left:auto;padding:7px 12px}
   .find .lbl,.find kbd{display:none}
-  .nav{order:3;flex-basis:100%;margin:4px -8px 6px;justify-content:space-between;gap:0}
-  .nav a{padding:6px 6px;font-size:clamp(.76rem,3.4vw,.9rem)}
+  .nav{order:3;flex-basis:100%;margin:4px -8px 6px;justify-content:space-between;gap:0;overflow-x:auto;scrollbar-width:none}
+  .nav::-webkit-scrollbar{display:none}
+  .nav a{padding:6px 4px;font-size:clamp(.7rem,3vw,.9rem);letter-spacing:-.01em}
   .ep{grid-template-columns:auto minmax(0,1fr) auto;gap:12px}
   .ep .play{width:40px;height:40px;flex:none}
   .mark,.tx .mark{grid-template-columns:1fr;gap:6px}
@@ -290,6 +315,7 @@ footer a{color:var(--muted)}
       <a href="#language" data-s="language">Language</a>
       <a href="#exams" data-s="exams">Exams</a>
       <a href="#accents" data-s="accents">Accents</a>
+      <a href="#practice" data-s="practice">Practice</a>
     </nav>
     <button class="find" id="openSearch" type="button" aria-label="Search">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
@@ -364,11 +390,23 @@ const byCount = (a, b) => b.count - a.count || a.name.localeCompare(b.name, "en"
 const byName = (a, b) => a.name.localeCompare(b.name, "en", {sensitivity: "base"});
 
 /* ---------- views ---------- */
+const LEVELS = ["B2", "C1", "C2"];
+const levels = en => en.level && en.level.length ? `<span class="lvl" aria-label="Level ${en.level.join(", ")}">${LEVELS.map(l => `<i class="${en.level.includes(l) ? "on" : ""}">${l}</i>`).join("")}</span>` : "";
 function tile(en){
   const w = Math.round(en.count / EPS.length * 100);
-  return `<a class="tile" href="#${en.r}"><b>${esc(en.name)}</b><span>${esc(en.lead)}</span>
+  return `<a class="tile" href="#${en.r}"><b>${esc(en.name)}</b><span>${esc(en.lead)}</span>${en.kind === "accent" ? "" : levels(en)}
     <span class="gauge" title="in ${en.count} of ${EPS.length} episodes"><s style="--w:${w}%"></s>${en.count} episode${en.count === 1 ? "" : "s"}</span></a>`;
 }
+/* the exam questions Trevor asks, across all episodes – the question bank for practice */
+const QS = EPS.flatMap(e => e.qs.map(([q, s]) => [e.id, s, q]));
+function askCard(i){
+  const [id, s, text] = QS[i], e = EP[id];
+  return `<div class="qa" id="qa"><p class="question">${esc(text)}</p>
+    <div class="from"><span>Asked in</span>${badge(e)}<a href="#episode-${id}">${esc(e.title)}</a><span>· ${date(e.date)}</span></div>
+    <div class="btns">${chip(id, s)}<button class="btn pri" type="button" data-another>Another question</button><a class="btn" href="#transcript-${id}-m${Math.floor(s/60)}">${ICON.doc} Read the answers</a></div>
+    <p class="note" style="margin:0">Answer it yourself first – a minute or two, out loud. Then press play to hear how the native speakers answered.</p></div>`;
+}
+const randomQ = () => Math.floor(Math.random() * QS.length);
 function epRow(e){
   return `<div class="ep">${badge(e)}<div style="min-width:0"><a class="t1" href="#episode-${e.id}">${esc(e.title)}</a>
     <div class="m"><span>${date(e.date)}</span><span>${mins(e.dur)}</span>${e.tx ? '<span class="tx">Transcript</span>' : ""}</div></div>
@@ -411,6 +449,7 @@ function viewHome(){
     <section class="sec"><div class="sec-h"><h2>The big topics</h2><a href="#topics">All ${topics.length} topics →</a></div>
       <div class="tiles">${topics.slice(0, 12).map(tile).join("")}</div></section>
     <section class="sec"><div class="sec-h"><h2>Language points</h2><a href="#language">All ${lang.length} →</a></div>${chipList(lang)}</section>
+    ${QS.length ? `<section class="sec"><div class="sec-h"><h2>Practise a question</h2><a href="#practice">All ${QS.length} questions →</a></div>${askCard(randomQ())}</section>` : ""}
     <section class="sec"><div class="sec-h"><h2>New episodes</h2><a href="#episodes">All ${EPS.length} episodes →</a></div>
       <div class="eplist">${EPS.slice(0, 6).map(epRow).join("")}</div></section>
     <section class="sec"><div class="sec-h"><h2>Exams &amp; skills</h2><a href="#exams">All →</a></div>${chipList(exams)}</section>
@@ -418,15 +457,37 @@ function viewHome(){
   </main>`;
 }
 
+let lvlFilter = "all", examFilter = "all";
 function viewIndex(kind){
   const [, one, many] = KIND[kind];
-  const list = ENTRIES.filter(e => e.kind === kind).sort(byCount);
+  const all = ENTRIES.filter(e => e.kind === kind).sort(byCount);
+  const list = all.filter(e => (lvlFilter === "all" || e.level.includes(lvlFilter)) && (examFilter === "all" || e.exams.includes(examFilter)));
   const lead = {topic:"Background notes on every exam topic, plus every passage in the podcast where native speakers talk about it.",
                 language:"Grammar, vocabulary and pronunciation points that Trevor picks out of the answers, with his examples at the exact minute.",
                 exam:"The Cambridge exams, IELTS and the skills they test, with Trevor's advice from the episodes.",
                 accent:"Where the speakers come from and what their accents sound like, with listening practice at the minute."}[kind];
-  return `<main class="wrap"><div class="pagehead"><div class="eyebrow">${list.length} ${many}</div><h1>${many}</h1><p class="lead">${lead}</p></div>
-    <div class="tiles">${list.map(tile).join("")}</div></main>`;
+  const seg = (name, attr, opts, val) => `<div class="seg" role="group" aria-label="${name}">${opts.map(([v, l]) => `<button type="button" data-${attr}="${v}" class="${v === val ? "on" : ""}">${l}</button>`).join("")}</div>`;
+  const filters = kind === "accent" ? "" : `<div class="filters">${seg("Level", "level", [["all", "All levels"], ...LEVELS.map(l => [l, l])], lvlFilter)}
+    ${kind === "exam" ? seg("Exam", "exam", [["all", "All exams"], ["Cambridge", "Cambridge"], ["IELTS", "IELTS"]], examFilter) : ""}
+    <span class="note">${list.length === all.length ? `${all.length} ${many.toLowerCase()}` : `${list.length} of ${all.length}`}</span></div>`;
+  return `<main class="wrap"><div class="pagehead"><div class="eyebrow">${all.length} ${many}</div><h1>${many}</h1><p class="lead">${lead}</p></div>
+    ${filters}<div class="tiles">${list.map(tile).join("") || `<p class="empty">Nothing rated ${esc(lvlFilter)} here.</p>`}</div></main>`;
+}
+
+let qFilter = "";
+function viewPractice(){
+  return `<main class="wrap"><div class="pagehead"><div class="eyebrow">${QS.length} questions from ${EPS.filter(e => e.qs.length).length} episodes</div><h1>Practise speaking</h1>
+    <p class="lead">The exam-style questions Trevor asks in the podcast. Pick one, answer it out loud, then play the native speakers' answers from that minute.</p></div>
+    ${QS.length ? askCard(randomQ()) : ""}
+    <section class="sec"><div class="sec-h"><h2>All questions</h2></div>
+      <div class="filters"><input id="qq" type="search" placeholder="Filter questions … e.g. holiday, money, future" aria-label="Filter questions" value="${esc(qFilter)}"></div>
+      <div class="qbank" id="qbank"></div></section></main>`;
+}
+function fillQuestions(){
+  const f = qFilter.trim().toLowerCase();
+  const list = QS.map((x, i) => [x, i]).filter(([[id, s, q]]) => !f || (q + " " + EP[id].title).toLowerCase().includes(f));
+  document.getElementById("qbank").innerHTML = list.length ? `<div class="marks">${list.map(([[id, s, q]]) => `<div class="mark">${chip(id, s)}<p>${esc(q)}<a href="#episode-${id}">${esc(epTitle(EP[id]))}</a></p></div>`).join("")}</div>`
+    : `<p class="empty">No question matches “${esc(qFilter)}”.</p>`;
 }
 
 let epSeason = "all", epFilter = "";
@@ -456,9 +517,15 @@ function viewEpisode(id){
       <h1>${esc(e.title)}</h1></div>
     <div class="article">
       <div style="min-width:0">
-        ${groups.length || e.minor.length ? `<section style="margin-bottom:32px">${groups.length ? `<div class="topics">${groups.map(([k, ts]) => ts.map(([r, n]) => `<a class="k-${k}" href="#${r}">${esc(n)}</a>`).join("")).join("")}</div>` : ""}
+        ${groups.length || e.minor.length || e.speakers.length ? `<section style="margin-bottom:32px">${groups.length ? `<div class="topics">${groups.map(([k, ts]) => ts.map(([r, n]) => `<a class="k-${k}" href="#${r}">${esc(n)}</a>`).join("")).join("")}</div>` : ""}
+          ${e.speakers.length ? `<p class="spk"><b>Speakers from</b> ${e.speakers.map(([r, n]) => `<a href="#${r}">${esc(n)}</a>`).join("")}</p>` : ""}
           ${e.minor.length ? `<p class="minor"><span>Briefly mentioned:</span> ${e.minor.map(([r, n]) => `<a href="#${r}">${esc(n)}</a>`).join(", ")}</p>` : ""}</section>` : ""}
         <section><div class="sec-h"><h2>Show notes</h2></div><div class="prose">${e.notes || "<p>No show notes.</p>"}</div></section>
+        ${e.vocab.length ? `<section class="sec"><div class="sec-h"><h2>Language from this episode</h2><span class="note">${e.vocab.length} picked out by Trevor</span></div>
+          <div class="vocab">${e.vocab.map(([term, kind, s]) => `<div><b>${esc(term)}<small>${esc(kind)}</small></b>${chip(e.id, s)}</div>`).join("")}</div></section>` : ""}
+        ${e.qs.length ? `<section class="sec"><div class="sec-h"><h2>Exam questions</h2><span class="note">${e.qs.length} asked in this episode</span></div>
+          <div class="qlist"><div class="marks">${e.qs.map(([q, s]) => `<div class="mark">${chip(e.id, s)}<p>${esc(q)}</p></div>`).join("")}</div></div>
+          <p class="note" style="margin:12px 0 0">Answer each one out loud first, then play the native speakers' answers from that minute.</p></section>` : ""}
         ${e.marks.length ? `<section class="sec"><div class="sec-h"><h2>Chapters</h2>${e.tx ? `<a href="#transcript-${e.id}">Full transcript →</a>` : ""}</div>
           <div class="marks">${e.marks.map(([s, t]) => `<div class="mark">${chip(e.id, s)}<p>${esc(t)} <a href="#transcript-${e.id}-m${Math.floor(s/60)}">read on</a></p></div>`).join("")}</div></section>`
           : `<section class="sec"><p class="note">There is no transcript for this episode yet. It is being created and will appear here automatically.</p></section>`}
@@ -488,7 +555,7 @@ function viewEntry(r){
     <figcaption>${chip(id, s)}<a href="#episode-${id}">${esc(epTitle(e))}</a><a class="sub" href="#transcript-${id}-m${Math.floor(s/60)}">in the transcript</a></figcaption></figure>` : ""; };
   return `<main class="wrap">
     <div class="crumbs"><a href="#${idx}">${many}</a><span>/</span><span>${esc(en.name)}</span></div>
-    <div class="pagehead" style="margin-top:14px"><div class="eyebrow">${one}</div><h1>${esc(en.name)}</h1>${en.lead ? `<p class="lead">${esc(en.lead)}</p>` : ""}</div>
+    <div class="pagehead" style="margin-top:14px"><div class="eyebrow">${one}</div><h1>${esc(en.name)}</h1>${en.kind === "accent" ? "" : levels(en)}${en.lead ? `<p class="lead">${esc(en.lead)}</p>` : ""}</div>
     <div class="article">
       <div style="min-width:0">
         ${en.expl ? `<section><div class="sec-h"><h2>In short</h2></div><div class="prose">${en.expl}</div>
@@ -508,6 +575,7 @@ function viewEntry(r){
       </div>
       <aside class="side"><div class="box"><h3>At a glance</h3><dl class="kv">
         <dt>Episodes</dt><dd>${eps.length} of ${EPS.length}</dd>${en.quotes.length ? `<dt>Quotes</dt><dd>${en.quotes.length}</dd>` : ""}
+        ${en.kind !== "accent" && en.level.length ? `<dt>Level</dt><dd>${en.level.join(" · ")}</dd><dt>Exams</dt><dd>${esc(en.exams.join(", "))}</dd>` : ""}
         <dt>First</dt><dd>${eps.length ? date(EP[eps[eps.length-1][0]].date) : "–"}</dd><dt>Latest</dt><dd>${eps.length ? date(EP[eps[0][0]].date) : "–"}</dd></dl>
         <p class="note" style="margin:14px 0 0">A click on a minute plays the episode from exactly that point.</p></div></aside>
     </div></main>`;
@@ -531,6 +599,7 @@ function route(){
   if (h === "home" || h === "start") { html = viewHome(); section = "home"; }
   else if (SECTION[h]) { html = viewIndex(SECTION[h]); section = h; }
   else if (h === "episodes") { html = viewEpisodes(); section = "episodes"; after = fillEpisodes; }
+  else if (h === "practice") { html = viewPractice(); section = "practice"; after = fillQuestions; }
   else if ((m = h.match(/^episode-([a-z0-9-]+)$/))) { html = viewEpisode(m[1]); section = "episodes"; }
   else if ((m = h.match(/^transcript-(.+?)(?:-m(\d+))?$/))) {
     html = viewTranscript(m[1], m[2]); section = "episodes";
@@ -626,7 +695,9 @@ function search(){
   const ents = ENTRIES.filter(e => norm(e.name + " " + e.lead).includes(term)).sort(byCount).slice(0, 8);
   const eps = EPS.filter(e => norm(e.title + " " + e.label).includes(term)).slice(0, 8);
   const said = []; for (const row of TXIDX) { if (row[3].includes(term)) { said.push(row); if (said.length >= 25) break; } }
+  const qs = QS.filter(([, , t]) => norm(t).includes(term)).slice(0, 6);
   let out = "";
+  if (qs.length) out += `<h4>Exam questions</h4>` + qs.map(([id, s, t]) => `<div class="said">${chip(id, s)}<p><a href="#episode-${id}">${hl(t, term)}</a><small>${esc(epTitle(EP[id]))}</small></p></div>`).join("");
   if (ents.length) out += `<h4>Knowledge</h4>` + ents.map(e => `<a class="r" href="#${e.r}"><b>${hl(e.name, term)}</b><span>${KIND[e.kind][1]} · ${e.count} episodes · ${esc(e.lead)}</span></a>`).join("");
   if (eps.length) out += `<h4>Episodes</h4>` + eps.map(e => `<a class="r" href="#episode-${e.id}"><b>${hl(e.title, term)}</b><span>${e.label} · ${date(e.date)}</span></a>`).join("");
   if (said.length) out += `<h4>Said in the podcast${said.length >= 25 ? " (first 25)" : ""}</h4>` + said.map(([id, s, t]) => { const e = EP[id];
@@ -652,6 +723,9 @@ document.addEventListener("click", e => {
   if (e.target.closest("[data-open-search]")) { openSearch(); return; }
   const y = e.target.closest("[data-season]");
   if (y) { epSeason = y.dataset.season; document.querySelectorAll("[data-season]").forEach(b => b.classList.toggle("on", b === y)); fillEpisodes(); return; }
+  const lv = e.target.closest("[data-level]"), ex = e.target.closest("[data-exam]");
+  if (lv || ex) { if (lv) lvlFilter = lv.dataset.level; if (ex) examFilter = ex.dataset.exam; const y0 = window.scrollY; route(); window.scrollTo(0, y0); return; }
+  if (e.target.closest("[data-another]")) { const card = document.getElementById("qa"); if (card) card.outerHTML = askCard(randomQ()); return; }
   if (e.target.id === "moreQuotes") {
     const en = ENTRY[location.hash.slice(1)];
     document.getElementById("quotes").insertAdjacentHTML("beforeend", en.quotes.slice(QUOTES_SHOWN).map(([id, s, text]) => { const ep = EP[id]; return ep ? `<figure class="q"><blockquote>${esc(text)}</blockquote>
@@ -659,7 +733,7 @@ document.addEventListener("click", e => {
     e.target.remove();
   }
 });
-document.addEventListener("input", e => { if (e.target.id === "epq") { epFilter = e.target.value; fillEpisodes(); } });
+document.addEventListener("input", e => { if (e.target.id === "epq") { epFilter = e.target.value; fillEpisodes(); } if (e.target.id === "qq") { qFilter = e.target.value; fillQuestions(); } });
 window.addEventListener("hashchange", route);
 route(); sync();
 </script>

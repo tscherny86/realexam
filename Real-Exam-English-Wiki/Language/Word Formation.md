@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 2
+level: [B2, C1]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Word Formation
 
 _Prefixes, suffixes and word families – tested directly in Use of English Part 3._
+
+**Level:** B2 · C1 · **Exams:** Cambridge, IELTS
 
 ## Background
 **Word formation** (Use of English Part 3) asks you to change a given word to fit a gap:

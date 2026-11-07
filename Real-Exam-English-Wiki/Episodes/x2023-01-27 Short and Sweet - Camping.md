@@ -24,12 +24,17 @@ tags: [episode, season-0]
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[Australia]] |
 | **Briefly mentioned** | [[Friends & Friendship]], [[England]] |
+| **Speakers from** | [[Ireland]], [[Australia]] |
 
 ## Show notes
 
 In this short and sweet episode we ask a couple of questions about holidays and camping and analyse the answers for the best bits. We have some conditionals grammar, a couple of idioms, some camping vocab and an example of what is known is a portmanteau, nice.
 
 Thanks to Leah Ann(from Ireland) for contributing.
+
+## Exam questions
+
+- [0:32](https://open.spotify.com/episode/5ftHlkafEVp3rQMG0VGGRx?t=32) Who would be the ideal person to go on a holiday with and why?
 
 ## Chapters
 

@@ -1,11 +1,15 @@
 ---
 type: accents
 episodes: 5
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [accents]
 ---
 # Canada
 
 _Canadian English – close to American, with British spelling and 'eh'._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 **Canadian English** sounds close to General American but keeps some British spellings (*colour,

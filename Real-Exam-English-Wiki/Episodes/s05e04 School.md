@@ -24,6 +24,7 @@ tags: [episode, season-5]
 | **Exams** | [[Cambridge B2 First (FCE)]], [[Cambridge C1 Advanced (CAE)]] |
 | **Accents** | – |
 | **Briefly mentioned** | [[Sport & Exercise]], [[Books & Reading]], [[Anger & Emotions]], [[Art & Creativity]], [[Space & Science]], [[Help & Kindness]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]], [[England]], [[Australia]] |
+| **Speakers from** | – |
 
 ## Show notes
 
@@ -32,6 +33,21 @@ Native English speakers answer questions about school.
 This is an essential topic to cover for English exam preparaiont, especially if you are a teenager and are doing exams like First for Schools or C1 Advanced.  So we talk about useful school subjects, school trips, positive learning environments and a bunch of other schooly things. We focus on using auxiliary verbs for emphasis and on question tags, which are always in need of some practice! We have some advanced English phrasal verbs too and quite a few advanced English idioms. 
 
 Thanks to all of the contributors, including Emma, Mike, Noel, Konner, Jen, Dan from the Roar and Score Trivia Podcast and the girls from the Butt Stuff Podcast.
+
+## Exam questions
+
+- [0:56](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=56) What was your favorite subject at school?
+- [1:28](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=88) How important do you think it is to include physical exercise at school?
+- [3:42](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=222) What creates a positive learning environment?
+- [4:27](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=267) What do you think the most important school subjects are?
+- [7:06](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=426) Can you get the kids to tidy their bedrooms?
+- [7:12](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=432) Is it a good idea for schools to take the students on school trips?
+- [12:11](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=731) Are coming and you finish it with aren’t you?
+- [12:17](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=737) How you do: They can play guitar, can’t they?
+- [14:20](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=860) What do you think creates a positive learning environment?
+- [14:49](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=889) How important is physical exercise at school?
+- [16:17](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=977) Was fine but didn’t really have anything that fancy it, so how would we make it better?
+- [16:30](https://open.spotify.com/episode/5pf8Eo4DCQs9LqHNYduPFl?t=990) Was What creates a positive learning environment would you say?
 
 ## Chapters
 

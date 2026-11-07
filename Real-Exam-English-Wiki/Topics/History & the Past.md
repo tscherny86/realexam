@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # History & the Past
 
 _Learning from history and comparing the past with the present._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 History questions (*Is it important to learn history?*, *Was life better in the past?*) test

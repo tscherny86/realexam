@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 3
+level: [B2]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Likes, Dislikes & Preferences
 
 _Ways to say what you like, hate and prefer that go beyond 'I like' and 'I don't like'._
+
+**Level:** B2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Part 1 questions are often about likes and preferences, so vary the language:

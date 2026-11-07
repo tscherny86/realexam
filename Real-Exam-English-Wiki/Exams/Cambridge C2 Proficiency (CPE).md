@@ -1,11 +1,15 @@
 ---
 type: exams
 episodes: 1
+level: [C2]
+exams: [Cambridge]
 tags: [exams]
 ---
 # Cambridge C2 Proficiency (CPE)
 
 _The highest Cambridge level – near-native command of English._
+
+**Level:** C2 · **Exams:** Cambridge
 
 ## Background
 **C2 Proficiency** (formerly CPE) is the top Cambridge qualification. Papers: Reading and Use of

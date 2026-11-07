@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Social Media
 
 _Social media, influencers and screen time – one of the most frequent C1 essay subjects._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 *Does social media do more harm than good?* is asked at every level. Have both sides ready.

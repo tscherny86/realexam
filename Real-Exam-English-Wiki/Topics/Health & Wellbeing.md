@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Health & Wellbeing
 
 _Healthy living, illness, mental health and the health service._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Health questions range from *How do you keep healthy?* (B2) to essays on obesity, mental health or

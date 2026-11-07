@@ -24,6 +24,7 @@ tags: [episode, season-2]
 | **Exams** | [[Speaking Exam]] |
 | **Accents** | [[Ireland]], [[England]], [[Scotland]], [[USA]] |
 | **Briefly mentioned** | [[Books & Reading]], [[TV, Film & Entertainment]], [[Change & Life Changes]], [[Home & Housing]], [[Relaxing & Stress]], [[Nature & Outdoors]], [[Phrasal Verbs]] |
+| **Speakers from** | [[Ireland]], [[England]], [[Scotland]], [[USA]] |
 
 ## Show notes
 
@@ -32,6 +33,19 @@ Native English speakers answer questions about free time.
 Today we have speakers from Texas, New York, Scotland, the South of England, the midlands of England, the North of England, and London, and myself from Ireland. So you´re going to get loads of exposure to different accents, which is exactly what you need when preparing for an English exam. We have quite a diverse mix of hobbies and interests too, it´s very interesting what similarities and differences there are culturally between different parts of the world. So you should be able to pick up some nice expressions and vocabulary today that you could use to describe yourself and your own free time, if you have any!
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Arianwen from the In Mothering podast, Trisha from Conversations with a Random Nobody, Chris, Barbara, Ronny, Zoe, Ofordi, Karen, Keith, Mary, Emma and Ursula.
+
+## Language from this episode
+
+- **do something to death** (expression) – [3:06](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=186) · [[Transcript s02e07#Minute 3|transcript]]
+
+## Exam questions
+
+- [1:19](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=79) Do you like playing computer games?
+- [4:05](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=245) What is your favourite way to relax?
+- [6:09](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=369) Is there something creative you would like to be able to do but can't?
+- [6:50](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=410) Has your choice of free time activities changed over the years?
+- [8:28](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=508) What is your favorite way to relax?
+- [14:02](https://open.spotify.com/episode/3EB1nEyuhOYNv6FMkAYAyi?t=842) Do you think it’s important to be busy all the time?
 
 ## Chapters
 

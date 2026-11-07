@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 2
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Priorities & Decisions
 
 _Making decisions, setting priorities and weighing things up._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Decision-making is a C1/C2 topic that pairs naturally with conditionals, the passive and the past

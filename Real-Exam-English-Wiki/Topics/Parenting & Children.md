@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 7
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Parenting & Children
 
 _Bringing up children, childhood then and now, and what children need._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Parenting is a C1/C2 topic; childhood memories are a B2 long-turn favourite.

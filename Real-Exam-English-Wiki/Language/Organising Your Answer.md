@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 4
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Organising Your Answer
 
 _Structuring a long turn, a monologue or an essay so the examiner can follow you._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 **Discourse management** is a speaking criterion of its own: examiners check whether your answer has

@@ -24,6 +24,7 @@ tags: [episode, season-4]
 | **Exams** | [[Speaking Exam]] |
 | **Accents** | [[Ireland]], [[England]], [[USA]], [[Australia]] |
 | **Briefly mentioned** | [[Parenting & Children]], [[Exam Tips & Preparation]] |
+| **Speakers from** | [[Ireland]], [[England]], [[USA]], [[Australia]] |
 
 ## Show notes
 
@@ -32,6 +33,23 @@ Native English speakers answer questions about history.
 We hear how history is celebrated and learned about in the United States, England, Ireland and Australia. We have a bunch of useful phrasal verbs to speak about archaeology and the past in general and we have a particularly tricky question, which catches a lot of the speakers by surprise, so it´s interesting to see how they react to that. We also take a look at some super fancy language in the form of rhetorical questions and idioms.
 
 Thanks to all of the contributors, including  Matt, Leah Ann, Stephanie, Loli, Richard, Ofordi, Emma and Leanne from the Beach Travel Wine podcast.
+
+## Language from this episode
+
+- **yea pretty interested** (expression) – [8:41](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=521) · [[Transcript s04e09#Minute 8|transcript]]
+- **get behind** (phrasal verb) – [11:20](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=680) · [[Transcript s04e09#Minute 11|transcript]]
+- **stand up to someone** (phrasal verb) – [12:45](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=765) · [[Transcript s04e09#Minute 12|transcript]]
+
+## Exam questions
+
+- [0:52](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=52) Should all children be expected to learn about history at school?
+- [1:53](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=113) How do people in your country celebrate important historical events?
+- [4:02](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=242) What would you want to ask?
+- [6:08](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=368) What are your favourite colour socks?
+- [7:17](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=437) How interested in history are you?
+- [7:44](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=464) Is it more important for children to learn about their own country's history or world history?
+- [11:08](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=668) Why do we need to study rhetorical questions?
+- [11:15](https://open.spotify.com/episode/3pgoUs9kbCxjcKNJBc7VeN?t=675) Do you want to pass your speaking test?
 
 ## Chapters
 

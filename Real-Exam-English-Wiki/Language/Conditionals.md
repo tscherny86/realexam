@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 5
+level: [B2, C1]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Conditionals
 
 _Zero, first, second, third and mixed conditionals, plus inverted forms for C1/C2._
+
+**Level:** B2 · C1 · **Exams:** Cambridge, IELTS
 
 ## Background
 - **Zero**: facts (*If you heat ice, it melts*). **First**: real future (*If it rains, we'll stay in*).

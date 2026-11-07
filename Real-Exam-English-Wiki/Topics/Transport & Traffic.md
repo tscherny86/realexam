@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 3
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Transport & Traffic
 
 _Public transport, cars, cycling and how to get around cities._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Transport questions are common at B2 and C1 (*Should cars be banned from city centres?*).

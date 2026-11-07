@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 1
+level: [B2, C1]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Relative Clauses
 
 _Who, which, that, whose, whereby – defining and non-defining clauses._
+
+**Level:** B2 · C1 · **Exams:** Cambridge, IELTS
 
 ## Background
 - **Defining** clauses identify which one (*The man who called was my boss* – no commas).

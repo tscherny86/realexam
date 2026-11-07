@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Politics & Government
 
 _What governments should do about the environment, crime, education or housing – the C1/C2 angle on almost every topic._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Politics rarely appears as its own question, but C1 and C2 tasks constantly ask *what should the

@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 2
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Fame & Celebrity
 
 _Celebrities, privacy and whether fame is worth having._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 A C1 classic: *Do celebrities deserve their privacy?*, *Would you like to be famous?*

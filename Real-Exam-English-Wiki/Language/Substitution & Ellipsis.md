@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 1
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Substitution & Ellipsis
 
 _Replacing or leaving out words so you don't repeat yourself – rewarded in the writing paper._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Cambridge writing descriptors reward **substitution** (*this, that, these ones, so, do so, the former*)

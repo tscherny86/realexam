@@ -24,12 +24,23 @@ tags: [episode, season-1]
 | **Exams** | – |
 | **Accents** | – |
 | **Briefly mentioned** | [[TV, Film & Entertainment]], [[Work & Careers]], [[Anger & Emotions]], [[Change & Life Changes]], [[Parenting & Children]], [[The Future & Predictions]], [[Social Media]], [[Phrasal Verbs]], [[Idioms & Expressions]] |
+| **Speakers from** | – |
 
 ## Show notes
 
 Native English speakers answer questions about technology. 
 
 Includes some great ways to say likes and dislikes and also cleft sentences, a really versatile advanced grammar structure to use when writing or speaking.
+
+## Language from this episode
+
+- **go on** (expression) – [8:50](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=530) · [[Transcript s01e06#Minute 8|transcript]]
+
+## Exam questions
+
+- [1:03](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=63) Do you think parents should apply time limits to their children's usage of the computer?
+- [2:19](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=139) Do you use social networking sites a lot?
+- [4:31](https://open.spotify.com/episode/7uytYUNJZE8fI8eRtTqejU?t=271) Do you think that technology will result in more people being unemployed in the future?
 
 ## Chapters
 

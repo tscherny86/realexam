@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 9
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Work & Careers
 
 _Jobs, careers, the workplace and work-life balance – a C1 Advanced staple._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Work is one of the most frequent C1 topics: *Is it better to work for a large company or a small

@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 54
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Idioms & Expressions
 
 _Fixed expressions whose meaning is figurative – used in every episode of the podcast._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 **Idioms** are fixed phrases with a figurative meaning: *to be over the moon*, *to hit the nail on the

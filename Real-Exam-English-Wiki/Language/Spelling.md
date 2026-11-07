@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 1
+level: [B2]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Spelling
 
 _British vs. American spelling and the words everyone misspells._
+
+**Level:** B2 · **Exams:** Cambridge, IELTS
 
 ## Background
 - **British vs. American**: *colour / color*, *centre / center*, *organise / organize* (both OK in

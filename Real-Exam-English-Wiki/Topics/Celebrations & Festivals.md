@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 2
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Celebrations & Festivals
 
 _Birthdays, weddings, Christmas and national festivals – a rich source of cultural vocabulary._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Celebrations are a common B2 topic (*How do you celebrate New Year?*) and a good way for

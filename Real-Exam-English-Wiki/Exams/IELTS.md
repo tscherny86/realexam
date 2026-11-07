@@ -1,11 +1,15 @@
 ---
 type: exams
 episodes: 1
+level: [B2, C1, C2]
+exams: [IELTS]
 tags: [exams]
 ---
 # IELTS
 
 _The International English Language Testing System, scored in bands from 1 to 9._
+
+**Level:** B2 · C1 · C2 · **Exams:** IELTS
 
 ## Background
 **IELTS** (Academic or General Training) is scored in **bands** 1–9; universities usually ask for

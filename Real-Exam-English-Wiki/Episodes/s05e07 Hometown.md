@@ -24,6 +24,7 @@ tags: [episode, season-5]
 | **Exams** | – |
 | **Accents** | [[Wales]], [[Australia]] |
 | **Briefly mentioned** | [[Food & Cooking]], [[City & Country Life]], [[Global Issues]], [[Money & Finance]], [[Learning, School & Education]], [[Culture & Traditions]], [[Help & Kindness]], [[Scotland]] |
+| **Speakers from** | – |
 
 ## Show notes
 
@@ -32,6 +33,18 @@ Native English speakers answer questions about hometowns.
 As usual we’ll take a look at plenty of top grammar and advanced English vocabulary, particularly language relating to towns and cities. We have a bunch of speakers from different countries so you can practice listening to their wonderfully different accents and viewpoints. 
 
 Thanks to all of the contributors, including Emma, Mike, Noel, Konner, Jen, Dan from the Roar and Score Trivia Podcast and the girls from the Butt Stuff Podcast
+
+## Language from this episode
+
+- **settle down** (phrasal verb) – [3:27](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=207) · [[Transcript s05e07#Minute 3|transcript]]
+
+## Exam questions
+
+- [0:56](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=56) What would you do to improve your local town or city?
+- [2:05](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=125) Do you think it might be exciting living in lots of different places?
+- [4:37](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=277) What problems does your area have?
+- [5:04](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=304) What is the biggest problem here?
+- [11:02](https://open.spotify.com/episode/57l1igur0LYoWzRqULsG6w?t=662) How has your hometown or city changed over the last few years?
 
 ## Chapters
 

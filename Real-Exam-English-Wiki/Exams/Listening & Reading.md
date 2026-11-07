@@ -1,11 +1,15 @@
 ---
 type: exams
 episodes: 3
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [exams]
 ---
 # Listening & Reading
 
 _Listening practice with different accents and the Reading & Use of English paper._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 - **Listening**: Cambridge recordings mix British, Irish, American, Australian and other accents –

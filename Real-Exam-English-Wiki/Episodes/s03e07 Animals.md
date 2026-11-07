@@ -24,6 +24,7 @@ tags: [episode, season-3]
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[USA]], [[Australia]], [[New Zealand]] |
 | **Briefly mentioned** | [[Health & Wellbeing]] |
+| **Speakers from** | [[Ireland]], [[England]], [[USA]], [[Australia]], [[New Zealand]] |
 
 ## Show notes
 
@@ -32,6 +33,17 @@ Native English speakers answer questions about animals.
 Today’s episode is about animals. You are going to hear speakers from the UK, USA, Australia and New Zealand, all answering questions about pets, zoos, wildlife and all things animal, and the host with the most, Trevor from Ireland, picking out the best bits. And today those best bits include different ways to express habits, you will hear some super vocabulary, excellent idioms and also we have some top class speculation about a photograph with an owl. 
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Konner from The Blunt Report podcast(https://www.thebluntreport.com), Rosemary, David, Mary Alice, Ofordi and Ursula.
+
+## Exam questions
+
+- [1:05](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=65) How much contact do you have with animals in your daily life?
+- [1:31](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=91) What are the benefits of humans for humans of having abundant wildlife?
+- [3:13](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=193) What is the most attractive animal, in your opinion?
+- [3:26](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=206) How has the wildlife population of your local area changed over the years?
+- [5:50](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=350) What is your attitude towards keeping animals in zoos and wildlife parks?
+- [10:43](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=643) Is it important to protect all animal species?
+- [12:00](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=720) What are the benefits for humans of having abundant wildlife?
+- [13:41](https://open.spotify.com/episode/6BjGAk05dsTgNaBIGSnc0J?t=821) What do you think of testing cosmetics on animals?
 
 ## Chapters
 

@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Motivation & Goals
 
 _Staying motivated, setting goals and overcoming procrastination._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Motivation is a reflective C1 topic with useful vocabulary for essays about work, study and sport.

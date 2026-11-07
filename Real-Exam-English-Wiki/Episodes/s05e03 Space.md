@@ -24,6 +24,7 @@ tags: [episode, season-5]
 | **Exams** | [[Listening & Reading]] |
 | **Accents** | [[Wales]], [[Canada]] |
 | **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Music]], [[Weather & Seasons]], [[Extremes & Adventure]], [[England]], [[Australia]] |
+| **Speakers from** | [[Wales]], [[Canada]] |
 
 ## Show notes
 
@@ -32,6 +33,20 @@ Native English speakers answer questions about space.
 Ok, it’s not the most common exam topic ever but it is a very interesting subject and a lot of people are really enthusiastic about it, as you are gonna hear, we have quite a few space fans speaking today. So there’s plenty of space vocabulary, lots of adjectives, natural expressions, some advanced English phrasal verbs and a wide variety of accents, including quite a funny conversation between two Welsh ladies that is sure to test your listening skills. 
 
 Thanks to all of the contributors, including Emma, Mike, Noel, Konner, Jen, Dan from the Roar and Score Trivia Podcast and the girls from the Butt Stuff Podcast.
+
+## Language from this episode
+
+- **well Australian** (adjective) – [13:58](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=838) · [[Transcript s05e03#Minute 13|transcript]]
+
+## Exam questions
+
+- [7:06](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=426) How would you feel if you traveled in outer space?
+- [7:32](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=452) What is your favorite space movie or TV show and how realistic is it?
+- [8:50](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=530) Would you be up for going a hike at the weekend?
+- [12:38](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=758) How would you feel if you travelled in outer space?
+- [13:03](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=783) What is your favorite space movie or TV show?
+- [15:40](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=940) Have you seen the amount of people that have lost in space lately?
+- [16:06](https://open.spotify.com/episode/0msdsEThbDxffOnUofT6so?t=966) What skills or strength should an astronaut have?
 
 ## Chapters
 

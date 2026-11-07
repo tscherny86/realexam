@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Sport & Exercise
 
 _Keeping fit, competitive sport and the role of exercise in a healthy life._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Exam questions on sport usually go beyond *Which sport do you like?* – you may be asked whether

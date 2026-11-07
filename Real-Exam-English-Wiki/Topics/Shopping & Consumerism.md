@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Shopping & Consumerism
 
 _Shopping habits, online shopping, brands and consumer society._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Shopping is a B2 favourite that can be pushed to C1/C2 with questions about consumerism and

@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Globalisation
 
 _Globalisation: countries becoming more alike, multinational companies and cultural identity._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Globalisation appears in questions about tourism, culture, work and the environment: *Are countries

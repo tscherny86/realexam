@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 9
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Emphasis & Auxiliaries
 
 _I DO think…, really, so/such – adding emphasis to what you say._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Ways to **add emphasis**:

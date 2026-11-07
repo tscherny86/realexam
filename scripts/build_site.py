@@ -172,11 +172,16 @@ class Site:
 
             topics = [t for lab in KIND for t in row_links(lab)]
             minor = row_links("Briefly mentioned")
+            speakers = row_links("Speakers from")
             marks = []
             for line in sec.get("Chapters", "").splitlines():
                 m = re.match(r"- \[(\d+:\d{2})\]\(\S+?\) – (.*?) \(\[\[", line)
                 if m:
                     marks.append([label_to_sec(m.group(1)), m.group(2)])
+            vocab = [[m.group(1), m.group(2), label_to_sec(m.group(3))] for m in re.finditer(
+                r"^- \*\*(.+?)\*\* \((.+?)\) – \[(\d+:\d{2})\]\(", sec.get("Language from this episode", ""), re.M)]
+            qs = [[m.group(2), label_to_sec(m.group(1))] for m in re.finditer(
+                r"^- \[(\d+:\d{2})\]\(\S+?\) (.+?)$", sec.get("Exam questions", ""), re.M)]
             spotify = fm.get("spotify", "")
             ep_id = name.split()[0]
             tx_status = re.search(r"\| \*\*Transcript\*\* \| \[\[Transcript [^\]]+\]\] \([^,]+, (.*?)\)", body)
@@ -188,6 +193,7 @@ class Site:
                 "mp3": mp3.group(1) if mp3 else "", "tx": fm.get("transcript") == "true",
                 "status": (tx_status.group(1).replace("*", "") if tx_status else ""),
                 "topics": topics, "minor": minor, "notes": self.blocks(sec.get("Show notes", "")), "marks": marks,
+                "speakers": speakers, "vocab": vocab, "qs": qs,
             })
         eps.sort(key=lambda e: (e["date"], e["id"]), reverse=True)
         return eps
@@ -225,6 +231,8 @@ class Site:
                 "lead": lead.group(1) if lead else "",
                 "count": len(eps),
                 "expl": self.blocks(sec.get("Background", "")), "quotes": quotes, "eps": eps, "minor": minor,
+                "level": [x.strip() for x in fm.get("level", "").strip("[]").split(",") if x.strip()],
+                "exams": [x.strip() for x in fm.get("exams", "").strip("[]").split(",") if x.strip()],
             })
         out.sort(key=lambda e: e["name"].lower())
         return out

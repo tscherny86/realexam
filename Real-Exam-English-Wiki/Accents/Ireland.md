@@ -1,11 +1,15 @@
 ---
 type: accents
 episodes: 28
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [accents]
 ---
 # Ireland
 
 _Trevor's home: Irish English, its sounds and its slang._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 **Irish English** is the podcast's home accent (Trevor is from Ireland). Features: a soft *r* that is

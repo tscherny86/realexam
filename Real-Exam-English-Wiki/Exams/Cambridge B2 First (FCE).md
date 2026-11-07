@@ -1,11 +1,15 @@
 ---
 type: exams
 episodes: 1
+level: [B2]
+exams: [Cambridge]
 tags: [exams]
 ---
 # Cambridge B2 First (FCE)
 
 _The upper-intermediate Cambridge exam, formerly the First Certificate (FCE)._
+
+**Level:** B2 · **Exams:** Cambridge
 
 ## Background
 **B2 First** (formerly FCE) certifies upper-intermediate English. Four papers: Reading and Use of

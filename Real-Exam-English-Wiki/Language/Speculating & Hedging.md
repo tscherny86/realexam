@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 5
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Speculating & Hedging
 
 _It looks as if…, they might be… – the language for talking about pictures and possibilities._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Speaking Part 2 (comparing photographs) is a **speculation** task: say what might be happening, not just

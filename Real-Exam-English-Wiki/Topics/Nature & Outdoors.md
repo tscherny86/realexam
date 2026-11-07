@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 2
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Nature & Outdoors
 
 _Mountains, beaches, forests and fresh air – the outdoor life that speakers from every country praise._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Nature turns up inside many other topics: hometowns, holidays, relaxing, the environment. Examiners

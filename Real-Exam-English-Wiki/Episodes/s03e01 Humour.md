@@ -24,6 +24,7 @@ tags: [episode, season-3]
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[USA]], [[Australia]], [[New Zealand]] |
 | **Briefly mentioned** | [[Family & Relationships]], [[Politics & Government]], [[Pronunciation]], [[Speaking Exam]] |
+| **Speakers from** | [[Ireland]], [[England]], [[USA]], [[Australia]], [[New Zealand]] |
 
 ## Show notes
 
@@ -32,6 +33,13 @@ Native English speakers answer questions about humour.
 You will learn a bit about the culture of different English-speaking countries as well as some great language in the form of phrasal verbs and idioms. You will hear speakers from England, the USA, Australia, New Zealand and Ireland so a wide variety of accents for you, as usual. 
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Konner from The Blunt Report podcast(https://www.thebluntreport.com), Rosemary, David, Mary Alice and Ursula.
+
+## Exam questions
+
+- [4:44](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=284) Are there stereotypes in jokes in your country?
+- [6:55](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=415) What type of sense of humor do you share with family and friends?
+- [9:00](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=540) Describe the sense of humour in your country?
+- [13:39](https://open.spotify.com/episode/6sggUVeDdT0qCAmzr9mxSg?t=819) Is hilarious because it's absolutely spot on what subjects do you think should never be joked about?
 
 ## Chapters
 

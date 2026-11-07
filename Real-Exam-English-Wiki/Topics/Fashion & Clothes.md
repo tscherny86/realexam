@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 2
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Fashion & Clothes
 
 _Clothes, personal style and the fashion industry._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Fashion lets examiners test descriptive vocabulary and opinions on consumer culture.

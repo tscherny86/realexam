@@ -24,6 +24,7 @@ tags: [episode, season-0]
 | **Exams** | [[Speaking Exam]] |
 | **Accents** | [[Ireland]] |
 | **Briefly mentioned** | – |
+| **Speakers from** | – |
 
 ## Show notes
 

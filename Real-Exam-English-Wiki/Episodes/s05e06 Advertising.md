@@ -24,6 +24,7 @@ tags: [episode, season-5]
 | **Exams** | – |
 | **Accents** | [[England]], [[USA]], [[Australia]] |
 | **Briefly mentioned** | [[Sport & Exercise]], [[TV, Film & Entertainment]], [[Money & Finance]], [[Change & Life Changes]], [[Happiness]], [[Home & Housing]], [[Priorities & Decisions]], [[Social Media]], [[Passive Voice]], [[Question Tags]], [[Buying Time & Fillers]], [[Likes, Dislikes & Preferences]] |
+| **Speakers from** | [[England]], [[USA]], [[Australia]] |
 
 ## Show notes
 
@@ -32,6 +33,23 @@ Native English speakers answer questions about advertising.
 In this episode we have loads of nice advertising vocabulary, including some real life expressions from the US, the UK and Australia. We also look at how to make your speech more cohesive and we focus on different ways to use the verb do. 
 
 Thanks to all of the contributors, including Emma, Mike, Noel, Konner, Jen, Dan from the Roar and Score Trivia Podcast and the girls from the Butt Stuff Podcast
+
+## Language from this episode
+
+- **flogging a dead horse** (idiom) – [14:06](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=846) · [[Transcript s05e06#Minute 14|transcript]]
+
+## Exam questions
+
+- [1:06](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=66) Is it more enjoyable to watch a TV program with advertising breaks or without them?
+- [1:39](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=99) Do you think more people are likely to buy a product if a celebrity recommends it?
+- [2:29](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=149) Which types of products are advertised the most?
+- [2:33](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=153) Why do you think that is?
+- [4:00](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=240) Why would there be ads there?
+- [7:17](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=437) Should firms be allowed to advertise to children?
+- [12:03](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=723) Which types of products are advertised most and why do you think that is?
+- [13:10](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=790) Do you think alcohol and tobacco should be allowed to advertise?
+- [15:50](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=950) Do you prefer advertisements on TV and newspapers, on the radio, on the Internet or in the street?
+- [18:15](https://open.spotify.com/episode/5OuDALk8fHenCHGUeijLHH?t=1095) Is it more enjoyable to watch a TV programme with advertising breaks or without them?
 
 ## Chapters
 

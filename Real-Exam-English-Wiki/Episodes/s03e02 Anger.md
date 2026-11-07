@@ -24,6 +24,7 @@ tags: [episode, season-3]
 | **Exams** | – |
 | **Accents** | [[England]], [[USA]], [[Australia]], [[New Zealand]] |
 | **Briefly mentioned** | [[Work & Careers]], [[Adjectives & Compound Adjectives]] |
+| **Speakers from** | [[England]], [[USA]], [[Australia]], [[New Zealand]] |
 
 ## Show notes
 
@@ -32,6 +33,19 @@ Native English speakers answer questions about anger.
 You will learn lots of super vocabulary about getting angry as well as some awesome connectors and idioms. You will hear speakers from England, the USA, Australia, New Zealand and Ireland so a wide variety of accents for you, as usual. 
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Konner from The Blunt Report podcast(https://www.thebluntreport.com), Rosemary, David, Ofordi, Mary Alice and Ursula.
+
+## Language from this episode
+
+- **burning hot temper** (expression) – [3:27](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=207) · [[Transcript s03e02#Minute 3|transcript]]
+- **anxiety** (word) – [3:34](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=214) · [[Transcript s03e02#Minute 3|transcript]]
+
+## Exam questions
+
+- [1:11](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=71) What do you do to calm down?
+- [2:14](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=134) Do you think the pace of life today makes it more likely for people to lose their temper?
+- [5:10](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=310) Why do you think some people lose their temper more often than others?
+- [9:47](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=587) What do you do when you lose your temper?
+- [10:14](https://open.spotify.com/episode/643YDR0K9AvVf1DL0mFZBG?t=614) Is it always better to show your feelings rather than hide them?
 
 ## Chapters
 

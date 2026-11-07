@@ -24,6 +24,7 @@ tags: [episode, season-6]
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[USA]] |
 | **Briefly mentioned** | [[TV, Film & Entertainment]], [[Health & Wellbeing]], [[Family & Relationships]], [[Emphasis & Auxiliaries]], [[Binomial Pairs]] |
+| **Speakers from** | [[Ireland]], [[England]], [[USA]] |
 
 ## Show notes
 
@@ -32,6 +33,18 @@ Native English speakers answer exam-style questions about decisions.
 This episode has lots of advanced English vocabulary and grammar, including a look at the passive voice and the past perfect. It has some useful idioms for speaking about making decisions and has 6 different speakers so you can practice listening to different accents.
 
 Thanks to all of the contributors, including Paddy, Mike, Melissa, Lori, Jay, Carla Jayne, Annie and Mary Alice.
+
+## Language from this episode
+
+- **whittle down** (phrasal verb) – [12:17](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=737) · [[Transcript s06e10#Minute 12|transcript]]
+
+## Exam questions
+
+- [0:36](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=36) Do you prefer making decisions alone or with other people's advice?
+- [1:15](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=75) Do you think people today have too many choices?
+- [3:26](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=206) Do you think it's better to follow your head or your heart when making decisions?
+- [5:43](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=343) What was the last difficult decision that you had to make?
+- [8:59](https://open.spotify.com/episode/7KVMw1NwJMs2Vj0z7DrGET?t=539) How do you and your friends or family make group decisions, such as choosing a place to go or something to buy?
 
 ## Chapters
 

@@ -24,12 +24,33 @@ tags: [episode, season-6]
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[USA]] |
 | **Briefly mentioned** | [[Technology & the Internet]], [[TV, Film & Entertainment]], [[Work & Careers]], [[Learning, School & Education]], [[Motivation & Goals]], [[Social Media]], [[Adjectives & Compound Adjectives]] |
+| **Speakers from** | [[Ireland]], [[England]], [[USA]] |
 
 ## Show notes
 
 Native English speakers answer exam-style questions about the news.
 
 In this episode you will learn lots of key advanced English vocabulary about the news as well as some advanced phrasal verbs and idioms. You can practice listening to American accents, British accents and Irish accents too.
+
+## Language from this episode
+
+- **stay over** (phrasal verb) – [3:53](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=233) · [[Transcript s06e01#Minute 3|transcript]]
+- **readily available** (collocation) – [12:55](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=775) · [[Transcript s06e01#Minute 12|transcript]]
+
+## Exam questions
+
+- [1:04](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=64) What was the most memorable or impactful news story that you have ever watched?
+- [2:05](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=125) What impact do you think citizen journalism has on professional journalism?
+- [4:18](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=258) Which news sources do you trust the most and why?
+- [5:14](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=314) What ways should the media be regulated?
+- [5:17](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=317) Is an interesting word because where does it stop being regulation and where does it start becoming control?
+- [6:45](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=405) What is your preferred method of getting the news?
+- [7:20](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=440) Do you believe that journalists should try and be more positive in their reporting?
+- [8:36](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=516) Is that your opinion or is that fact?
+- [12:15](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=735) What was the most memorable or impactful news story you've ever watched?
+- [14:58](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=898) Can you really regulate the media or should you even try?
+- [17:19](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=1039) Should the news just report the facts or should journalists interpret the facts and provide opinion?
+- [17:38](https://open.spotify.com/episode/3Eswm7MxxbbdDgTzPHoH8W?t=1058) Where was it they went to when we raided it?
 
 ## Chapters
 

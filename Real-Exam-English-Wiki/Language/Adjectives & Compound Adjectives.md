@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 5
+level: [B2, C1]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Adjectives & Compound Adjectives
 
 _Strong adjectives and compound adjectives (time-consuming, well-off, mouth-watering)._
+
+**Level:** B2 · C1 · **Exams:** Cambridge, IELTS
 
 ## Background
 - **Strong (extreme) adjectives** replace *very* + adjective: *very good* → *superb*, *very tired* →

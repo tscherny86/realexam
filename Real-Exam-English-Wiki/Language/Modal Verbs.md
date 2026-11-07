@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 1
+level: [B2, C1]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Modal Verbs
 
 _Must, might, can't, should have – obligation, possibility and deduction._
+
+**Level:** B2 · C1 · **Exams:** Cambridge, IELTS
 
 ## Background
 - Obligation and advice: *must*, *have to*, *should*, *ought to*, *needn't*, *had better*.

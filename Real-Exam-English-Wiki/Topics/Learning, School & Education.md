@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 10
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Learning, School & Education
 
 _School days, learning styles, university and whether education prepares you for life._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Education is the single most common topic in Cambridge exams, especially in the *for Schools*

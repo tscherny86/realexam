@@ -29,6 +29,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import align_official  # noqa: E402
 import corrections  # noqa: E402
+import extract  # noqa: E402
 from topics import TOPICS  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -301,6 +302,8 @@ def build() -> None:
     topic_hits: dict[str, list] = {}
     ep_topics: dict[str, dict[str, list[str]]] = {e["id"]: {f: [] for f in FOLDERS} for e in episodes}
     ep_mentions: dict[str, list[str]] = {e["id"]: [] for e in episodes}
+    # accents that Trevor announces in the intro or the show notes = where this episode's speakers come from
+    ep_speakers: dict[str, list[str]] = {e["id"]: [] for e in episodes}
     for topic in TOPICS:
         rx = re.compile("|".join(f"(?:{p})" for p in topic["patterns"]), re.IGNORECASE)
         min_mentions = max(topic.get("min", 0), FOLDER_MIN[topic["folder"]])
@@ -330,16 +333,20 @@ def build() -> None:
                         ep_topics[ep["id"]][topic["folder"]].append(topic["name"])
                     else:
                         ep_mentions[ep["id"]].append(topic["name"])
+                if topic["folder"] == "Accents" and notes_ok:
+                    ep_speakers[ep["id"]].append(topic["name"])
         topic_hits[topic["name"]] = hits
 
     # ---- episodes
+    n_vocab = n_questions = 0
     for ep in episodes:
         words = transcripts[ep["id"]]
         rows = "\n".join(
             f"| **{folder}** | {', '.join(f'[[{t}]]' for t in ep_topics[ep['id']][folder]) or '–'} |" for folder in FOLDERS
         )
         mentions_md = ", ".join(f"[[{t}]]" for t in ep_mentions[ep["id"]]) or "–"
-        chapters = ""
+        speakers_md = ", ".join(f"[[{t}]]" for t in ep_speakers[ep["id"]]) or "–"
+        chapters = vocab_md = questions_md = ""
         if words:
             segs = segments(words, 120)
             chapters = "\n## Chapters\n\n" + "\n".join(
@@ -347,6 +354,21 @@ def build() -> None:
                 f"{' '.join(s['text'].split()[:18])} … ([[Transcript {ep['id']}#Minute {int(s['start'] // 60)}|transcript]])"
                 for s in segs
             )
+            # the expressions Trevor picks out by name, and the exam questions he asks – each with its minute
+            vocab = extract.vocabulary(words)
+            questions = extract.questions(words)
+            n_vocab += len(vocab)
+            n_questions += len(questions)
+            if vocab:
+                vocab_md = "\n## Language from this episode\n\n" + "\n".join(
+                    f"- **{v['term']}** ({v['kind']}) – [{fmt_time(v['t'])}]({spotify_link(ep, v['t'])}) · "
+                    f"[[Transcript {ep['id']}#Minute {int(v['t'] // 60)}|transcript]]"
+                    for v in vocab
+                ) + "\n"
+            if questions:
+                questions_md = "\n## Exam questions\n\n" + "\n".join(
+                    f"- [{fmt_time(q['t'])}]({spotify_link(ep, q['t'])}) {q['q']}" for q in questions
+                ) + "\n"
         tx_line = (
             f"[[Transcript {ep['id']}]] (word-level timestamps, {status_line(ep, words)})"
             if words
@@ -377,11 +399,12 @@ tags: [episode, season-{ep['season']}]
 | **Transcript** | {tx_line} |
 {rows}
 | **Briefly mentioned** | {mentions_md} |
+| **Speakers from** | {speakers_md} |
 
 ## Show notes
 
 {ep['description'] or '_no show notes_'}
-{chapters}
+{vocab_md}{questions_md}{chapters}
 
 ---
 ← [[All Episodes]] · [[{HOME}|Home]]
@@ -431,11 +454,15 @@ Click ▶ to open Spotify at exactly this point.
             f"""---
 type: {topic['folder'].lower()}
 episodes: {len(ep_list)}
+level: [{', '.join(topic['level'])}]
+exams: [{', '.join(topic['exams'])}]
 tags: [{topic['folder'].lower()}]
 ---
 # {topic['name']}
 
 _{topic['summary']}_
+
+**Level:** {' · '.join(topic['level'])} · **Exams:** {', '.join(topic['exams'])}
 
 ## Background
 {topic['body'].strip()}
@@ -494,7 +521,7 @@ linked to the **episode** – and, for transcribed episodes, to the **exact minu
 Spotify at that point).
 
 **Updated:** {datetime.now().strftime('%d.%m.%Y')} · **{len(episodes)} episodes** · **{total // 3600} h {total % 3600 // 60} min** of audio ·
-**{n_tx} of {len(episodes)} transcribed**
+**{n_tx} of {len(episodes)} transcribed** · **{n_questions} exam questions** · **{n_vocab} expressions** picked out by name
 
 ## Navigation
 - 📼 [[All Episodes]]

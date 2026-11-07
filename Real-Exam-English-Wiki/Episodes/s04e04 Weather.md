@@ -24,6 +24,7 @@ tags: [episode, season-4]
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[USA]], [[Australia]] |
 | **Briefly mentioned** | [[The Environment & Climate Change]], [[Anger & Emotions]], [[Change & Life Changes]], [[Extremes & Adventure]], [[Globalisation]], [[Nature & Outdoors]], [[Adjectives & Compound Adjectives]] |
+| **Speakers from** | [[Ireland]], [[England]], [[USA]], [[Australia]] |
 
 ## Show notes
 
@@ -32,6 +33,20 @@ Native English speakers answer questions about the weather.
 Today we have speakers from the US, Australia, Ireland and three different speakers from the UK. So we have a nice variety of types of weather, you´re gonna hear loads of weather vocabulary, as well as some top adverbs, a few phrasal verbs and some great real English expressions to make you sound a little bit more like a native English speaker. 
 
 Thanks to all of the contributors, including Matt, Leah Ann, Stephanie, Loli, Emma and Leanne from the Beach Travel Wine podcast.
+
+## Language from this episode
+
+- **drive out** (phrasal verb) – [4:22](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=262) · [[Transcript s04e04#Minute 4|transcript]]
+
+## Exam questions
+
+- [1:15](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=75) What ways do you think weather and our mood are connected?
+- [2:30](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=150) How is global warming affecting the climate?
+- [7:55](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=475) Does the weather in your country ever affect transportation?
+- [9:21](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=561) How important is the weather to you?
+- [10:07](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=607) What extent are weather forecasts accurate?
+- [11:21](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=681) Do you want a cup of tea?
+- [14:09](https://open.spotify.com/episode/71GmAQJJ53tP1OOxwUw9lZ?t=849) Which country do you think has the perfect weather?
 
 ## Chapters
 

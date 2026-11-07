@@ -24,10 +24,24 @@ tags: [episode, season-1]
 | **Exams** | – |
 | **Accents** | [[England]], [[USA]] |
 | **Briefly mentioned** | [[Culture & Traditions]], [[Transport & Traffic]], [[The Future & Predictions]], [[Phrasal Verbs]], [[Connectors & Linking Words]], [[Speculating & Hedging]], [[Speaking Exam]], [[Ireland]], [[Australia]], [[New Zealand]], [[South Africa]] |
+| **Speakers from** | [[England]] |
 
 ## Show notes
 
 Trevor asks travel and tourism questions to native English speakers and analyses the answers for the best bits.
+
+## Language from this episode
+
+- **bucket list** (expression) – [7:32](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=452) · [[Transcript s01e02#Minute 7|transcript]]
+- **off the beaten track** (expression) – [12:01](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=721) · [[Transcript s01e02#Minute 12|transcript]]
+- **shoot around** (expression) – [12:47](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=767) · [[Transcript s01e02#Minute 12|transcript]]
+
+## Exam questions
+
+- [1:52](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=112) Have you been to many other countries?
+- [7:24](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=444) What place in the world would you most like to visit?
+- [9:59](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=599) What activities do you like to do when you are on holiday?
+- [10:49](https://open.spotify.com/episode/7CnQ8sVIgMGDvUWtQWQVwe?t=649) Where would you go if you had a month's holiday and a lot of money?
 
 ## Chapters
 

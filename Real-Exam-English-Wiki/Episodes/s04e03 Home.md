@@ -24,6 +24,7 @@ tags: [episode, season-4]
 | **Exams** | [[Exam Tips & Preparation]] |
 | **Accents** | [[Ireland]] |
 | **Briefly mentioned** | [[Work & Careers]], [[Art & Creativity]], [[Transport & Traffic]], [[Relaxing & Stress]], [[Phrasal Verbs]], [[England]], [[USA]] |
+| **Speakers from** | [[Ireland]] |
 
 ## Show notes
 
@@ -32,6 +33,21 @@ Native English speakers answer questions about the home.
 In this episode there are plenty of useful adjectives and idioms, we will also focus a bit on pronunciation, as well as some top tips about what not to do in exams. 
 
 Thanks to all of the contributors, including Matt, Leah Ann, Stephanie, Loli, Emma and Leanne from the Beach Travel Wine podcast.
+
+## Language from this episode
+
+- **get around** (phrasal verb) – [12:49](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=769) · [[Transcript s04e03#Minute 12|transcript]]
+
+## Exam questions
+
+- [1:17](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=77) How does the colour of a room affect you?
+- [3:31](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=211) How does the color of a room affect you?
+- [4:46](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=286) Which would be the most important factors when choosing your ideal home?
+- [6:04](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=364) Why do you think people didn’t care so much about decoration in the past?
+- [6:55](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=415) Is could you please repeat the question?
+- [6:59](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=419) Would you mind repeating that please?
+- [8:18](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=498) How much time do you spend at home?
+- [10:57](https://open.spotify.com/episode/2N2a9Gnos2ElkdYyNviabI?t=657) Is it easy to have your own unique decorating style nowadays?
 
 ## Chapters
 

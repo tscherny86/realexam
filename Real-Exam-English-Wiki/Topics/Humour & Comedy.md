@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 2
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Humour & Comedy
 
 _What different cultures find funny, sarcasm, banter and stand-up comedy._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Humour is a C1/C2 topic that doubles as a cultural lesson: British irony and *banter*, American

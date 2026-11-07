@@ -24,6 +24,7 @@ tags: [episode, season-4]
 | **Exams** | – |
 | **Accents** | [[England]] |
 | **Briefly mentioned** | [[The Environment & Climate Change]], [[City & Country Life]], [[Work & Careers]], [[Money & Finance]], [[Phrasal Verbs]], [[Writing Exam]], [[Ireland]], [[Australia]] |
+| **Speakers from** | [[England]] |
 
 ## Show notes
 
@@ -32,6 +33,20 @@ Native English speakers answer questions about transport.
 You´ll hear some great transport vocabulary, some nice idioms, tips on pronunciation and organizing your speech, plus a very interesting way of using the word really. 
 
 Thanks to all of the contributors, including Matt, Leah Ann, Stephanie, Loli, Richard, Ofordi, Emma and Leanne from the Beach Travel Wine podcast.
+
+## Language from this episode
+
+- **set up** (phrasal verb) – [2:56](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=176) · [[Transcript s04e06#Minute 2|transcript]]
+- **move around a country** (phrasal verb) – [4:53](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=293) · [[Transcript s04e06#Minute 4|transcript]]
+
+## Exam questions
+
+- [0:42](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=42) What would improve public transport in your area?
+- [3:30](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=210) What type of transport is popular in your country?
+- [3:54](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=234) Which way of travelling would you choose in order to be more environmentally friendly?
+- [6:01](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=361) Why do you think some people spend a lot of money to fly first class?
+- [11:31](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=691) Do you think we’ll see cities without cars in our lifetime?
+- [12:38](https://open.spotify.com/episode/7ESKX0nne361jC1GVtlHpE?t=758) Why do you think some people pay a lot of money to fly first class?
 
 ## Chapters
 

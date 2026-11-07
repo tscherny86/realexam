@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 4
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Books & Reading
 
 _Reading habits, favourite genres and whether books have a future._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Questions about reading test both vocabulary and the ability to describe something in detail

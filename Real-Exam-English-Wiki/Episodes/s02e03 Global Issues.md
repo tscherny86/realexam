@@ -24,6 +24,7 @@ tags: [episode, season-2]
 | **Exams** | [[Cambridge C2 Proficiency (CPE)]] |
 | **Accents** | [[USA]] |
 | **Briefly mentioned** | [[The Environment & Climate Change]], [[Money & Finance]], [[Fashion & Clothes]], [[Culture & Traditions]], [[Crime & Law]], [[Idioms & Expressions]], [[Emphasis & Auxiliaries]], [[Buying Time & Fillers]], [[Verbs with Many Meanings (get, do, make, take)]], [[IELTS]], [[Writing Exam]], [[England]] |
+| **Speakers from** | – |
 
 ## Show notes
 
@@ -32,6 +33,19 @@ Native English speakers answer questions about global issues. 
 We analyse some fancy grammar in the form of the passive voice and cleft sentences. We are some excellent vocabulary about globalization and we take a look at how to improve your speaking with discourse markers. 
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Arianwen from the In Mothering podast, Trisha from Conversations with a Random Nobody, Chris, Barbara, Ronny, Zoe, Ofordi, Karen, Keith, Mary, Emma and Ursula.
+
+## Language from this episode
+
+- **come up against** (expression) – [15:45](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=945) · [[Transcript s02e03#Minute 15|transcript]]
+
+## Exam questions
+
+- [1:09](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=69) What do you think we as individuals can do to make improvements in our world?
+- [3:40](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=220) Where do you get your information about news and current affairs from?
+- [4:29](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=269) Is it important to donate money to international charities?
+- [6:01](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=361) How important is it for us to understand different cultures and customs?
+- [7:41](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=461) How important do you think it is to follow news from around the world?
+- [16:14](https://open.spotify.com/episode/6dgJMRBjzztjFbFurcLQt1?t=974) How interested are you in keeping up with news and current affairs?
 
 ## Chapters
 

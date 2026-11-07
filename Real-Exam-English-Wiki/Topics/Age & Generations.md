@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Age & Generations
 
 _Young and old: the generation gap, ageing societies and what each age group can learn from the other._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Age appears in questions about family, manners, technology and work: *Is there a generation gap?*,

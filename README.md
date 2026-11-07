@@ -1,10 +1,10 @@
 # Real Exam English Fanwiki 🎧
 
-## Version: 1.2.0
+## Version: 1.3.0
 
-Live: https://tscherny86.github.io/realexam/ · Changes: [CHANGELOG.md](CHANGELOG.md) · Latest release: [v1.2.0](https://github.com/tscherny86/realexam/releases/latest) (07.11.2026)
+Live: https://tscherny86.github.io/realexam/ · Changes: [CHANGELOG.md](CHANGELOG.md) · Latest release: [v1.3.0](https://github.com/tscherny86/realexam/releases/latest) (07.11.2026)
 
-**State of 1.2.0:** all 75 episodes with transcripts (68 aligned with the official Buzzsprout transcript, all 75 proofread by hand, 205 corrections), 110 articles (57 topics, 34 language points, 9 exams, 10 accents), every topic assignment reviewed (186 removed), audio marks verified against the audio, all Spotify episode IDs mapped.
+**State of 1.3.0:** all 75 episodes with transcripts (68 aligned with the official Buzzsprout transcript, all 75 proofread by hand, 205 corrections), 110 articles (57 topics, 34 language points, 9 exams, 10 accents) rated by level (B2/C1/C2) and exam, every topic assignment reviewed (186 removed), audio marks verified against the audio, all Spotify episode IDs mapped; per episode the expressions Trevor picks out by name (117) and the exam questions he asks (453, also as a practice page with a random question), plus the speakers' origins from the intro.
 
 Fanwiki for the [Real Exam English podcast](https://open.spotify.com/show/0aJJIQVuhGJcM7S2TJIjrW)
 (B2, C1, C2) by Trevor – native speakers answer exam-style questions, Trevor picks out the best
@@ -17,7 +17,9 @@ language. Built as an **Obsidian vault** plus a single-page website.
 3. Start page: **Real Exam English Wiki**.
 
 ## Contents
-- `Real-Exam-English-Wiki/Episodes/` – all 75 episodes (2020–2026) with show notes, duration, Spotify and MP3 link
+- `Real-Exam-English-Wiki/Episodes/` – all 75 episodes (2020–2026) with show notes, duration, Spotify and MP3 link,
+  where the speakers come from, the expressions Trevor picks out ("Language from this episode") and the exam
+  questions he asks, each with its minute
 - `Real-Exam-English-Wiki/Topics/`, `Language/`, `Exams/`, `Accents/` – wiki articles with background
   knowledge + the list of episodes; for transcribed episodes with quotes and a link to the **exact minute**
   (Spotify `?t=seconds`)

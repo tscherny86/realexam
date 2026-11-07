@@ -24,10 +24,28 @@ tags: [episode, season-1]
 | **Exams** | [[Speaking Exam]] |
 | **Accents** | [[Ireland]], [[England]], [[USA]] |
 | **Briefly mentioned** | [[Money & Finance]], [[Culture & Traditions]], [[Age & Generations]], [[Phrasal Verbs]], [[Adjectives & Compound Adjectives]] |
+| **Speakers from** | – |
 
 ## Show notes
 
 Trevor asks native English speakers questions about food and analyses the answers to take out the best bits.
+
+## Language from this episode
+
+- **tide over** (phrasal verb) – [3:58](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=238) · [[Transcript s01e03#Minute 3|transcript]]
+- **pay a small fortune** (expression) – [16:20](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=980) · [[Transcript s01e03#Minute 16|transcript]]
+
+## Exam questions
+
+- [1:13](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=73) What do you usually have for breakfast?
+- [1:46](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=106) What dishes are you good at cooking?
+- [4:41](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=281) Would you enjoy cooking food for a large group of people?
+- [6:04](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=364) How much do you think a new microphone?
+- [6:23](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=383) What food or drinks do you think are unhealthy?
+- [7:35](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=455) When you go to a restaurant, which is more important to you, the atmosphere or the food?
+- [8:08](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=488) Have you ever tried typical food from another country?
+- [10:16](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=616) Do you think we should try to eat food that is produced locally?
+- [11:19](https://open.spotify.com/episode/1RlLxh2dNKAzlUATb945st?t=679) What differences are there between what young people and older people like to eat?
 
 ## Chapters
 

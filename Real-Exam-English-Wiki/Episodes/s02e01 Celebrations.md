@@ -24,6 +24,7 @@ tags: [episode, season-2]
 | **Exams** | – |
 | **Accents** | [[USA]] |
 | **Briefly mentioned** | [[Food & Cooking]], [[Technology & the Internet]], [[Books & Reading]], [[Family & Relationships]], [[Humour & Comedy]], [[Fashion & Clothes]], [[Home & Housing]], [[Covid & Lockdown]], [[England]] |
+| **Speakers from** | – |
 
 ## Show notes
 
@@ -32,6 +33,22 @@ Native English speakers answer questions about celebrations. 
 You´re going to hear some super language to describe partying and enjoying yourself, we have some nice phrasal verbs and lots of great real-English idioms! 
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Arianwen from the In Mothering podast, Trisha from Conversations with a Random Nobody, Chris, Barbara, Ronny, Zoe, Ofordi, Karen, Keith, Mary, Emma and Ursula.
+
+## Language from this episode
+
+- **pick up on** (phrasal verb) – [1:53](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=113) · [[Transcript s02e01#Minute 1|transcript]]
+- **catch up with someone** (expression) – [1:59](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=119) · [[Transcript s02e01#Minute 1|transcript]]
+- **turn up** (phrasal verb) – [4:51](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=291) · [[Transcript s02e01#Minute 4|transcript]]
+- **dress up** (phrasal verb) – [10:53](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=653) · [[Transcript s02e01#Minute 10|transcript]]
+- **bookworm** (word) – [12:11](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=731) · [[Transcript s02e01#Minute 12|transcript]]
+
+## Exam questions
+
+- [2:12](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=132) Is there an event in your hometown which you particularly enjoy?
+- [2:53](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=173) What special occasions have you celebrated recently?
+- [5:51](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=351) What presents do you like to give and receive?
+- [8:17](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=497) Have you ever been to a fancy dress party?
+- [8:57](https://open.spotify.com/episode/7cLKstw7YoMXXPLbI8GuqU?t=537) How do you celebrate the New Year?
 
 ## Chapters
 

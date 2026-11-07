@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 1
+level: [B2, C1]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Gerund or Infinitive
 
 _Enjoy doing, want to do, stop doing vs stop to do – the verb patterns examiners test._
+
+**Level:** B2 · C1 · **Exams:** Cambridge, IELTS
 
 ## Background
 - Verbs followed by the **gerund**: *enjoy, avoid, mind, suggest, keep, finish, can't stand*.

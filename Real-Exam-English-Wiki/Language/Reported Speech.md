@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 0
+level: [B2, C1]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Reported Speech
 
 _Reporting what people said, with tense backshift and reporting verbs._
+
+**Level:** B2 · C1 · **Exams:** Cambridge, IELTS
 
 ## Background
 - Backshift: *"I'm tired" → She said she was tired.* Modals and time words change too

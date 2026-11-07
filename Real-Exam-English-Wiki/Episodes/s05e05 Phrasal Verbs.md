@@ -24,6 +24,7 @@ tags: [episode, season-5]
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[Wales]], [[Canada]], [[Australia]] |
 | **Briefly mentioned** | [[Food & Cooking]], [[Technology & the Internet]], [[Books & Reading]], [[City & Country Life]], [[Friends & Friendship]], [[Communication]], [[Anger & Emotions]], [[Home & Housing]], [[News & Media]], [[Luck & Chance]], [[Help & Kindness]], [[Social Media]], [[Politics & Government]], [[Passive Voice]], [[Past Perfect & Narrative Tenses]] |
+| **Speakers from** | [[Ireland]], [[England]], [[Wales]], [[Canada]], [[Australia]] |
 
 ## Show notes
 
@@ -32,6 +33,22 @@ Native English speakers answer questions with phrasal verbs.
 Everyone loves learning phrasal verbs, right??? Perfect, because this episode has lots of them, plus a bunch of top idioms and expressions. We have speakers from Canada, Wales, Australia, England and Ireland so you can improve your listening skills. Enjoy!
 
 Thanks to all of the contributors, including Emma, Mike, Noel, Konner, Jen, Dan from the Roar and Score Trivia Podcast and the girls from the Butt Stuff Podcast.
+
+## Language from this episode
+
+- **don’t get me wrong** (idiom) – [8:22](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=502) · [[Transcript s05e05#Minute 8|transcript]]
+- **miss out on** (phrasal verb) – [8:59](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=539) · [[Transcript s05e05#Minute 8|transcript]]
+
+## Exam questions
+
+- [0:58](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=58) Who do you get on best with in your family?
+- [4:54](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=294) Do you usually drop off quickly at night?
+- [7:18](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=438) Which do you think prepares us best for adult life?
+- [11:22](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=682) Do you think eating together helps families get along well?
+- [11:56](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=716) How do you usually keep in touch with people who live far away from you?
+- [14:29](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=869) What signs tell you that you might be coming down with a cold?
+- [15:43](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=943) How do you decide where to eat out?
+- [17:05](https://open.spotify.com/episode/3I3wcwWqgjXoVlKWcLQEbg?t=1025) Do you enjoy keeping up with the news?
 
 ## Chapters
 

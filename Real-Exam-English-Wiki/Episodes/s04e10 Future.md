@@ -24,6 +24,7 @@ tags: [episode, season-4]
 | **Exams** | – |
 | **Accents** | [[Australia]] |
 | **Briefly mentioned** | [[Sport & Exercise]], [[Health & Wellbeing]], [[Friends & Friendship]], [[Free Time & Hobbies]], [[Communication]], [[Family & Relationships]], [[Learning, School & Education]], [[Change & Life Changes]], [[Parenting & Children]], [[News & Media]], [[Modal Verbs]], [[England]] |
+| **Speakers from** | [[Australia]] |
 
 ## Show notes
 
@@ -34,6 +35,19 @@ This topic is one that often comes up in exams. You can be asked about your pers
 In this episode you’ll hear some great ways to express what you would like to do, you’ll hear what skills will be useful for the future, you will learn some nice adverbs, phrasal verbs and some top-class vocabulary too, including some super-useful idioms. 
 
 Thanks to all of the contributors, including  Matt, Leah Ann, Stephanie, Loli, Richard, Ofordi, Emma and Leanne from the Beach Travel Wine podcast.
+
+## Language from this episode
+
+- **keep your fingers crossed** (expression) – [4:11](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=251) · [[Transcript s04e10#Minute 4|transcript]]
+- **jettison something** (expression) – [14:22](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=862) · [[Transcript s04e10#Minute 14|transcript]]
+
+## Exam questions
+
+- [0:49](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=49) Is there anything you would love to be able to do in the future?
+- [1:52](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=112) What are you going to do this weekend?
+- [4:22](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=262) Which skills will be essential in the future to be able to find a job in the coming years?
+- [5:09](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=309) Is there anything you'd love to be able to do in the future?
+- [7:42](https://open.spotify.com/episode/6aIZIKo3xYTHMP5YTL2stu?t=462) What skills should people be using?
 
 ## Chapters
 

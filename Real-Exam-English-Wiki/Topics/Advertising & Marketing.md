@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Advertising & Marketing
 
 _How advertising works on us and whether it should be restricted._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Advertising is a C1 Advanced favourite, often linked to children, social media and consumerism.

@@ -24,6 +24,7 @@ tags: [episode, season-0]
 | **Exams** | [[Cambridge C1 Advanced (CAE)]], [[Speaking Exam]] |
 | **Accents** | [[Non-Native Speakers]] |
 | **Briefly mentioned** | [[Work & Careers]], [[Learning, School & Education]], [[Change & Life Changes]], [[Listening & Reading]] |
+| **Speakers from** | [[Non-Native Speakers]] |
 
 ## Show notes
 
@@ -34,6 +35,21 @@ This episode features a non-native speaker for the first time on the Real Exam E
  As usual we pick out some nice bits of language, including some excellent use of substitution words and ellipsis. We also pick up on some common errors for Polish speakers.
  
 Enjoy!
+
+## Exam questions
+
+- [3:27](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=207) Do you sometimes have a translator like or is it just you or your and your colleagues?
+- [4:25](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=265) How do you change your language a little bit so that you can be understood by everybody?
+- [5:19](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=319) Do you speak a more simplified version of Polish or?
+- [8:36](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=516) Are there perks to working in the airline industry?
+- [9:28](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=568) Do you get to use your English on your holidays?
+- [10:26](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=626) Do you get any chance to speak English?
+- [11:44](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=704) Do you recommend it for someone who's trying to improve their English?
+- [12:37](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=757) When you when you watch or watched TV series, did you stop and make notes or did you just watch them for fun and enjoy them?
+- [13:31](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=811) Do you read on a Kindle or a real book?
+- [17:00](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1020) Do you have any tips about preparation for that?
+- [17:05](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1025) What to do, what not to do?
+- [17:53](https://open.spotify.com/episode/5bj735OcA5wHyiuPMq7o9Y?t=1073) Did you consciously try to do something every day?
 
 ## Chapters
 

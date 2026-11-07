@@ -24,6 +24,7 @@ tags: [episode, season-5]
 | **Exams** | – |
 | **Accents** | – |
 | **Briefly mentioned** | [[Books & Reading]], [[TV, Film & Entertainment]], [[Friends & Friendship]], [[Work & Careers]], [[Humour & Comedy]], [[Idioms & Expressions]], [[Ireland]] |
+| **Speakers from** | – |
 
 ## Show notes
 
@@ -32,6 +33,18 @@ Native English speakers answer questions about the internet.
 We will take a look at some common errors that people make when speaking about technology, particularly with pronunciation. On top of that, we have some advanced English phrasal verbs, some ways to add emphasis and we have a quiz about binomial pairs. 
 
 Thanks to all of the contributors, including Emma, Mike, Noel, Konner, Jen, Dan from the Roar and Score Trivia Podcast and the girls from the Butt Stuff Podcast
+
+## Language from this episode
+
+- **latch on to** (expression) – [7:18](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=438) · [[Transcript s05e08#Minute 7|transcript]]
+
+## Exam questions
+
+- [1:01](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=61) What negative effects has the Internet had on our social lives?
+- [2:51](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=171) Do you ever buy things online?
+- [5:10](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=310) What do you spend most of your time online doing?
+- [5:35](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=335) Some people say that you shouldn't trust what you read on the Internet, do you agree?
+- [10:08](https://open.spotify.com/episode/4u3j1HBnQk1Qj4yGgAII19?t=608) Do you think it's a good idea to get your news through social media?
 
 ## Chapters
 

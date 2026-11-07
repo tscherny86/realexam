@@ -24,12 +24,29 @@ tags: [episode, season-1]
 | **Exams** | – |
 | **Accents** | [[USA]] |
 | **Briefly mentioned** | [[Work & Careers]], [[Money & Finance]], [[Transport & Traffic]], [[Motivation & Goals]], [[Cambridge B2 First (FCE)]], [[Ireland]], [[England]] |
+| **Speakers from** | [[USA]] |
 
 ## Show notes
 
 Trevor asks native English speakers questions about sports and exercise and analyses the answers to take out the best bits.
 
 In this episode you will learn some super phrasal verbs and you can listen to a great mix of accents too so you can get you used to listening to different accents before you take your English exam.
+
+## Language from this episode
+
+- **be sickened** (expression) – [3:56](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=236) · [[Transcript s01e04#Minute 3|transcript]]
+- **springs to mind** (expression) – [10:50](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=650) · [[Transcript s01e04#Minute 10|transcript]]
+- **passed away** (phrasal verb) – [11:30](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=690) · [[Transcript s01e04#Minute 11|transcript]]
+
+## Exam questions
+
+- [1:02](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=62) Which sports are popular in your country?
+- [3:00](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=180) Have you ever taken part in a sports competition?
+- [3:17](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=197) What is the best time of day to do exercise?
+- [4:52](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=292) How far do you agree that you have to spend a lot of money to stay fit and healthy?
+- [7:17](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=437) Have you ever been to a gym?
+- [8:58](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=538) Do you try to keep fit?
+- [9:54](https://open.spotify.com/episode/4Cdv46Ow3Zyo7p3plq9tPD?t=594) Who is your favourite sports personality?
 
 ## Chapters
 

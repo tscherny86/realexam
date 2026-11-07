@@ -1,11 +1,15 @@
 ---
 type: accents
 episodes: 5
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [accents]
 ---
 # Non-Native Speakers
 
 _Learners and non-native teachers who speak in the podcast – and the countries they come from._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Several episodes feature **non-native speakers** – students and teachers from Spain, Poland,

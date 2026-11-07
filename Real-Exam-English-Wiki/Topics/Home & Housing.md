@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 2
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Home & Housing
 
 _Where and how we live: houses, flats, renting, neighbours and housework._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Home is a B2 Part 1 favourite (*Describe your home*) and a C1 discussion topic (*Should young people

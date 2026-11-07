@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 2
+level: [B2, C1]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Verbs with Many Meanings (get, do, make, take)
 
 _The all-purpose verbs get, do, make and take and their many uses._
+
+**Level:** B2 · C1 · **Exams:** Cambridge, IELTS
 
 ## Background
 - **get**: receive (*get a letter*), become (*get tired*), arrive (*get home*), fetch (*get a drink*),

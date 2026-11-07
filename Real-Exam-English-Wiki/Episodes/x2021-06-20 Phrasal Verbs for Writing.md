@@ -24,10 +24,17 @@ tags: [episode, season-0]
 | **Exams** | [[Speaking Exam]], [[Writing Exam]] |
 | **Accents** | – |
 | **Briefly mentioned** | [[Fashion & Clothes]], [[Idioms & Expressions]], [[Conditionals]], [[Gerund or Infinitive]], [[Exam Tips & Preparation]] |
+| **Speakers from** | – |
 
 ## Show notes
 
 Trevor provides an update on the upcoming Season 3 of the podcast, there are tips for the day of your speaking exam and there are great phrasal verbs to use in your writing exam.
+
+## Language from this episode
+
+- **look forward to** (phrasal verb) – [4:20](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=260) · [[Transcript x2021-06-20#Minute 4|transcript]]
+- **look into** (phrasal verb) – [6:38](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=398) · [[Transcript x2021-06-20#Minute 6|transcript]]
+- **run out** (phrasal verb) – [10:25](https://open.spotify.com/episode/3XFPWf5ETwYH3tlmjuJqZC?t=625) · [[Transcript x2021-06-20#Minute 10|transcript]]
 
 ## Chapters
 

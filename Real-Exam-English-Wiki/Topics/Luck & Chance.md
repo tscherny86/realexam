@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Luck & Chance
 
 _Luck, superstitions, the lottery and whether success is down to chance._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 A fun C1 topic that produces a lot of idioms.

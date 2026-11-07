@@ -24,6 +24,7 @@ tags: [episode, season-2]
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[Scotland]], [[USA]], [[Australia]] |
 | **Briefly mentioned** | [[Family & Relationships]], [[Photography & Photos]], [[Covid & Lockdown]], [[Social Media]], [[Idioms & Expressions]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]] |
+| **Speakers from** | [[Ireland]], [[England]], [[Scotland]], [[USA]], [[Australia]] |
 
 ## Show notes
 
@@ -32,6 +33,21 @@ Native English speakers answer questions about communications.
 The way we communicate has changed significantly with the advent of technology and it is a subject that is quite common in English exams. It´s also a subject that has a lot of specific phrasal verbs and you are going to hear loads of them today. All of the questions today, and every day, are from previous English exams so it´s fascinating to see how native English speakers answer them. We have speakers from the USA, England, Scotland, Australia and Ireland today so it´s super to get these different perspectives from around the globe. 
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Arianwen from the In Mothering podast, Trisha from Conversations with a Random Nobody, Chris, Barbara, Ronny, Zoe, Ofordi, Karen, Keith, Mary, Emma and Ursula.
+
+## Language from this episode
+
+- **get in touch** (expression) – [3:19](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=199) · [[Transcript s02e09#Minute 3|transcript]]
+- **get something across** (expression) – [4:14](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=254) · [[Transcript s02e09#Minute 4|transcript]]
+
+## Exam questions
+
+- [0:56](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=56) How do you keep in touch with friends who don’t live near you?
+- [1:52](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=112) How often do you meet friends for a chat?
+- [3:26](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=206) Do you prefer to text people or phone them?
+- [4:34](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=274) Are you somebody who enjoys talking?
+- [6:20](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=380) Do you prefer to text people or to phone them?
+- [7:40](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=460) How often do you meet with friends for a chat?
+- [10:21](https://open.spotify.com/episode/4ckkJRMvZib4dwZHRt667T?t=621) How do you keep up with the latest world news?
 
 ## Chapters
 

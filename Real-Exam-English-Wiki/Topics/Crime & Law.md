@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Crime & Law
 
 _Types of crime, punishment and how safe different countries feel._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Crime is a frequent C1 Advanced topic with a lot of specific vocabulary to learn.

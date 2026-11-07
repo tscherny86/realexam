@@ -24,6 +24,7 @@ tags: [episode, season-5]
 | **Exams** | – |
 | **Accents** | [[England]], [[Wales]], [[Australia]] |
 | **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Food & Cooking]], [[TV, Film & Entertainment]], [[Celebrations & Festivals]], [[Change & Life Changes]], [[Weather & Seasons]], [[Parenting & Children]], [[Nature & Outdoors]], [[Adjectives & Compound Adjectives]], [[USA]] |
+| **Speakers from** | [[England]], [[Wales]], [[Australia]] |
 
 ## Show notes
 
@@ -34,6 +35,16 @@ As usual we have speakers from a variety of countries telling us about their exp
 The speakers are from Canada, Australia, South Africa, England and Wales, so lots of different accents for you to get some listening practice.
 
 Thanks to all of the contributors, including Emma, Mike, Noel, Konner, Jen, Dan from the Roar and Score Trivia Podcast and the girls from the Butt Stuff Podcast
+
+## Exam questions
+
+- [0:58](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=58) How do you deal with the Sunday night feeling?
+- [1:03](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=63) Is that like when you're dreading going to work?
+- [1:28](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=88) What is the best weekend trip you've ever had?
+- [4:19](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=259) How have your weekend activities changed over time?
+- [10:26](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=626) Are there interesting things to do in your hometown at the weekend?
+- [13:42](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=822) How do weather and seasons influence your weekend plans?
+- [16:04](https://open.spotify.com/episode/5HDbLyk8qNudg2Dvfkfjd9?t=964) What are some unique weekend activities in your area?
 
 ## Chapters
 

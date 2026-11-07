@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 7
+level: [B2, C1]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Adverbs
 
 _Adverbs of degree, manner and attitude that make speech sound natural and precise._
+
+**Level:** B2 · C1 · **Exams:** Cambridge, IELTS
 
 ## Background
 **Adverbs** show how well you can shade meaning: *utterly exhausted*, *absolutely stunning*,

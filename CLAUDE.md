@@ -40,7 +40,9 @@ alignment does not replace the reading: the official texts contain typos and som
    are already ignored (`PLUG` in `build_wiki.py`). Add new topics or language points that occur several times.
 3. **Audio marks:** `python scripts/check_marks.py <id>` (GPU) transcribes clips at sample marks and compares them with
    the transcript (`data/review/marks.md`); a mismatch means wrong timestamps or missing text there.
-4. **Build and check:** `python scripts/build_wiki.py`, `python scripts/build_site.py <scratchpad>/site/index.html`,
+4. **Build and check:** `python scripts/build_wiki.py` (also extracts the vocabulary box, exam questions and
+   speakers per episode via `scripts/extract.py`; new noise there → tighten its filters, do not hand-edit the
+   vault), `python scripts/build_site.py <scratchpad>/site/index.html`,
    look at the pages in the browser (desktop and 390 px) without JS errors and without overflow.
 5. **Deliver** (order below), republish the artifact (`build_site.py … --fragment`) and send Alex a table
    **corrections per episode** and the removed assignments.

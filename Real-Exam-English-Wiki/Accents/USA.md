@@ -1,11 +1,15 @@
 ---
 type: accents
 episodes: 33
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [accents]
 ---
 # USA
 
 _American English – rhotic r, flapped t and its own vocabulary._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 **American English** is rhotic (*car* with a clear *r*), turns *t* between vowels into a quick *d*

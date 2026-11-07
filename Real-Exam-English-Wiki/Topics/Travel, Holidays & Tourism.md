@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 4
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Travel, Holidays & Tourism
 
 _The most common exam topic of all: trips, holidays, mass tourism and the language of getting around._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 **Travel and holidays** turn up in almost every speaking and writing exam, from a B2 First

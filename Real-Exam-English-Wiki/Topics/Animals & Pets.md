@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Animals & Pets
 
 _Pets, wildlife, zoos and animal rights._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 From *Do you have a pet?* to C2 debates on animal testing and zoos – animals cover all levels.

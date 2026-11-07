@@ -24,12 +24,27 @@ tags: [episode, season-6]
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[USA]] |
 | **Briefly mentioned** | [[TV, Film & Entertainment]], [[Work & Careers]], [[Languages & Language Learning]], [[Home & Housing]], [[Transport & Traffic]], [[Parenting & Children]], [[Collocations]], [[Passive Voice]], [[Common Mistakes]], [[England]] |
+| **Speakers from** | [[Ireland]], [[USA]] |
 
 ## Show notes
 
 Native English speakers answer exam-style questions about extremes.
 
 In this episode you will learn lots of useful advanced English vocabulary for talking about doing extreme things, plus some lovely idioms. In terms of grammar, we have inverted conditionals, past perfect tense and we also look at how to use either and neither. There’s input from quite a diverse bunch of speakers today, from snowstorms in Boston, to helping pregnant woman in Ireland to doing a dance marathon in New York, so lots of great listening practice for you.
+
+## Language from this episode
+
+- **praise someone** (expression) – [8:55](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=535) · [[Transcript s06e02#Minute 8|transcript]]
+- **knuckle down** (expression) – [11:47](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=707) · [[Transcript s06e02#Minute 11|transcript]]
+
+## Exam questions
+
+- [0:55](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=55) What is the most extreme weather you have experienced?
+- [1:36](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=96) Why are some people drawn to extreme experiences even when they're dangerous?
+- [7:56](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=476) Do you think society encourages extreme behavior in areas like dieting, working or spending?
+- [9:57](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=597) Do you enjoy extreme sports or activities?
+- [12:54](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=774) Have you ever pushed yourself to an extreme limit?
+- [16:15](https://open.spotify.com/episode/3rcIckmBS5jfdU9mO9Zx2l?t=975) Why do some people enjoy watching extreme challenges or competitions?
 
 ## Chapters
 

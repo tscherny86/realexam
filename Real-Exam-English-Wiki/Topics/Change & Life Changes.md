@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 3
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Change & Life Changes
 
 _Big life changes, moving abroad and how people deal with change._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 *Tell us about a change that affected you* is a typical C1 long-turn question; it rewards narrative

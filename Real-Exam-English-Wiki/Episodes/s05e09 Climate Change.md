@@ -24,6 +24,7 @@ tags: [episode, season-5]
 | **Exams** | [[Exam Tips & Preparation]] |
 | **Accents** | [[Ireland]], [[England]], [[Wales]], [[Canada]], [[Australia]], [[South Africa]] |
 | **Briefly mentioned** | [[Food & Cooking]], [[Learning, School & Education]], [[Animals & Pets]], [[Weather & Seasons]], [[Transport & Traffic]], [[News & Media]], [[Globalisation]], [[Politics & Government]], [[Idioms & Expressions]], [[Collocations]], [[Word Formation]], [[Emphasis & Auxiliaries]] |
+| **Speakers from** | [[Ireland]], [[England]], [[Wales]], [[Canada]], [[Australia]], [[South Africa]] |
 
 ## Show notes
 
@@ -34,6 +35,19 @@ This topic is essential for exam preparation! So today, you’re gonna hear lots
 The speakers are from Canada, Australia, South Africa, England and Wales, so lots of different accents for you, and me from Ireland too!
 
 Thanks to all of the contributors, including Emma, Mike, Noel, Konner, Jen, Dan from the Roar and Score Trivia Podcast and the girls from the Butt Stuff Podcast
+
+## Language from this episode
+
+- **pump out** (phrasal verb) – [2:28](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=148) · [[Transcript s05e09#Minute 2|transcript]]
+- **point out** (collocation) – [3:08](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=188) · [[Transcript s05e09#Minute 3|transcript]]
+
+## Exam questions
+
+- [0:50](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=50) How do you think climate change will affect different populations around the world?
+- [4:13](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=253) What is your opinion on news coverage of climate change?
+- [7:36](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=456) How can individuals prevent climate change?
+- [15:44](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=944) How is global warming affecting the climate?
+- [17:25](https://open.spotify.com/episode/58DFM727lKW2GEpLCog33p?t=1045) Have you noticed any changes in your local environment that could be linked to climate change?
 
 ## Chapters
 

@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 4
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # The Environment & Climate Change
 
 _Pollution, recycling, climate change and sustainable living – essential for every level._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Hardly any exam goes by without an environmental question, and C1/C2 essays on climate change are

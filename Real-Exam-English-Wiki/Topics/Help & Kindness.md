@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Help & Kindness
 
 _Helping others, volunteering and acts of kindness._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Help is a topic bursting with phrasal verbs: *help out*, *give a hand*, *pitch in*, *chip in*,

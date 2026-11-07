@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 7
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Inversion
 
 _Never have I seen… – putting the auxiliary before the subject for emphasis._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 **Inversion** after negative or limiting adverbials is a hallmark of formal, advanced English:

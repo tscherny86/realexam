@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 6
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Technology & the Internet
 
 _Smartphones, social media, AI and how technology changes daily life – a standard C1 topic._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Technology questions are a safe bet in every exam: *Has technology made our lives easier?*,

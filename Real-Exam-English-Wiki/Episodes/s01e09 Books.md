@@ -24,6 +24,7 @@ tags: [episode, season-1]
 | **Exams** | – |
 | **Accents** | [[England]] |
 | **Briefly mentioned** | [[Family & Relationships]], [[Parenting & Children]], [[Adverbs]], [[Ireland]] |
+| **Speakers from** | [[England]] |
 
 ## Show notes
 
@@ -32,6 +33,18 @@ Use the code REALENGLISH5 for €5 off your first class (minimum €10): https:/
 Native English speakers answer questions about books. 
 
 This episode also speaks about question tags, pronouncing French-origin words in English and other ways to say important.
+
+## Language from this episode
+
+- **pin down** (phrasal verb) – [1:23](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=83) · [[Transcript s01e09#Minute 1|transcript]]
+
+## Exam questions
+
+- [4:27](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=267) Do you think it’s important for parents to read to their children?
+- [5:36](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=336) Do you think that in the future people won't read books any more?
+- [7:45](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=465) Do you agree that if we want to understand something well it's better to watch a documentary rather than read a book?
+- [8:21](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=501) Do you think in the future people probably won’t read books any more?
+- [11:27](https://open.spotify.com/episode/0cYjbOlt2dAlf2KJJm64Ho?t=687) What do you think about ebooks?
 
 ## Chapters
 

@@ -24,6 +24,7 @@ tags: [episode, season-0]
 | **Exams** | [[Speaking Exam]] |
 | **Accents** | – |
 | **Briefly mentioned** | [[Health & Wellbeing]], [[Connectors & Linking Words]], [[Other Exams (TOEFL, Trinity, Aptis, EOI)]], [[USA]] |
+| **Speakers from** | – |
 
 ## Show notes
 

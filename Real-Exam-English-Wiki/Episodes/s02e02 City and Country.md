@@ -24,6 +24,7 @@ tags: [episode, season-2]
 | **Exams** | – |
 | **Accents** | – |
 | **Briefly mentioned** | [[Technology & the Internet]], [[Free Time & Hobbies]], [[Parenting & Children]], [[Nature & Outdoors]], [[Phrasal Verbs]], [[Connectors & Linking Words]], [[England]], [[USA]] |
+| **Speakers from** | – |
 
 ## Show notes
 
@@ -32,6 +33,19 @@ Native English speakers answer questions about city and country. 
 You´re going to hear loads of urban and rural vocabulary, we analyse the language used to give a speculative opinion and we have some great words and expressions to describe work skills. 
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Arianwen from the In Mothering podast, Trisha from Conversations with a Random Nobody, Chris, Barbara, Ronny, Zoe, Ofordi, Karen, Keith, Mary, Emma and Ursula.
+
+## Exam questions
+
+- [0:43](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=43) Would you rather live in the countryside or in a town or city?
+- [2:52](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=172) Would you give to someone from a rural area who was planning to go and live in a big city?
+- [3:33](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=213) Are security cameras in towns and cities a good way of making sure people follow the rules?
+- [4:35](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=275) What extent do you think that people in cities today have lost touch with nature?
+- [5:19](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=319) How do children brought up in the city differ from those brought up in the country?
+- [8:41](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=521) What would you say to someone from a rural area who was planning to go and live in a big city?
+- [10:27](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=627) How would life in a modern big city be different from life in a smaller city?
+- [11:16](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=676) What should governments and city councils do to improve living standards in big cities?
+- [13:25](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=805) Why might these things be important when considering moving to a rural area?
+- [17:03](https://open.spotify.com/episode/3byuMzsO7nByWSzzn999UD?t=1023) Are going to be important, yeah?
 
 ## Chapters
 

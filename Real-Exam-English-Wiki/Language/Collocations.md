@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 3
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Collocations
 
 _Words that naturally go together (make a decision, heavy rain, strong coffee)._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 **Collocations** are word partnerships native speakers use automatically: *make a mistake* (not *do*),

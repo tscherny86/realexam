@@ -24,6 +24,7 @@ tags: [episode, season-3]
 | **Exams** | – |
 | **Accents** | – |
 | **Briefly mentioned** | [[Friends & Friendship]], [[Culture & Traditions]], [[Change & Life Changes]], [[Manners & Politeness]], [[Inversion]] |
+| **Speakers from** | – |
 
 ## Show notes
 
@@ -32,6 +33,18 @@ Native English speakers answer questions about fashion.
 Today’s episode is about fashion, another really common topic in English exams. As well as needing vocabulary to describe people in photographs you can often be asked questions about the fashion industry as a whole and it´s positive and negative aspects. You will hear some brilliant language today that would definitely impress an examiner, or anybody else you are speaking with.  
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Konner from The Blunt Report podcast(https://www.thebluntreport.com), Rosemary, David, Mary Alice, Ofordi and Ursula.
+
+## Language from this episode
+
+- **facets** (word) – [3:38](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU?t=218) · [[Transcript s03e06#Minute 3|transcript]]
+
+## Exam questions
+
+- [1:16](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU?t=76) Do you generally form an opinion of others based on your first impression of them?
+- [2:18](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU?t=138) What occasions do you think carefully about what you’re going to wear?
+- [7:07](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU?t=427) What are the economic and cultural implications of the fashion industry?
+- [9:46](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU?t=586) Do you think people nowadays are unhealthily obsessed with fashion and style?
+- [10:41](https://open.spotify.com/episode/0v7vs1UYtVJ9xEQd4hzzfU?t=641) What extent does peer group pressure influence the way people dress?
 
 ## Chapters
 

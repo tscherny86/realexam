@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Communication
 
 _How we keep in touch: messaging, calls, social media and face-to-face contact._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Communication topics ask how technology has changed the way we talk to each other and whether

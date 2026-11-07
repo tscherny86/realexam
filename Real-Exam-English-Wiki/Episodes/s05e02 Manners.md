@@ -24,6 +24,7 @@ tags: [episode, season-5]
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[Wales]], [[Canada]], [[Australia]], [[South Africa]] |
 | **Briefly mentioned** | [[Work & Careers]], [[Family & Relationships]], [[Fashion & Clothes]], [[Transport & Traffic]], [[Passive Voice]], [[Adjectives & Compound Adjectives]], [[Writing Exam]] |
+| **Speakers from** | [[Ireland]], [[England]], [[Wales]], [[Canada]], [[Australia]], [[South Africa]] |
 
 ## Show notes
 
@@ -32,6 +33,22 @@ Native English speakers answer questions about the manners.
 We have speakers from England, Wales, Canada, Australia, Ireland and South Africa so you are gonna get a good impression of what manners are expected in English-speaking countries. You’re gonna hear plenty of useful advanced English vocabulary, natural idioms, phrasal verbs, connectors, loads of real life expressions, but more than anything it’s really interesting from a cultural viewpoint. 
 
 Thanks to all of the contributors, including Emma, Mike, Noel, Konner, Jen, Dan from the Roar and Score Trivia Podcast and the girls from the Butt Stuff Podcast.
+
+## Language from this episode
+
+- **come off as** (expression) – [9:37](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=577) · [[Transcript s05e02#Minute 9|transcript]]
+- **manners maketh the man** (saying) – [15:10](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=910) · [[Transcript s05e02#Minute 15|transcript]]
+- **overkill** (word) – [21:26](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1286) · [[Transcript s05e02#Minute 21|transcript]]
+
+## Exam questions
+
+- [0:58](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=58) How important are good manners in the country where you live?
+- [2:15](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=135) Are bad manners, a sign of rudeness and arrogance, or simply ignorance?
+- [4:11](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=251) How would you define good manners?
+- [4:39](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=279) Why do you think older people complain about younger people's manners?
+- [8:00](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=480) Why do you think that older people often complain about younger people's manners?
+- [11:57](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=717) Who should be responsible for teaching manners to children?
+- [17:25](https://open.spotify.com/episode/119asUdrWI8hqiznqlTJX6?t=1045) How important are good manners where you live?
 
 ## Chapters
 

@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 5
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Cleft Sentences
 
 _What I love about English is… – sentences that put emphasis on one part._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 **Cleft sentences** split a simple sentence to highlight one element:

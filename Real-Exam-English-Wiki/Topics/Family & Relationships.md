@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 5
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Family & Relationships
 
 _Family life, generations, marriage and relationships._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Family is a staple of every speaking test and a frequent writing topic (*Are family ties weaker

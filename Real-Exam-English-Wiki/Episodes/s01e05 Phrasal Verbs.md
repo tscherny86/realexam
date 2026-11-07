@@ -24,10 +24,38 @@ tags: [episode, season-1]
 | **Exams** | – |
 | **Accents** | – |
 | **Briefly mentioned** | [[Technology & the Internet]], [[Health & Wellbeing]], [[Family & Relationships]], [[Home & Housing]], [[Parenting & Children]], [[Relaxing & Stress]], [[Passive Voice]], [[Ireland]], [[England]] |
+| **Speakers from** | – |
 
 ## Show notes
 
 Native English speakers answer questions which contain phrasal verbs. The answers are analysed for the best bits. Contains LOTS of phrasal verbs!
+
+## Language from this episode
+
+- **come across** (expression) – [1:15](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=75) · [[Transcript s01e05#Minute 1|transcript]]
+- **come up** (expression) – [1:19](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=79) · [[Transcript s01e05#Minute 1|transcript]]
+- **take after** (phrasal verb) – [2:30](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=150) · [[Transcript s01e05#Minute 2|transcript]]
+- **put off** (phrasal verb) – [4:39](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=279) · [[Transcript s01e05#Minute 4|transcript]]
+- **cut down on** (expression) – [4:58](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=298) · [[Transcript s01e05#Minute 4|transcript]]
+- **junk food** (expression) – [5:27](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=327) · [[Transcript s01e05#Minute 5|transcript]]
+- **workaholic** (word) – [6:04](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=364) · [[Transcript s01e05#Minute 6|transcript]]
+- **look up to someone** (expression) – [10:00](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=600) · [[Transcript s01e05#Minute 10|transcript]]
+- **come up with** (phrasal verb) – [10:10](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=610) · [[Transcript s01e05#Minute 10|transcript]]
+- **fiddle with** (phrasal verb) – [11:11](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=671) · [[Transcript s01e05#Minute 11|transcript]]
+- **take up** (phrasal verb) – [14:30](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=870) · [[Transcript s01e05#Minute 14|transcript]]
+
+## Exam questions
+
+- [0:37](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=37) When are phrasal verbs used in English exams?
+- [3:27](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=207) What is something you usually put off for another day?
+- [3:55](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=235) Is there anything you need to cut down on?
+- [9:33](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=573) Who do you look up to?
+- [9:41](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=581) Do you find it difficult to come up with things to do in your free time?
+- [10:24](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=624) What do you fiddle with when you're nervous?
+- [10:40](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=640) When you go abroad, do you tend to pick up a bit of the language?
+- [10:56](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=656) Do you normally deal with a problem straight away or put it off for later?
+- [12:18](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=738) Are you a fan of taking up new activities?
+- [13:44](https://open.spotify.com/episode/6A3hogd34g1ahfHk6NZTZd?t=824) Have you ever blown anything up?
 
 ## Chapters
 

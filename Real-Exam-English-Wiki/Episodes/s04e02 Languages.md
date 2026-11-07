@@ -24,6 +24,7 @@ tags: [episode, season-4]
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[USA]] |
 | **Briefly mentioned** | [[TV, Film & Entertainment]], [[Change & Life Changes]], [[Common Mistakes]], [[Non-Native Speakers]] |
+| **Speakers from** | [[Ireland]], [[England]], [[USA]] |
 
 ## Show notes
 
@@ -32,6 +33,18 @@ Native English speakers answer questions about languages.
 We have speakers from the US, the UK, Ireland, Australia and from Spain, all answering questions about learning languages. We have some great vocabulary, expressions and, in particular, phrasal verbs.
 
 Thanks to all of the contributors, including Matt, Leah Ann, Stephanie, Loli and Leanne from the Beach Travel Wine podcast.
+
+## Language from this episode
+
+- **get a message across** (expression) – [13:09](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=789) · [[Transcript s04e02#Minute 13|transcript]]
+- **pick up** (phrasal verb) – [14:49](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=889) · [[Transcript s04e02#Minute 14|transcript]]
+
+## Exam questions
+
+- [2:53](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=173) Do you think it is important to learn a foreign language?
+- [8:13](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=493) How far do you agree that errors are a natural part of language learning?
+- [14:05](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=845) Which languages would you like to learn and why?
+- [15:37](https://open.spotify.com/episode/1oPf4KpkgjGbKP5Rw3utPr?t=937) What memories do you have of your first foreign language lessons?
 
 ## Chapters
 

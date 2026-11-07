@@ -24,6 +24,7 @@ tags: [episode, season-3]
 | **Exams** | – |
 | **Accents** | [[England]], [[USA]], [[Australia]] |
 | **Briefly mentioned** | [[Shopping & Consumerism]], [[Friends & Friendship]], [[Family & Relationships]], [[Happiness]], [[Cambridge C2 Proficiency (CPE)]] |
+| **Speakers from** | [[England]], [[USA]], [[Australia]] |
 
 ## Show notes
 
@@ -32,6 +33,19 @@ Native English speakers answer questions about change.
 In this episode, we hear some really interesting answers about what changes are happening around the world, from New York to London to Spain to Australia. We hear some lovely phrasal verbs, we look at a great way to structure monologues and of course we have plenty of top vocabulary too. 
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Konner from The Blunt Report podcast(https://www.thebluntreport.com), Rosemary, David, Mary Alice, Ofordi and Ursula.
+
+## Language from this episode
+
+- **frame of reference** (expression) – [7:00](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=420) · [[Transcript s03e10#Minute 7|transcript]]
+- **embrace change** (collocation) – [12:50](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=770) · [[Transcript s03e10#Minute 12|transcript]]
+
+## Exam questions
+
+- [0:56](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=56) Is change inevitable or can things just stay the same as they are?
+- [2:09](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=129) Why do you think that is?
+- [5:07](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=307) Is the pace of change quicker today than in the past?
+- [7:59](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=479) How do you think the place you live will change over the next few years?
+- [11:36](https://open.spotify.com/episode/6X8iYi2xxojzB5hXPTvlUB?t=696) What changes would you like or not like to see in this country?
 
 ## Chapters
 

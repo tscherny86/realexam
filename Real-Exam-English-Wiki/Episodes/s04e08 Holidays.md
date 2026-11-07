@@ -24,6 +24,7 @@ tags: [episode, season-4]
 | **Exams** | [[Listening & Reading]] |
 | **Accents** | [[Ireland]], [[England]], [[Australia]] |
 | **Briefly mentioned** | [[Home & Housing]], [[Relaxing & Stress]] |
+| **Speakers from** | [[Ireland]], [[England]], [[Australia]] |
 
 ## Show notes
 
@@ -34,6 +35,21 @@ Everyone loves going on holidays and it’s a very common topic in English exams
 We hear a few different accents from the UK, also the US, Australia and Ireland so you can get lots of listening practice.
 
 Thanks to all of the contributors, including Matsy, Matt, Leah Ann, Stephanie, Loli, Richard, Ofordi, Emma and Leanne from the Beach Travel Wine podcast.
+
+## Language from this episode
+
+- **turn up** (expression) – [10:55](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=655) · [[Transcript s04e08#Minute 10|transcript]]
+
+## Exam questions
+
+- [0:56](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=56) What activities do you like to do when you are on holiday?
+- [2:46](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=166) Why do some people prefer camping to other kinds of holidays?
+- [4:52](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=292) How important is luxury for you when you're on holiday?
+- [7:07](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=427) What activities do you like when you are on holiday?
+- [7:37](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=457) Who is the ideal person to go on holiday with?
+- [9:37](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=577) Do you have any travel or holiday plans?
+- [11:42](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=702) Do you think your hometown is a good place for a holiday?
+- [11:55](https://open.spotify.com/episode/2TgmVCcemojfJcdIFaWWxw?t=715) What do you want from a holiday?
 
 ## Chapters
 

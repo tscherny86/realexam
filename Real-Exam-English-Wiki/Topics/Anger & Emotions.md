@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Anger & Emotions
 
 _Talking about feelings – from mild irritation to losing your temper._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Emotion vocabulary separates a B2 candidate (*angry*, *sad*, *happy*) from a C1 one

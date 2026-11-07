@@ -24,6 +24,7 @@ tags: [episode, season-6]
 | **Exams** | – |
 | **Accents** | – |
 | **Briefly mentioned** | [[Work & Careers]], [[Money & Finance]], [[Crime & Law]], [[Home & Housing]], [[The Future & Predictions]], [[Emphasis & Auxiliaries]], [[Speaking Exam]], [[England]], [[USA]] |
+| **Speakers from** | – |
 
 ## Show notes
 
@@ -32,6 +33,20 @@ Native English speakers answer questions about priorities.
 This episode is about priorities and has a fantastic mix of adverbs, spelling, idioms, pronunciation, collocations, common mistakes, connectors and a fancy grammatical structure that we haven’t looked at before. All of that, along with the usual variety of accents from around the world. 
 
 Thanks to all of the contributors, including Paddy, Mike, Melissa, Lori, Jay, Carla Jayne, Annie and Mary Alice.
+
+## Language from this episode
+
+- **berate** (expression) – [12:10](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=730) · [[Transcript s06e08#Minute 12|transcript]]
+
+## Exam questions
+
+- [0:39](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=39) Do you think society generally prioritizes economic growth over environmental protection?
+- [2:56](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=176) How have your personal priorities changed over the last five years?
+- [3:32](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=212) Do you think the media and advertising industries influence what people see as important in life?
+- [8:34](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=514) How do cultural backgrounds influence what people consider important in life?
+- [12:23](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=743) Are you good at managing your priorities?
+- [13:14](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=794) When it comes to global issues, what single problem should the international community prioritize?
+- [14:53](https://open.spotify.com/episode/4agfA7A93hWnE0zjipN64K?t=893) Do you think society generally prioritises economic growth over environmental protection?
 
 ## Chapters
 

@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 1
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Binomial Pairs
 
 _Fixed pairs like 'safe and sound', 'sick and tired', 'ups and downs'._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 **Binomial pairs** are fixed expressions of two words joined by *and* or *or*, always in the same order:

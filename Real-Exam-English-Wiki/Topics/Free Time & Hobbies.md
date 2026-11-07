@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 3
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Free Time & Hobbies
 
 _Leisure activities, hobbies and how we spend our weekends._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Free time is a Part 1 classic (*What do you do in your free time?*), so it pays to have a few

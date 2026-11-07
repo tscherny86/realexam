@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [B2, C1]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Complaining & Customer Service
 
 _Making complaints, customer service and a nation of grumblers._
+
+**Level:** B2 · C1 · **Exams:** Cambridge, IELTS
 
 ## Background
 Complaining is both a speaking topic and a writing task: a **letter of complaint** is a classic

@@ -1,11 +1,15 @@
 ---
 type: accents
 episodes: 4
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [accents]
 ---
 # Scotland
 
 _Scottish English – rolled r, wee and aye._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 **Scottish English** keeps the rolled or tapped *r*, has distinct vowels (*house* sounds closer to

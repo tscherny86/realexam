@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 7
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Languages & Language Learning
 
 _Learning languages, being bilingual and the experience of living in another language._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 A topic every candidate can speak about from experience – which is why examiners expect a strong

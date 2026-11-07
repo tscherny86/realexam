@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 3
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Photography & Photos
 
 _Taking photos, social media pictures and the speaking-exam skill of describing a picture._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Photos matter twice in exams: as a topic (*Do people take too many photos?*) and as a task –

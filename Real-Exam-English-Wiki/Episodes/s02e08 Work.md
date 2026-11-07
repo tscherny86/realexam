@@ -24,6 +24,7 @@ tags: [episode, season-2]
 | **Exams** | – |
 | **Accents** | [[USA]] |
 | **Briefly mentioned** | [[Communication]], [[Adjectives & Compound Adjectives]], [[Likes, Dislikes & Preferences]], [[IELTS]] |
+| **Speakers from** | [[USA]] |
 
 ## Show notes
 
@@ -32,6 +33,18 @@ Native English speakers answer questions about work.
 In today´s episode you are going to hear lots of top-class vocabulary, we take a look at a few different ways to use the preposition on and we hear some amazing idioms. As usual we have a bunch of different accents.
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Arianwen from the In Mothering podast, Trisha from Conversations with a Random Nobody, Chris, Barbara, Ronny, Zoe, Ofordi, Karen, Keith, Mary, Emma and Ursula.
+
+## Exam questions
+
+- [1:11](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=71) What do you most like about your job?
+- [1:40](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=100) What jobs are most highly respected in your country?
+- [2:55](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=175) Do you think it benefits companies if they organise social activities for the staff?
+- [3:46](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=226) Would you mind a job which involved some evening work?
+- [7:43](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=463) What do you least like about your job?
+- [8:55](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=535) Is there a particular job you think deserves to be highly paid?
+- [10:37](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=637) What do you most/least like about your job?
+- [11:42](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=702) What are the advantages of working for a small company rather than a large one well?
+- [12:24](https://open.spotify.com/episode/7Ji5SFUBjuSGuSfW9sUX9x?t=744) Do you think people will spend a longer or shorter time at work in the future?
 
 ## Chapters
 

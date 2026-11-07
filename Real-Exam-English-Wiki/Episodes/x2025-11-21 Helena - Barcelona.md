@@ -24,12 +24,19 @@ tags: [episode, season-0]
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[Non-Native Speakers]] |
 | **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Friends & Friendship]], [[Communication]], [[Learning, School & Education]], [[Transport & Traffic]], [[Relaxing & Stress]], [[Emphasis & Auxiliaries]] |
+| **Speakers from** | [[Non-Native Speakers]] |
 
 ## Show notes
 
 Today’s episode is an interview with a Spanish student of mine, Helena. She tells us about her English-speaking journey, which is really relatable to a lot of English learners, so I think you’ll find it very interesting and maybe even a little motivational. Helena is a big fan of idioms so you’re gonna hear a bunch of those, there’s plenty of phrasal verbs too, some compound adjectives and lots of nice organization to admire.
 
 Thanks so much to Helena for contributing!
+
+## Exam questions
+
+- [1:34](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=94) Can you tell us what you do and if you use English at work?
+- [2:15](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=135) How was that experience in terms of English and interacting with the locals at work and out of work as well?
+- [8:33](https://open.spotify.com/episode/2aCbKUHQ8lLzK9QY5txnRU?t=513) How useful do you find it to be able to speak English on your travels?
 
 ## Chapters
 

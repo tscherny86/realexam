@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 0
+level: [B2, C1]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Intensifiers
 
 _Absolutely, utterly, pretty, rather – words that make adjectives stronger or softer._
+
+**Level:** B2 · C1 · **Exams:** Cambridge, IELTS
 
 ## Background
 **Intensifiers** shade an adjective: *extremely tired*, *utterly exhausted*, *pretty good*,

@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 3
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Food & Cooking
 
 _Eating habits, cooking, restaurants and diets – a favourite in B2 and C1 speaking tests._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Food is an easy topic to speak about at length, which is exactly why examiners like it: they can see

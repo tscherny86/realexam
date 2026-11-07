@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 9
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Connectors & Linking Words
 
 _Linking ideas so that essays and answers flow: however, whereas, furthermore, consequently._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 **Cohesion** is one of the four writing criteria in Cambridge exams, so linking words are worth marks.

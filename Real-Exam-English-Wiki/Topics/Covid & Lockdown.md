@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 0
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Covid & Lockdown
 
 _The pandemic years in the podcast: lockdown, working from home and how life changed._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Seasons 1 and 2 were recorded during the pandemic, so many speakers mention **lockdown**, working from

@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 5
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # TV, Film & Entertainment
 
 _Watching habits, streaming, cinema and the quality of television._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Film and television offer easy personal examples and a lot of lively vocabulary.

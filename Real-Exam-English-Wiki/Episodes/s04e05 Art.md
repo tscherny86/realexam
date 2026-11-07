@@ -24,6 +24,7 @@ tags: [episode, season-4]
 | **Exams** | – |
 | **Accents** | – |
 | **Briefly mentioned** | [[Music]], [[History & the Past]], [[Relative Clauses]], [[British vs American English]], [[Likes, Dislikes & Preferences]], [[Writing Exam]], [[England]] |
+| **Speakers from** | – |
 
 ## Show notes
 
@@ -32,6 +33,18 @@ Native English speakers answer exam-style questions about art.
 In this episode there is loads of art vocabulary and some tips on how to organise your answers well for exams. 
 
 Thanks to all of the contributors, including Matt, Leah Ann, Stephanie, Loli, Richard, Ofordi, Emma and Leanne from the Beach Travel Wine podcast.
+
+## Language from this episode
+
+- **class** (verb) – [10:00](https://open.spotify.com/episode/0vR11wg4wOSgeAnjtWfWIQ?t=600) · [[Transcript s04e05#Minute 10|transcript]]
+
+## Exam questions
+
+- [1:01](https://open.spotify.com/episode/0vR11wg4wOSgeAnjtWfWIQ?t=61) Do you think anyone can be an artist or do you need a special talent?
+- [2:00](https://open.spotify.com/episode/0vR11wg4wOSgeAnjtWfWIQ?t=120) Is art popular in your country?
+- [6:20](https://open.spotify.com/episode/0vR11wg4wOSgeAnjtWfWIQ?t=380) Who is Charlie going to bring to the dance?
+- [7:26](https://open.spotify.com/episode/0vR11wg4wOSgeAnjtWfWIQ?t=446) How has art changed in the last few decades in your country?
+- [9:29](https://open.spotify.com/episode/0vR11wg4wOSgeAnjtWfWIQ?t=569) Do you think children can benefit from going to art galleries?
 
 ## Chapters
 

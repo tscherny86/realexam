@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Space & Science
 
 _Space exploration, science and whether the money is well spent._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Space is less common than other topics but an excellent C1/C2 discussion (*Is space exploration

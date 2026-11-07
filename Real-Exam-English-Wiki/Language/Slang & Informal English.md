@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 0
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Slang & Informal English
 
 _Gonna, grand, mate, dodgy – the informal English you hear from native speakers._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Native speakers use **informal English** constantly; you need to understand it for the listening

@@ -24,10 +24,21 @@ tags: [episode, season-0]
 | **Exams** | – |
 | **Accents** | [[USA]], [[Non-Native Speakers]] |
 | **Briefly mentioned** | [[Humour & Comedy]], [[Animals & Pets]], [[Adverbs]], [[British vs American English]] |
+| **Speakers from** | [[Non-Native Speakers]] |
 
 ## Show notes
 
 In this episode Trevor has a super interesting chat with a Brazilian lady, Melina, who is an international law professor and researcher and has an excellent level of English. They speak about learning English in Brazil, the benefits of spending some time in an English speaking countryand challenges with pronunciation. As Melina is currently researching the effect of eating meat on climate change they have a chat about that too, with loads of useful vocabulary and top-notch expressions.
+
+## Language from this episode
+
+- **livestock** (word) – [14:50](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=890) · [[Transcript x2024-08-02#Minute 14|transcript]]
+- **herd** (word) – [15:04](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=904) · [[Transcript x2024-08-02#Minute 15|transcript]]
+
+## Exam questions
+
+- [9:54](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=594) What is the effect of that deforestation?
+- [23:49](https://open.spotify.com/episode/4VPRosPN5gxkgfBcQc0Xzm?t=1429) Can you tell the context there of when people use that?
 
 ## Chapters
 

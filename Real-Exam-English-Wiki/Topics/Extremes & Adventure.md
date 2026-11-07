@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Extremes & Adventure
 
 _Extreme experiences, risk-taking and adrenaline sports._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Stories about extreme experiences are perfect material for narrative tenses, inverted conditionals

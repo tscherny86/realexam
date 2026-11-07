@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Friends & Friendship
 
 _What makes a good friend, keeping in touch and friendships that change over time._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 A gentle B2/C1 topic that is often used to test the vocabulary of personality and relationships.

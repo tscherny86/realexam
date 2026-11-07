@@ -24,6 +24,7 @@ tags: [episode, season-0]
 | **Exams** | – |
 | **Accents** | [[England]] |
 | **Briefly mentioned** | [[Age & Generations]], [[Idioms & Expressions]], [[Buying Time & Fillers]] |
+| **Speakers from** | [[England]] |
 
 ## Show notes
 
@@ -32,6 +33,10 @@ Use the code REALENGLISH5 for €5 off your first class (minimum €10): https:/
 A short and sweet episode featuring a lawyer from London answering a couple of questions about music. Plenty of great vocab and connectors.
 
 Thanks to Ofordi for contributing.
+
+## Exam questions
+
+- [0:58](https://open.spotify.com/episode/0bpjtRvhYcRAOnDCFmrBJE?t=58) Do you think older and younger generations prefer different types of music?
 
 ## Chapters
 

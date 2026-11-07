@@ -24,6 +24,7 @@ tags: [episode, season-3]
 | **Exams** | – |
 | **Accents** | [[Australia]] |
 | **Briefly mentioned** | [[Technology & the Internet]], [[Happiness]], [[Speaking Exam]], [[Scotland]] |
+| **Speakers from** | [[Australia]] |
 
 ## Show notes
 
@@ -34,6 +35,22 @@ You will hear loads of top adjectives, some lovely phrasal verbs and superb coll
 Link for today's photo: https://realexamenglish.com/2021/10/19/photos/
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Konner from The Blunt Report podcast(https://www.thebluntreport.com), Rosemary, David, Mary Alice, Ofordi and Ursula.
+
+## Language from this episode
+
+- **lug around a camera** (phrasal verb) – [4:04](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=244) · [[Transcript s03e03#Minute 4|transcript]]
+- **lug around** (expression) – [4:12](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=252) · [[Transcript s03e03#Minute 4|transcript]]
+- **spark memories** (expression) – [11:28](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=688) · [[Transcript s03e03#Minute 11|transcript]]
+- **show off** (phrasal verb) – [14:03](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=843) · [[Transcript s03e03#Minute 14|transcript]]
+
+## Exam questions
+
+- [0:49](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=49) Do you prefer to take photos of people or places?
+- [2:58](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=178) How has technology changed the way people take photos?
+- [4:29](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=269) Do you like it when people take photos of you?
+- [5:08](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=308) Do you prefer to take pictures of people or places and why?
+- [11:03](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=663) Should there be any restrictions regarding photos on the internet?
+- [12:48](https://open.spotify.com/episode/7bea4PNRxwIT2jxpZgqSyr?t=768) Has the purpose of taking photographs changed nowadays?
 
 ## Chapters
 

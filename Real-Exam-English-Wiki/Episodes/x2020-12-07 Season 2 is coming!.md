@@ -24,6 +24,7 @@ tags: [episode, season-0]
 | **Exams** | – |
 | **Accents** | – |
 | **Briefly mentioned** | – |
+| **Speakers from** | – |
 
 ## Show notes
 

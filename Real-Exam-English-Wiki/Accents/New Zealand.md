@@ -1,11 +1,15 @@
 ---
 type: accents
 episodes: 6
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [accents]
 ---
 # New Zealand
 
 _New Zealand English – the shifted vowels that make 'fish and chips' sound like 'fush and chups'._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 **New Zealand English** resembles Australian but with centralised short vowels: *six* sounds like

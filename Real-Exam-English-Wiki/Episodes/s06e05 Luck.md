@@ -24,12 +24,29 @@ tags: [episode, season-6]
 | **Exams** | – |
 | **Accents** | – |
 | **Briefly mentioned** | [[Travel, Holidays & Tourism]], [[Health & Wellbeing]], [[Friends & Friendship]], [[Learning, School & Education]], [[Change & Life Changes]], [[Languages & Language Learning]], [[Help & Kindness]] |
+| **Speakers from** | – |
 
 ## Show notes
 
 Native English speakers answer exam-style questions about luck.
 
 We talk about the role luck plays in success, we talk about lucky habits, about lotteries and about being lucky in life in general. It’s a super-rich episode in terms of vocabulary, phrasal verbs, natural English expressions and idioms.
+
+## Language from this episode
+
+- **rewire my brain** (expression) – [7:27](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=447) · [[Transcript s06e05#Minute 7|transcript]]
+- **miss out on something** (phrasal verb) – [15:19](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=919) · [[Transcript s06e05#Minute 15|transcript]]
+
+## Exam questions
+
+- [0:35](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=35) Do you think luck plays a big role in success?
+- [2:21](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=141) Do you carry any lucky objects or have any lucky habits?
+- [3:17](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=197) Why do you think people enjoy games of chance like lotteries or gambling?
+- [6:29](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=389) Do you carry any lucky objects or have any lucky habits and why?
+- [8:03](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=483) Do you consider yourself a lucky person?
+- [8:56](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=536) Do you think luck influences big life events like careers or relationships?
+- [9:30](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=570) Do you do you learn it or do you cultivate it or something like that?
+- [11:25](https://open.spotify.com/episode/4Z6WE3NyrfPyOee8N2Cupn?t=685) Are on holidays abroad and you meet your neighbour from home, you would say to them Wow, what the odds of seeing you here?
 
 ## Chapters
 

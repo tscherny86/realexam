@@ -24,6 +24,7 @@ tags: [episode, season-2]
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[Scotland]], [[USA]], [[Australia]] |
 | **Briefly mentioned** | [[Technology & the Internet]], [[Culture & Traditions]], [[Change & Life Changes]], [[Home & Housing]], [[Help & Kindness]], [[Age & Generations]], [[Adjectives & Compound Adjectives]] |
+| **Speakers from** | [[Ireland]], [[England]], [[Scotland]], [[USA]], [[Australia]] |
 
 ## Show notes
 
@@ -32,6 +33,24 @@ Native English speakers answer questions about family.
 We have some great language in the form of phrasal verbs and idioms, we take a look at some lovely verbs that end in EN and we examine some classic expressions from Scotland. You will hear speakers from England, the USA, Australia, Scotland and Ireland so a wide variety of accents for you, as usual. 
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Arianwen from the In Mothering podast, Trisha from Conversations with a Random Nobody, Chris, Barbara, Ronny, Zoe, Ofordi, Karen, Keith, Mary, Emma and Ursula.
+
+## Language from this episode
+
+- **twilight years** (expression) – [2:25](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=145) · [[Transcript s02e10#Minute 2|transcript]]
+- **heightened** (word) – [10:10](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=610) · [[Transcript s02e10#Minute 10|transcript]]
+
+## Exam questions
+
+- [1:34](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=94) Who do you think should care for the elderly, the government, or their family?
+- [2:36](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=156) Who are you most like in your family?
+- [4:13](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=253) Have you got any brothers and sisters?
+- [4:13](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=253) How are the lives of young people today different from those of their parents?
+- [6:03](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=363) Have you got any brother or sisters?
+- [6:16](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=376) Does your family like spending time together?
+- [9:23](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=563) Do you think that parents should help their children make important decisions, even when the children are grown up?
+- [11:37](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=697) Do you go on holiday with your family?
+- [13:41](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=821) What ways have families in your country changed in recent?
+- [14:31](https://open.spotify.com/episode/2OEU7xejyEPZBKksgsA1BB?t=871) Should husbands and wives have different roles within the family?
 
 ## Chapters
 

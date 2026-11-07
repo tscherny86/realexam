@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 6
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Culture & Traditions
 
 _Cultural differences, traditions and stereotypes between English-speaking countries._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Cultural comparison is built into the podcast: speakers from Ireland, the UK, the USA, Australia,

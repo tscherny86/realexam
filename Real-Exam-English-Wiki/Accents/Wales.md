@@ -1,11 +1,15 @@
 ---
 type: accents
 episodes: 7
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [accents]
 ---
 # Wales
 
 _Welsh English with its musical, sing-song intonation._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 **Welsh English** is known for its rising-and-falling, musical intonation and for sentence patterns

@@ -1,11 +1,15 @@
 ---
 type: exams
 episodes: 3
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [exams]
 ---
 # Exam Tips & Preparation
 
 _Practical advice for the weeks before the exam and for the day itself._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 - Practise with past papers under timed conditions; know the task formats inside out.

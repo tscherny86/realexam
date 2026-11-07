@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 3
+level: [B2]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Question Tags
 
 _…, isn't it? – checking information or inviting agreement._
+
+**Level:** B2 · **Exams:** Cambridge, IELTS
 
 ## Background
 **Question tags** turn a statement into a question: *It's cold, isn't it?* *You haven't seen him,

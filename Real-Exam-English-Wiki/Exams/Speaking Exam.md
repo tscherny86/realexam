@@ -1,11 +1,15 @@
 ---
 type: exams
 episodes: 11
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [exams]
 ---
 # Speaking Exam
 
 _How the speaking test works and what examiners are really listening for._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Cambridge speaking tests are marked on **Grammar and Vocabulary**, **Discourse Management**,

@@ -1,11 +1,15 @@
 ---
 type: exams
 episodes: 0
+level: [B2, C1, C2]
+exams: [Other]
 tags: [exams]
 ---
 # Other Exams (TOEFL, Trinity, Aptis, EOI)
 
 _TOEFL, Trinity, Aptis, Linguaskill and the Spanish Escuela Oficial de Idiomas._
+
+**Level:** B2 · C1 · C2 · **Exams:** Other
 
 ## Background
 - **TOEFL iBT**: American, computer-based, scored out of 120; favoured by US universities.

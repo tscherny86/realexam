@@ -24,6 +24,7 @@ tags: [episode, season-2]
 | **Exams** | – |
 | **Accents** | [[USA]] |
 | **Briefly mentioned** | [[Food & Cooking]], [[Sport & Exercise]], [[Humour & Comedy]], [[Money & Finance]], [[Animals & Pets]], [[Change & Life Changes]], [[Home & Housing]], [[Parenting & Children]], [[Help & Kindness]], [[Covid & Lockdown]], [[Age & Generations]] |
+| **Speakers from** | [[USA]] |
 
 ## Show notes
 
@@ -32,6 +33,24 @@ Native English speakers answer questions about health. 
 You will hear some quite deep, almost philosophical questions about healthcare and some really thought-provoking answers. We have a lot of super vocabulary today, from American English expressions to figurative language to replacing offensive words in a polite way. 
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Arianwen from the In Mothering podast, Trisha from Conversations with a Random Nobody, Chris, Barbara, Ronny, Zoe, Ofordi, Karen, Keith, Mary, Emma and Ursula.
+
+## Language from this episode
+
+- **crunch the numbers** (expression) – [3:56](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=236) · [[Transcript s02e05#Minute 3|transcript]]
+- **humane** (word) – [7:10](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=430) · [[Transcript s02e05#Minute 7|transcript]]
+- **strive for something** (expression) – [9:47](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=587) · [[Transcript s02e05#Minute 9|transcript]]
+
+## Exam questions
+
+- [0:45](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=45) When should schools start educating children about healthy living?
+- [1:46](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=106) Do you think our attitudes to healthy living change as we age?
+- [2:40](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=160) Do you think healthcare should be free?
+- [5:57](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=357) Why shouldn't someone be entitled to free health care?
+- [6:16](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=376) Do you agree that you have to spend a lot of money to stay fit?
+- [6:23](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=383) Can you stay fit by leaving your house and walking?
+- [6:30](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=390) Does leaving your house and walking cost any money?
+- [9:16](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=556) Is sometimes said that laughter is the best form of medicine, do you agree?
+- [10:27](https://open.spotify.com/episode/3jaYHUm7waCSzkGYVpqwdA?t=627) Was Some people say that laughter is sometimes the best form of medicine, do you agree?
 
 ## Chapters
 

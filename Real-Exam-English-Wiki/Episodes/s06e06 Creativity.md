@@ -24,6 +24,7 @@ tags: [episode, season-6]
 | **Exams** | – |
 | **Accents** | – |
 | **Briefly mentioned** | [[Technology & the Internet]], [[Family & Relationships]], [[Help & Kindness]], [[Nature & Outdoors]], [[Idioms & Expressions]], [[Common Mistakes]], [[England]] |
+| **Speakers from** | – |
 
 ## Show notes
 
@@ -32,6 +33,14 @@ Use the code REALENGLISH5 for €5 off your first class (minimum €10): https:/
 Native English speakers answer exam-style questions about creativity.
 
 It’s a great topic to cover as it touches so many other topics like art, childhood, work, psychology, loads. We have lots of top-notch collocations, a bunch of phrasal verbs, some super-useful verbs and a lovely homophone.
+
+## Exam questions
+
+- [0:37](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=37) What creative activities did you enjoy when you were a child?
+- [1:26](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=86) How important is creativity in the workplace?
+- [4:22](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=262) Do you think creativity can be learned or is it something people are born with?
+- [10:15](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=615) Do you consider yourself a creative person?
+- [10:54](https://open.spotify.com/episode/3bcFyUHEwj87kQPrLcHjhY?t=654) How important is creativity in the workplace today?
 
 ## Chapters
 

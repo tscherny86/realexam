@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 3
+level: [B2, C1]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Passive Voice
 
 _The passive and causative structures (have something done)._
+
+**Level:** B2 · C1 · **Exams:** Cambridge, IELTS
 
 ## Background
 The **passive** moves the focus from the doer to the action or result: *The decision was made last

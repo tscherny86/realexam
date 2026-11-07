@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Global Issues
 
 _Poverty, migration, war and the big problems of the world – typical C1 and C2 essay material._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Global issues appear mainly in the higher levels, where you are expected to discuss causes,

@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 2
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Money & Finance
 
 _Saving, spending, debt and attitudes to money._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Money questions (*Is it better to save or to spend?*, *Should children get pocket money?*) are

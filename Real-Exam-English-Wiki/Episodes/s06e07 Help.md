@@ -24,6 +24,7 @@ tags: [episode, season-6]
 | **Exams** | – |
 | **Accents** | – |
 | **Briefly mentioned** | [[Family & Relationships]], [[Money & Finance]], [[Change & Life Changes]], [[Crime & Law]], [[History & the Past]], [[Politics & Government]], [[Ireland]], [[England]], [[USA]], [[Non-Native Speakers]] |
+| **Speakers from** | – |
 
 ## Show notes
 
@@ -32,6 +33,24 @@ Native English speakers answer exam-style questions about help.
 Warning! This episode is full of phrasal verbs!!!!!
 
 As we have speakers from different parts of the world it’s fascinating to hear their opinions on this topic and how giving help is different between cities and the countryside, between the past and the present and also between different countries.
+
+## Language from this episode
+
+- **love on someone** (expression) – [5:49](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=349) · [[Transcript s06e07#Minute 5|transcript]]
+- **delve into** (expression) – [6:10](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=370) · [[Transcript s06e07#Minute 6|transcript]]
+- **step up** (phrasal verb) – [6:44](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=404) · [[Transcript s06e07#Minute 6|transcript]]
+- **lean into** (phrasal verb) – [15:51](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=951) · [[Transcript s06e07#Minute 15|transcript]]
+- **kids leave their toys** (expression) – [19:33](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1173) · [[Transcript s06e07#Minute 19|transcript]]
+
+## Exam questions
+
+- [0:54](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=54) Who do you usually turn to when you need help?
+- [1:53](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=113) What responsibility do governments have to help people in difficult situations?
+- [2:48](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=168) When she said, well, if the government doesn't help them, who should?
+- [7:18](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=438) Do you think helping others brings people closer together?
+- [9:01](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=541) Do you think communities today are more or less helpful than in the past?
+- [14:13](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=853) Have you ever received help from a stranger?
+- [19:43](https://open.spotify.com/episode/4zKOVWLRtDU5sDhPiJp2Aj?t=1183) Do you think people are more willing to help strangers today than in the past?
 
 ## Chapters
 

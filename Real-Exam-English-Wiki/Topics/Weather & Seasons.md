@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 2
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Weather & Seasons
 
 _Talking about the weather – the great British conversation starter._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Weather is small-talk material in English-speaking countries and a reliable Part 1 question.

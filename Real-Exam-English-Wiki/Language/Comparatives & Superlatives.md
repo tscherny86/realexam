@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 2
+level: [B2]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Comparatives & Superlatives
 
 _Comparing things precisely: far better, nowhere near as good, the more… the more._
+
+**Level:** B2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Beyond *bigger* and *the biggest*, exams look for **modified comparisons**:

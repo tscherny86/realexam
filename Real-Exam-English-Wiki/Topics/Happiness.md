@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 2
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Happiness
 
 _What makes people happy and whether money can buy it._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Happiness is a reflective C1/C2 topic that invites abstract nouns and hedging language.

@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 2
+level: [B2, C1]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Confusing Words & Homophones
 
 _Either/neither, affect/effect, false friends and words that sound the same._
+
+**Level:** B2 · C1 · **Exams:** Cambridge, IELTS
 
 ## Background
 - **Homophones**: *their / there / they're*, *weather / whether*, *bear / bare*, *piece / peace*.

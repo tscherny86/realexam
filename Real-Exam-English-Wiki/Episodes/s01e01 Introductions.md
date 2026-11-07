@@ -24,10 +24,24 @@ tags: [episode, season-1]
 | **Exams** | [[Speaking Exam]] |
 | **Accents** | [[Ireland]], [[England]], [[USA]] |
 | **Briefly mentioned** | [[Work & Careers]], [[Transport & Traffic]], [[Idioms & Expressions]], [[Conditionals]], [[Connectors & Linking Words]], [[South Africa]] |
+| **Speakers from** | [[Ireland]] |
 
 ## Show notes
 
 Trevor asks introduction questions to native English speakers and analyses the answers for the best bits.
+
+## Language from this episode
+
+- **stumbling around** (phrasal verb) – [12:03](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=723) · [[Transcript s01e01#Minute 12|transcript]]
+- **looking for** (phrasal verb) – [12:25](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=745) · [[Transcript s01e01#Minute 12|transcript]]
+
+## Exam questions
+
+- [2:22](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=142) What do you most enjoy about your job?
+- [7:50](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=470) Is the answer to the question, where are you from?
+- [9:35](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=575) How long have you been living there?
+- [9:41](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=581) What do you like about the area where you live?
+- [11:06](https://open.spotify.com/episode/5MU1i3voiLpSss1uo8iM2u?t=666) How does a typical day for you start?
 
 ## Chapters
 

@@ -1,11 +1,15 @@
 ---
 type: accents
 episodes: 34
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [accents]
 ---
 # England
 
 _British English from London to the North – RP, Estuary, Northern and more._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 England has dozens of accents: **RP / BBC English**, Estuary (London area), Cockney, Northern

@@ -24,12 +24,27 @@ tags: [episode, season-1]
 | **Exams** | – |
 | **Accents** | – |
 | **Briefly mentioned** | [[Parenting & Children]] |
+| **Speakers from** | – |
 
 ## Show notes
 
 Native English speakers answer questions about music. 
 
 The answers are analysed for the best bits to help get your English up to that next level. You will learn loads of vocabulary and phrasal verbs and some useful connectors.
+
+## Language from this episode
+
+- **be open minded** (expression) – [1:30](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=90) · [[Transcript s01e07#Minute 1|transcript]]
+- **move on** (expression) – [7:07](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=427) · [[Transcript s01e07#Minute 7|transcript]]
+- **make a song up** (phrasal verb) – [9:47](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=587) · [[Transcript s01e07#Minute 9|transcript]]
+- **be into something** (expression) – [11:18](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=678) · [[Transcript s01e07#Minute 11|transcript]]
+
+## Exam questions
+
+- [3:23](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=203) Have you ever tried to play a musical instrument?
+- [4:54](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=294) Do you ever go to concerts?
+- [5:48](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=348) Can you sing or play an instrument?
+- [7:47](https://open.spotify.com/episode/5BUO6VP1qjfgiR3PdkM6Uf?t=467) Do you ever listen to the radio?
 
 ## Chapters
 

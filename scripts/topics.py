@@ -1282,3 +1282,45 @@ podcast's biggest audience.
         ]
     ],
 ]
+
+
+# ---------------------------------------------------------------- level and exam of every entry
+# Which CEFR level an entry matters for most – the filter on the Topics, Language and Exams pages.
+# Topics default to all three levels; the ones listed here are the abstract subjects that only
+# come up in the C1/C2 speaking papers. Language points are rated by when they are expected.
+ALL_LEVELS = ["B2", "C1", "C2"]
+LEVELS = {
+    # Topics – C1/C2 only
+    **{n: ["C1", "C2"] for n in [
+        "Global Issues", "Crime & Law", "Fame & Celebrity", "Culture & Traditions", "Change & Life Changes",
+        "Advertising & Marketing", "News & Media", "Extremes & Adventure", "Luck & Chance", "Priorities & Decisions",
+        "Drugs & Legalisation", "Globalisation", "Politics & Government", "Age & Generations", "Communication",
+        "Humour & Comedy", "Anger & Emotions", "Manners & Politeness", "Motivation & Goals", "Art & Creativity",
+        "Space & Science", "History & the Past", "The Future & Predictions", "Happiness", "Help & Kindness",
+    ]},
+    "Complaining & Customer Service": ["B2", "C1"],
+    # Language
+    "Phrasal Verbs": ["B2", "C1"], "Idioms & Expressions": ["C1", "C2"], "Conditionals": ["B2", "C1"],
+    "Cleft Sentences": ["C1", "C2"], "Inversion": ["C1", "C2"], "Passive Voice": ["B2", "C1"],
+    "Past Perfect & Narrative Tenses": ["B2", "C1"], "Question Tags": ["B2"], "Comparatives & Superlatives": ["B2"],
+    "Adverbs": ["B2", "C1"], "Adjectives & Compound Adjectives": ["B2", "C1"], "Relative Clauses": ["B2", "C1"],
+    "Modal Verbs": ["B2", "C1"], "Reported Speech": ["B2", "C1"], "Word Formation": ["B2", "C1"],
+    "Prepositions": ["B2", "C1"], "Emphasis & Auxiliaries": ["C1", "C2"], "Confusing Words & Homophones": ["B2", "C1"],
+    "Common Mistakes": ["B2", "C1"], "Binomial Pairs": ["C1", "C2"], "Slang & Informal English": ["C1", "C2"],
+    "Spelling": ["B2"], "Substitution & Ellipsis": ["C1", "C2"], "Gerund or Infinitive": ["B2", "C1"],
+    "Intensifiers": ["B2", "C1"], "Likes, Dislikes & Preferences": ["B2"], "Speculating & Hedging": ["C1", "C2"],
+    "Verbs with Many Meanings (get, do, make, take)": ["B2", "C1"],
+    # Exams
+    "Cambridge B2 First (FCE)": ["B2"], "Cambridge C1 Advanced (CAE)": ["C1"], "Cambridge C2 Proficiency (CPE)": ["C2"],
+}
+# Which exam family an entry belongs to; everything not listed applies to Cambridge and IELTS alike.
+EXAMS = {
+    "Cambridge B2 First (FCE)": ["Cambridge"], "Cambridge C1 Advanced (CAE)": ["Cambridge"],
+    "Cambridge C2 Proficiency (CPE)": ["Cambridge"], "IELTS": ["IELTS"], "Other Exams (TOEFL, Trinity, Aptis, EOI)": ["Other"],
+}
+for _t in TOPICS:
+    _t["level"] = LEVELS.get(_t["name"], ALL_LEVELS)
+    _t["exams"] = EXAMS.get(_t["name"], ["Cambridge", "IELTS"])
+_unknown = set(LEVELS) | set(EXAMS)
+_unknown -= {t["name"] for t in TOPICS}
+assert not _unknown, f"LEVELS/EXAMS name not in TOPICS: {_unknown}"

@@ -9,7 +9,7 @@ linked to the **episode** – and, for transcribed episodes, to the **exact minu
 Spotify at that point).
 
 **Updated:** 07.11.2026 · **75 episodes** · **20 h 5 min** of audio ·
-**75 of 75 transcribed**
+**75 of 75 transcribed** · **453 exam questions** · **117 expressions** picked out by name
 
 ## Navigation
 - 📼 [[All Episodes]]

@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 2
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Buying Time & Fillers
 
 _Well… that's an interesting question – phrases that buy you a few seconds to think in the speaking exam._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Examiners do not mind a short pause, but silence sounds like you have no answer. Native speakers

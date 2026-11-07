@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 36
+level: [B2, C1]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Phrasal Verbs
 
 _Verb + particle combinations (get on, put off, come up with) – the heart of natural spoken English._
+
+**Level:** B2 · C1 · **Exams:** Cambridge, IELTS
 
 ## Background
 **Phrasal verbs** are verbs combined with a particle (*up, out, on, off, through…*) whose meaning is

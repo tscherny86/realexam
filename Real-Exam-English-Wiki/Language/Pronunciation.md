@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 10
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Pronunciation
 
 _Word stress, silent letters, intonation and the sounds learners get wrong._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Pronunciation is one of the four speaking criteria. Examiners look for **individual sounds**,

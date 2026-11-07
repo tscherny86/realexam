@@ -24,6 +24,7 @@ tags: [episode, season-3]
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]], [[USA]], [[Australia]], [[New Zealand]] |
 | **Briefly mentioned** | [[Priorities & Decisions]], [[Adjectives & Compound Adjectives]], [[Connectors & Linking Words]] |
+| **Speakers from** | [[Ireland]], [[England]], [[USA]], [[Australia]], [[New Zealand]] |
 
 ## Show notes
 
@@ -32,6 +33,17 @@ ative English speakers answer questions about learning.
 Today’s episode is about learning, another really common topic in English exams. We have speakers from England, Ireland, Australia, New Zealand and the United States, all answering questions about learning. You will hear loads of useful expressions and idioms, some amazing ways to structure your answer, plus some wonderful language for speculating about photographs. 
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Konner from The Blunt Report podcast(https://www.thebluntreport.com), Rosemary, David, Mary Alice, Ofordi and Ursula.
+
+## Exam questions
+
+- [0:52](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=52) What practical skill would you like to learn?
+- [1:31](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=91) Can you learn something even if it is something you don't like?
+- [3:58](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=238) How can class size affect learning?
+- [5:13](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=313) Do you think that having a private lesson is better than having a lesson with other students?
+- [11:06](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=666) Is there advice you could give to someone learning something?
+- [12:52](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=772) Do you think that learning should always be fun?
+- [14:28](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=868) Why not learn the world is An amazing place and it's got so much to offer us, UM, so why not try and find out about things?
+- [15:07](https://open.spotify.com/episode/3ZOpnkQR8lOM54TLhS2zj0?t=907) Why not try and find out about things?
 
 ## Chapters
 

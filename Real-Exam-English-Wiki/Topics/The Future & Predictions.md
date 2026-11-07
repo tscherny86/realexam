@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # The Future & Predictions
 
 _Predictions, plans and what the world might look like in a few decades._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Future questions test modal verbs and future forms: *will*, *going to*, *might*, *is likely to*,

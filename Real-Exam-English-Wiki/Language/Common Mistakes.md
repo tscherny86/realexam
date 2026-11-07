@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 2
+level: [B2, C1]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # Common Mistakes
 
 _The errors examiners hear again and again – and how to avoid them._
+
+**Level:** B2 · C1 · **Exams:** Cambridge, IELTS
 
 ## Background
 Typical mistakes at B2–C2:

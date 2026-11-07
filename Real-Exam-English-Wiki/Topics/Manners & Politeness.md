@@ -1,11 +1,15 @@
 ---
 type: topics
 episodes: 1
+level: [C1, C2]
+exams: [Cambridge, IELTS]
 tags: [topics]
 ---
 # Manners & Politeness
 
 _Good and bad manners across English-speaking cultures._
+
+**Level:** C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Manners are a rich cultural topic: queuing in Britain, *please and thank you*, tipping in the USA,

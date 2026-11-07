@@ -24,12 +24,24 @@ tags: [episode, season-1]
 | **Exams** | – |
 | **Accents** | [[Ireland]], [[England]] |
 | **Briefly mentioned** | [[TV, Film & Entertainment]], [[Money & Finance]], [[Learning, School & Education]], [[Transport & Traffic]], [[Priorities & Decisions]], [[Phrasal Verbs]], [[Idioms & Expressions]], [[Pronunciation]], [[British vs American English]], [[Cambridge C1 Advanced (CAE)]], [[USA]] |
+| **Speakers from** | [[Ireland]], [[England]] |
 
 ## Show notes
 
 Native English speakers answer questions about the environment.
 
 This episode also speaks about inversions and compound adjectives.
+
+## Exam questions
+
+- [1:27](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=87) Do you think it would be a good idea to reward people for the amount of rubbish they recycle?
+- [3:00](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=180) Are young people in your country taught to save energy or protect their local environment?
+- [3:58](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=238) Were asked to give a talk to young children, what subject would you choose?
+- [4:45](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=285) Have you seen a television program about the natural world lately?
+- [7:25](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=445) What impact can individuals have concerning environmental issues?
+- [9:00](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=540) How much carbon has been used to make it?
+- [9:04](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=544) Is there an environmentally cheaper version that's just as good as this one?
+- [11:50](https://open.spotify.com/episode/5qDVL0SnNJSzoitAqa2BOs?t=710) How helpful do you think this fundraising is?
 
 ## Chapters
 

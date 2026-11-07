@@ -1,11 +1,15 @@
 ---
 type: language
 episodes: 3
+level: [B2, C1, C2]
+exams: [Cambridge, IELTS]
 tags: [language]
 ---
 # British vs American English
 
 _Aluminium or aluminum, holiday or vacation – the differences and which to use in the exam._
+
+**Level:** B2 · C1 · C2 · **Exams:** Cambridge, IELTS
 
 ## Background
 Both varieties are accepted in every major exam as long as you are **consistent**. Watch for:

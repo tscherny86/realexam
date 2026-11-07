@@ -24,6 +24,7 @@ tags: [episode, season-3]
 | **Exams** | [[Speaking Exam]], [[Listening & Reading]] |
 | **Accents** | [[USA]] |
 | **Briefly mentioned** | [[Learning, School & Education]], [[Pronunciation]] |
+| **Speakers from** | [[USA]] |
 
 ## Show notes
 
@@ -32,6 +33,22 @@ Native English speakers answer questions about money.
 It goes by many different names…moolah, dosh, dough, buckaroos, bobs, spondulix. Everyone needs it, most people want more of it and English examiners like to ask questions about it! Therefore, it’s a really worthwhile topic to cover and today you are going to hear loads of words, expressions and phrasal verbs all to do with money. We also have some nice conditionals, inversions and some awesome adverbs. As usual we have a bunch of different accents, which is excellent for your listening practice. 
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Konner from The Blunt Report podcast(https://www.thebluntreport.com), Rosemary, David, Mary Alice, Ofordi and Ursula.
+
+## Language from this episode
+
+- **splash money around** (phrasal verb) – [13:05](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=785) · [[Transcript s03e04#Minute 13|transcript]]
+- **splash out** (phrasal verb) – [13:20](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=800) · [[Transcript s03e04#Minute 13|transcript]]
+
+## Exam questions
+
+- [0:58](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=58) Do you think that parents should give their children pocket money?
+- [1:44](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=104) What do people of your age generally want to buy?
+- [3:17](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=197) How far do you agree with the saying money is the root of all evil?
+- [5:37](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=337) Should money management be a school subject?
+- [6:18](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=378) Should credit card companies be blamed for peoples irresponsible spending habits?
+- [8:34](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=514) What would you buy if you suddenly had a lot of money?
+- [9:08](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=548) How important do you think money is for a happy and fulfilling life?
+- [10:22](https://open.spotify.com/episode/7ukrpN6bBzqirzrtBwD05x?t=622) Is it still true that money can’t buy happiness?
 
 ## Chapters
 

@@ -24,6 +24,7 @@ tags: [episode, season-3]
 | **Exams** | – |
 | **Accents** | [[England]], [[USA]], [[Australia]], [[New Zealand]] |
 | **Briefly mentioned** | [[Technology & the Internet]], [[TV, Film & Entertainment]], [[Manners & Politeness]], [[Social Media]], [[Adjectives & Compound Adjectives]], [[Writing Exam]] |
+| **Speakers from** | [[England]], [[USA]], [[Australia]], [[New Zealand]] |
 
 ## Show notes
 
@@ -32,6 +33,17 @@ Native English speakers answer questions about fame.
 It´s quite common in English exams to see questions about celebrities and the consequences of being famous. Therefore, we have asked some typical questions to speakers from the US, the UK, New Zealand and Australia. You are going to hear some great phrasal verbs, some really useful vocabulary about fame and we are also going to focus on some super ways to use the word good. 
 
 Thanks to all of the contributors, including Ian from the We Dig Music podcast, Konner from The Blunt Report podcast(https://www.thebluntreport.com), Rosemary, David, Mary Alice, Ofordi and Ursula.
+
+## Language from this episode
+
+- **look up to** (phrasal verb) – [4:34](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=274) · [[Transcript s03e08#Minute 4|transcript]]
+- **reach out to someone** (phrasal verb) – [7:52](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=472) · [[Transcript s03e08#Minute 7|transcript]]
+
+## Exam questions
+
+- [0:45](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=45) What would you like to be famous for?
+- [1:41](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=101) Are we too easily influenced by people we have never met, such as sports stars or other famous people?
+- [9:49](https://open.spotify.com/episode/3KPYfioGdtihFQDj4cZIq5?t=589) Which famous person would you like to meet?
 
 ## Chapters
 
