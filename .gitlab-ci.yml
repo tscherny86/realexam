@@ -1,7 +1,7 @@
 # GitLab CI für das Real Exam English Fanwiki (Regel „GitHub-Unabhängigkeit“, 07.11.2026) – dieselben Skripte wie am PC.
 #   ci      : python scripts/ci.py (Website bauen ohne Veröffentlichen, Artikel und Version prüfen)
 #   release : scripts/release.mjs --all-missing (Tags vX.Y.Z + CHANGELOG-Abschnitte als GitLab-Releases)
-# Runner: acespc (Alex' PC, Windows, Shell-Executor PowerShell). Das GitLab-Projekt ist privat.
+# Runner: seit 08.11.2026 die Linux-Runner von gitlab.com (Konto verifiziert), nicht mehr acespc. Das GitLab-Projekt ist privat.
 # KEIN Pages-Job: Die Seite wird nicht veröffentlicht, bis Alex entschieden hat (Volltranskripte ohne Erlaubnis).
 workflow:
   rules:
@@ -9,7 +9,7 @@ workflow:
     - if: $CI_COMMIT_BRANCH
 
 default:
-  tags: [acespc]
+  image: python:3.12  # nur Standardbibliothek nötig; mit git
 
 variables:
   PYTHONUTF8: "1"
@@ -20,6 +20,7 @@ ci:
 
 release:
   stage: deploy
+  image: node:22
   needs: [ci]
   variables:
     GIT_DEPTH: "0"

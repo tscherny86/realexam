@@ -75,6 +75,6 @@ If nothing is unchecked: answer "alles geprüft, nichts offen".
 
 Since the GitHub suspension of 07.11.2026 nothing may depend on GitHub alone. The code lives locally, on GitHub and privately on GitLab (`gitlab.com/tschernutter/realexam`); `git push origin` goes to GitLab first.
 
-- **Check:** `python scripts/ci.py` (builds the site into a temp folder, checks articles and version; publishes nothing) – GitLab CI (`.gitlab-ci.yml`, runner acespc) calls the same script.
+- **Check:** `python scripts/ci.py` (builds the site into a temp folder, checks articles and version; publishes nothing) – GitLab CI (`.gitlab-ci.yml`, since 08.11.2026 gitlab.com Linux runners instead of acespc) calls the same script.
 - **Release:** `node scripts/release.mjs --all-missing --title "Real Exam English Fanwiki"` creates missing tags `vX.Y.Z` and releases with the CHANGELOG section – on GitLab (glab) and, when reachable, on GitHub (gh). `--dry-run` only shows what would happen.
 - **Private, never public** (decision Alex 07.11.2026: "real exam bleibt privat und als datenlieferant für shamrock script"). The fanwiki is only a data supplier for Shamrock Script (which has its own login). No public hosting anywhere: no GitLab Pages, no Netlify/Vercel; `pages.yml` (GitHub Pages) stays off (manual only and only with `PAGES_FREIGABE=ja`, which is not set). GitLab CI only builds and checks.
