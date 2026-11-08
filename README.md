@@ -1,6 +1,6 @@
 # Real Exam English Fanwiki 🎧
 
-## Version: 1.4.0
+## Version: 1.4.1
 
 Live: https://tscherny86.github.io/realexam/ · Changes: [CHANGELOG.md](CHANGELOG.md) · Latest release: [v1.3.0](https://github.com/tscherny86/realexam/releases/latest) (07.11.2026)
 
