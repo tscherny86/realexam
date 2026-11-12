@@ -1,18 +1,25 @@
 # Changelog – Real Exam English Fanwiki
 
-Newest version on top. Every delivered version gets an entry here and a GitHub release with the tag `vX.Y.Z`
-(created automatically by `.github/workflows/release.yml`). Times are CET.
+Newest version on top. Every delivered version gets an entry here and a GitLab release with the tag `vX.Y.Z`
+(created automatically by `scripts/release.mjs` in GitLab CI). Times are CET.
 New transcripts (commits "Transcript <id>") are content, not a version of their own.
+
+## 1.4.2 – 12.11.2026
+- Code, CI and releases on GitLab only (`gitlab.com/tschernutter/realexam`): `scripts/release.mjs` creates tags
+  and releases on GitLab only; README, CLAUDE.md, this changelog, `package.json` (`homepage`, new `repository`), the
+  version link in the site footer and the build script describe only GitLab; old references to other hosting
+  removed. The build no longer writes the empty `.nojekyll` file. The site and its data (`data.json`,
+  `transcripts.json`, format `schema: 1`) are unchanged.
 
 ## 1.4.1 – 08.11.2026
 - Security (Projekt-Cockpit rule R22): `.gitignore` now excludes `.env` and `.env.*` (except `.env.example`), so local secrets can never be committed. The site and its data are unchanged.
-- Decision Alex (07.11.2026): stays private, data supplier for Shamrock Script only; no public hosting, no GitLab Pages. GitHub Pages stays off.
-- Operations (07.11.2026, GitHub suspension): `scripts/ci.py` and `scripts/release.mjs`; `release.yml` and the new `.gitlab-ci.yml` (runner acespc) only call these scripts. `pages.yml` no longer runs on push, only manually with `PAGES_FREIGABE=ja` (publishing blocked until Alex decides). The site is unchanged.
+- Decision Alex (07.11.2026): stays private, data supplier for Shamrock Script only; no public hosting, no GitLab Pages.
+- Operations (07.11.2026): `scripts/ci.py` (check) and `scripts/release.mjs` (release); the new `.gitlab-ci.yml` (runner acespc) only calls these scripts. Nothing is published. The site is unchanged.
 
 ## 1.4.0 – 07.11.2026
 - **Open data for other apps.** Every site build now also writes `data.json` (episodes with vocabulary box, exam
   questions and minute marks; all entries with quotes, level and exams) and `transcripts.json` (all transcripts,
-  minute by minute) next to the page: https://tscherny86.github.io/realexam/data.json and `…/transcripts.json`.
+  minute by minute) next to the page in the build folder.
   Format `schema: 1` with `version` and `built` (UTC) on top, the same content the page itself uses. The first
   reader is Shamrock Script (Alex' C2 writing trainer), which shows the archive as its own "Podcast" menu; the
   fanwiki itself does not change and keeps running on its own.
@@ -103,5 +110,5 @@ New transcripts (commits "Transcript <id>") are content, not a version of their 
   `data/corrections.tsv` for the episodes without an official transcript.
 - **Design** follows the podcast artwork: deep green, black disc logo, white condensed type; light and dark mode;
   episode badges "S6 · E10"; everything on the site in English.
-- GitHub Pages workflow, release workflow, versioning (`package.json`, this changelog, README), Obsidian project
+- Versioning (`package.json`, this changelog, README), Obsidian project
   folder `Projekte/Real Exam English Fanwiki/` and entry in the Projekt-Cockpit.
