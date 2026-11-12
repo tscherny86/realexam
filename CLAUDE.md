@@ -17,18 +17,16 @@ Alex will daran **nie erinnern müssen**. Jeder Arbeitsschritt, der an diesem Pr
 <!-- END:obsidian-pflicht -->
 
 <!-- BEGIN:nur-gitlab -->
-## Nur GitLab – GitHub ist beendet (seit 09.11.2026, Entscheidung Alex)
-
-- Code, Releases, CI und Auslieferung laufen **ausschließlich über GitLab**: `gitlab.com/tschernutter/realexam`, Remote `origin`, Branch `main`; ausgeliefert wird aus GitLab (Vercel, GitLab Pages bzw. GitLab CI).
-- **Keine GitHub-Anbindung mehr:** nichts nach GitHub pushen, keine GitHub-Releases, keine GitHub Actions, keine GitHub-API, kein `gh`, kein `github.com`-Remote – und **keine Verbindungsversuche** zu GitHub, auch nicht „nur zum Prüfen“.
-- **GitHub nicht mehr ansprechen:** keine Meldungen, Rückfragen oder Hinweise zu GitHub-Erreichbarkeit, Kontosperre, Support oder Spiegel. Das Thema ist für Alex abgeschlossen.
-- Steht in dieser Datei, in Skripten, Workflows oder älterer Doku noch GitHub (z. B. `tscherny86/…`, `.github/`, Remote `github`), gilt das nicht mehr: ignorieren und bei Gelegenheit auf GitLab umstellen oder entfernen – ohne Alex damit zu behelligen.
+## Nur GitLab (Entscheidung Alex)
+- Code, Releases, CI und Auslieferung laufen ausschließlich über GitLab: `gitlab.com/tschernutter/realexam`, Remote `origin`, Branch `main`; ausgeliefert wird aus GitLab (Vercel, GitLab Pages bzw. GitLab CI).
+- Keine anderen Code-Hoster, Remotes, Spiegel, Release-Kanäle oder CI-Dienste – auch keine Verbindungsversuche dorthin.
+- Taucht in alten Commits oder Tags noch ein anderer Hoster auf, gilt das nicht; nicht darauf hinweisen.
 <!-- END:nur-gitlab -->
 
 Language with Alex: German. Everything in the repo, the vault and on the website: English.
-Live: https://tscherny86.github.io/realexam/ · Preview artifact: https://claude.ai/artifact/3CwyLUdDPzPmmG15FtFZv5
-Obsidian: `Projekte/Real Exam English Fanwiki/` in the repo `tscherny86/notes-vault` (mandatory for every change, see below).
-Sister project with the same structure: ABC Podcast Fanwiki (`tscherny86/abcpodcast`).
+Live: no public site – the content appears in the "Podcast" menu of Shamrock Script · Preview artifact: https://claude.ai/artifact/3CwyLUdDPzPmmG15FtFZv5
+Obsidian: `Projekte/Real Exam English Fanwiki/` in the repo `tschernutter/notes-vault` on GitLab (mandatory for every change, see below).
+Sister project with the same structure: ABC Podcast Fanwiki (`tschernutter/abcpodcast`).
 
 ## Short commands (agreed with Alex for the ABC project on 06.11.2026, apply here too)
 
@@ -81,11 +79,12 @@ If nothing is unchecked: answer "alles geprüft, nichts offen".
    Änderungsprotokoll (`## TT.MM.JJJJ – Version X.Y.Z`), Ist-Stand, Chronik, tick off Offene Punkte, for
    corrections also "Transkription und Korrekturen". `git pull --rebase` the vault before pushing (Obsidian Git on
    Alex' PC writes too); no git commands that throw away uncommitted changes. The Obsidian notes are in German.
-3. Push to `main`; GitHub Pages builds automatically, `release.yml` creates the release.
-4. Projekt-Cockpit: the project is registered in `cockpit.config.ts` (repo `tscherny86/projekt-cockpit`); nothing to
+3. Push to `main` (GitLab); GitLab CI checks the build (`scripts/ci.py`) and creates the release (`scripts/release.mjs`).
+   Nothing is published.
+4. Projekt-Cockpit: the project is registered in `cockpit.config.ts` (repo `tschernutter/projekt-cockpit`); nothing to
    do there unless repo, live URL or file names change.
 5. **Pass every update on to Shamrock Script (mandatory, Alex 07.11.2026).** Shamrock Script (Alex' C2 writing
-   trainer, a Claude artifact; folder `E:\Projekte\shamrock-script`, repo `tscherny86/shamrock-script`)
+   trainer, a Claude artifact; folder `E:\Projekte\shamrock-script`, repo `tschernutter/shamrock-script`)
    shows this archive as its own "Podcast" menu and must always have the current data. Real Exam stays private and
    is only a data provider for Shamrock Script (decision Alex, 07.11.2026); there is no public site to wait for.
    After **every** commit that changes the site data – a new version *and* pure content commits ("Transcript
@@ -96,10 +95,10 @@ If nothing is unchecked: answer "alles geprüft, nichts offen".
    say explicitly "Shamrock Script NICHT aktualisiert" – never finish silently. `data.json`/`transcripts.json`
    (format `schema: 1`) may only be extended, never have fields renamed or removed.
 
-## Checks and releases without GitHub (fallback)
+## Checks and releases
 
-Since the GitHub suspension of 07.11.2026 nothing may depend on GitHub alone. The code lives locally, on GitHub and privately on GitLab (`gitlab.com/tschernutter/realexam`); `git push origin` goes to GitLab first.
+The code lives privately on GitLab (`gitlab.com/tschernutter/realexam`): remote `origin`, branch `main`.
 
-- **Check:** `python scripts/ci.py` (builds the site into a temp folder, checks articles and version; publishes nothing) – GitLab CI (`.gitlab-ci.yml`, since 08.11.2026 gitlab.com Linux runners instead of acespc) calls the same script.
-- **Release:** `node scripts/release.mjs --all-missing --title "Real Exam English Fanwiki"` creates missing tags `vX.Y.Z` and releases with the CHANGELOG section – on GitLab (glab) and, when reachable, on GitHub (gh). `--dry-run` only shows what would happen.
-- **Private, never public** (decision Alex 07.11.2026: "real exam bleibt privat und als datenlieferant für shamrock script"). The fanwiki is only a data supplier for Shamrock Script (which has its own login). No public hosting anywhere: no GitLab Pages, no Netlify/Vercel; `pages.yml` (GitHub Pages) stays off (manual only and only with `PAGES_FREIGABE=ja`, which is not set). GitLab CI only builds and checks.
+- **Check:** `python scripts/ci.py` (builds the site into a temp folder, checks articles and version; publishes nothing) – GitLab CI (`.gitlab-ci.yml`, gitlab.com Linux runners) calls the same script.
+- **Release:** `node scripts/release.mjs --all-missing --title "Real Exam English Fanwiki"` creates missing tags `vX.Y.Z` and GitLab releases with the CHANGELOG section (glab on the PC, GitLab API in CI). `--dry-run` only shows what would happen.
+- **Private, never public** (decision Alex 07.11.2026: "real exam bleibt privat und als datenlieferant für shamrock script"). The fanwiki is only a data supplier for Shamrock Script (which has its own login). No public hosting anywhere: no GitLab Pages, no Netlify/Vercel. GitLab CI only builds, checks and creates releases.
