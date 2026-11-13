@@ -2,12 +2,12 @@
 """Builds the website (one single HTML file) from the Obsidian vault.
 
 Usage:
-    python scripts/build_site.py                       # -> _site/index.html (for GitHub Pages)
+    python scripts/build_site.py                       # -> _site/index.html plus data.json, transcripts.json
     python scripts/build_site.py out.html --fragment   # without the <html> skeleton (preview artifact)
 
 The vault (Real-Exam-English-Wiki/) stays the source. This script reads the notes, turns them into
 structured data (episodes, articles, quotes, transcripts) and inserts them into site/template.html.
-It runs on every push through the GitHub Action.
+GitLab CI runs it on every push (scripts/ci.py) to check the build; nothing is published.
 """
 import html
 import json
@@ -271,7 +271,7 @@ def main() -> None:
     if not fragment:
         page = ('<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
                 '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
-                # Security headers: GitHub Pages allows no custom HTTP headers, so these go in as meta tags
+                # Security headers: a static file carries no custom HTTP headers, so these go in as meta tags
                 # as far as browsers support them (CSP without frame-ancestors, Referrer-Policy).
                 f'<meta http-equiv="Content-Security-Policy" content="{CSP}">\n'
                 '<meta name="referrer" content="strict-origin-when-cross-origin">\n'
@@ -280,7 +280,6 @@ def main() -> None:
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(page, encoding="utf-8")
     if not fragment:
-        (out.parent / ".nojekyll").touch()
         # Open data for other apps (Shamrock Script reads it): same content as the page, versioned format.
         # schema 1: {schema, version, built, eps, entries, hours}; transcripts separately because of their size.
         built = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")

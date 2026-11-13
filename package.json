@@ -1,7 +1,11 @@
 {
   "name": "real-exam-english-fanwiki",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "private": true,
   "description": "Real Exam English Fanwiki – knowledge archive for the Real Exam English podcast (B2, C1, C2) with links to the exact minute. Python project; this file only carries the version for releases and the Projekt-Cockpit.",
-  "homepage": "https://tscherny86.github.io/realexam/"
+  "homepage": "https://gitlab.com/tschernutter/realexam",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/tschernutter/realexam.git"
+  }
 }

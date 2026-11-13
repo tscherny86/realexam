@@ -1,8 +1,10 @@
 # Real Exam English Fanwiki 🎧
 
-## Version: 1.4.1
+## Version: 1.4.2
 
-Live: https://tscherny86.github.io/realexam/ · Changes: [CHANGELOG.md](CHANGELOG.md) · Latest release: [v1.3.0](https://github.com/tscherny86/realexam/releases/latest) (07.11.2026)
+Repo: https://gitlab.com/tschernutter/realexam (private) · Changes: [CHANGELOG.md](CHANGELOG.md) · Releases: https://gitlab.com/tschernutter/realexam/-/releases
+
+No public site: the content appears in the "Podcast" menu of Shamrock Script.
 
 **State of 1.3.0:** all 75 episodes with transcripts (68 aligned with the official Buzzsprout transcript, all 75 proofread by hand, 205 corrections), 110 articles (57 topics, 34 language points, 9 exams, 10 accents) rated by level (B2/C1/C2) and exam, every topic assignment reviewed (186 removed), audio marks verified against the audio, all Spotify episode IDs mapped; per episode the expressions Trevor picks out by name (117) and the exam questions he asks (453, also as a practice page with a random question), plus the speakers' origins from the intro.
 
@@ -11,7 +13,7 @@ Fanwiki for the [Real Exam English podcast](https://open.spotify.com/show/0aJJIQ
 language. Built as an **Obsidian vault** plus a single-page website.
 
 ## Open in Obsidian (on a PC)
-1. Download the repo: green button **Code → Download ZIP** (or `git clone`) and unzip it,
+1. Download the repo on GitLab: **Code → Download source code → zip** (or `git clone`) and unzip it,
    e.g. to `Documents/RealExam`.
 2. Open Obsidian → **"Open folder as vault"** → choose the folder `Real-Exam-English-Wiki`.
 3. Start page: **Real Exam English Wiki**.
@@ -44,25 +46,23 @@ New topics or language points: `scripts/topics.py`.
 - `data/topic_exclusions.tsv` – hand-checked false topic assignments
 - `data/proofread.txt` – episodes proofread by hand (those without an official transcript)
 
-## Website (GitHub Pages)
+## Website and open data
 
-The website is rebuilt automatically on every push (`.github/workflows/pages.yml`):
 `scripts/build_site.py` turns the vault into a single page (`site/template.html` is the template).
+The page is not published; GitLab CI only builds it to check it.
 Since 1.4.0 it also writes `data.json` and `transcripts.json` (format `schema: 1`, with `version` and `built`) for
 other apps; Shamrock Script reads them. Keep the format backwards compatible: add fields, never rename or remove.
 Test locally: `python scripts/build_site.py` → open `_site/index.html` in the browser.
 
-One-time setup: GitHub → repo → **Settings → Pages → Source: "GitHub Actions"**.
-
 ## Versioning
 Version in `package.json`, entry at the top of `CHANGELOG.md`, heading `## Version` here in the README.
-On push `.github/workflows/release.yml` creates the GitHub release `vX.Y.Z`. Documentation in Obsidian:
-`Projekte/Real Exam English Fanwiki/` (repo `tscherny86/notes-vault`).
+On push to `main` GitLab CI (`scripts/release.mjs`) creates the GitLab release `vX.Y.Z`. Documentation in Obsidian:
+`Projekte/Real Exam English Fanwiki/` (repo `tschernutter/notes-vault` on GitLab).
 
-## Checks and releases without GitHub (fallback)
+## Checks and releases
 
-Since the GitHub suspension of 07.11.2026 nothing may depend on GitHub alone. The code lives locally, on GitHub and privately on GitLab (`gitlab.com/tschernutter/realexam`); `git push origin` goes to GitLab first.
+The code lives privately on GitLab (`gitlab.com/tschernutter/realexam`): remote `origin`, branch `main`.
 
-- **Check:** `python scripts/ci.py` (builds the site into a temp folder, checks articles and version; publishes nothing) – GitLab CI (`.gitlab-ci.yml`, since 08.11.2026 gitlab.com Linux runners instead of acespc) calls the same script.
-- **Release:** `node scripts/release.mjs --all-missing --title "Real Exam English Fanwiki"` creates missing tags `vX.Y.Z` and releases with the CHANGELOG section – on GitLab (glab) and, when reachable, on GitHub (gh). `--dry-run` only shows what would happen.
-- **Private, never public** (decision Alex 07.11.2026: "real exam bleibt privat und als datenlieferant für shamrock script"). The fanwiki is only a data supplier for Shamrock Script (which has its own login). No public hosting anywhere: no GitLab Pages, no Netlify/Vercel; `pages.yml` (GitHub Pages) stays off (manual only and only with `PAGES_FREIGABE=ja`, which is not set). GitLab CI only builds and checks.
+- **Check:** `python scripts/ci.py` (builds the site into a temp folder, checks articles and version; publishes nothing) – GitLab CI (`.gitlab-ci.yml`, gitlab.com Linux runners) calls the same script.
+- **Release:** `node scripts/release.mjs --all-missing --title "Real Exam English Fanwiki"` creates missing tags `vX.Y.Z` and GitLab releases with the CHANGELOG section (glab on the PC, GitLab API in CI). `--dry-run` only shows what would happen.
+- **Private, never public** (decision Alex 07.11.2026: "real exam bleibt privat und als datenlieferant für shamrock script"). The fanwiki is only a data supplier for Shamrock Script (which has its own login). No public hosting anywhere: no GitLab Pages, no Netlify/Vercel. GitLab CI only builds, checks and creates releases.

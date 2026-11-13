@@ -1,22 +1,32 @@
 # Real Exam English Fanwiki – working rules
 
+<!-- BEGIN:obsidian-pflicht -->
+## Obsidian-Dokumentation – PFLICHT bei jedem Schritt
+
+Alex will daran **nie erinnern müssen**. Jeder Arbeitsschritt, der an diesem Projekt etwas ändert (Code, Inhalte, Daten, Konfiguration, Doku, Release), wird **im selben Zug und ohne Aufforderung** in Obsidian dokumentiert. Eine Aufgabe ist erst erledigt, wenn Obsidian nachgezogen ist – das gilt für jede Sitzung und jedes Werkzeug (Claude, Codex, Copilot, Cursor …).
+
+- Ordner: `D:\notes\notes\Projekte\Real Exam English Fanwiki\` (im Repo `tschernutter/notes-vault` auf GitLab unter `Projekte/Real Exam English Fanwiki/`).
+- **Aufbau nach Hausstandard v2** (`D:\notes\notes\00 Hausstandard.md`, seit 09.11.2026): Der Ordner enthält **genau** den Steckbrief `Real Exam English Fanwiki.md` und diese elf Notizen `Real Exam English Fanwiki – <Name>.md`: Zielbild, Funktionen und Inhalte, Architektur und Technik, Entwicklung und Betrieb, Entscheidungen, Ist-Stand, Offene Punkte, Prüfberichte, Änderungsprotokoll, Chronik, Quellen und Ablageorte. **Keine weiteren Notizen, keine Unterordner, keine Bilder oder anderen Dateien im Projektordner.**
+- **Neues Wissen** (Konzept, Prüfbericht, Anleitung, Technikdetail, Besprechung) wird ein `##`-Abschnitt in der passenden der elf Notizen und bekommt im Steckbrief unter „## Notizen“ einen Unterpunkt `  - [[Real Exam English Fanwiki – <Notiz>#<Abschnitt>|<Abschnitt>]] – worum es geht`. Prüfberichte (LogikLorenz, PentestPeter, CodingClemens, DSGVODetlef …) kommen als neuer Abschnitt oben in `Real Exam English Fanwiki – Prüfberichte.md`. Bilder und andere Anhänge nach `D:\notes\notes\Anhänge\` mit Präfix „Real Exam English Fanwiki – “ und mit `![[…]]` einbinden. Frühere Einzelnotizen gibt es nicht mehr – Links immer auf `[[Real Exam English Fanwiki – <Notiz>#<Abschnitt>]]`.
+- **Immer:** Eintrag oben in `Real Exam English Fanwiki – Änderungsprotokoll.md` unter „## Einträge (neueste oben)“ als `## TT.MM.JJJJ – Version X.Y.Z – Kurztitel` (ohne neue Version: `## TT.MM.JJJJ – keine neue Version – Kurztitel`), darunter `- Anlass: …`, was geändert wurde, wie geprüft; dazu `Real Exam English Fanwiki – Ist-Stand.md` (Gegenwart, alter „Stand in einem Satz“ nach „Stände im Verlauf“) und `Real Exam English Fanwiki – Chronik.md` (Zeile `- TT.MM.JJJJ – **Version X.Y.Z**: …` **unten** anhängen, älteste oben) nachziehen; erledigte Punkte in `Real Exam English Fanwiki – Offene Punkte.md` abhaken.
+- **Bei neuer Version zusätzlich:** „Aktuelle Version“ und „Status“ im Steckbrief `Real Exam English Fanwiki.md`.
+- **Frontmatter jeder Notiz:** `projekt`, `tags: [projekt, <slug>, <typ>]`, `stand: JJJJ-MM-TT` (auf heute setzen), `standard: 2`.
+- **Reihenfolge:** Projekt-Doku im Repo → Obsidian → Push/Auslieferung. Das Projekt-Cockpit vergleicht Obsidian mit Code, Changelog und Release und meldet Abweichungen, fehlende Notizen (R9), Zusatznotizen und Unterordner (R31) sowie Links auf fehlende Abschnitte (R6).
+- **Vault nicht erreichbar** (Sitzung ohne Alex' PC)? Direkt im Repo `tschernutter/notes-vault` auf GitLab schreiben. Geht auch das nicht: den fertigen Protokolleintrag am Ende ausgeben und ausdrücklich „Obsidian NICHT nachgezogen“ melden – nie stillschweigend fertig melden.
+- Änderungsprotokoll und Chronik nur ergänzen, nie kürzen (der Protokollwächter im Vault-Repo meldet verschwundene Einträge). Im Vault keine Git-Befehle, die nicht committete Änderungen verwerfen (`checkout`, `restore`, `reset --hard`, `stash` ohne `pop`); hochladen übernimmt Obsidian Git.
+<!-- END:obsidian-pflicht -->
+
+<!-- BEGIN:nur-gitlab -->
+## Nur GitLab (Entscheidung Alex)
+- Code, Releases, CI und Auslieferung laufen ausschließlich über GitLab: `gitlab.com/tschernutter/realexam`, Remote `origin`, Branch `main`; ausgeliefert wird aus GitLab (Vercel, GitLab Pages bzw. GitLab CI).
+- Keine anderen Code-Hoster, Remotes, Spiegel, Release-Kanäle oder CI-Dienste – auch keine Verbindungsversuche dorthin.
+- Taucht in alten Commits oder Tags noch ein anderer Hoster auf, gilt das nicht; nicht darauf hinweisen.
+<!-- END:nur-gitlab -->
+
 Language with Alex: German. Everything in the repo, the vault and on the website: English.
-Live: https://tscherny86.github.io/realexam/ · Preview artifact: https://claude.ai/artifact/3CwyLUdDPzPmmG15FtFZv5
-Obsidian: `Projekte/Real Exam English Fanwiki/` in the repo `tscherny86/notes-vault` (mandatory for every change, see below).
-Sister project with the same structure: ABC Podcast Fanwiki (`tscherny86/abcpodcast`).
-
-<!-- BEGIN:notizen-norbert-pflicht -->
-## Doku-Pflicht: nach jedem Push NotizenNorbert beauftragen (Anweisung Alex, 09.11.2026)
-
-> Alex: „bei code änderungen nach dem push verpflichtend /notizen-norbert beauftragen, alle änderungen in obsidian festzuhalten. norbert weiß, welche änderungen wo zu dokumentieren sind. ich möchte damit das dokumentationschaos das bisher entstanden ist eindämmen. norbert soll dann dafür sorgen, dass nur mehr nach den hausregeln alles VOLLSTÄNDIG dokumentiert ist“
-
-- **Nach jedem Push mit Code-Änderungen** wird im selben Zug und ohne Aufforderung der Skill **NotizenNorbert** (`/notizen-norbert`) beauftragt, alle Änderungen dieses Pushs in Obsidian festzuhalten. Eine Aufgabe ist erst erledigt, wenn Norbert fertig ist. Auch Änderungen ohne Code (Inhalte, Daten, Konfiguration, Doku) laufen über Norbert – es gibt nur noch diesen einen Weg.
-- **Auftrag an Norbert:** Projekt „Real Exam English Fanwiki“, neue Version (oder „keine neue Version“), Commit(s), was geändert wurde und warum. Wo und in welcher Form dokumentiert wird, entscheidet Norbert nach `D:\notes\notes\00 Hausstandard.md` (zwölf Notizen je Projekt, Änderungsprotokoll, Ist-Stand, Chronik, Steckbrief …). Selbst keine Obsidian-Notizen anlegen und keine eigenen Formate erfinden.
-- **Vollständigkeit:** Norbert prüft dabei, ob die Notizen in `D:\notes\notes\Projekte\Real Exam English Fanwiki\` vollständig dem Hausstandard entsprechen, und schließt Lücken.
-- **Vorrang:** Diese Regel geht allen älteren Obsidian-Regeln in dieser Datei vor. Wo sie sich widersprechen (neue Notizen anlegen, eigene Formate, Reihenfolge „Obsidian vor Push“, Vault-Repo auf GitHub), gelten diese Regel und der Hausstandard.
-- **Norbert nicht verfügbar** (anderes KI-Werkzeug, Vault nicht erreichbar): nach Hausstandard selbst dokumentieren, soweit möglich, und im Abschlussbericht „Norbert-Nachlauf offen“ melden – beim nächsten Claude-Lauf holt Norbert es nach. Nie stillschweigend fertig melden.
-- Keine Geheimnisse (Schlüssel, Tokens, Passwörter, `.env`-Werte) nach Obsidian.
-<!-- END:notizen-norbert-pflicht -->
+Live: no public site – the content appears in the "Podcast" menu of Shamrock Script · Preview artifact: https://claude.ai/artifact/3CwyLUdDPzPmmG15FtFZv5
+Obsidian: `Projekte/Real Exam English Fanwiki/` in the repo `tschernutter/notes-vault` on GitLab (mandatory for every change, see below).
+Sister project with the same structure: ABC Podcast Fanwiki (`tschernutter/abcpodcast`).
 
 ## Short commands (agreed with Alex for the ABC project on 06.11.2026, apply here too)
 
@@ -69,11 +79,12 @@ If nothing is unchecked: answer "alles geprüft, nichts offen".
    Änderungsprotokoll (`## TT.MM.JJJJ – Version X.Y.Z`), Ist-Stand, Chronik, tick off Offene Punkte, for
    corrections also "Transkription und Korrekturen". `git pull --rebase` the vault before pushing (Obsidian Git on
    Alex' PC writes too); no git commands that throw away uncommitted changes. The Obsidian notes are in German.
-3. Push to `main`; GitHub Pages builds automatically, `release.yml` creates the release.
-4. Projekt-Cockpit: the project is registered in `cockpit.config.ts` (repo `tscherny86/projekt-cockpit`); nothing to
+3. Push to `main` (GitLab); GitLab CI checks the build (`scripts/ci.py`) and creates the release (`scripts/release.mjs`).
+   Nothing is published.
+4. Projekt-Cockpit: the project is registered in `cockpit.config.ts` (repo `tschernutter/projekt-cockpit`); nothing to
    do there unless repo, live URL or file names change.
 5. **Pass every update on to Shamrock Script (mandatory, Alex 07.11.2026).** Shamrock Script (Alex' C2 writing
-   trainer, a Claude artifact; folder `D:\Projekte\shamrock-script`, repo `tscherny86/shamrock-script`)
+   trainer, a Claude artifact; folder `D:\Projekte\shamrock-script`, repo `tschernutter/shamrock-script`)
    shows this archive as its own "Podcast" menu and must always have the current data. Real Exam stays private and
    is only a data provider for Shamrock Script (decision Alex, 07.11.2026); there is no public site to wait for.
    After **every** commit that changes the site data – a new version *and* pure content commits ("Transcript
@@ -84,10 +95,10 @@ If nothing is unchecked: answer "alles geprüft, nichts offen".
    say explicitly "Shamrock Script NICHT aktualisiert" – never finish silently. `data.json`/`transcripts.json`
    (format `schema: 1`) may only be extended, never have fields renamed or removed.
 
-## Checks and releases without GitHub (fallback)
+## Checks and releases
 
-Since the GitHub suspension of 07.11.2026 nothing may depend on GitHub alone. The code lives locally, on GitHub and privately on GitLab (`gitlab.com/tschernutter/realexam`); `git push origin` goes to GitLab first.
+The code lives privately on GitLab (`gitlab.com/tschernutter/realexam`): remote `origin`, branch `main`.
 
-- **Check:** `python scripts/ci.py` (builds the site into a temp folder, checks articles and version; publishes nothing) – GitLab CI (`.gitlab-ci.yml`, since 08.11.2026 gitlab.com Linux runners instead of acespc) calls the same script.
-- **Release:** `node scripts/release.mjs --all-missing --title "Real Exam English Fanwiki"` creates missing tags `vX.Y.Z` and releases with the CHANGELOG section – on GitLab (glab) and, when reachable, on GitHub (gh). `--dry-run` only shows what would happen.
-- **Private, never public** (decision Alex 07.11.2026: "real exam bleibt privat und als datenlieferant für shamrock script"). The fanwiki is only a data supplier for Shamrock Script (which has its own login). No public hosting anywhere: no GitLab Pages, no Netlify/Vercel; `pages.yml` (GitHub Pages) stays off (manual only and only with `PAGES_FREIGABE=ja`, which is not set). GitLab CI only builds and checks.
+- **Check:** `python scripts/ci.py` (builds the site into a temp folder, checks articles and version; publishes nothing) – GitLab CI (`.gitlab-ci.yml`, gitlab.com Linux runners) calls the same script.
+- **Release:** `node scripts/release.mjs --all-missing --title "Real Exam English Fanwiki"` creates missing tags `vX.Y.Z` and GitLab releases with the CHANGELOG section (glab on the PC, GitLab API in CI). `--dry-run` only shows what would happen.
+- **Private, never public** (decision Alex 07.11.2026: "real exam bleibt privat und als datenlieferant für shamrock script"). The fanwiki is only a data supplier for Shamrock Script (which has its own login). No public hosting anywhere: no GitLab Pages, no Netlify/Vercel. GitLab CI only builds, checks and creates releases.
