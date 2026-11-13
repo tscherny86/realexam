@@ -5,6 +5,19 @@ Live: https://tscherny86.github.io/realexam/ · Preview artifact: https://claude
 Obsidian: `Projekte/Real Exam English Fanwiki/` in the repo `tscherny86/notes-vault` (mandatory for every change, see below).
 Sister project with the same structure: ABC Podcast Fanwiki (`tscherny86/abcpodcast`).
 
+<!-- BEGIN:notizen-norbert-pflicht -->
+## Doku-Pflicht: nach jedem Push NotizenNorbert beauftragen (Anweisung Alex, 09.11.2026)
+
+> Alex: „bei code änderungen nach dem push verpflichtend /notizen-norbert beauftragen, alle änderungen in obsidian festzuhalten. norbert weiß, welche änderungen wo zu dokumentieren sind. ich möchte damit das dokumentationschaos das bisher entstanden ist eindämmen. norbert soll dann dafür sorgen, dass nur mehr nach den hausregeln alles VOLLSTÄNDIG dokumentiert ist“
+
+- **Nach jedem Push mit Code-Änderungen** wird im selben Zug und ohne Aufforderung der Skill **NotizenNorbert** (`/notizen-norbert`) beauftragt, alle Änderungen dieses Pushs in Obsidian festzuhalten. Eine Aufgabe ist erst erledigt, wenn Norbert fertig ist. Auch Änderungen ohne Code (Inhalte, Daten, Konfiguration, Doku) laufen über Norbert – es gibt nur noch diesen einen Weg.
+- **Auftrag an Norbert:** Projekt „Real Exam English Fanwiki“, neue Version (oder „keine neue Version“), Commit(s), was geändert wurde und warum. Wo und in welcher Form dokumentiert wird, entscheidet Norbert nach `D:\notes\notes\00 Hausstandard.md` (zwölf Notizen je Projekt, Änderungsprotokoll, Ist-Stand, Chronik, Steckbrief …). Selbst keine Obsidian-Notizen anlegen und keine eigenen Formate erfinden.
+- **Vollständigkeit:** Norbert prüft dabei, ob die Notizen in `D:\notes\notes\Projekte\Real Exam English Fanwiki\` vollständig dem Hausstandard entsprechen, und schließt Lücken.
+- **Vorrang:** Diese Regel geht allen älteren Obsidian-Regeln in dieser Datei vor. Wo sie sich widersprechen (neue Notizen anlegen, eigene Formate, Reihenfolge „Obsidian vor Push“, Vault-Repo auf GitHub), gelten diese Regel und der Hausstandard.
+- **Norbert nicht verfügbar** (anderes KI-Werkzeug, Vault nicht erreichbar): nach Hausstandard selbst dokumentieren, soweit möglich, und im Abschlussbericht „Norbert-Nachlauf offen“ melden – beim nächsten Claude-Lauf holt Norbert es nach. Nie stillschweigend fertig melden.
+- Keine Geheimnisse (Schlüssel, Tokens, Passwörter, `.env`-Werte) nach Obsidian.
+<!-- END:notizen-norbert-pflicht -->
+
 ## Short commands (agreed with Alex for the ABC project on 06.11.2026, apply here too)
 
 Alex only writes the keyword. Do not ask questions – run the whole procedure and report briefly at the end.
@@ -60,7 +73,7 @@ If nothing is unchecked: answer "alles geprüft, nichts offen".
 4. Projekt-Cockpit: the project is registered in `cockpit.config.ts` (repo `tscherny86/projekt-cockpit`); nothing to
    do there unless repo, live URL or file names change.
 5. **Pass every update on to Shamrock Script (mandatory, Alex 07.11.2026).** Shamrock Script (Alex' C2 writing
-   trainer, a Claude artifact; folder `E:\Projekte\shamrock-script`, repo `tscherny86/shamrock-script`)
+   trainer, a Claude artifact; folder `D:\Projekte\shamrock-script`, repo `tscherny86/shamrock-script`)
    shows this archive as its own "Podcast" menu and must always have the current data. Real Exam stays private and
    is only a data provider for Shamrock Script (decision Alex, 07.11.2026); there is no public site to wait for.
    After **every** commit that changes the site data – a new version *and* pure content commits ("Transcript
